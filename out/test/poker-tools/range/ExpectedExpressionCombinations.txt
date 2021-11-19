@@ -1,7 +1,0 @@
-AA: AcAh, AhAs, AdAh, AcAs, AcAd, AdAs
-AK: AhKh, AcKs, AsKc, AdKs, AsKd, AhKs, AsKh, AcKc, AsKs, AcKd, AdKc, AdKd, AcKh, AhKc, AdKh, AhKd
-55: 5c5h, 5h5s, 5d5h, 5c5s, 5c5d, 5d5s
-JTo: JcTh, JhTc, JhTs, JsTh, JdTh, JhTd, JcTs, JsTc, JcTd, JdTc, JdTs, JsTd
-JTs: JdTd, JhTh, JcTc, JsTs
-AKo: AcKs, AsKc, AcKd, AdKc, AdKs, AsKd, AcKh, AhKc, AhKs, AsKh, AdKh, AhKd
-97s: 9h7h, 9c7c, 9s7s, 9d7d

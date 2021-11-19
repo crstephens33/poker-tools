@@ -1,9 +1,0 @@
-AJs+: AsKs, AhKh, AdKd, AcKc, AsQs, AhQh, AdQd, AcQc, AsJs, AhJh, AdJd, AcJc
-AQs+: AsKs, AhKh, AdKd, AcKc, AsQs, AhQh, AdQd, AcQc
-KJo+: KsQh, KsQd, KsQc, KhQs, KhQd, KhQc, KdQs, KdQh, KdQc, KcQs, KcQh, KcQd, KsJh, KsJd, KsJc, KhJs, KhJd, KhJc, KdJs, KdJh, KdJc, KcJs, KcJh, KcJd
-77+: AhAs, AdAs, AdAh, AcAs, AcAh, AcAd, KhKs, KdKs, KdKh, KcKs, KcKh, KcKd, QhQs, QdQs, QdQh, QcQs, QcQh, QcQd, JhJs, JdJs, JdJh, JcJs, JcJh, JcJd, ThTs, TdTs, TdTh, TcTs, TcTh, TcTd, 9h9s, 9d9s, 9d9h, 9c9s, 9c9h, 9c9d, 8h8s, 8d8s, 8d8h, 8c8s, 8c8h, 8c8d, 7h7s, 7d7s, 7d7h, 7c7s, 7c7h, 7c7d
-T8: Ts8s, Ts8h, Ts8d, Ts8c, Th8s, Th8h, Th8d, Th8c, Td8s, Td8h, Td8d, Td8c, Tc8s, Tc8h, Tc8d, Tc8c
-T8+: Ts9s, Ts9h, Ts9d, Ts9c, Th9s, Th9h, Th9d, Th9c, Td9s, Td9h, Td9d, Td9c, Tc9s, Tc9h, Tc9d, Tc9c, Ts8s, Ts8h, Ts8d, Ts8c, Th8s, Th8h, Th8d, Th8c, Td8s, Td8h, Td8d, Td8c, Tc8s, Tc8h, Tc8d, Tc8c
-T8s+, 98s+, JTs, AK, AA: AhAs, AdAs, AdAh, AcAs, AcAh, AcAd, AsKs, AsKh, AsKd, AsKc, AhKs, AhKh, AhKd, AhKc, AdKs, AdKh, AdKd, AdKc, AcKs, AcKh, AcKd, AcKc, JsTs, JhTh, JdTd, JcTc, Ts9s, Th9h, Td9d, Tc9c, Ts8s, Th8h, Td8d, Tc8c, 9s8s, 9h8h, 9d8d, 9c8c
-A3s, A4s, A5s: As5s, Ah5h, Ad5d, Ac5c, As4s, Ah4h, Ad4d, Ac4c, As3s, Ah3h, Ad3d, Ac3c
-A4s, A5s, AK, ATs+, KQs, JJ+: AhAs, AdAs, AdAh, AcAs, AcAh, AcAd, AsKs, AsKh, AsKd, AsKc, AhKs, AhKh, AhKd, AhKc, AdKs, AdKh, AdKd, AdKc, AcKs, AcKh, AcKd, AcKc, AsQs, AhQh, AdQd, AcQc, AsJs, AhJh, AdJd, AcJc, AsTs, AhTh, AdTd, AcTc, As5s, Ah5h, Ad5d, Ac5c, As4s, Ah4h, Ad4d, Ac4c, KhKs, KdKs, KdKh, KcKs, KcKh, KcKd, KsQs, KhQh, KdQd, KcQc, QhQs, QdQs, QdQh, QcQs, QcQh, QcQd, JhJs, JdJs, JdJh, JcJs, JcJh, JcJd
