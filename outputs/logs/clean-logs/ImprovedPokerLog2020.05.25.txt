@@ -1,0 +1,2044 @@
+The player "Sam Schrader" created the game with a stack of 2500.
+The admin approved the player "Cole Stephens" participation with a stack of 2500.
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+-- starting hand #1 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 6s, 6h
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+"Sam Schrader" calls with 60
+flop:  [9c, 2c, Ac]
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 100
+"Cole Stephens" folds
+"Cole Ford" folds
+"Sam Schrader" gained 220
+-- ending hand #1 --
+-- starting hand #2 (dealer: "Cole Ford") [3-handed] --
+Your hand is 7h, 3h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Cole Stephens" checks
+flop:  [6d, 10h, 9d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 6d, 10h, 9d [2d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+river: 6d, 10h, 9d, 2d [Qh]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" wins 60 with Pair, Q's (hand: Qc, 3d)
+-- ending hand #2 --
+"Cole Ford" shows a 6s, As.
+-- starting hand #3 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Ac, 7s
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+flop:  [5h, Ks, 6h]
+"Cole Stephens" checks
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+turn: 5h, Ks, 6h [10c]
+"Cole Stephens" checks
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+river: 5h, Ks, 6h, 10c [5s]
+"Cole Stephens" checks
+"Cole Ford" raises with 100
+"Cole Stephens" folds
+"Cole Ford" gained 200
+-- ending hand #3 --
+"Cole Ford" shows a 3h, 4h.
+-- starting hand #4 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 4s, Jc
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+flop:  [2h, 10h, 8d]
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 2h, 10h, 8d [7s]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+river: 2h, 10h, 8d, 7s [Jd]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 160 with Pair, 7's (hand: 7c, Ah)
+-- ending hand #4 --
+"Cole Ford" shows a 7h, Qd.
+-- starting hand #5 (dealer: "Cole Ford") [3-handed] --
+Your hand is 3d, 10d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" raises with 40
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" gained 50
+-- ending hand #5 --
+-- starting hand #6 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 9d, 5h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Stephens" folds
+"Cole Ford" folds
+"Sam Schrader" gained 50
+-- ending hand #6 --
+"Sam Schrader" shows a 8d, 7d.
+"Cole Ford" shows a Js, 2d.
+-- starting hand #7 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 2s, Kd
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [7s, 4c, Ad]
+"Cole Ford" raises with 40
+"Sam Schrader" calls with 40
+turn: 7s, 4c, Ad [10h]
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 7s, 4c, Ad, 10h [2h]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 120 with Pair, 7's (hand: 5s, 7c)
+-- ending hand #7 --
+-- starting hand #8 (dealer: "Cole Ford") [3-handed] --
+Your hand is 5c, Ah
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 60
+"Cole Stephens" calls with 60
+"Cole Ford" calls with 60
+flop:  [4c, Qs, Jc]
+"Sam Schrader" raises with 120
+"Cole Stephens" folds
+"Cole Ford" folds
+"Sam Schrader" gained 180
+-- ending hand #8 --
+"Cole Ford" shows a 6d, 9s.
+-- starting hand #9 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 8d, Qs
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+flop:  [2d, 7h, 3h]
+"Cole Stephens" checks
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+turn: 2d, 7h, 3h [Qd]
+"Cole Stephens" checks
+"Cole Ford" raises with 80
+"Cole Stephens" raises with 260
+"Cole Ford" calls with 260
+river: 2d, 7h, 3h, Qd [5h]
+"Cole Stephens" raises with 400
+"Cole Ford" folds
+"Cole Stephens" gained 680
+-- ending hand #9 --
+-- starting hand #10 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 6d, 7s
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+The admin approved the player "Erik Hynes" participation with a stack of 2500.
+"Cole Stephens" raises with 60
+"Cole Ford" folds
+"Sam Schrader" folds
+"Cole Stephens" gained 50
+-- ending hand #10 --
+"Cole Stephens" shows a 6d, 7s.
+The player "Erik Hynes" joined the game with a stack of 2500.
+-- starting hand #11 (dealer: "Cole Ford") [4-handed] --
+Your hand is Qd, 3s
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [8s, 4c, 4s]
+"Sam Schrader" checks
+"Erik Hynes" calls with 20
+"Cole Ford" folds
+"Sam Schrader" folds
+"Erik Hynes" gained 60
+-- ending hand #11 --
+-- starting hand #12 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 9s, 9d
+"Erik Hynes" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Stephens" raises with 95
+"Cole Ford" calls with 95
+"Erik Hynes" calls with 95
+flop:  [Kc, 6c, 4c]
+"Erik Hynes" checks
+"Cole Stephens" raises with 75
+"Cole Ford" folds
+"Erik Hynes" folds
+"Cole Stephens" gained 285
+-- ending hand #12 --
+-- starting hand #13 (dealer: "Erik Hynes") [4-handed] --
+Your hand is 6h, 4s
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Cole Stephens" folds
+"Cole Ford" gained 20
+-- ending hand #13 --
+-- starting hand #14 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 10s, Kh
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Cole Stephens" raises with 80
+"Cole Ford" folds
+"Sam Schrader" raises with 260
+"Erik Hynes" folds
+"Cole Stephens" calls with 260
+flop:  [2d, 7s, 6h]
+"Sam Schrader" raises with 220
+"Cole Stephens" folds
+"Sam Schrader" gained 550
+-- ending hand #14 --
+"Cole Stephens" shows a 10s, Kh.
+"Sam Schrader" shows a 9d, Ah.
+-- starting hand #15 (dealer: "Cole Ford") [4-handed] --
+Your hand is Qc, 3d
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [6d, Qd, 3s]
+"Sam Schrader" checks
+"Erik Hynes" raises with 40
+"Cole Ford" calls with 40
+"Sam Schrader" raises with 120
+"Erik Hynes" calls with 120
+"Cole Ford" folds
+turn: 6d, Qd, 3s [2h]
+"Sam Schrader" raises with 220
+"Erik Hynes" folds
+"Sam Schrader" gained 340
+-- ending hand #15 --
+"Sam Schrader" shows a Qh, 3c.
+-- starting hand #16 (dealer: "Sam Schrader") [4-handed] --
+Your hand is Qs, 3h
+"Erik Hynes" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Erik Hynes" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 80
+flop:  [6c, Js, 8d]
+"Cole Ford" raises with 190
+"Sam Schrader" folds
+"Cole Ford" gained 190
+-- ending hand #16 --
+-- starting hand #17 (dealer: "Erik Hynes") [4-handed] --
+Your hand is As, 4h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Cole Stephens" raises with 60
+"Cole Ford" raises with 100
+"Cole Stephens" raises with 240
+"Cole Ford" raises with 380
+"Cole Stephens" folds
+"Cole Ford" gained 480
+-- ending hand #17 --
+"Cole Stephens" shows a As, 4h.
+"Cole Ford" shows a Kd, Ah.
+-- starting hand #18 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 6h, Kc
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [Qd, 3d, 3h]
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: Qd, 3d, 3h [Jd]
+"Cole Ford" checks
+"Sam Schrader" checks
+river: Qd, 3d, 3h, Jd [7d]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Cole Ford" wins 80 with Flush, Qd High (hand: 4d, 5s)
+-- ending hand #18 --
+-- starting hand #19 (dealer: "Cole Ford") [4-handed] --
+Your hand is 3h, 2s
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [5s, 4h, Qs]
+"Sam Schrader" checks
+"Erik Hynes" calls with 20
+"Cole Ford" folds
+"Sam Schrader" folds
+"Erik Hynes" gained 60
+-- ending hand #19 --
+-- starting hand #20 (dealer: "Sam Schrader") [4-handed] --
+Your hand is Qh, 9h
+"Erik Hynes" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Stephens" raises with 90
+"Cole Ford" folds
+"Erik Hynes" folds
+"Cole Stephens" gained 60
+-- ending hand #20 --
+-- starting hand #21 (dealer: "Erik Hynes") [4-handed] --
+Your hand is 7h, 7d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Stephens" raises with 95
+"Cole Ford" folds
+"Erik Hynes" calls with 95
+flop:  [Ks, 2h, Jc]
+"Cole Stephens" raises with 150
+"Erik Hynes" calls with 150
+turn: Ks, 2h, Jc [5d]
+"Cole Stephens" checks
+"Erik Hynes" checks
+river: Ks, 2h, Jc, 5d [9c]
+"Cole Stephens" checks
+"Erik Hynes" checks
+"Cole Stephens" wins 510 with Pair, 7's (hand: 7h, 7d)
+-- ending hand #21 --
+"Cole Ford" shows a Kc, 2d.
+-- starting hand #22 (dealer: "Cole Stephens") [4-handed] --
+Your hand is Jh, 9c
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Cole Stephens" raises with 85
+"Cole Ford" folds
+"Sam Schrader" folds
+"Erik Hynes" calls with 85
+flop:  [Kc, 7c, Qc]
+"Erik Hynes" raises with 80
+"Cole Stephens" calls with 80
+turn: Kc, 7c, Qc [6c]
+"Erik Hynes" checks
+"Cole Stephens" checks
+river: Kc, 7c, Qc, 6c [Qs]
+"Erik Hynes" calls with 20
+"Cole Stephens" raises with 250
+"Erik Hynes" calls with 250
+"Cole Stephens" wins 860 with Flush, Kc High (hand: Jh, 9c)
+-- ending hand #22 --
+-- starting hand #23 (dealer: "Cole Ford") [4-handed] --
+Your hand is 3c, 10h
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Erik Hynes" calls with 80
+"Cole Ford" folds
+flop:  [Qd, Ac, 3s]
+"Sam Schrader" raises with 100
+"Erik Hynes" folds
+"Sam Schrader" gained 180
+-- ending hand #23 --
+-- starting hand #24 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 5s, Qd
+"Erik Hynes" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Stephens" checks
+flop:  [3h, 8c, 4d]
+"Erik Hynes" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 3h, 8c, 4d [4s]
+"Erik Hynes" calls with 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+river: 3h, 8c, 4d, 4s [7s]
+"Erik Hynes" raises with 120
+"Cole Ford" folds
+"Erik Hynes" gained 100
+-- ending hand #24 --
+"Cole Ford" shows a 10d, Kd.
+-- starting hand #25 (dealer: "Erik Hynes") [4-handed] --
+Your hand is Ah, 10s
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Stephens" raises with 85
+"Cole Ford" folds
+"Erik Hynes" folds
+"Cole Stephens" gained 60
+-- ending hand #25 --
+"Cole Stephens" shows a Ah, 10s.
+-- starting hand #26 (dealer: "Cole Stephens") [4-handed] --
+Your hand is Ad, 2d
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" folds
+"Cole Stephens" raises with 63
+"Cole Ford" calls with 63
+"Sam Schrader" calls with 63
+flop:  [3c, 8s, 6h]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Cole Stephens" calls with 20
+turn: 3c, 8s, 6h [9h]
+"Cole Ford" checks
+"Sam Schrader" raises with 160
+"Cole Stephens" folds
+"Cole Ford" folds
+"Sam Schrader" gained 249
+-- ending hand #26 --
+-- starting hand #27 (dealer: "Cole Ford") [4-handed] --
+Your hand is Ah, 6s
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Stephens" calls with 20
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [2d, Js, 8d]
+"Sam Schrader" checks
+"Erik Hynes" raises with 60
+"Cole Stephens" folds
+The player "Cole Stephens" stand up with the stack of 2927.
+"Cole Ford" calls with 60
+"Sam Schrader" folds
+turn: 2d, Js, 8d [9h]
+"Erik Hynes" raises with 60
+"Cole Ford" calls with 60
+river: 2d, Js, 8d, 9h [Qh]
+"Erik Hynes" checks
+"Cole Ford" raises with 160
+"Erik Hynes" calls with 160
+"Erik Hynes" wins 640 with Pair, J's (hand: Jh, Kh)
+"Cole Ford" shows a 5d, 3d.
+-- ending hand #27 --
+-- starting hand #28 (dealer: "Sam Schrader") [3-handed] --
+"Erik Hynes" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Erik Hynes" folds
+"Cole Ford" calls with 60
+flop:  [10c, 5d, 8d]
+"Cole Ford" checks
+"Sam Schrader" raises with 60
+"Cole Ford" folds
+"Sam Schrader" gained 130
+-- ending hand #28 --
+-- starting hand #29 (dealer: "Erik Hynes") [3-handed] --
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [2h, 6c, 10s]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Erik Hynes" checks
+turn: 2h, 6c, 10s [Kc]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Erik Hynes" checks
+river: 2h, 6c, 10s, Kc [4h]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Erik Hynes" raises with 100
+"Cole Ford" folds
+"Sam Schrader" folds
+"Erik Hynes" gained 60
+-- ending hand #29 --
+-- starting hand #30 (dealer: "Cole Ford") [3-handed] --
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Erik Hynes" calls with 80
+"Cole Ford" calls with 80
+flop:  [2s, 8c, 5s]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Cole Ford" checks
+turn: 2s, 8c, 5s [6h]
+"Sam Schrader" raises with 160
+"Erik Hynes" folds
+"Cole Ford" folds
+"Sam Schrader" gained 240
+-- ending hand #30 --
+"Sam Schrader" shows a 10s, Kc.
+-- starting hand #31 (dealer: "Sam Schrader") [4-handed] --
+"Erik Hynes" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Ford" raises with 40
+"Erik Hynes" calls with 40
+flop:  [7c, Jc, 8h]
+"Erik Hynes" checks
+"Cole Ford" raises with 60
+"Erik Hynes" calls with 60
+turn: 7c, Jc, 8h [Ad]
+"Erik Hynes" checks
+"Cole Ford" raises with 20
+"Erik Hynes" raises with 80
+The player "Cole Stephens" sit back with the stack of 2927.
+"Cole Ford" raises with 140
+"Erik Hynes" calls with 140
+river: 7c, Jc, 8h, Ad [Qh]
+"Erik Hynes" raises with 140
+"Cole Ford" folds
+"Erik Hynes" gained 480
+-- ending hand #31 --
+"Erik Hynes" shows a Qd, As.
+-- starting hand #32 (dealer: "Erik Hynes") [3-handed] --
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [4d, 10s, 10c]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" calls with 20
+turn: 4d, 10s, 10c [9d]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" calls with 20
+river: 4d, 10s, 10c, 9d [As]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Sam Schrader" wins 180 with Two Pair, 10's & 4's (hand: 4s, 7s)
+-- ending hand #32 --
+The player "Cole Stephens" joined the game with a stack of 2927.
+-- starting hand #33 (dealer: "Cole Ford") [4-handed] --
+Your hand is 5s, 10h
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Stephens" posts a missing small blind of 10
+"Cole Stephens" posts a missed big blind of 20
+"Cole Stephens" checks
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 120
+"Erik Hynes" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 120
+flop:  [Jd, Ac, Qc]
+"Sam Schrader" checks
+"Cole Ford" raises with 290
+"Sam Schrader" raises with 1062
+"Cole Ford" folds
+"Sam Schrader" gained 870
+-- ending hand #33 --
+-- starting hand #34 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 2h, 7d
+"Erik Hynes" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" raises and all in with 772
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Cole Stephens" folds
+"Cole Ford" gained 50
+-- ending hand #34 --
+-- starting hand #35 (dealer: "Erik Hynes") [4-handed] --
+Your hand is 2d, As
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Stephens" raises with 85
+"Cole Ford" raises with 320
+"Erik Hynes" folds
+"Cole Stephens" folds
+"Cole Ford" gained 190
+-- ending hand #35 --
+-- starting hand #36 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 6c, 5d
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Cole Stephens" calls with 20
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [5c, Qd, 3d]
+"Cole Ford" raises with 80
+"Sam Schrader" folds
+"Erik Hynes" calls with 80
+"Cole Stephens" calls with 80
+turn: 5c, Qd, 3d [7h]
+"Cole Ford" checks
+"Erik Hynes" checks
+"Cole Stephens" checks
+river: 5c, Qd, 3d, 7h [6s]
+"Cole Ford" checks
+"Erik Hynes" checks
+"Cole Stephens" raises with 210
+"Cole Ford" folds
+"Erik Hynes" folds
+"Cole Stephens" gained 320
+-- ending hand #36 --
+"Cole Ford" shows a 6d, Jd.
+-- starting hand #37 (dealer: "Cole Ford") [4-handed] --
+Your hand is 3d, 2c
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [2h, Qs, Jc]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Cole Ford" checks
+turn: 2h, Qs, Jc [9s]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Cole Ford" checks
+river: 2h, Qs, Jc, 9s [9h]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Cole Ford" checks
+"Cole Ford" wins 60 with Pair, 9's (hand: 7s, 10h)
+-- ending hand #37 --
+"Erik Hynes" shows a 5h, 4h.
+"Sam Schrader" shows a 8c, 6h.
+-- starting hand #38 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 6s, 5d
+"Erik Hynes" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Stephens" checks
+flop:  [Js, 4h, 3s]
+"Erik Hynes" checks
+"Cole Stephens" raises with 50
+"Cole Ford" folds
+"Erik Hynes" folds
+"Cole Stephens" gained 60
+-- ending hand #38 --
+-- starting hand #39 (dealer: "Erik Hynes") [4-handed] --
+Your hand is 3c, As
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Erik Hynes" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 60
+flop:  [Kh, Kc, 4d]
+"Cole Ford" raises and all in with 767
+"Sam Schrader" folds
+"Cole Ford" gained 130
+-- ending hand #39 --
+"Cole Ford" shows a 6h, 6s.
+"Cole Stephens" shows a 3c, As.
+-- starting hand #40 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 10h, 4d
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [3s, 5h, Qd]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" folds
+turn: 3s, 5h, Qd [3d]
+"Cole Ford" raises with 50
+"Sam Schrader" calls with 50
+river: 3s, 5h, Qd, 3d [Jd]
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Cole Ford" gained 200
+-- ending hand #40 --
+-- starting hand #41 (dealer: "Cole Ford") [4-handed] --
+Your hand is 6s, 4h
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [Qd, Kc, Qh]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Cole Ford" checks
+turn: Qd, Kc, Qh [As]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Cole Ford" checks
+river: Qd, Kc, Qh, As [4d]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Cole Ford" checks
+"Sam Schrader" wins 60 with Three of a Kind, Q's (hand: Qc, 2h)
+-- ending hand #41 --
+"Cole Ford" shows a 7s, 10d.
+"Erik Hynes" shows a 7h, Js.
+-- starting hand #42 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 5h, Qd
+"Erik Hynes" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Cole Stephens" checks
+flop:  [6c, Ac, 9h]
+"Erik Hynes" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 6c, Ac, 9h [Kc]
+"Erik Hynes" checks
+"Cole Stephens" raises with 45
+"Cole Ford" folds
+"Erik Hynes" folds
+"Cole Stephens" gained 60
+-- ending hand #42 --
+"Cole Stephens" shows a 5h, Qd.
+-- starting hand #43 (dealer: "Erik Hynes") [4-handed] --
+Your hand is 2c, 4h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Cole Stephens" folds
+"Cole Ford" gained 20
+-- ending hand #43 --
+"Cole Stephens" shows a 2c, 4h.
+-- starting hand #44 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 3h, 2d
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [4c, 7d, 8s]
+"Cole Ford" raises with 30
+"Sam Schrader" calls with 30
+"Erik Hynes" folds
+turn: 4c, 7d, 8s [3c]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+river: 4c, 7d, 8s, 3c [3d]
+"Cole Ford" calls with 20
+The admin approved the player "Jack Stephens" participation with a stack of 2500.
+"Sam Schrader" calls with 20
+"Sam Schrader" wins 200 with Two Pair, 4's & 3's (hand: 9d, 4s)
+"Cole Ford" shows a 6d, Ad.
+-- ending hand #44 --
+The player "Jack Stephens" joined the game with a stack of 2500.
+-- starting hand #45 (dealer: "Cole Ford") [5-handed] --
+Your hand is 8d, Kh
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Jack Stephens" folds
+"Cole Stephens" raises with 65
+"Cole Ford" raises with 210
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Cole Stephens" calls with 210
+flop:  [Ac, 9h, Js]
+"Cole Stephens" checks
+"Cole Ford" raises with 40
+"Cole Stephens" raises with 320
+"Cole Ford" raises and all in with 677
+"Cole Stephens" calls with 677
+turn: Ac, 9h, Js [Ad]
+"Cole Stephens" shows a 8d, Kh.
+"Cole Ford" shows a Jd, As.
+river: Ac, 9h, Js, Ad [8h]
+"Cole Ford" wins 1804 with Full House, A's over J's (hand: Jd, As)
+-- ending hand #45 --
+-- starting hand #46 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 2h, 9c
+"Erik Hynes" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Jack Stephens" checks
+flop:  [4h, 5c, 6d]
+"Erik Hynes" checks
+"Jack Stephens" checks
+"Cole Ford" calls with 20
+"Erik Hynes" calls with 20
+"Jack Stephens" calls with 20
+turn: 4h, 5c, 6d [3c]
+"Erik Hynes" checks
+"Jack Stephens" checks
+"Cole Ford" checks
+river: 4h, 5c, 6d, 3c [Js]
+"Erik Hynes" checks
+"Jack Stephens" checks
+"Cole Ford" checks
+"Erik Hynes" wins 120 with Pair, 5's (hand: Kd, 5s)
+-- ending hand #46 --
+-- starting hand #47 (dealer: "Erik Hynes") [5-handed] --
+Your hand is Kd, 5d
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Erik Hynes" calls with 80
+"Jack Stephens" folds
+"Cole Stephens" calls with 80
+"Cole Ford" folds
+flop:  [Kh, 4d, Qh]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Erik Hynes" checks
+turn: Kh, 4d, Qh [Ac]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Erik Hynes" checks
+river: Kh, 4d, Qh, Ac [7s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Erik Hynes" raises with 60
+"Cole Stephens" calls with 60
+"Sam Schrader" calls with 60
+"Sam Schrader" wins 450 with Pair, A's (hand: As, 5s)
+"Erik Hynes" shows a 8h, 8d.
+-- ending hand #47 --
+-- starting hand #48 (dealer: "Jack Stephens") [5-handed] --
+Your hand is 4d, Qd
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" calls with 20
+"Cole Stephens" calls with 20
+"Cole Ford" checks
+flop:  [Kc, Jc, 6h]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Jack Stephens" raises with 80
+"Cole Stephens" folds
+"Cole Ford" folds
+"Jack Stephens" gained 60
+-- ending hand #48 --
+-- starting hand #49 (dealer: "Cole Stephens") [5-handed] --
+Your hand is Jh, 7h
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" folds
+"Jack Stephens" folds
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+"Sam Schrader" folds
+flop:  [Jd, Ah, 4s]
+"Cole Ford" checks
+"Cole Stephens" raises with 35
+"Cole Ford" calls with 35
+turn: Jd, Ah, 4s [Qs]
+"Cole Ford" checks
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+river: Jd, Ah, 4s, Qs [7s]
+"Cole Ford" checks
+"Cole Stephens" raises with 100
+"Cole Ford" raises with 200
+"Cole Stephens" calls with 200
+"Cole Stephens" wins 730 with Two Pair, J's & 7's (hand: Jh, 7h)
+"Cole Ford" shows a As, 3d.
+-- ending hand #49 --
+-- starting hand #50 (dealer: "Cole Ford") [5-handed] --
+Your hand is Ah, 9h
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Jack Stephens" calls with 20
+"Cole Stephens" raises with 85
+"Cole Ford" folds
+"Sam Schrader" raises with 250
+"Erik Hynes" folds
+"Jack Stephens" folds
+"Cole Stephens" calls with 250
+flop:  [5s, 2s, Ac]
+"Sam Schrader" raises with 200
+"Cole Stephens" calls with 200
+turn: 5s, 2s, Ac [10c]
+"Sam Schrader" checks
+"Cole Stephens" raises with 350
+"Sam Schrader" calls with 350
+river: 5s, 2s, Ac, 10c [8s]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 1640 with Pair, A's (hand: Ah, 9h)
+-- ending hand #50 --
+-- starting hand #51 (dealer: "Sam Schrader") [5-handed] --
+Your hand is Ac, 10h
+"Erik Hynes" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+"Sam Schrader" folds
+"Erik Hynes" calls with 60
+"Jack Stephens" raises with 558
+"Cole Stephens" folds
+"Cole Ford" folds
+"Erik Hynes" folds
+"Jack Stephens" gained 240
+-- ending hand #51 --
+"Cole Stephens" shows a Ac, 10h.
+"Jack Stephens" shows a Qs, Qd.
+"Cole Ford" shows a Qc, 8d.
+-- starting hand #52 (dealer: "Erik Hynes") [5-handed] --
+Your hand is Kh, 7c
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" folds
+"Cole Stephens" raises with 50
+"Cole Ford" calls with 50
+flop:  [Jh, Qc, 9h]
+"Cole Stephens" raises with 85
+"Cole Ford" folds
+"Cole Stephens" gained 110
+-- ending hand #52 --
+-- starting hand #53 (dealer: "Jack Stephens") [5-handed] --
+Your hand is 6c, 6d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Jack Stephens" calls with 20
+"Cole Stephens" calls with 20
+"Cole Ford" checks
+flop:  [2d, 9c, 4h]
+"Cole Stephens" raises with 70
+"Cole Ford" folds
+"Erik Hynes" folds
+"Jack Stephens" folds
+"Cole Stephens" gained 80
+-- ending hand #53 --
+"Cole Stephens" shows a 6c, 6d.
+-- starting hand #54 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 7d, 8h
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" folds
+"Jack Stephens" calls with 20
+"Cole Stephens" calls with 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 120
+"Jack Stephens" calls with 120
+"Cole Stephens" calls with 120
+"Cole Ford" calls with 120
+flop:  [4c, 2c, 9c]
+"Cole Ford" raises and all in with 1119
+"Sam Schrader" folds
+"Jack Stephens" folds
+"Cole Stephens" folds
+"Cole Ford" gained 480
+-- ending hand #54 --
+"Cole Ford" shows a 9s, 4s.
+-- starting hand #55 (dealer: "Cole Ford") [5-handed] --
+Your hand is 4c, 6h
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Jack Stephens" raises with 60
+"Cole Stephens" folds
+"Cole Ford" calls with 60
+"Sam Schrader" calls with 60
+"Erik Hynes" folds
+flop:  [7h, Jh, 5c]
+"Sam Schrader" checks
+"Jack Stephens" raises with 80
+"Cole Ford" folds
+"Sam Schrader" folds
+"Jack Stephens" gained 200
+-- ending hand #55 --
+-- starting hand #56 (dealer: "Sam Schrader") [5-handed] --
+Your hand is Js, 8s
+"Erik Hynes" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" raises with 65
+"Cole Ford" calls with 65
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" folds
+flop:  [7c, 8c, Jh]
+"Cole Stephens" raises with 50
+"Cole Ford" folds
+"Cole Stephens" gained 160
+-- ending hand #56 --
+-- starting hand #57 (dealer: "Erik Hynes") [5-handed] --
+Your hand is 4c, 7s
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Jack Stephens" calls with 20
+"Cole Stephens" checks
+flop:  [Jc, 2h, 10s]
+"Jack Stephens" calls with 20
+"Cole Stephens" folds
+"Cole Ford" folds
+"Erik Hynes" calls with 20
+turn: Jc, 2h, 10s [Ac]
+"Jack Stephens" checks
+"Erik Hynes" checks
+river: Jc, 2h, 10s, Ac [Js]
+"Jack Stephens" raises with 60
+"Erik Hynes" calls with 60
+"Jack Stephens" wins 240 with Two Pair, J's & 10's (hand: 5s, 10h)
+-- ending hand #57 --
+"Cole Ford" shows a 6h, 9s.
+-- starting hand #58 (dealer: "Jack Stephens") [5-handed] --
+Your hand is 6h, 3d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Jack Stephens" folds
+"Cole Stephens" calls with 20
+"Cole Ford" checks
+flop:  [3h, 5s, 10c]
+"Cole Stephens" raises with 45
+"Cole Ford" folds
+"Erik Hynes" folds
+"Cole Stephens" gained 60
+-- ending hand #58 --
+-- starting hand #59 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 6h, 7h
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Jack Stephens" calls with 20
+"Cole Stephens" raises with 120
+"Cole Ford" folds
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" calls with 120
+flop:  [5d, 7c, 3s]
+"Jack Stephens" checks
+"Cole Stephens" raises with 230
+"Jack Stephens" calls with 230
+turn: 5d, 7c, 3s [8c]
+"Jack Stephens" checks
+"Cole Stephens" raises with 500
+"Jack Stephens" folds
+"Cole Stephens" gained 750
+-- ending hand #59 --
+"Cole Stephens" shows a 6h, 7h.
+"Cole Ford" shows a 7s, 10c.
+-- starting hand #60 (dealer: "Cole Ford") [5-handed] --
+Your hand is 8h, 6c
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Jack Stephens" calls with 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [Jh, Qs, 9d]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Jack Stephens" checks
+"Cole Ford" raises with 40
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" calls with 40
+turn: Jh, Qs, 9d [Ks]
+"Jack Stephens" raises with 80
+"Cole Ford" calls with 80
+river: Jh, Qs, 9d, Ks [10d]
+"Jack Stephens" checks
+"Cole Ford" checks
+"Jack Stephens" wins 160 with Straight, K High (hand: 9s, 7s)
+"Cole Ford" wins 160 with Straight, K High (hand: Qd, Qh)
+-- ending hand #60 --
+-- starting hand #61 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 5c, 10c
+"Erik Hynes" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Jack Stephens" checks
+flop:  [2d, Ks, 8c]
+"Erik Hynes" checks
+"Jack Stephens" checks
+"Cole Ford" calls with 20
+"Erik Hynes" calls with 20
+"Jack Stephens" raises with 60
+"Cole Ford" calls with 60
+"Erik Hynes" folds
+turn: 2d, Ks, 8c [4h]
+"Jack Stephens" raises with 60
+"Cole Ford" calls with 60
+river: 2d, Ks, 8c, 4h [10h]
+"Jack Stephens" raises with 140
+"Cole Ford" calls with 140
+"Jack Stephens" wins 600 with Two Pair, K's & 4's (hand: 4d, Kc)
+-- ending hand #61 --
+-- starting hand #62 (dealer: "Erik Hynes") [5-handed] --
+Your hand is Jd, 2h
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" raises with 40
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" calls with 40
+"Cole Stephens" calls with 40
+flop:  [4s, 8d, 7d]
+"Jack Stephens" checks
+"Cole Stephens" checks
+"Cole Ford" raises with 120
+"Jack Stephens" calls with 120
+"Cole Stephens" calls with 120
+turn: 4s, 8d, 7d [10d]
+"Jack Stephens" checks
+"Cole Stephens" checks
+"Cole Ford" raises with 480
+"Jack Stephens" folds
+"Cole Stephens" raises with 1004
+"Cole Ford" calls and all in with 1004
+river: 4s, 8d, 7d, 10d [7c]
+"Cole Stephens" shows a Jd, 2h.
+"Cole Ford" shows a 6s, 4h.
+"Cole Ford" wins 2488 with Two Pair, 7's & 4's (hand: 6s, 4h)
+-- ending hand #62 --
+-- starting hand #63 (dealer: "Jack Stephens") [5-handed] --
+Your hand is 5c, 2h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" calls with 20
+"Cole Stephens" calls with 20
+"Cole Ford" checks
+flop:  [2d, Js, 9c]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Jack Stephens" raises with 40
+"Cole Stephens" folds
+"Cole Ford" folds
+"Jack Stephens" gained 60
+-- ending hand #63 --
+-- starting hand #64 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 3s, 3c
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" calls with 20
+"Jack Stephens" calls with 20
+"Cole Stephens" calls with 20
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [8h, 5c, 10c]
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 100
+"Erik Hynes" folds
+"Jack Stephens" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 100
+turn: 8h, 5c, 10c [9s]
+"Cole Ford" checks
+"Sam Schrader" raises with 160
+"Cole Ford" calls with 160
+river: 8h, 5c, 10c, 9s [4d]
+"Cole Ford" raises with 310
+"Sam Schrader" raises with 760
+"Cole Ford" calls with 760
+"Sam Schrader" wins 2140 with Straight, Q High (hand: Jc, Qs)
+-- ending hand #64 --
+-- starting hand #65 (dealer: "Cole Ford") [5-handed] --
+Your hand is Kh, 3c
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Jack Stephens" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [8c, 5h, Kc]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Cole Ford" checks
+turn: 8c, 5h, Kc [5d]
+"Sam Schrader" checks
+"Erik Hynes" raises with 40
+"Cole Ford" folds
+"Sam Schrader" folds
+"Erik Hynes" gained 60
+-- ending hand #65 --
+-- starting hand #66 (dealer: "Sam Schrader") [5-handed] --
+Your hand is Kc, 7s
+"Erik Hynes" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" raises with 40
+"Sam Schrader" raises with 160
+"Erik Hynes" calls with 160
+"Jack Stephens" folds
+"Cole Ford" calls with 160
+flop:  [7h, Kd, 9d]
+"Erik Hynes" checks
+"Cole Ford" checks
+"Sam Schrader" raises with 280
+"Erik Hynes" calls with 280
+"Cole Ford" folds
+turn: 7h, Kd, 9d [Ac]
+"Erik Hynes" checks
+"Sam Schrader" checks
+river: 7h, Kd, 9d, Ac [5h]
+"Erik Hynes" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 1060 with Pair, A's (hand: 10d, As)
+-- ending hand #66 --
+-- starting hand #67 (dealer: "Erik Hynes") [5-handed] --
+Your hand is 7d, Ad
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" raises with 40
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" calls with 40
+"Cole Stephens" raises with 80
+"Cole Ford" calls with 80
+"Jack Stephens" calls with 80
+flop:  [Ah, 10h, 9d]
+"Jack Stephens" raises with 60
+"Cole Stephens" raises with 210
+"Cole Ford" raises and all in with 1168
+"Jack Stephens" folds
+"Cole Stephens" folds
+"Cole Ford" gained 720
+-- ending hand #67 --
+"Cole Ford" shows a 4s, 4d.
+-- starting hand #68 (dealer: "Jack Stephens") [5-handed] --
+Your hand is 7d, 4c
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Erik Hynes" folds
+"Jack Stephens" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 60
+flop:  [9s, 4d, 10s]
+"Cole Ford" checks
+"Sam Schrader" raises with 80
+"Cole Ford" calls with 80
+turn: 9s, 4d, 10s [3h]
+"Cole Ford" checks
+"Sam Schrader" raises with 200
+"Cole Ford" calls with 200
+river: 9s, 4d, 10s, 3h [Ad]
+"Cole Ford" checks
+"Sam Schrader" raises with 360
+"Cole Ford" folds
+"Sam Schrader" gained 690
+-- ending hand #68 --
+"Cole Ford" shows a 6s, 5d.
+-- starting hand #69 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 6h, 10s
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" folds
+"Jack Stephens" calls with 20
+"Cole Stephens" folds
+"Cole Ford" raises with 60
+"Sam Schrader" calls with 60
+"Jack Stephens" calls with 60
+flop:  [9h, Ks, 3s]
+"Cole Ford" raises with 90
+"Sam Schrader" folds
+"Jack Stephens" raises with 363
+"Cole Ford" raises and all in with 1278
+"Jack Stephens" calls with 1278
+turn: 9h, Ks, 3s [Kh]
+"Jack Stephens" shows a Kd, Qd.
+"Cole Ford" shows a Kc, Ah.
+river: 9h, Ks, 3s, Kh [7h]
+"Cole Ford" wins 2736 with Three of a Kind, K's (hand: Kc, Ah)
+-- ending hand #69 --
+-- starting hand #70 (dealer: "Cole Ford") [5-handed] --
+Your hand is Qc, 8h
+"Sam Schrader" posts a small blind of 10
+"Erik Hynes" posts a big blind of 20
+"Jack Stephens" calls with 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Erik Hynes" checks
+flop:  [4d, 2s, 8d]
+"Sam Schrader" checks
+"Erik Hynes" checks
+"Jack Stephens" calls with 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" raises with 80
+"Jack Stephens" calls with 80
+"Cole Ford" folds
+turn: 4d, 2s, 8d [Qd]
+"Erik Hynes" checks
+"Jack Stephens" raises with 40
+"Erik Hynes" calls with 40
+river: 4d, 2s, 8d, Qd [3h]
+"Erik Hynes" checks
+"Jack Stephens" checks
+"Jack Stephens" wins 340 with Pair, 4's (hand: Js, 4s)
+-- ending hand #70 --
+-- starting hand #71 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 4s, Qd
+"Erik Hynes" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Jack Stephens" checks
+flop:  [Qs, 7c, 2c]
+"Erik Hynes" checks
+"Jack Stephens" checks
+"Cole Ford" checks
+turn: Qs, 7c, 2c [3h]
+"Erik Hynes" checks
+"Jack Stephens" raises with 40
+"Cole Ford" folds
+"Erik Hynes" calls with 40
+river: Qs, 7c, 2c, 3h [2s]
+"Erik Hynes" checks
+"Jack Stephens" raises with 160
+"Erik Hynes" folds
+"Jack Stephens" gained 140
+-- ending hand #71 --
+-- starting hand #72 (dealer: "Erik Hynes") [5-handed] --
+Your hand is 10d, 2s
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Erik Hynes" calls with 20
+"Jack Stephens" folds
+"Cole Stephens" checks
+flop:  [Qd, Kh, Jc]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Erik Hynes" checks
+turn: Qd, Kh, Jc [Ac]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Erik Hynes" checks
+river: Qd, Kh, Jc, Ac [6h]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Erik Hynes" checks
+"Cole Stephens" wins 70 with Straight, A High (hand: 10d, 2s)
+-- ending hand #72 --
+"Sam Schrader" shows a 10c, 5s.
+"Cole Ford" shows a 8h, 9c.
+-- starting hand #73 (dealer: "Jack Stephens") [5-handed] --
+Your hand is 3h, 5d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Erik Hynes" folds
+"Jack Stephens" folds
+"Cole Stephens" folds
+"Cole Ford" gained 20
+-- ending hand #73 --
+"Cole Ford" shows a Qh, Kd.
+"Cole Stephens" shows a 3h, 5d.
+-- starting hand #74 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 8c, 3c
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Erik Hynes" folds
+"Jack Stephens" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [8d, 8h, 4d]
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 8d, 8h, 4d [Kh]
+"Cole Ford" checks
+"Sam Schrader" raises with 40
+"Cole Ford" folds
+"Sam Schrader" gained 40
+-- ending hand #74 --
+The player "Erik Hynes" quits the game with a stack of 745.
+-- starting hand #75 (dealer: "Cole Ford") [4-handed] --
+Your hand is 3s, Jd
+"Sam Schrader" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" folds
+"Sam Schrader" raises with 60
+"Jack Stephens" calls with 60
+flop:  [9s, Qd, 7d]
+"Sam Schrader" raises with 100
+"Jack Stephens" folds
+"Sam Schrader" gained 120
+-- ending hand #75 --
+"Sam Schrader" shows a As, 10d.
+"Cole Ford" shows a 4d, Qs.
+-- starting hand #76 (dealer: "Sam Schrader") [4-handed] --
+Your hand is Jh, 6s
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Jack Stephens" calls with 20
+"Cole Stephens" checks
+flop:  [6d, 4s, 3s]
+"Jack Stephens" checks
+"Cole Stephens" raises with 25
+"Cole Ford" calls with 25
+"Jack Stephens" folds
+turn: 6d, 4s, 3s [2h]
+"Cole Stephens" raises with 45
+"Cole Ford" calls with 45
+river: 6d, 4s, 3s, 2h [8d]
+"Cole Stephens" raises with 100
+"Cole Ford" folds
+"Cole Stephens" gained 200
+-- ending hand #76 --
+"Cole Ford" shows a 3h, 7s.
+-- starting hand #77 (dealer: "Jack Stephens") [4-handed] --
+Your hand is Qh, 5s
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Jack Stephens" calls with 20
+"Cole Stephens" calls with 20
+"Cole Ford" raises with 60
+"Jack Stephens" calls with 60
+"Cole Stephens" calls with 60
+flop:  [4h, Jh, Kc]
+"Cole Stephens" checks
+"Cole Ford" raises with 90
+"Jack Stephens" folds
+"Cole Stephens" calls with 90
+turn: 4h, Jh, Kc [6c]
+"Cole Stephens" checks
+"Cole Ford" raises with 180
+"Cole Stephens" folds
+"Cole Ford" gained 360
+-- ending hand #77 --
+"Cole Ford" shows a As, Qd.
+-- starting hand #78 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 9d, Jd
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Jack Stephens" calls with 20
+"Cole Stephens" raises with 75
+"Cole Ford" calls with 75
+"Sam Schrader" calls with 75
+"Jack Stephens" folds
+flop:  [10c, 4h, Kh]
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 120
+"Cole Stephens" folds
+"Cole Ford" calls with 120
+turn: 10c, 4h, Kh [4s]
+"Cole Ford" raises with 242
+"Sam Schrader" calls with 242
+river: 10c, 4h, Kh, 4s [Kd]
+"Cole Ford" raises with 969
+"Sam Schrader" folds
+"Cole Ford" gained 969
+-- ending hand #78 --
+-- starting hand #79 (dealer: "Cole Ford") [4-handed] --
+Your hand is 8c, 2s
+"Sam Schrader" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Jack Stephens" checks
+flop:  [Jd, Qs, 8h]
+"Sam Schrader" checks
+"Jack Stephens" checks
+"Cole Ford" checks
+turn: Jd, Qs, 8h [8d]
+"Sam Schrader" checks
+"Jack Stephens" checks
+"Cole Ford" checks
+river: Jd, Qs, 8h, 8d [Ad]
+"Sam Schrader" checks
+"Jack Stephens" checks
+"Cole Ford" checks
+"Jack Stephens" wins 60 with Two Pair, Q's & 8's (hand: Qh, 7d)
+-- ending hand #79 --
+-- starting hand #80 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 8h, Jh
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Jack Stephens" folds
+"Cole Stephens" calls with 80
+"Cole Ford" calls with 80
+flop:  [9h, 4s, 5c]
+"Cole Stephens" checks
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Cole Stephens" calls with 80
+"Cole Ford" calls with 80
+turn: 9h, 4s, 5c [As]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" raises with 240
+"Cole Stephens" folds
+"Cole Ford" folds
+"Sam Schrader" gained 490
+-- ending hand #80 --
+"Sam Schrader" shows a 10d, 9d.
+-- starting hand #81 (dealer: "Jack Stephens") [4-handed] --
+Your hand is 8h, Kd
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Jack Stephens" calls with 20
+"Cole Stephens" calls with 20
+"Cole Ford" checks
+flop:  [2c, 3s, 10c]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Jack Stephens" raises with 60
+"Cole Stephens" folds
+"Cole Ford" folds
+"Jack Stephens" gained 60
+-- ending hand #81 --
+-- starting hand #82 (dealer: "Cole Stephens") [4-handed] --
+Your hand is Js, 6h
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Jack Stephens" folds
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [9d, 5c, 10s]
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 9d, 5c, 10s [Qc]
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 9d, 5c, 10s, Qc [5d]
+"Cole Ford" checks
+"Sam Schrader" raises with 100
+"Cole Ford" folds
+"Sam Schrader" gained 40
+-- ending hand #82 --
+-- starting hand #83 (dealer: "Cole Ford") [4-handed] --
+Your hand is 9s, Ah
+"Sam Schrader" posts a small blind of 10
+"Jack Stephens" posts a big blind of 20
+"Cole Stephens" raises with 60
+"Cole Ford" folds
+"Sam Schrader" folds
+"Jack Stephens" folds
+"Cole Stephens" gained 50
+-- ending hand #83 --
+"Cole Stephens" shows a 9s, Ah.
+-- starting hand #84 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 8h, Jh
+"Jack Stephens" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Jack Stephens" folds
+"Cole Stephens" calls with 80
+"Cole Ford" calls with 80
+flop:  [Ac, 3s, 8s]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" raises with 80
+"Cole Stephens" calls with 80
+"Cole Ford" folds
+turn: Ac, 3s, 8s [Qs]
+"Cole Stephens" checks
+"Sam Schrader" raises with 280
+"Cole Stephens" raises with 820
+"Sam Schrader" raises with 1806
+"Cole Stephens" folds
+"Sam Schrader" gained 2050
+-- ending hand #84 --
+"Sam Schrader" shows a As, 7c.
+-- starting hand #85 (dealer: "Jack Stephens") [4-handed] --
+Your hand is 8d, 8h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Jack Stephens" calls with 20
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+"Jack Stephens" calls with 60
+flop:  [9d, Jh, 8c]
+"Cole Stephens" raises with 120
+"Cole Ford" calls with 120
+"Jack Stephens" folds
+turn: 9d, Jh, 8c [9c]
+"Cole Stephens" checks
+"Cole Ford" checks
+river: 9d, Jh, 8c, 9c [Qs]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" wins 420 with Full House, 8's over 9's (hand: 8d, 8h)
+-- ending hand #85 --
+"Cole Ford" shows a 7c, Ac.
+-- starting hand #86 (dealer: "Cole Stephens") [4-handed] --
+Your hand is Ks, Qs
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Jack Stephens" calls with 20
+"Cole Stephens" raises with 80
+"Cole Ford" calls with 80
+"Sam Schrader" calls with 80
+"Jack Stephens" calls with 80
+flop:  [10d, Jd, 2h]
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Jack Stephens" raises with 479
+"Cole Stephens" calls with 479
+"Cole Ford" folds
+turn: 10d, Jd, 2h [5h]
+"Jack Stephens" calls with 20
+"Cole Stephens" raises with 643
+"Jack Stephens" calls and all in with 643
+river: 10d, Jd, 2h, 5h [9h]
+"Jack Stephens" shows a 2s, 2c.
+"Cole Stephens" shows a Ks, Qs.
+"Cole Stephens" wins 2584 with Straight, K High (hand: Ks, Qs)
+-- ending hand #86 --
+"Cole Ford" shows a Jh, 9c.
+WARNING: the admin queued the stack change for the player "Cole Stephens" to 4608 in the next hand.
+The admin updated the player "Cole Stephens" stack from 2608 to 4608.
+The player "Jack Stephens" quits the game with a stack of 0.
+-- starting hand #87 (dealer: "Cole Ford") [3-handed] --
+Your hand is Js, Jh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Cole Stephens" raises with 260
+"Cole Ford" folds
+"Sam Schrader" calls with 260
+flop:  [4d, 4s, 7s]
+"Sam Schrader" checks
+"Cole Stephens" raises with 425
+"Sam Schrader" folds
+"Cole Stephens" gained 540
+-- ending hand #87 --
+"Cole Stephens" shows a Js, Jh.
+"Cole Ford" shows a 2h, 10d.
+"Sam Schrader" shows a Kh, 10h.
+-- starting hand #88 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 8h, 7s
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" calls with 20
+"Cole Ford" raises with 40
+"Cole Stephens" calls with 40
+flop:  [Qs, 2s, Kh]
+"Cole Stephens" checks
+"Cole Ford" raises with 80
+"Cole Stephens" folds
+"Cole Ford" gained 80
+-- ending hand #88 --
+"Cole Ford" shows a Ah, 10h.
+"Cole Stephens" shows a 8h, 7s.
+-- starting hand #89 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 6c, Qh
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [9s, 3h, 10d]
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 9s, 3h, 10d [6s]
+"Cole Ford" checks
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+river: 9s, 3h, 10d, 6s [8h]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 80 with 10 High (hand: 4c, 5s)
+"Cole Ford" wins 80 with 10 High (hand: 4s, 5c)
+-- ending hand #89 --
+-- starting hand #90 (dealer: "Cole Ford") [3-handed] --
+Your hand is 4h, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Cole Stephens" folds
+"Cole Ford" calls with 80
+flop:  [6c, Ad, 5s]
+"Sam Schrader" raises with 100
+"Cole Ford" folds
+"Sam Schrader" gained 180
+-- ending hand #90 --
+-- starting hand #91 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 10d, 6h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Stephens" folds
+"Cole Ford" raises with 100
+"Sam Schrader" calls with 100
+flop:  [5h, 5d, 4h]
+"Cole Ford" checks
+"Sam Schrader" raises with 80
+"Cole Ford" calls with 80
+turn: 5h, 5d, 4h [2s]
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 5h, 5d, 4h, 2s [7d]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 370 with Pair, 5's (hand: Ks, Qd)
+-- ending hand #91 --
+"Cole Ford" shows a Kh, Jh.
+-- starting hand #92 (dealer: "Cole Stephens") [3-handed] --
+Your hand is Ks, 7c
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises with 65
+"Cole Ford" calls with 65
+"Sam Schrader" calls with 65
+flop:  [5d, 10h, 8s]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 5d, 10h, 8s [Ad]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Cole Stephens" raises with 75
+"Cole Ford" folds
+"Sam Schrader" calls with 75
+river: 5d, 10h, 8s, Ad [8c]
+"Sam Schrader" checks
+"Cole Stephens" raises with 180
+"Sam Schrader" calls with 180
+"Sam Schrader" wins 705 with Two Pair, 8's & 5's (hand: 5c, 3h)
+"Cole Stephens" shows a Ks, 7c.
+-- ending hand #92 --
+"Cole Ford" shows a Kh, 6s.
+-- starting hand #93 (dealer: "Cole Ford") [3-handed] --
+Your hand is Kh, 2c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Cole Stephens" checks
+flop:  [Ks, 3d, 8s]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Cole Stephens" calls with 20
+turn: Ks, 3d, 8s [Jc]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" raises with 60
+"Sam Schrader" calls with 60
+"Cole Stephens" calls with 60
+river: Ks, 3d, 8s, Jc [7s]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" wins 300 with Straight, J High (hand: 9d, 10h)
+-- ending hand #93 --
+"Cole Ford" shows a 5d, Kd.
+-- starting hand #94 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Ah, Kd
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+flop:  [9c, 7h, 2s]
+"Cole Stephens" raises with 90
+"Cole Ford" folds
+"Cole Stephens" gained 120
+-- ending hand #94 --
+-- starting hand #95 (dealer: "Cole Stephens") [3-handed] --
+Your hand is Qd, 10s
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises with 60
+"Cole Ford" folds
+"Sam Schrader" calls with 60
+flop:  [7c, 3c, Ah]
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 7c, 3c, Ah [7s]
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 7c, 3c, Ah, 7s [5d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 130 with Pair, 7's (hand: Qd, 10s)
+-- ending hand #95 --
+"Cole Ford" shows a 2s, 7d.
+"Sam Schrader" shows a 9s, 8s.
+-- starting hand #96 (dealer: "Cole Ford") [3-handed] --
+Your hand is Kh, 10d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+"Cole Stephens" raises with 100
+"Cole Ford" calls with 100
+"Sam Schrader" calls with 100
+flop:  [5s, Jc, Qs]
+"Sam Schrader" checks
+"Cole Stephens" raises with 250
+"Cole Ford" folds
+"Sam Schrader" calls with 250
+turn: 5s, Jc, Qs [Kc]
+"Sam Schrader" checks
+"Cole Stephens" raises with 550
+"Sam Schrader" folds
+"Cole Stephens" gained 800
+-- ending hand #96 --
+"Sam Schrader" shows a Jd, 6d.
+"Cole Stephens" shows a Kh, 10d.
+"Cole Ford" shows a Jh, 6s.
+-- starting hand #97 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 3s, Jc
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" gained 20
+-- ending hand #97 --
+-- starting hand #98 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 4d, Ad
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+"Sam Schrader" folds
+flop:  [3h, 7d, 2c]
+"Cole Ford" raises with 140
+"Cole Stephens" calls with 140
+turn: 3h, 7d, 2c [9d]
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+river: 3h, 7d, 2c, 9d [6h]
+"Cole Ford" checks
+"Cole Stephens" raises with 310
+"Cole Ford" calls with 310
+"Cole Ford" wins 1080 with Pair, 7's (hand: 7h, 4s)
+"Cole Stephens" shows a 4d, Ad.
+-- ending hand #98 --
+-- starting hand #99 (dealer: "Cole Ford") [3-handed] --
+Your hand is Jh, 2c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" raises with 60
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" gained 50
+-- ending hand #99 --
+"Cole Ford" shows a Qs, Ad.
+"Sam Schrader" shows a 8c, Jd.
+-- starting hand #100 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Kc, 9s
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Stephens" calls with 60
+"Cole Ford" calls with 60
+flop:  [7h, 7d, Qc]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 7h, 7d, Qc [5c]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 7h, 7d, Qc, 5c [Kh]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" raises with 40
+"Cole Stephens" raises with 180
+"Cole Ford" folds
+"Sam Schrader" calls with 180
+"Sam Schrader" wins 270 with Two Pair, K's & 7's (hand: Ks, 10d)
+"Cole Stephens" wins 270 with Two Pair, K's & 7's (hand: Kc, 9s)
+-- ending hand #100 --
+-- starting hand #101 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 4c, 10h
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+flop:  [10c, Kh, 8d]
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 10c, Kh, 8d [2c]
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 10c, Kh, 8d, 2c [6s]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 120 with A High (hand: 4h, Ah)
+-- ending hand #101 --
+-- starting hand #102 (dealer: "Cole Ford") [3-handed] --
+Your hand is 9c, Qd
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Cole Stephens" calls with 80
+"Cole Ford" calls with 80
+flop:  [7h, Ac, 4h]
+"Sam Schrader" raises with 140
+"Cole Stephens" folds
+"Cole Ford" calls with 140
+turn: 7h, Ac, 4h [4s]
+"Sam Schrader" raises with 300
+"Cole Ford" calls with 300
+river: 7h, Ac, 4h, 4s [6d]
+"Sam Schrader" checks
+"Cole Ford" raises with 240
+"Sam Schrader" folds
+"Cole Ford" gained 1120
+-- ending hand #102 --
+-- starting hand #103 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Jd, Kh
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Stephens" raises with 240
+"Cole Ford" calls with 240
+"Sam Schrader" folds
+flop:  [Ad, Jc, Qs]
+"Cole Stephens" raises with 350
+"Cole Ford" folds
+"Cole Stephens" gained 540
+-- ending hand #103 --
+-- starting hand #104 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 7c, Kh
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls with 20
+"Sam Schrader" checks
+flop:  [3s, 8h, 6h]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+turn: 3s, 8h, 6h [Ks]
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 3s, 8h, 6h, Ks [5h]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Cole Ford" wins 80 with Pair, 3's (hand: 3d, Jh)
+-- ending hand #104 --
+-- starting hand #105 (dealer: "Cole Ford") [3-handed] --
+Your hand is Kd, 5d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" raises with 80
+"Sam Schrader" folds
+"Cole Stephens" calls with 80
+flop:  [Kc, 4s, 10c]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: Kc, 4s, 10c [4c]
+"Cole Stephens" raises with 70
+"Cole Ford" calls with 70
+river: Kc, 4s, 10c, 4c [Qh]
+"Cole Stephens" raises with 150
+"Cole Ford" folds
+"Cole Stephens" gained 310
+-- ending hand #105 --
+"Cole Ford" shows a 7c, 7h.
+-- starting hand #106 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Jd, 10d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Stephens" raises with 240
+"Cole Ford" calls with 240
+"Sam Schrader" raises with 760
+"Cole Stephens" calls with 760
+"Cole Ford" calls with 760
+flop:  [6d, 8h, 2d]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" raises with 1700
+"Cole Stephens" raises and all in with 4068
+"Cole Ford" folds
+"Sam Schrader" calls with 4068
+turn: 6d, 8h, 2d [2h]
+"Sam Schrader" shows a Kd, Ad.
+"Cole Stephens" shows a Jd, 10d.
+river: 6d, 8h, 2d, 2h [7d]
+"Sam Schrader" wins 10416 with Flush, Ad High (hand: Kd, Ad)
+-- ending hand #106 --
+The player "Cole Stephens" quits the game with a stack of 0.
+-- starting hand #107 (dead button) [2-handed] --
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Ford" raises with 200
+"Sam Schrader" calls with 200
+flop:  [Qc, Qh, 3h]
+"Cole Ford" raises and all in with 1903
+"Sam Schrader" calls with 1903
+turn: Qc, Qh, 3h [8c]
+"Sam Schrader" shows a Qd, Kh.
+"Cole Ford" shows a 10h, 7h.
+river: Qc, Qh, 3h, 8c [10c]
+"Sam Schrader" wins 4206 with Three of a Kind, Q's (hand: Qd, Kh)
+-- ending hand #107 --
+The player "Cole Ford" quits the game with a stack of 0.
+﻿entry,at,order

@@ -1,0 +1,4315 @@
+The player "Sam Schrader" created the game with a stack of 2000.
+WARNING: the admin queued the stack change for the player "Sam Schrader" to 2500 in the next hand.
+The admin updated the player "Sam Schrader" stack from 2000 to 2500.
+The player "Cole Ford" requested a seat.
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+The player "Cole Stephens" requested a seat.
+The admin approved the player "Cole Stephens" participation with a stack of 2500.
+-- starting hand #1  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (2500) | "Cole Ford" (2500) | "Durrrwell" (2500)
+Your hand is 2h, 5s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 20
+-- ending hand #1 --
+"Cole Stephens" shows a 2h, 5s.
+-- starting hand #2  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (2500) | "Cole Ford" (2490) | "Durrrwell" (2510)
+Your hand is 8h, Ad
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 20
+-- ending hand #2 --
+The player "Cole Ford" quits the game with a stack of 2490.
+-- starting hand #3  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (2510) | "Durrrwell" (2500)
+Your hand is Jd, Jh
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises with 50
+The player "Cole Ford" requested a seat.
+"Sam Schrader" calls with 50
+flop:  [5s, 9d, 5d]
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+"Sam Schrader" checks
+"Cole Stephens" raises with 70
+"Sam Schrader" calls with 70
+turn: 5s, 9d, 5d [Qh]
+"Sam Schrader" checks
+"Cole Stephens" raises with 120
+"Sam Schrader" raises with 320
+"Cole Stephens" calls with 320
+river: 5s, 9d, 5d, Qh [8h]
+"Sam Schrader" raises with 700
+"Cole Stephens" calls with 700
+"Sam Schrader" wins 2280 with Three of a Kind, 5's (hand: 3s, 5h)
+-- ending hand #3 --
+"Cole Stephens" shows a Jd, Jh.
+The player "Cole Ford" joined the game with a stack of 2500.
+-- starting hand #4  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3650) | "Cole Ford" (2500) | "Durrrwell" (1360)
+Your hand is 10c, 3d
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" checks
+flop:  [2c, 4s, 9h]
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Cole Ford" gained 40
+-- ending hand #4 --
+-- starting hand #5  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3650) | "Cole Ford" (2520) | "Durrrwell" (1340)
+Your hand is 2d, 4s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+WARNING: the admin queued the stack change for the player "Cole Stephens" to 2840 in the next hand.
+"Sam Schrader" checks
+flop:  [4c, 7d, Qd]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4c, 7d, Qd [3h]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 4c, 7d, Qd, 3h [Qc]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 50 with Two Pair, Q's & 4's (hand: 4h, Ks)
+-- ending hand #5 --
+The admin updated the player "Cole Stephens" stack from 1330 to 2840.
+-- starting hand #6  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3680) | "Cole Ford" (2500) | "Durrrwell" (2840)
+Your hand is 9h, Jc
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 50
+-- ending hand #6 --
+"Cole Stephens" shows a 9h, Jc.
+-- starting hand #7  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3670) | "Cole Ford" (2480) | "Durrrwell" (2870)
+Your hand is Jd, 3d
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 20
+-- ending hand #7 --
+-- starting hand #8  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3670) | "Cole Ford" (2470) | "Durrrwell" (2880)
+Your hand is 2d, 5c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+flop:  [7d, 3s, 2s]
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+turn: 7d, 3s, 2s [6s]
+"Sam Schrader" raises with 120
+"Cole Ford" folds
+"Sam Schrader" gained 250
+-- ending hand #8 --
+-- starting hand #9  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3800) | "Cole Ford" (2350) | "Durrrwell" (2870)
+Your hand is 5h, Ks
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 40
+"Cole Ford" raises with 60
+"Sam Schrader" calls with 60
+flop:  [2d, Qc, Js]
+"Sam Schrader" checks
+"Cole Ford" raises with 120
+"Sam Schrader" folds
+"Cole Ford" gained 120
+-- ending hand #9 --
+-- starting hand #10  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3740) | "Cole Ford" (2410) | "Durrrwell" (2870)
+Your hand is Kd, 10h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" raises with 40
+"Cole Stephens" raises with 120
+"Cole Ford" calls with 120
+flop:  [4s, 4h, 10d]
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 170
+"Cole Ford" calls with 170
+turn: 4s, 4h, 10d [As]
+"Cole Ford" raises with 290
+"Cole Stephens" calls with 290
+river: 4s, 4h, 10d, As [3d]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 1160 with Two Pair, A's & 4's (hand: 8c, Ac)
+-- ending hand #10 --
+"Cole Stephens" shows a Kd, 10h.
+-- starting hand #11  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3740) | "Cole Ford" (2990) | "Durrrwell" (2290)
+Your hand is 4c, 2d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Ac, 6s, 4s]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Ac, 6s, 4s [2s]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ac, 6s, 4s, 2s [6h]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 50 with Pair, 6's (hand: Qd, 3s)
+-- ending hand #11 --
+"Cole Ford" shows a Js, 5h.
+-- starting hand #12  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3770) | "Cole Ford" (2970) | "Durrrwell" (2280)
+Your hand is 7h, Kc
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" calls with 50
+"Cole Ford" calls with 50
+flop:  [8s, 5h, Jc]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 45
+"Sam Schrader" folds
+"Cole Ford" calls with 45
+turn: 8s, 5h, Jc [9c]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 8s, 5h, Jc, 9c [Kd]
+"Cole Ford" checks
+"Cole Stephens" raises with 120
+"Cole Ford" raises with 600
+"Cole Stephens" calls with 600
+"Cole Ford" wins 1440 with Straight, K High (hand: Qd, 10s)
+-- ending hand #12 --
+"Cole Stephens" shows a 7h, Kc.
+-- starting hand #13  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3720) | "Cole Ford" (3715) | "Durrrwell" (1585)
+Your hand is Qc, 7c
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Ford" folds
+"Cole Stephens" calls with 60
+flop:  [Ad, Qs, Jc]
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Ad, Qs, Jc [Qh]
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Ad, Qs, Jc, Qh [5d]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" wins 130 with Three of a Kind, Q's (hand: Qc, 7c)
+-- ending hand #13 --
+-- starting hand #14  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3660) | "Cole Ford" (3705) | "Durrrwell" (1655)
+Your hand is 7s, 9d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [2h, 4h, Jd]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 2h, 4h, Jd [5h]
+"Cole Stephens" checks
+"Sam Schrader" raises with 40
+"Cole Ford" raises with 80
+"Cole Stephens" folds
+"Sam Schrader" calls with 80
+river: 2h, 4h, Jd, 5h [7h]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 220 with Flush, 9h High (hand: 9h, Js)
+-- ending hand #14 --
+"Cole Ford" shows a 4s, 5c.
+-- starting hand #15  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3780) | "Cole Ford" (3605) | "Durrrwell" (1635)
+Your hand is 8s, 7c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" folds
+"Cole Ford" calls with 50
+flop:  [8h, Jc, Ad]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 8h, Jc, Ad [Qs]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 8h, Jc, Ad, Qs [9h]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 110 with Pair, 8's (hand: 8s, 7c)
+"Cole Ford" shows a 7d, 5h.
+-- ending hand #15 --
+-- starting hand #16  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3770) | "Cole Ford" (3555) | "Durrrwell" (1695)
+Your hand is 9h, Ac
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+flop:  [5h, 5c, 8h]
+"Cole Ford" raises with 20
+"Cole Stephens" calls with 20
+turn: 5h, 5c, 8h [5d]
+"Cole Ford" raises with 80
+"Cole Stephens" calls with 80
+river: 5h, 5c, 8h, 5d [4c]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 320 with Full House, 5's over 8's (hand: Qs, 8s)
+-- ending hand #16 --
+"Sam Schrader" shows a Jh, 5s.
+"Sam Schrader" shows a Jh, 5s.
+-- starting hand #17  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3770) | "Cole Ford" (3715) | "Durrrwell" (1535)
+Your hand is 5c, 9d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [Qs, 3d, 9c]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Qs, 3d, 9c [Ad]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Qs, 3d, 9c, Ad [3s]
+"Cole Stephens" raises with 45
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 60
+-- ending hand #17 --
+"Cole Ford" shows a Jh, 8c.
+"Cole Stephens" shows a 5c, 9d.
+-- starting hand #18  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3750) | "Cole Ford" (3695) | "Durrrwell" (1575)
+Your hand is Qd, Ac
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" folds
+"Cole Ford" calls with 50
+flop:  [9h, Kc, 8d]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 9h, Kc, 8d [Jh]
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+river: 9h, Kc, 8d, Jh [3h]
+"Cole Ford" raises with 75
+"Cole Stephens" folds
+"Cole Ford" gained 150
+-- ending hand #18 --
+-- starting hand #19  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3740) | "Cole Ford" (3775) | "Durrrwell" (1505)
+Your hand is 7d, 2d
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" checks
+flop:  [Qd, Ac, 4h]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Qd, Ac, 4h [2c]
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+river: Qd, Ac, 4h, 2c [3h]
+"Cole Ford" raises with 80
+WARNING: the admin queued the stack change for the player "Cole Stephens" to 2465 in the next hand.
+"Cole Stephens" folds
+"Cole Ford" gained 80
+-- ending hand #19 --
+"Cole Ford" shows a Ks, 5s.
+"Cole Stephens" shows a 7d, 2d.
+The admin updated the player "Cole Stephens" stack from 1465 to 2465.
+-- starting hand #20  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3740) | "Cole Ford" (3815) | "Durrrwell" (2465)
+Your hand is 10h, As
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 65
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 60
+-- ending hand #20 --
+-- starting hand #21  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3720) | "Cole Ford" (3795) | "Durrrwell" (2505)
+Your hand is Kh, 4s
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 20
+-- ending hand #21 --
+-- starting hand #22  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3710) | "Cole Ford" (3805) | "Durrrwell" (2505)
+Your hand is 4d, Qs
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" checks
+flop:  [Js, Jd, 3c]
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Cole Ford" gained 40
+-- ending hand #22 --
+-- starting hand #23  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3710) | "Cole Ford" (3825) | "Durrrwell" (2485)
+Your hand is 7s, 3c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" raises with 40
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 50
+-- ending hand #23 --
+"Cole Ford" shows a Jh, Kh.
+-- starting hand #24  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3690) | "Cole Ford" (3855) | "Durrrwell" (2475)
+Your hand is 4c, 10d
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 40
+"Cole Ford" calls with 40
+flop:  [Ac, 6s, 10s]
+"Sam Schrader" raises with 40
+"Cole Ford" folds
+"Sam Schrader" gained 80
+-- ending hand #24 --
+-- starting hand #25  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3730) | "Cole Ford" (3815) | "Durrrwell" (2475)
+Your hand is 5d, Ks
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+flop:  [6d, Js, 3c]
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Sam Schrader" calls with 20
+turn: 6d, Js, 3c [6c]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+river: 6d, Js, 3c, 6c [5c]
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Cole Ford" gained 230
+-- ending hand #25 --
+-- starting hand #26  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3640) | "Cole Ford" (3955) | "Durrrwell" (2425)
+Your hand is Qs, 5c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [4h, 5h, 6d]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4h, 5h, 6d [As]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 4h, 5h, 6d, As [8h]
+"Cole Stephens" checks
+"Sam Schrader" raises with 40
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 60
+-- ending hand #26 --
+-- starting hand #27  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3680) | "Cole Ford" (3935) | "Durrrwell" (2405)
+Your hand is 3s, As
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" calls with 50
+"Cole Ford" calls with 50
+flop:  [Kh, 5s, Qc]
+"Sam Schrader" checks
+"Cole Ford" raises with 75
+"Cole Stephens" calls with 75
+"Sam Schrader" folds
+turn: Kh, 5s, Qc [Ks]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Kh, 5s, Qc, Ks [4s]
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 350
+"Cole Ford" calls with 350
+"Cole Stephens" wins 1000 with Flush, As High (hand: 3s, As)
+-- ending hand #27 --
+"Cole Ford" shows a Kd, 9h.
+-- starting hand #28  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3630) | "Cole Ford" (3460) | "Durrrwell" (2930)
+Your hand is 2s, 7s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+flop:  [Ad, 9c, 3c]
+"Cole Ford" checks
+"Sam Schrader" raises with 60
+"Cole Ford" folds
+"Sam Schrader" gained 140
+-- ending hand #28 --
+"Sam Schrader" shows a Kc, 10s.
+-- starting hand #29  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3710) | "Cole Ford" (3400) | "Durrrwell" (2910)
+Your hand is 5h, 2d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" raises with 40
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 50
+-- ending hand #29 --
+"Cole Stephens" shows a 5h, 2d.
+"Cole Ford" shows a 10s, As.
+-- starting hand #30  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3690) | "Cole Ford" (3430) | "Durrrwell" (2900)
+Your hand is Ah, 6c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" calls with 50
+"Cole Ford" raises with 80
+"Cole Stephens" calls with 80
+"Sam Schrader" calls with 80
+flop:  [10h, 3c, Js]
+"Sam Schrader" checks
+"Cole Ford" raises with 240
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 240
+-- ending hand #30 --
+-- starting hand #31  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3610) | "Cole Ford" (3590) | "Durrrwell" (2820)
+Your hand is 4s, Ks
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" folds
+"Cole Stephens" raises with 180
+"Sam Schrader" calls with 180
+flop:  [9c, 2c, Qs]
+"Cole Stephens" raises with 110
+"Sam Schrader" calls with 110
+turn: 9c, 2c, Qs [10c]
+"Cole Stephens" raises with 220
+"Sam Schrader" calls with 220
+river: 9c, 2c, Qs, 10c [2d]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 1030 with Two Pair, 10's & 2's (hand: 10s, Kc)
+"Cole Stephens" shows a 4s, Ks.
+-- ending hand #31 --
+"Cole Ford" shows a 7s, Qd.
+-- starting hand #32  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4130) | "Cole Ford" (3580) | "Durrrwell" (2310)
+Your hand is 7d, 2d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Ks, 6c, Qd]
+"Sam Schrader" checks
+"Cole Ford" raises with 50
+"Sam Schrader" folds
+"Cole Ford" gained 50
+-- ending hand #32 --
+-- starting hand #33  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4110) | "Cole Ford" (3610) | "Durrrwell" (2300)
+Your hand is Jd, Js
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" calls with 50
+"Cole Ford" calls with 50
+flop:  [Qd, Kd, 4d]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 80
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 150
+-- ending hand #33 --
+-- starting hand #34  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4060) | "Cole Ford" (3560) | "Durrrwell" (2400)
+Your hand is 3h, 7h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" folds
+flop:  [Ac, 6c, 3d]
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: Ac, 6c, 3d [4s]
+"Cole Ford" checks
+"Sam Schrader" raises with 50
+"Cole Ford" folds
+"Sam Schrader" gained 120
+-- ending hand #34 --
+-- starting hand #35  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4130) | "Cole Ford" (3510) | "Durrrwell" (2380)
+Your hand is 5h, 3h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" raises with 60
+"Cole Stephens" calls with 60
+"Sam Schrader" folds
+flop:  [8c, Qd, 6d]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 8c, Qd, 6d [9s]
+"Cole Stephens" checks
+"Cole Ford" checks
+river: 8c, Qd, 6d, 9s [4s]
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+"Cole Ford" wins 260 with Pair, 7's (hand: 7c, 7h)
+"Cole Stephens" shows a 5h, 3h.
+-- ending hand #35 --
+-- starting hand #36  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4110) | "Cole Ford" (3650) | "Durrrwell" (2260)
+Your hand is 2s, Jd
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 40
+"Cole Ford" calls with 40
+flop:  [9c, 5h, Kc]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 9c, 5h, Kc [2d]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 9c, 5h, Kc, 2d [Qh]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 80 with K High (hand: 8d, Js)
+-- ending hand #36 --
+-- starting hand #37  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4150) | "Cole Ford" (3610) | "Durrrwell" (2260)
+Your hand is 6d, 8s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+flop:  [3d, 2h, 9d]
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" raises with 100
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 210
+-- ending hand #37 --
+"Sam Schrader" shows a 7s, Ad.
+"Cole Ford" shows a 5h, 7h.
+-- starting hand #38  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4290) | "Cole Ford" (3540) | "Durrrwell" (2190)
+Your hand is 7c, 6c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [8s, 6h, Js]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8s, 6h, Js [7h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" raises with 60
+"Cole Stephens" raises with 200
+"Sam Schrader" folds
+"Cole Ford" calls with 200
+river: 8s, 6h, Js, 7h [Ks]
+"Cole Stephens" raises with 250
+"Cole Ford" calls with 250
+"Cole Stephens" wins 960 with Two Pair, 7's & 6's (hand: 7c, 6c)
+-- ending hand #38 --
+"Cole Ford" shows a 4h, Kh.
+-- starting hand #39  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4270) | "Cole Ford" (3070) | "Durrrwell" (2680)
+Your hand is 5s, 2c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+flop:  [4h, 4d, 4s]
+"Sam Schrader" raises with 45
+"Cole Ford" calls with 45
+turn: 4h, 4d, 4s [8h]
+"Sam Schrader" raises with 90
+"Cole Ford" calls with 90
+river: 4h, 4d, 4s, 8h [7s]
+"Sam Schrader" raises with 220
+"Cole Ford" calls with 220
+"Cole Ford" wins 810 with Three of a Kind, 4's (hand: 6s, Ac)
+"Sam Schrader" shows a Ks, Qs.
+-- ending hand #39 --
+-- starting hand #40  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3865) | "Cole Ford" (3475) | "Durrrwell" (2680)
+Your hand is 2c, Ah
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 65
+"Cole Ford" calls with 65
+flop:  [As, 2h, 4h]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: As, 2h, 4h [9h]
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 145
+"Cole Ford" calls with 145
+river: As, 2h, 4h, 9h [8d]
+"Cole Ford" raises with 210
+"Cole Stephens" raises with 420
+"Cole Ford" calls with 420
+"Cole Ford" wins 1260 with Three of a Kind, 2's (hand: 2s, 2d)
+"Cole Stephens" shows a 2c, Ah.
+-- ending hand #40 --
+-- starting hand #41  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3865) | "Cole Ford" (4105) | "Durrrwell" (2050)
+Your hand is Ac, 4d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 65
+"Sam Schrader" folds
+"Cole Ford" calls with 65
+flop:  [4s, 3s, 2c]
+"Cole Stephens" raises with 120
+"Cole Ford" raises with 510
+"Cole Stephens" calls with 510
+turn: 4s, 3s, 2c [5s]
+"Cole Stephens" checks
+"Cole Ford" checks
+river: 4s, 3s, 2c, 5s [5c]
+"Cole Stephens" raises with 400
+"Cole Ford" raises with 800
+"Cole Stephens" calls with 800
+"Cole Ford" wins 1385 with Straight, 5 High (hand: As, 5h)
+"Cole Stephens" wins 1385 with Straight, 5 High (hand: Ac, 4d)
+-- ending hand #41 --
+-- starting hand #42  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3845) | "Cole Ford" (4115) | "Durrrwell" (2060)
+Your hand is 6s, 7c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 60
+"Sam Schrader" folds
+"Cole Ford" calls with 60
+flop:  [Kd, 8d, 10c]
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+turn: Kd, 8d, 10c [4s]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Kd, 8d, 10c, 4s [2h]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 170 with K High (hand: 7d, Js)
+-- ending hand #42 --
+-- starting hand #43  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3835) | "Cole Ford" (4205) | "Durrrwell" (1980)
+Your hand is 6h, Jh
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+flop:  [7d, 3s, Kh]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 7d, 3s, Kh [5s]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 7d, 3s, Kh, 5s [2h]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" raises with 25
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 150
+-- ending hand #43 --
+"Cole Stephens" shows a 6h, Jh.
+"Cole Ford" shows a 10h, Qs.
+"Sam Schrader" shows a Qd, 3d.
+-- starting hand #44  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (3935) | "Cole Ford" (4155) | "Durrrwell" (1930)
+Your hand is 3c, 2d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 20
+-- ending hand #44 --
+"Sam Schrader" shows a 10d, 6d.
+"Cole Stephens" shows a 3c, 2d.
+"Cole Ford" shows a 3s, 8c.
+-- starting hand #45  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (3945) | "Cole Ford" (4155) | "Durrrwell" (1920)
+Your hand is 9s, 2s
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+flop:  [2h, Js, Kh]
+"Sam Schrader" raises with 40
+"Cole Ford" folds
+"Sam Schrader" gained 100
+-- ending hand #45 --
+"Sam Schrader" shows a 10c, 10d.
+"Cole Ford" shows a 7h, 5s.
+The player "Cole Stephens" stand up with the stack of 1920.
+-- starting hand #46  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (3995) | "Cole Ford" (4105)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 40
+"Cole Ford" calls with 40
+flop:  [Qd, 10s, 6c]
+"Cole Ford" checks
+"Sam Schrader" raises with 40
+"Cole Ford" calls with 40
+The player "Cole Stephens" sit back with the stack of 1920.
+turn: Qd, 10s, 6c [2c]
+"Cole Ford" checks
+"Sam Schrader" raises with 100
+"Cole Ford" folds
+"Sam Schrader" gained 160
+-- ending hand #46 --
+"Sam Schrader" shows a 9c, Jh.
+"Cole Ford" shows a Kd, 5s.
+The player "Cole Stephens" joined the game with a stack of 1920.
+-- starting hand #47  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4075) | "Cole Ford" (4025) | "Durrrwell" (1920)
+Your hand is 10s, 9h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" posts a missed big blind of 20
+"Cole Ford" raises with 40
+"Cole Stephens" calls with 40
+"Sam Schrader" calls with 40
+flop:  [3d, 7d, As]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 3d, 7d, As [7s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 3d, 7d, As, 7s [7c]
+"Cole Stephens" checks
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+"Sam Schrader" wins 240 with Full House, 7's over 4's (hand: 4s, 4c)
+-- ending hand #47 --
+"Cole Ford" shows a Js, Kh.
+-- starting hand #48  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4215) | "Cole Ford" (3925) | "Durrrwell" (1880)
+Your hand is 2s, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 50
+"Cole Ford" folds
+"Sam Schrader" gained 40
+-- ending hand #48 --
+"Sam Schrader" shows a 7c, 6s.
+"Cole Ford" shows a 4s, 10c.
+-- starting hand #49  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4235) | "Cole Ford" (3905) | "Durrrwell" (1880)
+Your hand is 4c, 2c
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" folds
+"Cole Stephens" raises with 175
+"Sam Schrader" raises with 450
+"Cole Stephens" folds
+"Sam Schrader" gained 360
+-- ending hand #49 --
+"Sam Schrader" shows a Ah, 3d.
+-- starting hand #50  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4420) | "Cole Ford" (3895) | "Durrrwell" (1705)
+Your hand is 8h, 2c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Ac, 7d, 2h]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Ac, 7d, 2h [Qc]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ac, 7d, 2h, Qc [Ad]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" wins 50 with Pair, A's (hand: 3d, 9c)
+"Sam Schrader" shows a 5h, 3h.
+-- ending hand #50 --
+-- starting hand #51  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4400) | "Cole Ford" (3925) | "Durrrwell" (1695)
+Your hand is 8h, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 50
+-- ending hand #51 --
+-- starting hand #52  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4390) | "Cole Ford" (3905) | "Durrrwell" (1725)
+Your hand is 9d, 6h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+flop:  [Kh, 4c, 4h]
+"Cole Ford" checks
+"Cole Stephens" raises with 45
+"Sam Schrader" calls with 45
+"Cole Ford" folds
+turn: Kh, 4c, 4h [10d]
+"Cole Stephens" raises with 110
+"Sam Schrader" raises with 260
+"Cole Stephens" folds
+"Sam Schrader" gained 460
+-- ending hand #52 --
+"Sam Schrader" shows a 4d, 4s.
+-- starting hand #53  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4645) | "Cole Ford" (3855) | "Durrrwell" (1520)
+Your hand is 6c, 5s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [Qc, 7d, 10c]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" raises with 60
+"Cole Stephens" folds
+WARNING: the admin queued the stack change for the player "Cole Stephens" to 3500 in the next hand.
+"Sam Schrader" folds
+"Cole Ford" gained 60
+-- ending hand #53 --
+The admin updated the player "Cole Stephens" stack from 1500 to 3500.
+-- starting hand #54  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4625) | "Cole Ford" (3895) | "Durrrwell" (3500)
+Your hand is 5d, 8s
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls with 20
+"Cole Ford" checks
+flop:  [9s, 2s, Qs]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 9s, 2s, Qs [10s]
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+river: 9s, 2s, Qs, 10s [Kd]
+"Sam Schrader" checks
+"Cole Ford" raises with 80
+"Sam Schrader" calls with 80
+"Cole Ford" wins 240 with Flush, Ks High (hand: Jh, Ks)
+-- ending hand #54 --
+"Sam Schrader" shows a Kh, 4s.
+-- starting hand #55  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4505) | "Cole Ford" (4015) | "Durrrwell" (3500)
+Your hand is 5d, 6s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 20
+-- ending hand #55 --
+-- starting hand #56  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4505) | "Cole Ford" (4005) | "Durrrwell" (3510)
+Your hand is Qs, 9c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [Ks, Ac, 4h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Ks, Ac, 4h [Qd]
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Ks, Ac, 4h, Qd [6s]
+"Cole Stephens" raises with 20
+"Sam Schrader" raises with 120
+"Cole Stephens" calls with 120
+"Sam Schrader" wins 280 with Two Pair, Q's & 4's (hand: Qh, 4s)
+-- ending hand #56 --
+"Cole Stephens" shows a Qs, 9c.
+-- starting hand #57  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4645) | "Cole Ford" (4005) | "Durrrwell" (3370)
+Your hand is 10d, 6h
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 50
+"Cole Ford" folds
+"Sam Schrader" gained 40
+-- ending hand #57 --
+"Cole Ford" shows a 4h, Kc.
+"Sam Schrader" shows a 5d, 7s.
+-- starting hand #58  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4665) | "Cole Ford" (3985) | "Durrrwell" (3370)
+Your hand is 9s, 9d
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 60
+"Cole Ford" calls with 60
+flop:  [Ah, 4d, 7c]
+"Cole Ford" checks
+"Cole Stephens" raises with 45
+"Cole Ford" calls with 45
+turn: Ah, 4d, 7c [Ad]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Ah, 4d, 7c, Ad [3d]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 210 with Full House, A's over 7's (hand: 7d, As)
+-- ending hand #58 --
+-- starting hand #59  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4665) | "Cole Ford" (4090) | "Durrrwell" (3265)
+Your hand is 9c, 8s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [Ah, Qd, 10h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Ah, Qd, 10h [5s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ah, Qd, 10h, 5s [10s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 30 with Pair, 10's (hand: 2c, 9h)
+"Cole Stephens" wins 30 with Pair, 10's (hand: 9c, 8s)
+-- ending hand #59 --
+"Cole Ford" shows a 4c, 3h.
+-- starting hand #60  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4675) | "Cole Ford" (4070) | "Durrrwell" (3275)
+Your hand is Kh, As
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" calls with 50
+"Cole Ford" calls with 50
+flop:  [6c, Ah, 3c]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 70
+"Sam Schrader" calls with 70
+"Cole Ford" folds
+turn: 6c, Ah, 3c [Qh]
+"Sam Schrader" checks
+"Cole Stephens" raises with 210
+"Sam Schrader" calls with 210
+river: 6c, Ah, 3c, Qh [Qc]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 710 with Two Pair, A's & Q's (hand: Kh, As)
+"Sam Schrader" shows a 4d, Ac.
+-- ending hand #60 --
+-- starting hand #61  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4345) | "Cole Ford" (4020) | "Durrrwell" (3655)
+Your hand is 4c, 6c
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 70
+"Cole Ford" calls with 70
+flop:  [Kc, 6h, 5d]
+"Cole Ford" raises with 70
+"Cole Stephens" calls with 70
+turn: Kc, 6h, 5d [9c]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Kc, 6h, 5d, 9c [Qc]
+"Cole Ford" raises with 140
+"Cole Stephens" raises with 650
+"Cole Ford" calls with 650
+"Cole Stephens" wins 1580 with Flush, Kc High (hand: 4c, 6c)
+-- ending hand #61 --
+"Cole Ford" shows a Jc, Ks.
+-- starting hand #62  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4345) | "Cole Ford" (3230) | "Durrrwell" (4445)
+Your hand is 7s, 3d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [5h, 8s, 7c]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 5h, 8s, 7c [6h]
+"Sam Schrader" checks
+"Cole Ford" raises with 50
+"Sam Schrader" folds
+"Cole Ford" gained 50
+-- ending hand #62 --
+-- starting hand #63  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4325) | "Cole Ford" (3260) | "Durrrwell" (4435)
+Your hand is 2s, 9c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 20
+-- ending hand #63 --
+"Sam Schrader" shows a 7s, 3h.
+"Cole Ford" shows a 7c, Qh.
+-- starting hand #64  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4315) | "Cole Ford" (3270) | "Durrrwell" (4435)
+Your hand is 9c, 6s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" checks
+flop:  [2c, 10s, 7c]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 2c, 10s, 7c [4s]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 2c, 10s, 7c, 4s [8d]
+"Cole Ford" checks
+"Cole Stephens" raises with 100
+"Cole Ford" folds
+"Cole Stephens" gained 40
+-- ending hand #64 --
+"Cole Ford" shows a 5d, Jh.
+-- starting hand #65  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4315) | "Cole Ford" (3250) | "Durrrwell" (4455)
+Your hand is 8d, Qc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+flop:  [9s, Ah, 2d]
+"Cole Stephens" checks
+"Sam Schrader" raises with 100
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 180
+-- ending hand #65 --
+"Sam Schrader" shows a Kc, Ks.
+"Cole Ford" shows a 10d, 4h.
+-- starting hand #66  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4435) | "Cole Ford" (3190) | "Durrrwell" (4395)
+Your hand is Ad, 4d
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" calls with 50
+"Cole Ford" calls with 50
+flop:  [Qc, Kd, 8c]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 50
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 150
+-- ending hand #66 --
+-- starting hand #67  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4385) | "Cole Ford" (3140) | "Durrrwell" (4495)
+Your hand is 9s, 3s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" folds
+flop:  [Jc, 10h, 6h]
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+turn: Jc, 10h, 6h [8s]
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+river: Jc, 10h, 6h, 8s [9h]
+"Cole Ford" raises with 280
+"Sam Schrader" raises with 700
+"Cole Ford" folds
+"Sam Schrader" gained 840
+-- ending hand #67 --
+-- starting hand #68  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4815) | "Cole Ford" (2730) | "Durrrwell" (4475)
+Your hand is 4h, 9d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 20
+-- ending hand #68 --
+"Sam Schrader" shows a 10d, Kd.
+"Cole Ford" shows a 5s, Qc.
+-- starting hand #69  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4825) | "Cole Ford" (2730) | "Durrrwell" (4465)
+Your hand is 3d, 4d
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" raises with 140
+"Cole Ford" folds
+"Cole Stephens" calls with 140
+flop:  [7c, Js, 10d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 7c, Js, 10d [2c]
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 7c, Js, 10d, 2c [Qs]
+"Sam Schrader" checks
+"Cole Stephens" raises with 110
+"Sam Schrader" folds
+"Cole Stephens" gained 300
+-- ending hand #69 --
+"Cole Stephens" shows a 3d, 4d.
+"Cole Ford" shows a 4s, Jc.
+-- starting hand #70  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4685) | "Cole Ford" (2710) | "Durrrwell" (4625)
+Your hand is Kd, Jd
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" raises with 100
+"Cole Stephens" calls with 100
+flop:  [9d, Ks, 5s]
+"Cole Ford" raises with 200
+"Cole Stephens" calls with 200
+turn: 9d, Ks, 5s [Ad]
+"Cole Ford" raises with 600
+"Cole Stephens" calls with 600
+river: 9d, Ks, 5s, Ad [3c]
+"Cole Ford" raises and all in with 1810
+"Cole Stephens" folds
+"Cole Ford" gained 1800
+-- ending hand #70 --
+"Cole Stephens" shows a Kd, Jd.
+-- starting hand #71  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4685) | "Cole Ford" (3610) | "Durrrwell" (3725)
+Your hand is Kd, 5h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 20
+-- ending hand #71 --
+-- starting hand #72  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4695) | "Cole Ford" (3610) | "Durrrwell" (3715)
+Your hand is 2c, 7c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+flop:  [7h, As, 9d]
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+turn: 7h, As, 9d [5h]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 7h, As, 9d, 5h [4h]
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Sam Schrader" wins 340 with Three of a Kind, 4's (hand: 4s, 4d)
+-- ending hand #72 --
+-- starting hand #73  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4865) | "Cole Ford" (3440) | "Durrrwell" (3715)
+Your hand is 8d, Ks
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" raises with 80
+"Cole Stephens" folds
+"Sam Schrader" calls with 80
+flop:  [Jc, Qs, 2s]
+"Cole Ford" raises with 180
+"Sam Schrader" calls with 180
+turn: Jc, Qs, 2s [2c]
+"Cole Ford" checks
+"Sam Schrader" checks
+river: Jc, Qs, 2s, 2c [5h]
+"Cole Ford" checks
+"Sam Schrader" raises with 40
+"Cole Ford" calls with 40
+"Sam Schrader" wins 620 with Two Pair, Q's & 2's (hand: Qh, 10d)
+-- ending hand #73 --
+"Cole Ford" shows a Kd, Ac.
+-- starting hand #74  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (5185) | "Cole Ford" (3140) | "Durrrwell" (3695)
+Your hand is Kc, 7s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" raises with 100
+"Cole Stephens" folds
+"Sam Schrader" calls with 100
+flop:  [Ah, 5c, 10h]
+"Sam Schrader" checks
+"Cole Ford" raises with 210
+"Sam Schrader" folds
+"Cole Ford" gained 210
+-- ending hand #74 --
+"Sam Schrader" shows a 8s, Ks.
+"Cole Ford" shows a Kh, Ac.
+-- starting hand #75  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (5085) | "Cole Ford" (3250) | "Durrrwell" (3685)
+Your hand is 6d, 3d
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 50
+"Sam Schrader" calls with 50
+"Cole Ford" folds
+flop:  [Qh, 8s, Jd]
+"Sam Schrader" checks
+"Cole Stephens" raises with 90
+"Sam Schrader" folds
+"Cole Stephens" gained 120
+-- ending hand #75 --
+"Sam Schrader" shows a 7d, 7s.
+"Cole Stephens" shows a 6d, 3d.
+-- starting hand #76  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (5035) | "Cole Ford" (3230) | "Durrrwell" (3755)
+Your hand is 6d, Kd
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+flop:  [Ah, 9h, 2s]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" raises with 60
+"Cole Ford" folds
+"Cole Stephens" calls with 60
+turn: Ah, 9h, 2s [6s]
+"Cole Stephens" checks
+"Sam Schrader" raises with 140
+"Cole Stephens" calls with 140
+river: Ah, 9h, 2s, 6s [5h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 550 with Pair, A's (hand: 8s, Ac)
+"Cole Stephens" shows a 6d, Kd.
+-- ending hand #76 --
+-- starting hand #77  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (5335) | "Cole Ford" (3180) | "Durrrwell" (3505)
+Your hand is 8h, Qh
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [5h, 4c, 10d]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 5h, 4c, 10d [5c]
+"Cole Stephens" checks
+"Sam Schrader" raises with 20
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 60
+-- ending hand #77 --
+-- starting hand #78  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (5375) | "Cole Ford" (3160) | "Durrrwell" (3485)
+Your hand is 4s, Qd
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+flop:  [Qc, 6s, Qs]
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+turn: Qc, 6s, Qs [7c]
+"Sam Schrader" checks
+"Cole Ford" raises with 110
+"Sam Schrader" folds
+"Cole Ford" gained 220
+-- ending hand #78 --
+-- starting hand #79  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (5265) | "Cole Ford" (3270) | "Durrrwell" (3485)
+Your hand is Ks, 10s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" raises with 200
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 150
+-- ending hand #79 --
+"Sam Schrader" shows a Qs, 7s.
+"Sam Schrader" shows a Qs, 7s.
+"Cole Ford" shows a Kd, 6s.
+"Cole Stephens" shows a Ks, 10s.
+-- starting hand #80  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (5215) | "Cole Ford" (3220) | "Durrrwell" (3585)
+Your hand is 10c, 10h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 80
+"Sam Schrader" calls with 80
+"Cole Ford" calls with 80
+flop:  [5h, Qh, 8c]
+"Cole Stephens" raises with 95
+"Sam Schrader" calls with 95
+"Cole Ford" calls with 95
+turn: 5h, Qh, 8c [Jc]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 5h, Qh, 8c, Jc [4h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" wins 525 with Pair, Q's (hand: Qs, 9d)
+"Cole Stephens" shows a 10c, 10h.
+"Sam Schrader" shows a Jd, 9c.
+-- ending hand #80 --
+-- starting hand #81  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (5040) | "Cole Ford" (3570) | "Durrrwell" (3410)
+Your hand is 6s, 3s
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 55
+"Sam Schrader" folds
+"Cole Ford" calls with 55
+flop:  [As, Jh, 10s]
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 120
+"Cole Ford" folds
+"Cole Stephens" gained 160
+-- ending hand #81 --
+-- starting hand #82  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (5030) | "Cole Ford" (3495) | "Durrrwell" (3495)
+Your hand is 9c, 8s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+flop:  [7s, 2s, Qh]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 7s, 2s, Qh [3c]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 7s, 2s, Qh, 3c [7c]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" raises with 40
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 150
+-- ending hand #82 --
+"Cole Stephens" shows a 9c, 8s.
+"Sam Schrader" shows a 2d, Ac.
+"Cole Ford" shows a As, 8h.
+-- starting hand #83  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (5130) | "Cole Ford" (3445) | "Durrrwell" (3445)
+Your hand is Qs, 7c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+flop:  [2s, As, 4d]
+"Cole Stephens" checks
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Cole Stephens" folds
+turn: 2s, As, 4d [6s]
+"Sam Schrader" raises with 240
+"Cole Ford" calls with 240
+river: 2s, As, 4d, 6s [Jd]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" wins 860 with Pair, A's (hand: Ad, 5s)
+"Sam Schrader" shows a Jc, Kd.
+-- ending hand #83 --
+-- starting hand #84  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4730) | "Cole Ford" (3905) | "Durrrwell" (3385)
+Your hand is 4d, Qs
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 20
+-- ending hand #84 --
+-- starting hand #85  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4720) | "Cole Ford" (3915) | "Durrrwell" (3385)
+Your hand is 3c, Qd
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises with 50
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 50
+-- ending hand #85 --
+"Cole Ford" shows a 3d, 10h.
+"Cole Stephens" shows a 3c, Qd.
+"Sam Schrader" shows a 4c, Ad.
+-- starting hand #86  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4750) | "Cole Ford" (3905) | "Durrrwell" (3365)
+Your hand is 6c, 7d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" checks
+flop:  [9c, Ad, Ac]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 9c, Ad, Ac [6d]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 9c, Ad, Ac, 6d [Qd]
+"Cole Stephens" checks
+"Sam Schrader" raises with 40
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 60
+-- ending hand #86 --
+"Cole Ford" shows a 5d, 4c.
+"Sam Schrader" shows a Qh, 5s.
+"Cole Stephens" shows a 6c, 7d.
+-- starting hand #87  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4790) | "Cole Ford" (3885) | "Durrrwell" (3345)
+Your hand is Ad, 5s
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 60
+"Sam Schrader" calls with 60
+"Cole Ford" calls with 60
+flop:  [2c, Ah, Kc]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 110
+"Sam Schrader" raises with 300
+"Cole Ford" folds
+"Cole Stephens" calls with 300
+turn: 2c, Ah, Kc [9s]
+"Sam Schrader" raises with 420
+"Cole Stephens" calls with 420
+river: 2c, Ah, Kc, 9s [9h]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" wins 810 with Two Pair, A's & 9's (hand: 2s, Ac)
+"Cole Stephens" wins 810 with Two Pair, A's & 9's (hand: Ad, 5s)
+-- ending hand #87 --
+-- starting hand #88  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4820) | "Cole Ford" (3825) | "Durrrwell" (3375)
+Your hand is 3s, 10d
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls with 20
+"Cole Ford" calls with 20
+"Cole Stephens" checks
+flop:  [4d, Qc, 3h]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 4d, Qc, 3h [Ac]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 4d, Qc, 3h, Ac [Ks]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" wins 60 with Pair, 3's (hand: 3s, 10d)
+"Cole Ford" shows a 9d, Jd.
+-- ending hand #88 --
+"Sam Schrader" shows a 9c, 5c.
+The game's big blind was changed from 10 to 20.
+The game's small blind was changed from 20 to 40.
+-- starting hand #89  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4800) | "Cole Ford" (3805) | "Durrrwell" (3415)
+Your hand is 4c, 9h
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [5s, 10s, 5d]
+"Sam Schrader" checks
+"Cole Ford" calls with 40
+"Sam Schrader" folds
+"Cole Ford" gained 100
+-- ending hand #89 --
+-- starting hand #90  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4760) | "Cole Ford" (3865) | "Durrrwell" (3395)
+Your hand is 9h, As
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Cole Stephens" raises with 100
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+flop:  [6d, 9s, Ks]
+"Cole Ford" checks
+"Cole Stephens" raises with 100
+"Cole Ford" calls with 100
+turn: 6d, 9s, Ks [6h]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 6d, 9s, Ks, 6h [5c]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 420 with Two Pair, K's & 6's (hand: Kc, Jc)
+-- ending hand #90 --
+-- starting hand #91  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4740) | "Cole Ford" (4085) | "Durrrwell" (3195)
+Your hand is 8d, Js
+"Cole Ford" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Cole Stephens" calls with 100
+flop:  [Jd, 9c, 3d]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" raises with 140
+"Cole Ford" folds
+"Cole Stephens" calls with 140
+turn: Jd, 9c, 3d [4h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Jd, 9c, 3d, 4h [2c]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" wins 580 with Pair, J's (hand: 8d, Js)
+-- ending hand #91 --
+"Cole Ford" shows a 7c, 5d.
+-- starting hand #92  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4500) | "Cole Ford" (3985) | "Durrrwell" (3535)
+Your hand is 10s, 2d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 40
+-- ending hand #92 --
+"Sam Schrader" shows a 3d, 4c.
+-- starting hand #93  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4520) | "Cole Ford" (3985) | "Durrrwell" (3515)
+Your hand is 6c, 5d
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Cole Stephens" raises with 80
+"Sam Schrader" calls with 80
+"Cole Ford" calls with 80
+flop:  [Qd, 6s, Js]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 180
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 240
+-- ending hand #93 --
+"Cole Ford" shows a 3d, Kh.
+"Sam Schrader" shows a 8h, 9s.
+-- starting hand #94  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (4440) | "Cole Ford" (3905) | "Durrrwell" (3675)
+Your hand is Kc, 5h
+"Cole Ford" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 40
+-- ending hand #94 --
+"Cole Stephens" shows a Kc, 5h.
+"Cole Ford" shows a 2h, Ks.
+-- starting hand #95  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4440) | "Cole Ford" (3885) | "Durrrwell" (3695)
+Your hand is 4c, 2c
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+flop:  [Ad, 6d, 5c]
+"Cole Stephens" raises with 200
+"Cole Ford" calls with 200
+turn: Ad, 6d, 5c [3c]
+"Cole Stephens" raises with 410
+"Cole Ford" calls with 410
+river: Ad, 6d, 5c, 3c [Qh]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" wins 1500 with Straight, 6 High (hand: 4c, 2c)
+-- ending hand #95 --
+-- starting hand #96  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (4400) | "Cole Ford" (3155) | "Durrrwell" (4465)
+Your hand is Ac, 7s
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Cole Stephens" raises with 85
+"Sam Schrader" calls with 85
+"Cole Ford" calls with 85
+flop:  [3c, 5h, 9s]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 3c, 5h, 9s [10h]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 3c, 5h, 9s, 10h [10c]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+The player "Jack Betcher" requested a seat.
+"Cole Stephens" wins 255 with Pair, 10's (hand: Ac, 7s)
+"Sam Schrader" shows a Qc, 4c.
+"Cole Ford" shows a Ks, 7c.
+-- ending hand #96 --
+-- starting hand #97  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (4315) | "Cole Ford" (3070) | "Durrrwell" (4635)
+Your hand is 10h, 2c
+"Cole Ford" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+The admin approved the player "Jack Betcher" participation with a stack of 3500.
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Cole Stephens" checks
+flop:  [6d, 5d, 7d]
+"Cole Ford" calls with 40
+"Cole Stephens" folds
+"Cole Ford" gained 80
+-- ending hand #97 --
+-- starting hand #98  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (4315) | "Cole Ford" (3110) | "BigBetch" (3500) | "Durrrwell" (4595)
+Your hand is 6h, 3d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 40
+-- ending hand #98 --
+"Sam Schrader" shows a 3s, 8h.
+"Cole Stephens" shows a 6h, 3d.
+"Cole Ford" shows a 4d, 10s.
+The player "Jack Betcher" joined the game with a stack of 3500.
+-- starting hand #99  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (4335) | "Cole Ford" (3110) | "BigBetch" (3500) | "Durrrwell" (4575)
+Your hand is Jd, Kd
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" posts a missing small blind of 20
+"Jack Betcher" folds
+"Cole Stephens" raises with 100
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+flop:  [Js, Ah, 2d]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Js, Ah, 2d [10h]
+"Cole Ford" raises with 40
+"Cole Stephens" calls with 40
+river: Js, Ah, 2d, 10h [7c]
+"Cole Ford" checks
+"Cole Stephens" raises with 100
+"Cole Ford" folds
+"Cole Stephens" gained 320
+-- ending hand #99 --
+-- starting hand #100  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (4315) | "Cole Ford" (2970) | "BigBetch" (3480) | "Durrrwell" (4755)
+Your hand is 5c, 5h
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 100
+"Sam Schrader" raises with 240
+"Cole Ford" folds
+"Jack Betcher" folds
+"Cole Stephens" calls with 240
+flop:  [2c, 2d, 8h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 2c, 2d, 8h [7h]
+"Cole Stephens" raises with 250
+"Sam Schrader" calls with 250
+river: 2c, 2d, 8h, 7h [4h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" wins 1040 with Two Pair, 5's & 2's (hand: 5c, 5h)
+-- ending hand #100 --
+"Sam Schrader" shows a Ad, Kd.
+"Cole Ford" shows a 3c, 8c.
+-- starting hand #101  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (3825) | "Cole Ford" (2950) | "BigBetch" (3440) | "Durrrwell" (5305)
+Your hand is Ac, Jc
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" raises with 160
+"Cole Ford" calls with 160
+"Jack Betcher" calls with 160
+flop:  [3d, Js, 10d]
+"Jack Betcher" checks
+"Cole Stephens" raises with 360
+"Cole Ford" calls with 360
+"Jack Betcher" folds
+turn: 3d, Js, 10d [9d]
+"Cole Stephens" raises with 400
+"Cole Ford" calls with 400
+river: 3d, Js, 10d, 9d [4s]
+"Cole Stephens" checks
+"Cole Ford" raises with 1000
+The player "Mike Padden" requested a seat.
+"Cole Stephens" folds
+"Cole Ford" gained 2000
+-- ending hand #101 --
+"Cole Stephens" shows a Ac, Jc.
+"Cole Ford" shows a Ah, Jd.
+-- starting hand #102  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Players stacks: "Sam" (3825) | "Cole Ford" (4030) | "BigBetch" (3280) | "Durrrwell" (4385)
+Your hand is 3h, 6c
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" calls with 40
+"Sam Schrader" checks
+flop:  [Jh, Js, Ah]
+"Cole Stephens" checks
+The admin approved the player "Mike Padden" participation with a stack of 2500.
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" raises with 100
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Jack Betcher" gained 160
+-- ending hand #102 --
+-- starting hand #103  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (3785) | "Cole Ford" (3990) | "BigBetch" (3400) | "Durrrwell" (4345) | "Team" (2500)
+Your hand is 10h, Qd
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 100
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 100
+-- ending hand #103 --
+The player "Mike Padden" joined the game with a stack of 2500.
+-- starting hand #104  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (3765) | "Cole Ford" (3950) | "BigBetch" (3400) | "Durrrwell" (4405) | "Team" (2500)
+Your hand is 5h, 2c
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Mike Padden" posts a missing small blind of 20
+"Cole Stephens" folds
+"Mike Padden" calls with 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" checks
+flop:  [Kh, 6s, Qc]
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Mike Padden" calls with 40
+turn: Kh, 6s, Qc [Kd]
+"Cole Ford" checks
+"Mike Padden" checks
+river: Kh, 6s, Qc, Kd [Ah]
+"Cole Ford" checks
+"Mike Padden" raises with 80
+"Cole Ford" raises with 460
+"Mike Padden" calls with 460
+"Cole Ford" wins 1140 with Three of a Kind, K's (hand: 3d, Ks)
+-- ending hand #104 --
+-- starting hand #105  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (3765) | "Cole Ford" (4550) | "BigBetch" (3360) | "Durrrwell" (4405) | "Team" (1940)
+Your hand is 8s, Qs
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Mike Padden" calls with 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" raises with 320
+"Mike Padden" folds
+"Cole Ford" calls with 320
+"Jack Betcher" folds
+flop:  [5d, 4d, 4c]
+"Cole Stephens" raises with 540
+"Cole Ford" folds
+"Cole Stephens" gained 720
+-- ending hand #105 --
+"Cole Stephens" shows a 8s, Qs.
+-- starting hand #106  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Players stacks: "Sam" (3765) | "Cole Ford" (4230) | "BigBetch" (3320) | "Durrrwell" (4805) | "Team" (1900)
+Your hand is 10d, 8c
+"Cole Stephens" posts a small blind of 20
+"Mike Padden" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" calls with 40
+"Mike Padden" checks
+flop:  [As, 10h, 2h]
+"Cole Stephens" checks
+"Mike Padden" checks
+"Cole Ford" checks
+turn: As, 10h, 2h [2s]
+"Cole Stephens" checks
+"Mike Padden" checks
+"Cole Ford" raises with 120
+"Cole Stephens" calls with 120
+"Mike Padden" folds
+river: As, 10h, 2h, 2s [3s]
+"Cole Stephens" checks
+"Cole Ford" raises with 360
+"Cole Stephens" folds
+"Cole Ford" gained 360
+-- ending hand #106 --
+"Cole Ford" shows a 2c, Qh.
+-- starting hand #107  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Players stacks: "Sam" (3765) | "Cole Ford" (4430) | "BigBetch" (3320) | "Durrrwell" (4645) | "Team" (1860)
+Your hand is 5s, Ac
+"Mike Padden" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" raises with 90
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Mike Padden" calls with 90
+"Sam Schrader" calls with 90
+flop:  [Jc, 6d, 2c]
+"Mike Padden" calls with 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+turn: Jc, 6d, 2c [9s]
+"Mike Padden" calls with 40
+"Cole Ford" calls with 40
+river: Jc, 6d, 2c, 9s [4s]
+"Mike Padden" raises with 120
+"Cole Ford" folds
+"Mike Padden" gained 430
+-- ending hand #107 --
+"Cole Ford" shows a Ah, 10h.
+-- starting hand #108  (Texas Hold'em) (dealer: "Mike Padden") [5-handed] --
+Players stacks: "Sam" (3675) | "Cole Ford" (4260) | "BigBetch" (3320) | "Durrrwell" (4645) | "Team" (2120)
+Your hand is 5h, 4s
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" raises with 140
+"Cole Stephens" folds
+"Mike Padden" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Jack Betcher" gained 100
+-- ending hand #108 --
+-- starting hand #109  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (3655) | "Cole Ford" (4220) | "BigBetch" (3380) | "Durrrwell" (4645) | "Team" (2120)
+Your hand is Ks, 4d
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Mike Padden" calls with 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" checks
+flop:  [9c, 5d, 7s]
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 120
+"Mike Padden" folds
+"Cole Ford" calls with 120
+turn: 9c, 5d, 7s [3d]
+"Cole Ford" checks
+"Jack Betcher" raises with 180
+"Cole Ford" calls with 180
+river: 9c, 5d, 7s, 3d [6d]
+"Cole Ford" checks
+"Jack Betcher" raises with 169
+"Cole Ford" calls with 169
+"Jack Betcher" wins 1058 with Two Pair, 7's & 6's (hand: 7c, 6h)
+-- ending hand #109 --
+-- starting hand #110  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (3655) | "Cole Ford" (3711) | "BigBetch" (3929) | "Durrrwell" (4645) | "Team" (2080)
+Your hand is Ah, 6s
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Mike Padden" folds
+"Sam Schrader" raises with 120
+"Cole Ford" folds
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 100
+-- ending hand #110 --
+-- starting hand #111  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Players stacks: "Sam" (3715) | "Cole Ford" (3711) | "BigBetch" (3909) | "Durrrwell" (4605) | "Team" (2080)
+Your hand is 5c, 9c
+"Cole Stephens" posts a small blind of 20
+"Mike Padden" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" folds
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Mike Padden" calls with 100
+flop:  [7h, 10h, Jc]
+"Mike Padden" calls with 40
+"Sam Schrader" raises with 160
+"Mike Padden" calls with 160
+turn: 7h, 10h, Jc [4c]
+"Mike Padden" checks
+"Sam Schrader" raises with 320
+"Mike Padden" folds
+"Sam Schrader" gained 540
+-- ending hand #111 --
+"Sam Schrader" shows a 5h, 6h.
+-- starting hand #112  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Players stacks: "Sam" (3995) | "Cole Ford" (3711) | "BigBetch" (3909) | "Durrrwell" (4585) | "Team" (1820)
+Your hand is 5h, Qc
+"Mike Padden" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 140
+"Cole Stephens" folds
+"Mike Padden" calls with 140
+WARNING: the admin queued the stack change for the player "Sam Schrader" to 4995 in the next hand.
+"Sam Schrader" folds
+"Cole Ford" calls with 140
+flop:  [9s, Ks, 3h]
+"Mike Padden" checks
+"Cole Ford" raises with 230
+"Jack Betcher" folds
+"Mike Padden" calls with 230
+turn: 9s, Ks, 3h [6s]
+"Mike Padden" checks
+"Cole Ford" raises with 460
+"Mike Padden" calls with 460
+river: 9s, Ks, 3h, 6s [8c]
+"Mike Padden" checks
+"Cole Ford" raises with 920
+"Mike Padden" calls with 920
+"Cole Ford" wins 3680 with Flush, Ks High (hand: 5s, 3s)
+-- ending hand #112 --
+"Sam Schrader" shows a 7s, Qs.
+The admin updated the player "Sam Schrader" stack from 3955 to 4995.
+-- starting hand #113  (Texas Hold'em) (dealer: "Mike Padden") [5-handed] --
+Players stacks: "Sam" (4995) | "Cole Ford" (5641) | "BigBetch" (3769) | "Durrrwell" (4585) | "Team" (70)
+Your hand is Ah, 3c
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 100
+"Mike Padden" calls and all in with 70
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+flop:  [7h, 8h, Ad]
+"Cole Ford" checks
+"Cole Stephens" raises with 140
+WARNING: the admin queued the stack change for the player "Jack Betcher" to 4769 in the next hand.
+"Cole Ford" folds
+turn: 7h, 8h, Ad [Js]
+"Cole Stephens" shows a Ah, 3c.
+"Mike Padden" shows a 5s, 4d.
+river: 7h, 8h, Ad, Js [6d]
+"Mike Padden" wins 230 with Straight, 8 High (hand: 5s, 4d)
+"Cole Stephens" wins 60 with Pair, A's (hand: Ah, 3c)
+-- ending hand #113 --
+"Cole Ford" shows a 4s, 3h.
+The admin updated the player "Jack Betcher" stack from 3769 to 4769.
+-- starting hand #114  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (4975) | "Cole Ford" (5541) | "BigBetch" (4769) | "Durrrwell" (4545) | "Team" (230)
+Your hand is 2c, 5s
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Mike Padden" calls with 40
+"Sam Schrader" raises with 240
+"Cole Ford" calls with 240
+"Jack Betcher" folds
+"Mike Padden" calls and all in with 230
+flop:  [Qc, 3s, 6c]
+"Cole Ford" checks
+"Sam Schrader" raises with 200
+"Cole Ford" folds
+turn: Qc, 3s, 6c [Jc]
+"Sam Schrader" shows a Kh, Qd.
+"Mike Padden" shows a 2s, Js.
+river: Qc, 3s, 6c, Jc [10c]
+"Sam Schrader" wins 750 with Pair, Q's (hand: Kh, Qd)
+-- ending hand #114 --
+"Cole Ford" shows a 3c, 4h.
+The player "Mike Padden" quits the game with a stack of 0.
+-- starting hand #115  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (5485) | "Cole Ford" (5301) | "BigBetch" (4729) | "Durrrwell" (4545)
+Your hand is 9s, Qh
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Jack Betcher" folds
+"Cole Stephens" calls with 100
+flop:  [8h, 3h, 5s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8h, 3h, 5s [9h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 8h, 3h, 5s, 9h [10d]
+"Cole Stephens" raises with 110
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 320
+-- ending hand #115 --
+-- starting hand #116  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (5385) | "Cole Ford" (5201) | "BigBetch" (4709) | "Durrrwell" (4765)
+Your hand is 2h, Qc
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [6d, 7c, Kh]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+turn: 6d, 7c, Kh [Ac]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+river: 6d, 7c, Kh, Ac [Jh]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+"Sam Schrader" wins 140 with Pair, J's (hand: 9d, Js)
+-- ending hand #116 --
+"Cole Ford" shows a 7s, Qd.
+"Jack Betcher" shows a 4c, 4d.
+-- starting hand #117  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (5485) | "Cole Ford" (5161) | "BigBetch" (4669) | "Durrrwell" (4745)
+Your hand is 9d, 8c
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" raises with 120
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+flop:  [Kd, As, 5c]
+"Cole Ford" checks
+"Jack Betcher" raises with 69
+"Cole Ford" folds
+"Jack Betcher" gained 260
+-- ending hand #117 --
+-- starting hand #118  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (5465) | "Cole Ford" (5041) | "BigBetch" (4809) | "Durrrwell" (4745)
+Your hand is 8d, 9d
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 120
+"Sam Schrader" calls with 120
+"Cole Ford" calls with 120
+"Jack Betcher" folds
+flop:  [2d, 9c, 5h]
+"Cole Ford" calls with 40
+"Cole Stephens" raises with 320
+"Sam Schrader" folds
+"Cole Ford" calls with 320
+turn: 2d, 9c, 5h [Qd]
+"Cole Ford" raises with 40
+"Cole Stephens" raises with 640
+"Cole Ford" folds
+"Cole Stephens" gained 1120
+-- ending hand #118 --
+"Cole Stephens" shows a 8d, 9d.
+"Cole Ford" shows a Jc, 9s.
+-- starting hand #119  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (5345) | "Cole Ford" (4561) | "BigBetch" (4769) | "Durrrwell" (5385)
+Your hand is 8d, 9c
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Jack Betcher" folds
+"Cole Stephens" calls with 100
+flop:  [9h, 3d, 7c]
+"Cole Stephens" raises with 110
+"Sam Schrader" calls with 110
+"Cole Ford" folds
+turn: 9h, 3d, 7c [8h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 9h, 3d, 7c, 8h [3h]
+"Cole Stephens" raises with 320
+"Sam Schrader" folds
+"Cole Stephens" gained 540
+-- ending hand #119 --
+"Cole Ford" shows a 3s, 8s.
+"Sam Schrader" shows a Ac, Qh.
+"Cole Stephens" shows a 8d, 9c.
+-- starting hand #120  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (5135) | "Cole Ford" (4461) | "BigBetch" (4749) | "Durrrwell" (5715)
+Your hand is 3d, 8s
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+flop:  [3h, Qh, 5h]
+"Sam Schrader" raises with 120
+"Cole Ford" folds
+"Sam Schrader" gained 220
+-- ending hand #120 --
+-- starting hand #121  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (5255) | "Cole Ford" (4361) | "BigBetch" (4749) | "Durrrwell" (5695)
+Your hand is 3h, 10c
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" raises with 160
+"Cole Ford" raises with 280
+"Jack Betcher" calls with 280
+"Sam Schrader" calls with 280
+flop:  [8d, 9s, Qd]
+"Sam Schrader" checks
+"Cole Ford" raises with 420
+"Jack Betcher" calls with 420
+"Sam Schrader" folds
+turn: 8d, 9s, Qd [7c]
+"Cole Ford" raises with 840
+"Jack Betcher" calls with 840
+river: 8d, 9s, Qd, 7c [7s]
+"Cole Ford" checks
+"Jack Betcher" checks
+"Cole Ford" wins 3360 with Pair, 7's (hand: Jd, Ah)
+-- ending hand #121 --
+"Jack Betcher" shows a 5d, Ad.
+-- starting hand #122  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (4975) | "Cole Ford" (6181) | "BigBetch" (3209) | "Durrrwell" (5695)
+Your hand is 5c, Ac
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 100
+"Sam Schrader" calls with 100
+"Cole Ford" calls with 100
+"Jack Betcher" calls with 100
+flop:  [9h, Ks, 4s]
+"Cole Ford" checks
+"Jack Betcher" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 9h, Ks, 4s [2h]
+"Cole Ford" checks
+"Jack Betcher" raises with 69
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Jack Betcher" gained 400
+-- ending hand #122 --
+"Jack Betcher" shows a 5d, 2d.
+-- starting hand #123  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (4875) | "Cole Ford" (6081) | "BigBetch" (3509) | "Durrrwell" (5595)
+Your hand is 6s, Js
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" raises with 160
+"Jack Betcher" calls with 160
+"Cole Stephens" folds
+flop:  [10c, 4h, 2s]
+"Jack Betcher" raises with 169
+"Cole Ford" calls with 169
+turn: 10c, 4h, 2s [Kd]
+"Jack Betcher" raises with 420
+"Cole Ford" calls with 420
+river: 10c, 4h, 2s, Kd [Qc]
+"Jack Betcher" raises with 1153
+"Cole Ford" calls with 1153
+"Jack Betcher" wins 3844 with Straight, A High (hand: Jd, Ac)
+-- ending hand #123 --
+"Cole Ford" shows a Ah, Ks.
+-- starting hand #124  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (4875) | "Cole Ford" (4179) | "BigBetch" (5451) | "Durrrwell" (5555)
+Your hand is 3s, 4h
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" raises with 130
+"Jack Betcher" calls with 130
+"Cole Stephens" folds
+"Sam Schrader" folds
+flop:  [10c, 9c, Kh]
+"Cole Ford" raises with 320
+"Jack Betcher" raises with 640
+"Cole Ford" raises with 960
+"Jack Betcher" raises and all in with 5321
+"Cole Ford" calls and all in with 4049
+turn: 10c, 9c, Kh [2h]
+"Cole Ford" shows a 10s, As.
+"Jack Betcher" shows a Jc, Ks.
+river: 10c, 9c, Kh, 2h [7h]
+"Jack Betcher" wins 8418 with Pair, K's (hand: Jc, Ks)
+-- ending hand #124 --
+The player "Cole Ford" quits the game with a stack of 0.
+-- starting hand #125  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (4835) | "BigBetch" (9690) | "Durrrwell" (5535)
+Your hand is 2h, 6d
+"Sam Schrader" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Jack Betcher" gained 40
+-- ending hand #125 --
+The player "Cole Ford" requested a seat.
+-- starting hand #126  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (4815) | "BigBetch" (9710) | "Durrrwell" (5535)
+Your hand is Qs, Ah
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+The admin approved the player "Cole Ford" participation with a stack of 3500.
+"Sam Schrader" folds
+"Jack Betcher" folds
+"Cole Stephens" gained 40
+-- ending hand #126 --
+The player "Cole Ford" joined the game with a stack of 3500.
+-- starting hand #127  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (4815) | "Cole Ford" (3500) | "BigBetch" (9690) | "Durrrwell" (5555)
+Your hand is 10d, 3s
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Kc, 3h, As]
+"Sam Schrader" checks
+"Cole Ford" raises with 100
+"Sam Schrader" folds
+"Cole Ford" gained 100
+-- ending hand #127 --
+-- starting hand #128  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (4775) | "Cole Ford" (3560) | "BigBetch" (9690) | "Durrrwell" (5535)
+Your hand is 9s, 4d
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" calls with 40
+"Cole Ford" raises with 160
+"Jack Betcher" raises with 520
+"Sam Schrader" folds
+"Cole Ford" calls with 520
+flop:  [10h, Qs, 10c]
+"Cole Ford" raises with 540
+"Jack Betcher" calls with 540
+turn: 10h, Qs, 10c [3s]
+"Cole Ford" raises with 1080
+"Jack Betcher" folds
+"Cole Ford" gained 2160
+-- ending hand #128 --
+-- starting hand #129  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (4735) | "Cole Ford" (4660) | "BigBetch" (8630) | "Durrrwell" (5535)
+Your hand is 8c, 10s
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Jack Betcher" raises with 400
+"Sam Schrader" folds
+"Cole Ford" calls with 400
+flop:  [6c, 7d, Js]
+"Cole Ford" checks
+"Jack Betcher" raises with 420
+"Cole Ford" folds
+"Jack Betcher" gained 900
+-- ending hand #129 --
+-- starting hand #130  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (4635) | "Cole Ford" (4260) | "BigBetch" (9130) | "Durrrwell" (5535)
+Your hand is Jd, 9d
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 120
+"Cole Stephens" calls with 120
+"Cole Ford" calls with 120
+flop:  [Ks, Kd, Ac]
+"Jack Betcher" checks
+"Cole Stephens" checks
+"Cole Ford" raises with 360
+"Jack Betcher" folds
+"Cole Stephens" calls with 360
+turn: Ks, Kd, Ac [9c]
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Ks, Kd, Ac, 9c [10h]
+WARNING: the admin queued the stack change for the player "Sam Schrader" to 6635 in the next hand.
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Ford" wins 1080 with Two Pair, A's & K's (hand: 7s, Ad)
+"Cole Stephens" shows a Jd, 9d.
+-- ending hand #130 --
+The admin updated the player "Sam Schrader" stack from 4635 to 6635.
+-- starting hand #131  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (6635) | "Cole Ford" (4860) | "BigBetch" (9010) | "Durrrwell" (5055)
+Your hand is 6c, 8h
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" calls with 40
+"Sam Schrader" checks
+flop:  [8d, 10h, 5s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8d, 10h, 5s [Jh]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 8d, 10h, 5s, Jh [4h]
+"Cole Stephens" raises with 80
+"Sam Schrader" calls with 80
+"Cole Ford" folds
+"Sam Schrader" wins 280 with Pair, 8's (hand: Ad, 8s)
+"Cole Stephens" shows a 6c, 8h.
+-- ending hand #131 --
+"Jack Betcher" shows a 2h, 7h.
+The player "Mike Padden" requested a seat.
+"Cole Ford" shows a Qh, 3s.
+-- starting hand #132  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Players stacks: "Sam" (6795) | "Cole Ford" (4820) | "BigBetch" (9010) | "Durrrwell" (4935)
+Your hand is 5h, 2s
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+The admin approved the player "Mike Padden" participation with a stack of 2500.
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 40
+-- ending hand #132 --
+The player "Mike Padden" joined the game with a stack of 2500.
+-- starting hand #133  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (6775) | "Cole Ford" (4840) | "Team" (2500) | "BigBetch" (9010) | "Durrrwell" (4935)
+Your hand is 3h, 6s
+"Cole Ford" posts a small blind of 20
+"Mike Padden" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Mike Padden" checks
+flop:  [5c, 3s, 7d]
+"Cole Ford" checks
+"Mike Padden" checks
+turn: 5c, 3s, 7d [10h]
+WARNING: the admin queued the stack change for the player "Cole Stephens" to 5935 in the next hand.
+"Cole Ford" checks
+"Mike Padden" checks
+river: 5c, 3s, 7d, 10h [3c]
+"Cole Ford" checks
+"Mike Padden" checks
+"Mike Padden" wins 80 with Pair, 3's (hand: As, Qc)
+"Cole Ford" shows a 9d, 4h.
+-- ending hand #133 --
+The admin updated the player "Cole Stephens" stack from 4935 to 5935.
+-- starting hand #134  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (6775) | "Cole Ford" (4800) | "Team" (2540) | "BigBetch" (9010) | "Durrrwell" (5935)
+Your hand is Qd, Jd
+"Mike Padden" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 100
+"Sam Schrader" folds
+"Cole Ford" folds
+"Mike Padden" calls with 100
+"Jack Betcher" folds
+flop:  [9c, 6s, 2s]
+"Mike Padden" raises with 120
+"Cole Stephens" calls with 120
+turn: 9c, 6s, 2s [Qh]
+"Mike Padden" raises with 117
+"Cole Stephens" raises with 354
+"Mike Padden" calls with 354
+river: 9c, 6s, 2s, Qh [6h]
+"Mike Padden" raises with 313
+"Cole Stephens" calls with 313
+"Mike Padden" wins 1814 with Two Pair, K's & 6's (hand: Kd, Kc)
+-- ending hand #134 --
+"Cole Stephens" shows a Qd, Jd.
+-- starting hand #135  (Texas Hold'em) (dealer: "Mike Padden") [5-handed] --
+Players stacks: "Sam" (6775) | "Cole Ford" (4800) | "Team" (3467) | "BigBetch" (8970) | "Durrrwell" (5048)
+Your hand is 5h, 9h
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Mike Padden" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" checks
+flop:  [10c, 9s, Kd]
+"Jack Betcher" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+"Mike Padden" checks
+turn: 10c, 9s, Kd [7c]
+"Jack Betcher" checks
+"Cole Stephens" raises with 60
+"Cole Ford" folds
+"Mike Padden" calls with 60
+"Jack Betcher" raises with 240
+"Cole Stephens" folds
+"Mike Padden" calls with 240
+river: 10c, 9s, Kd, 7c [10d]
+"Jack Betcher" checks
+"Mike Padden" checks
+"Jack Betcher" wins 700 with Two Pair, A's & 10's (hand: Ah, Ac)
+-- ending hand #135 --
+-- starting hand #136  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Players stacks: "Sam" (6775) | "Cole Ford" (4760) | "Team" (3187) | "BigBetch" (9390) | "Durrrwell" (4948)
+Your hand is 3c, 5d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Mike Padden" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [8s, 8d, Ad]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Mike Padden" checks
+turn: 8s, 8d, Ad [2h]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Mike Padden" checks
+river: 8s, 8d, Ad, 2h [4h]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Mike Padden" checks
+"Sam Schrader" wins 140 with Two Pair, 8's & 4's (hand: Qc, 4d)
+-- ending hand #136 --
+-- starting hand #137  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Players stacks: "Sam" (6875) | "Cole Ford" (4720) | "Team" (3147) | "BigBetch" (9390) | "Durrrwell" (4928)
+Your hand is 6c, Jd
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Mike Padden" folds
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+flop:  [10s, 10c, 9s]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 10s, 10c, 9s [Kd]
+"Sam Schrader" checks
+"Cole Ford" raises with 200
+"Sam Schrader" calls with 200
+river: 10s, 10c, 9s, Kd [3d]
+"Sam Schrader" checks
+"Cole Ford" raises with 300
+"Sam Schrader" calls with 300
+"Sam Schrader" wins 1200 with Two Pair, A's & 10's (hand: Ah, Ac)
+"Cole Ford" shows a Kh, 5d.
+-- ending hand #137 --
+-- starting hand #138  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (7475) | "Cole Ford" (4120) | "Team" (3147) | "BigBetch" (9390) | "Durrrwell" (4928)
+Your hand is Qs, Kc
+"Cole Ford" posts a small blind of 20
+"Mike Padden" posts a big blind of 40
+"Jack Betcher" raises with 120
+"Cole Stephens" raises with 380
+"Sam Schrader" folds
+"Cole Ford" folds
+"Mike Padden" folds
+"Jack Betcher" calls with 380
+flop:  [8d, Qd, 4s]
+"Jack Betcher" raises with 169
+"Cole Stephens" calls with 169
+turn: 8d, Qd, 4s [5h]
+"Jack Betcher" raises with 420
+"Cole Stephens" calls with 420
+river: 8d, Qd, 4s, 5h [6h]
+"Jack Betcher" raises with 999
+"Cole Stephens" calls with 999
+"Cole Stephens" wins 3996 with Pair, Q's (hand: Qs, Kc)
+"Jack Betcher" shows a 10h, Ad.
+-- ending hand #138 --
+-- starting hand #139  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (7475) | "Cole Ford" (4100) | "Team" (3107) | "BigBetch" (7422) | "Durrrwell" (6956)
+Your hand is 6c, 8c
+"Mike Padden" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" raises with 200
+"Mike Padden" calls with 200
+"Jack Betcher" folds
+"Cole Stephens" calls with 200
+flop:  [Qc, 5s, 2h]
+"Mike Padden" checks
+"Cole Stephens" checks
+"Cole Ford" raises with 200
+"Mike Padden" folds
+"Cole Stephens" raises with 650
+"Cole Ford" calls with 650
+turn: Qc, 5s, 2h [7h]
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Qc, 5s, 2h, 7h [Js]
+"Cole Stephens" raises with 970
+"Cole Ford" raises with 1940
+"Cole Stephens" folds
+"Cole Ford" gained 3880
+-- ending hand #139 --
+"Cole Ford" shows a Qd, Jd.
+-- starting hand #140  (Texas Hold'em) (dealer: "Mike Padden") [5-handed] --
+Players stacks: "Sam" (7475) | "Cole Ford" (6160) | "Team" (2907) | "BigBetch" (7382) | "Durrrwell" (5136)
+Your hand is Ah, Qd
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Mike Padden" folds
+"Jack Betcher" calls with 40
+"Cole Stephens" raises with 210
+"Cole Ford" calls with 210
+"Jack Betcher" folds
+flop:  [9c, 4c, Ad]
+"Cole Stephens" raises with 230
+"Cole Ford" calls with 230
+turn: 9c, 4c, Ad [Ac]
+"Cole Stephens" raises with 690
+"Cole Ford" folds
+"Cole Stephens" gained 920
+-- ending hand #140 --
+"Cole Ford" shows a 5d, 2d.
+"Cole Stephens" shows a Ah, Qd.
+-- starting hand #141  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Players stacks: "Sam" (7475) | "Cole Ford" (5720) | "Team" (2907) | "BigBetch" (7342) | "Durrrwell" (5616)
+Your hand is 6c, 7s
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Mike Padden" folds
+"Jack Betcher" calls with 40
+"Cole Stephens" calls with 40
+"Sam Schrader" raises with 200
+"Cole Ford" raises with 360
+"Jack Betcher" calls with 360
+"Cole Stephens" folds
+"Sam Schrader" folds
+flop:  [Qs, 2c, 6d]
+"Cole Ford" checks
+"Jack Betcher" checks
+turn: Qs, 2c, 6d [Ac]
+"Cole Ford" checks
+"Jack Betcher" checks
+river: Qs, 2c, 6d, Ac [Ad]
+"Cole Ford" checks
+"Jack Betcher" checks
+"Cole Ford" wins 960 with Two Pair, A's & Q's (hand: Qd, Kc)
+-- ending hand #141 --
+"Jack Betcher" shows a 10h, Jh.
+-- starting hand #142  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Players stacks: "Sam" (7275) | "Cole Ford" (6320) | "Team" (2907) | "BigBetch" (6982) | "Durrrwell" (5576)
+Your hand is 6c, Qc
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Mike Padden" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 240
+"Sam Schrader" raises with 600
+"Cole Ford" folds
+"Mike Padden" calls with 600
+"Cole Stephens" folds
+flop:  [5c, 6s, As]
+"Sam Schrader" checks
+"Mike Padden" checks
+turn: 5c, 6s, As [2c]
+"Sam Schrader" checks
+"Mike Padden" calls with 40
+"Sam Schrader" raises with 440
+"Mike Padden" calls with 440
+river: 5c, 6s, As, 2c [5s]
+"Sam Schrader" raises with 1000
+"Mike Padden" calls with 1000
+"Sam Schrader" wins 4360 with Two Pair, A's & 5's (hand: Ad, Ks)
+-- ending hand #142 --
+-- starting hand #143  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (9595) | "Cole Ford" (6280) | "Team" (867) | "BigBetch" (6982) | "Durrrwell" (5336)
+Your hand is 10s, 4h
+"Cole Ford" posts a small blind of 20
+"Mike Padden" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Mike Padden" checks
+flop:  [Ac, 3s, Ad]
+"Cole Ford" checks
+"Mike Padden" checks
+turn: Ac, 3s, Ad [10d]
+"Cole Ford" checks
+"Mike Padden" checks
+river: Ac, 3s, Ad, 10d [9c]
+"Cole Ford" checks
+"Mike Padden" checks
+"Mike Padden" wins 80 with Two Pair, A's & 8's (hand: 8h, 8d)
+"Cole Ford" shows a 4s, Kc.
+-- ending hand #143 --
+-- starting hand #144  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (9595) | "Cole Ford" (6240) | "Team" (907) | "BigBetch" (6982) | "Durrrwell" (5336)
+Your hand is Kd, 8s
+"Mike Padden" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Mike Padden" calls with 40
+"Jack Betcher" raises with 120
+"Mike Padden" calls with 120
+flop:  [3s, 3c, 8d]
+"Mike Padden" checks
+"Jack Betcher" raises with 169
+"Mike Padden" calls with 169
+turn: 3s, 3c, 8d [Ac]
+"Mike Padden" checks
+"Jack Betcher" raises with 618
+"Mike Padden" folds
+"Jack Betcher" gained 578
+-- ending hand #144 --
+"Jack Betcher" shows a Qc, 8c.
+-- starting hand #145  (Texas Hold'em) (dealer: "Mike Padden") [5-handed] --
+Players stacks: "Sam" (9595) | "Cole Ford" (6240) | "Team" (618) | "BigBetch" (7271) | "Durrrwell" (5336)
+Your hand is 6d, 4c
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Mike Padden" calls with 100
+"Jack Betcher" folds
+"Cole Stephens" calls with 100
+flop:  [4h, 8d, 9s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Mike Padden" checks
+turn: 4h, 8d, 9s [2c]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Mike Padden" checks
+river: 4h, 8d, 9s, 2c [9d]
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" folds
+"Mike Padden" calls with 120
+"Cole Stephens" wins 660 with Two Pair, 9's & 4's (hand: 6d, 4c)
+-- ending hand #145 --
+-- starting hand #146  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Players stacks: "Sam" (9495) | "Cole Ford" (6140) | "Team" (398) | "BigBetch" (7251) | "Durrrwell" (5776)
+Your hand is As, 3d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Mike Padden" raises and all in with 398
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" calls with 398
+"Cole Ford" calls with 398
+flop:  [Ad, Qc, 9d]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Ad, Qc, 9d [Jd]
+"Sam Schrader" raises with 500
+"Cole Ford" calls with 500
+river: Ad, Qc, 9d, Jd [7d]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Mike Padden" wins 1214 with Straight, A High (hand: 10h, Kh)
+"Cole Ford" wins 1000 with Pair, Q's (hand: Qh, 10s)
+"Sam Schrader" shows a Ks, 9s.
+-- ending hand #146 --
+-- starting hand #147  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Players stacks: "Sam" (8597) | "Cole Ford" (6242) | "Team" (1214) | "BigBetch" (7251) | "Durrrwell" (5756)
+Your hand is 2s, 7d
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Mike Padden" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" calls with 40
+"Cole Ford" checks
+flop:  [5d, Ac, Kc]
+"Sam Schrader" checks
+"Cole Ford" calls with 40
+"Mike Padden" calls with 40
+"Jack Betcher" raises with 169
+"Sam Schrader" folds
+"Cole Ford" calls with 169
+"Mike Padden" calls with 169
+turn: 5d, Ac, Kc [7c]
+"Cole Ford" checks
+"Mike Padden" checks
+"Jack Betcher" checks
+river: 5d, Ac, Kc, 7c [7s]
+"Cole Ford" checks
+"Mike Padden" raises with 320
+"Jack Betcher" calls with 320
+"Cole Ford" folds
+"Mike Padden" wins 1307 with Two Pair, A's & 7's (hand: Ad, 2c)
+-- ending hand #147 --
+"Cole Ford" shows a Js, 10h.
+-- starting hand #148  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (8557) | "Cole Ford" (6033) | "Team" (1992) | "BigBetch" (6722) | "Durrrwell" (5756)
+Your hand is Ac, 8s
+"Cole Ford" posts a small blind of 20
+"Mike Padden" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 140
+"Sam Schrader" folds
+"Cole Ford" folds
+"Mike Padden" folds
+"Cole Stephens" gained 100
+-- ending hand #148 --
+"Cole Stephens" shows a Ac, 8s.
+"Sam Schrader" shows a 10h, 2s.
+"Cole Ford" shows a Qc, 3h.
+"Jack Betcher" shows a 8d, 4s.
+-- starting hand #149  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (8557) | "Cole Ford" (6013) | "Team" (1952) | "BigBetch" (6722) | "Durrrwell" (5816)
+Your hand is 5h, Qs
+"Mike Padden" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Mike Padden" calls with 100
+"Jack Betcher" folds
+flop:  [Kd, Kc, 9c]
+"Mike Padden" checks
+"Sam Schrader" raises with 120
+"Cole Ford" folds
+"Mike Padden" calls with 120
+turn: Kd, Kc, 9c [8h]
+"Mike Padden" checks
+"Sam Schrader" raises with 220
+"Mike Padden" folds
+"Sam Schrader" gained 580
+-- ending hand #149 --
+-- starting hand #150  (Texas Hold'em) (dealer: "Mike Padden") [5-handed] --
+Players stacks: "Sam" (8917) | "Cole Ford" (5913) | "Team" (1732) | "BigBetch" (6682) | "Durrrwell" (5816)
+Your hand is 3c, 10h
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Mike Padden" folds
+"Jack Betcher" folds
+"Cole Stephens" folds
+flop:  [Qd, Ks, 7c]
+"Sam Schrader" checks
+"Cole Ford" raises with 195
+"Sam Schrader" calls with 195
+turn: Qd, Ks, 7c [4s]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Qd, Ks, 7c, 4s [9c]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" wins 650 with Pair, K's (hand: Kd, 10d)
+"Sam Schrader" shows a Jd, Js.
+-- ending hand #150 --
+-- starting hand #151  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Players stacks: "Sam" (8622) | "Cole Ford" (6268) | "Team" (1732) | "BigBetch" (6662) | "Durrrwell" (5776)
+Your hand is 4c, 7c
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Mike Padden" folds
+"Jack Betcher" calls with 40
+"Cole Stephens" calls with 40
+"Sam Schrader" raises with 200
+"Cole Ford" calls with 200
+"Jack Betcher" calls with 200
+"Cole Stephens" calls with 200
+flop:  [6d, 4s, 9s]
+"Cole Stephens" checks
+"Sam Schrader" raises with 500
+"Cole Ford" folds
+"Jack Betcher" raises with 1000
+"Cole Stephens" folds
+"Sam Schrader" calls with 1000
+turn: 6d, 4s, 9s [10d]
+"Sam Schrader" checks
+"Jack Betcher" raises with 1400
+"Sam Schrader" raises and all in with 7422
+"Jack Betcher" calls and all in with 5462
+river: 6d, 4s, 9s, 10d [5h]
+"Sam Schrader" shows a Qs, Js.
+"Jack Betcher" shows a Qd, 9d.
+"Jack Betcher" wins 13724 with Pair, 9's (hand: Qd, 9d)
+-- ending hand #151 --
+-- starting hand #152  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Players stacks: "Sam" (1960) | "Cole Ford" (6068) | "Team" (1732) | "BigBetch" (13724) | "Durrrwell" (5576)
+Your hand is Qd, Kh
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Mike Padden" calls with 40
+"Jack Betcher" folds
+WARNING: the admin queued the stack change for the player "Sam Schrader" to 6960 in the next hand.
+"Cole Stephens" raises with 160
+"Sam Schrader" folds
+"Cole Ford" raises with 280
+"Mike Padden" folds
+"Cole Stephens" raises with 900
+"Cole Ford" calls with 900
+flop:  [5d, 2c, 9s]
+"Cole Ford" checks
+"Cole Stephens" raises with 930
+"Cole Ford" folds
+"Cole Stephens" gained 1860
+-- ending hand #152 --
+The admin updated the player "Sam Schrader" stack from 1940 to 6960.
+-- starting hand #153  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (6960) | "Cole Ford" (5168) | "Team" (1692) | "BigBetch" (13724) | "Durrrwell" (6536)
+Your hand is 9s, 5d
+"Cole Ford" posts a small blind of 20
+"Mike Padden" posts a big blind of 40
+"Jack Betcher" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" calls with 40
+"Cole Ford" calls with 40
+"Mike Padden" checks
+flop:  [Kd, Jh, Jc]
+"Cole Ford" checks
+"Mike Padden" checks
+"Jack Betcher" raises with 69
+"Sam Schrader" folds
+"Cole Ford" folds
+"Mike Padden" calls with 69
+turn: Kd, Jh, Jc [4h]
+"Mike Padden" checks
+"Jack Betcher" raises with 169
+"Mike Padden" calls with 169
+river: Kd, Jh, Jc, 4h [3d]
+"Mike Padden" calls with 40
+"Jack Betcher" raises with 398
+"Mike Padden" calls with 398
+"Jack Betcher" wins 1432 with Two Pair, A's & J's (hand: As, Ah)
+-- ending hand #153 --
+-- starting hand #154  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (6920) | "Cole Ford" (5128) | "Team" (1016) | "BigBetch" (14480) | "Durrrwell" (6536)
+Your hand is 5d, 7d
+"Mike Padden" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" calls with 40
+"Sam Schrader" raises with 120
+"Cole Ford" calls with 120
+"Mike Padden" calls with 120
+"Jack Betcher" folds
+"Cole Stephens" raises with 540
+"Sam Schrader" folds
+"Cole Ford" folds
+"Mike Padden" calls with 540
+flop:  [Ad, 8d, 10d]
+"Mike Padden" checks
+"Cole Stephens" raises with 220
+"Mike Padden" calls with 220
+turn: Ad, 8d, 10d [Jd]
+"Mike Padden" checks
+"Cole Stephens" raises and all in with 5776
+"Mike Padden" folds
+"Cole Stephens" gained 1800
+-- ending hand #154 --
+-- starting hand #155  (Texas Hold'em) (dealer: "Mike Padden") [5-handed] --
+Players stacks: "Sam" (6800) | "Cole Ford" (5008) | "Team" (256) | "BigBetch" (14440) | "Durrrwell" (7576)
+Your hand is Ac, 3h
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Mike Padden" folds
+"Jack Betcher" folds
+"Cole Stephens" raises with 120
+"Cole Ford" calls with 120
+flop:  [2h, 5s, Kh]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 2h, 5s, Kh [Qc]
+"Cole Stephens" checks
+"Cole Ford" raises with 130
+"Cole Stephens" folds
+"Cole Ford" gained 260
+-- ending hand #155 --
+"Cole Ford" shows a Qd, 3s.
+-- starting hand #156  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Players stacks: "Sam" (6800) | "Cole Ford" (5148) | "Team" (256) | "BigBetch" (14420) | "Durrrwell" (7456)
+Your hand is Qd, As
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Mike Padden" raises and all in with 256
+"Jack Betcher" folds
+"Cole Stephens" raises with 600
+"Sam Schrader" folds
+"Cole Ford" folds
+flop:  [Jd, 10s, Ac]
+"Mike Padden" shows a 4h, Kh.
+"Cole Stephens" shows a Qd, As.
+turn: Jd, 10s, Ac [Qc]
+river: Jd, 10s, Ac, Qc [2h]
+"Mike Padden" wins 592 with Straight, A High (hand: 4h, Kh)
+-- ending hand #156 --
+-- starting hand #157  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Players stacks: "Sam" (6760) | "Cole Ford" (5108) | "Team" (592) | "BigBetch" (14420) | "Durrrwell" (7200)
+Your hand is Qh, Jd
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Mike Padden" folds
+"Jack Betcher" calls with 40
+"Cole Stephens" raises with 280
+"Sam Schrader" folds
+"Cole Ford" calls with 280
+"Jack Betcher" folds
+flop:  [6d, Jc, 5s]
+"Cole Ford" checks
+"Cole Stephens" raises with 350
+"Cole Ford" folds
+"Cole Stephens" gained 620
+-- ending hand #157 --
+-- starting hand #158  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Players stacks: "Sam" (6740) | "Cole Ford" (4828) | "Team" (592) | "BigBetch" (14380) | "Durrrwell" (7540)
+Your hand is 4h, 6s
+"Cole Ford" posts a small blind of 20
+"Mike Padden" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Mike Padden" calls with 100
+flop:  [5d, As, Ac]
+"Cole Ford" raises with 40
+"Mike Padden" calls with 40
+"Sam Schrader" folds
+turn: 5d, As, Ac [3c]
+"Cole Ford" calls with 40
+"Mike Padden" calls with 40
+river: 5d, As, Ac, 3c [7c]
+"Cole Ford" calls with 40
+"Mike Padden" calls with 40
+"Cole Ford" wins 540 with Two Pair, A's & 3's (hand: Kc, 3h)
+-- ending hand #158 --
+"Mike Padden" shows a Jh, 2h.
+-- starting hand #159  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Players stacks: "Sam" (6640) | "Cole Ford" (5148) | "Team" (372) | "BigBetch" (14380) | "Durrrwell" (7540)
+Your hand is 3d, 3c
+"Mike Padden" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 100
+"Sam Schrader" calls with 100
+"Cole Ford" calls with 100
+"Mike Padden" calls with 100
+"Jack Betcher" raises with 500
+"Cole Stephens" calls with 500
+"Sam Schrader" folds
+"Cole Ford" calls with 500
+"Mike Padden" calls and all in with 372
+flop:  [As, 8h, 5c]
+"Jack Betcher" raises with 420
+"Cole Stephens" folds
+"Cole Ford" calls with 420
+turn: As, 8h, 5c [5s]
+"Jack Betcher" raises with 1406
+"Cole Ford" raises with 2812
+"Jack Betcher" calls with 2812
+river: As, 8h, 5c, 5s [Ks]
+"Jack Betcher" checks
+"Cole Ford" raises and all in with 1416
+"Jack Betcher" calls with 1416
+"Cole Ford" wins 11268 with Flush, As High (hand: 8s, Js)
+"Mike Padden" shows a Ac, Qs.
+"Jack Betcher" shows a Ah, Kd.
+-- ending hand #159 --
+The player "Mike Padden" quits the game with a stack of 0.
+-- starting hand #160  (Texas Hold'em) (dead button) [4-handed] --
+Players stacks: "Sam" (6540) | "Cole Ford" (11268) | "BigBetch" (9232) | "Durrrwell" (7040)
+Your hand is 9h, 7d
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" checks
+flop:  [Qc, 3s, 6s]
+"Jack Betcher" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: Qc, 3s, 6s [7c]
+"Jack Betcher" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Qc, 3s, 6s, 7c [5s]
+"Jack Betcher" checks
+"Cole Stephens" checks
+"Cole Ford" raises with 120
+"Jack Betcher" calls with 120
+"Cole Stephens" calls with 120
+"Cole Ford" wins 480 with Straight, 7 High (hand: 2h, 4h)
+-- ending hand #160 --
+-- starting hand #161  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (6540) | "Cole Ford" (11588) | "BigBetch" (9072) | "Durrrwell" (6880)
+Your hand is Kd, 5d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" calls with 40
+"Sam Schrader" checks
+flop:  [7s, 8s, 10s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+turn: 7s, 8s, 10s [7d]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+river: 7s, 8s, 10s, 7d [6s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+"Cole Ford" wins 160 with Flush, 10s High (hand: 5s, 6c)
+"Cole Stephens" shows a Kd, 5d.
+"Sam Schrader" shows a Ah, 8d.
+-- ending hand #161 --
+"Jack Betcher" shows a 3c, 3s.
+-- starting hand #162  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (6500) | "Cole Ford" (11708) | "BigBetch" (9032) | "Durrrwell" (6840)
+Your hand is 4c, 4d
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 110
+"Sam Schrader" calls with 110
+"Cole Ford" folds
+flop:  [Jc, 3d, 3h]
+"Sam Schrader" checks
+"Cole Stephens" raises with 80
+"Sam Schrader" calls with 80
+turn: Jc, 3d, 3h [Qc]
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: Jc, 3d, 3h, Qc [Ah]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" wins 420 with Two Pair, J's & 3's (hand: Js, 9d)
+-- ending hand #162 --
+-- starting hand #163  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (6730) | "Cole Ford" (11668) | "BigBetch" (9032) | "Durrrwell" (6650)
+Your hand is Kc, 10s
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+"Jack Betcher" folds
+flop:  [Qs, 7s, Ac]
+"Cole Ford" checks
+"Cole Stephens" raises with 120
+"Cole Ford" calls with 120
+turn: Qs, 7s, Ac [Qd]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Qs, 7s, Ac, Qd [Ks]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 520 with Two Pair, K's & Q's (hand: Kc, 10s)
+"Cole Ford" shows a 3s, 7d.
+-- ending hand #163 --
+-- starting hand #164  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (6730) | "Cole Ford" (11428) | "BigBetch" (8992) | "Durrrwell" (6930)
+Your hand is 9s, 3d
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 120
+"Cole Stephens" folds
+"Cole Ford" calls with 120
+flop:  [10d, 3h, 8s]
+"Jack Betcher" checks
+"Cole Ford" checks
+turn: 10d, 3h, 8s [4h]
+"Jack Betcher" raises with 69
+"Cole Ford" folds
+"Jack Betcher" gained 280
+-- ending hand #164 --
+"Jack Betcher" shows a 6h, 5s.
+-- starting hand #165  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (6730) | "Cole Ford" (11308) | "BigBetch" (9152) | "Durrrwell" (6890)
+Your hand is Qd, 6s
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" calls with 40
+"Sam Schrader" checks
+flop:  [5c, 7d, 4d]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" raises with 120
+"Cole Stephens" raises with 400
+"Sam Schrader" folds
+"Cole Ford" raises and all in with 11268
+"Cole Stephens" folds
+"Cole Ford" gained 920
+-- ending hand #165 --
+"Cole Ford" shows a 3s, 6c.
+"Cole Stephens" shows a Qd, 6s.
+-- starting hand #166  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (6690) | "Cole Ford" (11788) | "BigBetch" (9152) | "Durrrwell" (6450)
+Your hand is 3h, 5h
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+flop:  [4c, 2d, Kd]
+"Cole Ford" checks
+"Cole Stephens" raises with 130
+"Cole Ford" folds
+"Cole Stephens" gained 260
+-- ending hand #166 --
+"Cole Ford" shows a 3c, Qs.
+"Cole Stephens" shows a 3h, 5h.
+-- starting hand #167  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (6670) | "Cole Ford" (11668) | "BigBetch" (9152) | "Durrrwell" (6590)
+Your hand is 3d, 2d
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+"Jack Betcher" calls with 120
+flop:  [8c, 10h, Jh]
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 260
+"Cole Stephens" folds
+"Cole Ford" folds
+"Jack Betcher" gained 440
+-- ending hand #167 --
+-- starting hand #168  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (6670) | "Cole Ford" (11508) | "BigBetch" (9432) | "Durrrwell" (6470)
+Your hand is Ad, Jh
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Jack Betcher" folds
+"Cole Stephens" raises with 450
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 320
+-- ending hand #168 --
+"Cole Ford" shows a Jd, 7s.
+"Cole Stephens" shows a Ad, Jh.
+"Sam Schrader" shows a 3c, Kc.
+-- starting hand #169  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (6570) | "Cole Ford" (11408) | "BigBetch" (9412) | "Durrrwell" (6690)
+Your hand is 10d, Ah
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 160
+"Sam Schrader" folds
+"Cole Ford" calls with 160
+flop:  [6c, Js, 7c]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 6c, Js, 7c [4c]
+"Cole Stephens" checks
+"Cole Ford" checks
+river: 6c, Js, 7c, 4c [10c]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" wins 360 with Pair, 10's (hand: 10d, Ah)
+-- ending hand #169 --
+"Cole Ford" shows a 2h, 2d.
+-- starting hand #170  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (6530) | "Cole Ford" (11248) | "BigBetch" (9412) | "Durrrwell" (6890)
+Your hand is 3d, 10d
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" raises with 120
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+flop:  [Ks, 7s, 7h]
+"Cole Ford" checks
+"Jack Betcher" checks
+turn: Ks, 7s, 7h [2c]
+"Cole Ford" checks
+"Jack Betcher" checks
+river: Ks, 7s, 7h, 2c [7d]
+"Cole Ford" checks
+"Jack Betcher" raises with 130
+"Cole Ford" folds
+"Jack Betcher" gained 260
+-- ending hand #170 --
+-- starting hand #171  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (6510) | "Cole Ford" (11128) | "BigBetch" (9552) | "Durrrwell" (6890)
+Your hand is Qd, 4c
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Jack Betcher" folds
+flop:  [2h, 3d, 3c]
+"Cole Ford" checks
+"Sam Schrader" raises with 60
+"Cole Ford" folds
+"Sam Schrader" gained 240
+-- ending hand #171 --
+"Sam Schrader" shows a Ad, Jh.
+"Cole Ford" shows a 10c, 6s.
+-- starting hand #172  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (6650) | "Cole Ford" (11028) | "BigBetch" (9512) | "Durrrwell" (6890)
+Your hand is 8c, Jc
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 120
+"Cole Ford" calls with 120
+flop:  [2s, 3s, Ah]
+"Cole Stephens" raises with 110
+"Cole Ford" folds
+"Cole Stephens" gained 260
+-- ending hand #172 --
+-- starting hand #173  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (6650) | "Cole Ford" (10908) | "BigBetch" (9492) | "Durrrwell" (7030)
+Your hand is 5h, 8s
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Qh, 9c, 8h]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+turn: Qh, 9c, 8h [4s]
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+"Jack Betcher" folds
+river: Qh, 9c, 8h, 4s [5c]
+"Sam Schrader" raises with 120
+"Cole Ford" folds
+"Sam Schrader" gained 260
+-- ending hand #173 --
+"Cole Ford" shows a 4d, Kc.
+-- starting hand #174  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (6810) | "Cole Ford" (10808) | "BigBetch" (9452) | "Durrrwell" (7010)
+Your hand is 6s, Kd
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" raises with 80
+"Cole Ford" calls with 80
+flop:  [Qs, 4c, Ad]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Qs, 4c, Ad [2h]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Qs, 4c, Ad, 2h [2d]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 160 with Pair, 2's (hand: Ks, 9h)
+-- ending hand #174 --
+-- starting hand #175  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (6890) | "Cole Ford" (10728) | "BigBetch" (9452) | "Durrrwell" (7010)
+Your hand is Kc, 7d
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" checks
+flop:  [Qd, Ah, 9c]
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Ford" gained 80
+-- ending hand #175 --
+-- starting hand #176  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (6890) | "Cole Ford" (10768) | "BigBetch" (9412) | "Durrrwell" (7010)
+Your hand is Jc, Qc
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 120
+"Cole Ford" calls with 120
+flop:  [6c, Kc, Js]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 6c, Kc, Js [4h]
+"Cole Stephens" raises with 170
+"Cole Ford" calls with 170
+river: 6c, Kc, Js, 4h [10d]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" wins 600 with Pair, J's (hand: Jc, Qc)
+-- ending hand #176 --
+-- starting hand #177  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (6890) | "Cole Ford" (10478) | "BigBetch" (9392) | "Durrrwell" (7320)
+Your hand is Kh, Jd
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 200
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 120
+-- ending hand #177 --
+"Cole Stephens" shows a Kh, Jd.
+"Cole Ford" shows a 7d, 2h.
+"Sam Schrader" shows a 2s, 10s.
+"Jack Betcher" shows a 6s, 8c.
+-- starting hand #178  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (6850) | "Cole Ford" (10438) | "BigBetch" (9392) | "Durrrwell" (7400)
+Your hand is Jc, 4h
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+flop:  [Ah, Qh, 5c]
+"Sam Schrader" raises with 80
+"Cole Ford" raises with 160
+"Sam Schrader" calls with 160
+turn: Ah, Qh, 5c [8h]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ah, Qh, 5c, 8h [Ks]
+"Sam Schrader" checks
+"Cole Ford" raises with 520
+"Sam Schrader" folds
+"Cole Ford" gained 520
+-- ending hand #178 --
+"Cole Ford" shows a 5h, Kh.
+-- starting hand #179  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (6590) | "Cole Ford" (10698) | "BigBetch" (9392) | "Durrrwell" (7400)
+Your hand is Ks, 8d
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 120
+"Sam Schrader" calls with 120
+"Cole Ford" calls with 120
+"Jack Betcher" calls with 120
+flop:  [3d, 8s, 3h]
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" raises with 300
+"Sam Schrader" folds
+"Cole Ford" folds
+"Jack Betcher" folds
+"Cole Stephens" gained 600
+-- ending hand #179 --
+-- starting hand #180  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (6470) | "Cole Ford" (10538) | "BigBetch" (9232) | "Durrrwell" (7840)
+Your hand is 9d, 4c
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Jack Betcher" folds
+"Cole Stephens" folds
+flop:  [10s, 8c, 8h]
+"Sam Schrader" raises with 120
+"Cole Ford" calls with 120
+turn: 10s, 8c, 8h [Js]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 10s, 8c, 8h, Js [9c]
+"Sam Schrader" checks
+"Cole Ford" raises with 40
+"Sam Schrader" calls with 40
+"Sam Schrader" wins 580 with Two Pair, 10's & 8's (hand: 10c, Ah)
+"Cole Ford" shows a 3h, Ac.
+-- ending hand #180 --
+-- starting hand #181  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (6790) | "Cole Ford" (10278) | "BigBetch" (9212) | "Durrrwell" (7800)
+Your hand is Qs, 4d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Ac, Kh, Ks]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+turn: Ac, Kh, Ks [Js]
+"Sam Schrader" checks
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+river: Ac, Kh, Ks, Js [9s]
+"Cole Ford" checks
+"Jack Betcher" checks
+"Cole Ford" wins 190 with Two Pair, A's & K's (hand: Ah, 8c)
+"Jack Betcher" wins 190 with Two Pair, A's & K's (hand: 7s, Ad)
+-- ending hand #181 --
+-- starting hand #182  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (6750) | "Cole Ford" (10308) | "BigBetch" (9242) | "Durrrwell" (7780)
+Your hand is 5c, 6c
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" calls with 40
+"Sam Schrader" calls with 40
+"Cole Ford" checks
+flop:  [Jc, Qc, Kd]
+"Sam Schrader" checks
+"Cole Ford" raises with 120
+"Cole Stephens" calls with 120
+"Sam Schrader" folds
+turn: Jc, Qc, Kd [3s]
+"Cole Ford" raises with 180
+"Cole Stephens" raises with 400
+"Cole Ford" calls with 400
+river: Jc, Qc, Kd, 3s [2h]
+"Cole Ford" checks
+"Cole Stephens" raises with 840
+"Cole Ford" folds
+"Cole Stephens" gained 1160
+-- ending hand #182 --
+"Cole Ford" shows a 10h, Qd.
+"Cole Stephens" shows a 5c, 6c.
+-- starting hand #183  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (6710) | "Cole Ford" (9748) | "BigBetch" (9242) | "Durrrwell" (8380)
+Your hand is 10c, 8c
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" raises with 200
+"Jack Betcher" folds
+"Cole Stephens" calls with 200
+flop:  [7s, Jd, 3h]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 7s, Jd, 3h [3c]
+"Cole Ford" calls with 40
+"Cole Stephens" calls with 40
+river: 7s, Jd, 3h, 3c [5d]
+"Cole Ford" calls with 40
+"Cole Stephens" folds
+"Cole Ford" gained 520
+-- ending hand #183 --
+-- starting hand #184  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (6710) | "Cole Ford" (10028) | "BigBetch" (9202) | "Durrrwell" (8140)
+Your hand is 5d, 6h
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" calls with 40
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 120
+"Cole Stephens" folds
+"Sam Schrader" calls with 120
+"Cole Ford" calls with 120
+flop:  [5c, 4d, 9s]
+"Jack Betcher" checks
+"Sam Schrader" raises with 180
+"Cole Ford" folds
+"Jack Betcher" calls with 180
+turn: 5c, 4d, 9s [Kd]
+"Jack Betcher" checks
+"Sam Schrader" checks
+river: 5c, 4d, 9s, Kd [2s]
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Sam Schrader" wins 760 with Pair, 9's (hand: 9h, 8s)
+"Jack Betcher" shows a As, 10h.
+-- ending hand #184 --
+-- starting hand #185  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (7170) | "Cole Ford" (9908) | "BigBetch" (8902) | "Durrrwell" (8100)
+Your hand is Kc, 5h
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" raises with 80
+"Jack Betcher" raises with 420
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 420
+flop:  [9d, 9s, 6h]
+"Cole Ford" checks
+"Jack Betcher" raises with 369
+"Cole Ford" calls with 369
+turn: 9d, 9s, 6h [Qc]
+"Cole Ford" checks
+"Jack Betcher" raises with 819
+"Cole Ford" calls with 819
+river: 9d, 9s, 6h, Qc [6d]
+"Cole Ford" checks
+"Jack Betcher" checks
+"Cole Ford" wins 3276 with Four of a Kind, 6's (hand: 6s, 6c)
+-- ending hand #185 --
+-- starting hand #186  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (7130) | "Cole Ford" (11576) | "BigBetch" (7294) | "Durrrwell" (8080)
+Your hand is 10h, Qc
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+flop:  [4c, As, 6h]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 4c, As, 6h [3s]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 4c, As, 6h, 3s [5d]
+"Cole Ford" calls with 40
+"Cole Stephens" folds
+"Cole Ford" gained 260
+-- ending hand #186 --
+"Cole Stephens" shows a 10h, Qc.
+"Sam Schrader" shows a 2d, 7d.
+"Cole Ford" shows a Qd, 5s.
+-- starting hand #187  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (7110) | "Cole Ford" (11716) | "BigBetch" (7294) | "Durrrwell" (7960)
+Your hand is Js, 5c
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" checks
+flop:  [10h, 6d, 3h]
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Ford" gained 80
+-- ending hand #187 --
+-- starting hand #188  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (7110) | "Cole Ford" (11756) | "BigBetch" (7254) | "Durrrwell" (7960)
+Your hand is 5c, 3h
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" folds
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 100
+-- ending hand #188 --
+"Sam Schrader" shows a 9s, Ah.
+"Cole Stephens" shows a 5c, 3h.
+"Cole Ford" shows a 7s, 2h.
+"Jack Betcher" shows a 10d, 4c.
+-- starting hand #189  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (7170) | "Cole Ford" (11756) | "BigBetch" (7234) | "Durrrwell" (7920)
+Your hand is 2h, 4d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" calls with 40
+"Sam Schrader" checks
+flop:  [Kd, 5s, 7h]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" raises with 80
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" calls with 80
+turn: Kd, 5s, 7h [10d]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Kd, 5s, 7h, 10d [5d]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" wins 320 with Two Pair, K's & 5's (hand: Ks, 6c)
+"Sam Schrader" shows a 8d, 9h.
+-- ending hand #189 --
+-- starting hand #190  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (7050) | "Cole Ford" (11956) | "BigBetch" (7194) | "Durrrwell" (7880)
+Your hand is 4h, 2s
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" calls with 40
+"Cole Ford" raises with 80
+"Sam Schrader" calls with 80
+flop:  [8d, 2h, 5d]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8d, 2h, 5d [Ad]
+"Sam Schrader" folds
+"Cole Ford" gained 160
+-- ending hand #190 --
+-- starting hand #191  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (6970) | "Cole Ford" (12036) | "BigBetch" (7194) | "Durrrwell" (7880)
+Your hand is Ac, 4h
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+"Jack Betcher" calls with 120
+flop:  [2s, Kc, 5d]
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" calls with 40
+turn: 2s, Kc, 5d [3s]
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" calls with 40
+river: 2s, Kc, 5d, 3s [Jh]
+"Cole Ford" calls with 40
+"Cole Stephens" raises with 520
+"Cole Ford" folds
+"Cole Stephens" gained 640
+-- ending hand #191 --
+"Cole Ford" shows a 4c, 3c.
+"Cole Stephens" shows a Ac, 4h.
+-- starting hand #192  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (6970) | "Cole Ford" (11796) | "BigBetch" (7034) | "Durrrwell" (8280)
+Your hand is 10c, Qh
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Jack Betcher" folds
+"Cole Stephens" calls with 100
+flop:  [4s, 3d, Ad]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" raises with 320
+"Cole Stephens" folds
+"Sam Schrader" raises with 840
+"Cole Ford" calls with 840
+turn: 4s, 3d, Ad [8c]
+"Sam Schrader" raises with 1200
+"Cole Ford" folds
+"Sam Schrader" gained 2000
+-- ending hand #192 --
+"Cole Stephens" shows a 10c, Qh.
+"Cole Ford" shows a Ac, Qd.
+-- starting hand #193  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (8030) | "Cole Ford" (10856) | "BigBetch" (7014) | "Durrrwell" (8180)
+Your hand is 5s, 10d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" calls with 40
+"Sam Schrader" checks
+flop:  [9s, 5d, 7s]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 9s, 5d, 7s [Qh]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 9s, 5d, 7s, Qh [7c]
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" wins 120 with Two Pair, 7's & 5's (hand: 5s, 10d)
+-- ending hand #193 --
+-- starting hand #194  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (7990) | "Cole Ford" (10816) | "BigBetch" (7014) | "Durrrwell" (8260)
+Your hand is 2h, 8d
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" calls with 40
+"Cole Ford" checks
+flop:  [Qh, Kh, Jc]
+"Sam Schrader" checks
+"Cole Ford" calls with 40
+"Sam Schrader" calls with 40
+turn: Qh, Kh, Jc [Jd]
+"Sam Schrader" checks
+"Cole Ford" raises with 160
+"Sam Schrader" folds
+"Cole Ford" gained 160
+-- ending hand #194 --
+"Cole Ford" shows a 10s, Kd.
+-- starting hand #195  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (7910) | "Cole Ford" (10896) | "BigBetch" (7014) | "Durrrwell" (8260)
+Your hand is Ks, 2h
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+"Jack Betcher" folds
+flop:  [10s, 3s, 6h]
+"Cole Ford" calls with 40
+"Sam Schrader" calls with 40
+turn: 10s, 3s, 6h [As]
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 10s, 3s, 6h, As [9d]
+"Cole Ford" checks
+"Sam Schrader" checks
+"Cole Ford" wins 320 with Pair, 3's (hand: 5s, 3c)
+-- ending hand #195 --
+-- starting hand #196  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (7770) | "Cole Ford" (11076) | "BigBetch" (6974) | "Durrrwell" (8260)
+Your hand is 4d, Jc
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 120
+"Cole Ford" calls with 120
+"Jack Betcher" folds
+"Cole Stephens" folds
+flop:  [6d, 7c, Kd]
+"Sam Schrader" raises with 140
+"Cole Ford" folds
+"Sam Schrader" gained 300
+-- ending hand #196 --
+"Sam Schrader" shows a 8c, Ac.
+"Cole Ford" shows a 10c, 4h.
+-- starting hand #197  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (7950) | "Cole Ford" (10956) | "BigBetch" (6954) | "Durrrwell" (8220)
+Your hand is 6s, 6d
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 120
+"Cole Stephens" calls with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+flop:  [Ah, 10s, 9s]
+"Cole Stephens" checks
+"Cole Ford" raises with 200
+"Jack Betcher" calls with 200
+"Cole Stephens" folds
+turn: Ah, 10s, 9s [Jh]
+"Cole Ford" raises with 40
+"Jack Betcher" raises with 700
+"Cole Ford" calls with 700
+river: Ah, 10s, 9s, Jh [9c]
+"Cole Ford" checks
+"Jack Betcher" raises with 1650
+"Cole Ford" folds
+"Jack Betcher" gained 2200
+-- ending hand #197 --
+"Cole Ford" shows a Jd, 8h.
+-- starting hand #198  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (7910) | "Cole Ford" (9936) | "BigBetch" (8134) | "Durrrwell" (8100)
+Your hand is 9s, Jd
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+flop:  [4h, Ad, 10s]
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 4h, Ad, 10s [3d]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 4h, Ad, 10s, 3d [3c]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 260 with Pair, 3's (hand: 9s, Jd)
+"Cole Ford" shows a 8d, 2s.
+-- ending hand #198 --
+"Sam Schrader" shows a 4c, 6d.
+-- starting hand #199  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (7890) | "Cole Ford" (9816) | "BigBetch" (8134) | "Durrrwell" (8240)
+Your hand is 2s, 8h
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" raises with 120
+"Cole Ford" calls with 120
+"Jack Betcher" calls with 120
+flop:  [Kc, 10c, 8c]
+"Cole Ford" checks
+"Jack Betcher" checks
+"Sam Schrader" checks
+turn: Kc, 10c, 8c [6s]
+"Cole Ford" checks
+"Jack Betcher" checks
+"Sam Schrader" checks
+river: Kc, 10c, 8c, 6s [Qs]
+"Cole Ford" checks
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Jack Betcher" wins 360 with Pair, Q's (hand: 5d, Qd)
+"Cole Ford" shows a 4c, 2d.
+-- ending hand #199 --
+-- starting hand #200  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (7770) | "Cole Ford" (9696) | "BigBetch" (8374) | "Durrrwell" (8240)
+Your hand is 9s, 5d
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" checks
+flop:  [5s, 6h, 4d]
+"Jack Betcher" checks
+"Cole Stephens" raises with 80
+"Cole Ford" folds
+"Jack Betcher" calls with 80
+turn: 5s, 6h, 4d [7d]
+"Jack Betcher" checks
+"Cole Stephens" raises with 140
+"Jack Betcher" calls with 140
+river: 5s, 6h, 4d, 7d [Kc]
+"Jack Betcher" raises with 420
+"Cole Stephens" folds
+"Jack Betcher" gained 560
+-- ending hand #200 --
+"Cole Ford" shows a 3c, 9c.
+"Jack Betcher" shows a 7s, 8c.
+-- starting hand #201  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (7770) | "Cole Ford" (9656) | "BigBetch" (8674) | "Durrrwell" (7980)
+Your hand is 2s, Qh
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [8c, 3c, Jh]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8c, 3c, Jh [3s]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 8c, 3c, Jh, 3s [Ac]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 100 with Two Pair, 8's & 3's (hand: 5h, 8h)
+-- ending hand #201 --
+"Cole Ford" shows a 7d, 10d.
+-- starting hand #202  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (7830) | "Cole Ford" (9616) | "BigBetch" (8674) | "Durrrwell" (7960)
+Your hand is Qh, 7d
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" raises with 120
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+flop:  [8c, 7h, 9c]
+"Cole Ford" checks
+"Jack Betcher" raises with 130
+"Cole Ford" calls with 130
+turn: 8c, 7h, 9c [7s]
+"Cole Ford" checks
+"Jack Betcher" raises with 260
+"Cole Ford" calls with 260
+river: 8c, 7h, 9c, 7s [4d]
+"Cole Ford" raises with 520
+"Jack Betcher" calls with 520
+"Cole Ford" wins 2080 with Straight, J High (hand: Jd, 10s)
+-- ending hand #202 --
+-- starting hand #203  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (7810) | "Cole Ford" (10666) | "BigBetch" (7644) | "Durrrwell" (7960)
+Your hand is 10c, 5s
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" checks
+flop:  [2h, 9d, 6s]
+"Cole Ford" checks
+"Jack Betcher" raises with 80
+"Cole Ford" calls with 80
+turn: 2h, 9d, 6s [10d]
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+river: 2h, 9d, 6s, 10d [6h]
+"Cole Ford" raises with 320
+"Jack Betcher" raises with 1040
+"Cole Ford" folds
+"Jack Betcher" gained 960
+-- ending hand #203 --
+-- starting hand #204  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (7810) | "Cole Ford" (10186) | "BigBetch" (8124) | "Durrrwell" (7960)
+Your hand is 7s, Kd
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" raises with 120
+"Cole Ford" calls with 120
+"Jack Betcher" folds
+"Cole Stephens" folds
+flop:  [7d, Js, 7h]
+"Sam Schrader" raises with 140
+"Cole Ford" calls with 140
+turn: 7d, Js, 7h [4h]
+"Sam Schrader" raises with 220
+"Cole Ford" folds
+"Sam Schrader" gained 580
+-- ending hand #204 --
+"Cole Ford" shows a As, 2s.
+"Sam Schrader" shows a Ks, Jd.
+"Cole Stephens" shows a 7s, Kd.
+"Jack Betcher" shows a 3d, 9d.
+-- starting hand #205  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (8130) | "Cole Ford" (9926) | "BigBetch" (8104) | "Durrrwell" (7920)
+Your hand is 2h, Ac
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" raises with 220
+"Sam Schrader" folds
+"Cole Ford" folds
+"Jack Betcher" calls with 220
+flop:  [10c, Ah, 4s]
+"Cole Stephens" raises with 340
+"Jack Betcher" folds
+"Cole Stephens" gained 520
+-- ending hand #205 --
+-- starting hand #206  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (8090) | "Cole Ford" (9886) | "BigBetch" (7884) | "Durrrwell" (8220)
+Your hand is 10c, 4h
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" raises with 140
+"Cole Ford" calls with 140
+flop:  [2d, Qs, 7d]
+"Sam Schrader" raises with 160
+"Cole Ford" calls with 160
+turn: 2d, Qs, 7d [8s]
+"Sam Schrader" raises with 360
+"Cole Ford" folds
+"Sam Schrader" gained 600
+-- ending hand #206 --
+"Sam Schrader" shows a 8h, Jh.
+-- starting hand #207  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (8390) | "Cole Ford" (9586) | "BigBetch" (7884) | "Durrrwell" (8220)
+Your hand is Ah, 10s
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+"Jack Betcher" folds
+flop:  [8h, 6c, Jd]
+"Cole Ford" checks
+"Cole Stephens" raises with 80
+"Cole Ford" raises with 160
+"Cole Stephens" calls with 160
+turn: 8h, 6c, Jd [Qd]
+"Cole Ford" raises with 40
+"Cole Stephens" calls with 40
+river: 8h, 6c, Jd, Qd [Ac]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 680 with Two Pair, 8's & 6's (hand: 8c, 6h)
+-- ending hand #207 --
+"Cole Stephens" shows a Ah, 10s.
+-- starting hand #208  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (8390) | "Cole Ford" (9946) | "BigBetch" (7844) | "Durrrwell" (7900)
+Your hand is 5d, 7s
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" folds
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 120
+"Cole Stephens" folds
+"Cole Ford" calls with 120
+flop:  [Ah, 2h, Kd]
+"Jack Betcher" raises with 140
+"Cole Ford" calls with 140
+turn: Ah, 2h, Kd [Ks]
+"Jack Betcher" raises with 280
+"Cole Ford" folds
+"Jack Betcher" gained 560
+-- ending hand #208 --
+"Jack Betcher" shows a Qh, Ad.
+"Cole Ford" shows a 5h, 4s.
+-- starting hand #209  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (8390) | "Cole Ford" (9686) | "BigBetch" (8144) | "Durrrwell" (7860)
+Your hand is 7s, 3c
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [6d, 6h, 2h]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" calls with 40
+"Sam Schrader" calls with 40
+"Cole Ford" calls with 40
+turn: 6d, 6h, 2h [Qh]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+river: 6d, 6h, 2h, Qh [5h]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" checks
+"Sam Schrader" wins 260 with Flush, Qh High (hand: As, 7h)
+-- ending hand #209 --
+"Cole Ford" shows a 9s, Kc.
+"Jack Betcher" shows a 8d, Ks.
+-- starting hand #210  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Players stacks: "Sam" (8570) | "Cole Ford" (9606) | "BigBetch" (8064) | "Durrrwell" (7840)
+Your hand is 4d, 6h
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Jack Betcher" folds
+"Cole Stephens" folds
+"Sam Schrader" calls with 40
+"Cole Ford" checks
+flop:  [2h, 3s, 2c]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 2h, 3s, 2c [Jd]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 2h, 3s, 2c, Jd [Kd]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" wins 80 with Pair, 2's (hand: Qs, 5c)
+"Sam Schrader" shows a 4s, 10s.
+-- ending hand #210 --
+"Cole Stephens" shows a 4d, 6h.
+-- starting hand #211  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Players stacks: "Sam" (8530) | "Cole Ford" (9646) | "BigBetch" (8064) | "Durrrwell" (7840)
+Your hand is 8d, Qs
+"Cole Ford" posts a small blind of 20
+"Jack Betcher" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" raises with 120
+"Cole Ford" calls with 120
+"Jack Betcher" folds
+flop:  [8c, 8h, Qc]
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 8c, 8h, Qc [5c]
+"Cole Ford" checks
+"Sam Schrader" raises with 160
+"Cole Ford" folds
+"Sam Schrader" gained 280
+-- ending hand #211 --
+"Cole Stephens" shows a 8d, Qs.
+"Cole Ford" shows a Ks, 7d.
+-- starting hand #212  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Players stacks: "Sam" (8690) | "Cole Ford" (9526) | "BigBetch" (8024) | "Durrrwell" (7840)
+Your hand is 4s, 2c
+"Jack Betcher" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" calls with 40
+"Cole Ford" calls with 40
+"Jack Betcher" raises with 120
+"Cole Stephens" folds
+"Sam Schrader" calls with 120
+"Cole Ford" calls with 120
+flop:  [9c, 7d, 3h]
+"Jack Betcher" raises with 169
+"Sam Schrader" folds
+"Cole Ford" calls with 169
+turn: 9c, 7d, 3h [6d]
+"Jack Betcher" raises with 420
+"Cole Ford" folds
+"Jack Betcher" gained 738
+-- ending hand #212 --
+"Jack Betcher" shows a 6h, 4h.
+-- starting hand #213  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Players stacks: "Sam" (8570) | "Cole Ford" (9237) | "BigBetch" (8473) | "Durrrwell" (7800)
+Your hand is Jh, Jc
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Jack Betcher" calls with 40
+"Cole Stephens" raises with 210
+"Sam Schrader" raises with 600
+"Cole Ford" folds
+"Jack Betcher" folds
+"Cole Stephens" calls with 600
+flop:  [5s, 8h, 7c]
+"Cole Stephens" checks
+"Sam Schrader" raises with 800
+"Cole Stephens" calls with 800
+turn: 5s, 8h, 7c [6c]
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 5s, 8h, 7c, 6c [Kc]
+"Cole Stephens" raises with 2160
+"Sam Schrader" calls with 2160
+"Sam Schrader" wins 7200 with Straight, 9 High (hand: As, 9d)
+"Cole Stephens" shows a Jh, Jc.
+-- ending hand #213 --
+The player "Jack Betcher" stand up with the stack of 8433.
+-- starting hand #214  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Players stacks: "Sam" (12210) | "Cole Ford" (9197) | "Durrrwell" (4240)
+Your hand is 7h, Js
+"Sam Schrader" posts a small blind of 20
+"Cole Ford" posts a big blind of 40
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 40
+-- ending hand #214 --
+-- starting hand #215  (Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Players stacks: "Sam" (12190) | "Cole Ford" (9217) | "Durrrwell" (4240)
+Your hand is Ks, 8d
+"Cole Ford" posts a small blind of 20
+"Cole Stephens" posts a big blind of 40
+"Sam Schrader" calls with 40
+"Cole Ford" calls with 40
+"Cole Stephens" checks
+flop:  [5h, As, 8h]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 5h, As, 8h [6s]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 5h, As, 8h, 6s [7h]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" wins 120 with Pair, 8's (hand: Ks, 8d)
+"Cole Ford" shows a Jh, 2s.
+-- ending hand #215 --
+"Sam Schrader" shows a Qc, 6c.
+-- starting hand #216  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Players stacks: "Sam" (12150) | "Cole Ford" (9177) | "Durrrwell" (4320)
+Your hand is 6c, 2s
+"Cole Stephens" posts a small blind of 20
+"Sam Schrader" posts a big blind of 40
+"Cole Ford" calls with 40
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [5h, 9h, Ad]
+"Sam Schrader" checks
+"Cole Ford" raises with 40
+"Sam Schrader" calls with 40
+turn: 5h, 9h, Ad [Qd]
+"Sam Schrader" checks
+"Cole Ford" raises with 40
+"Sam Schrader" calls with 40
+river: 5h, 9h, Ad, Qd [2d]
+"Sam Schrader" checks
+"Cole Ford" raises with 40
+"Sam Schrader" calls with 40
+"Cole Ford" wins 340 with Pair, A's (hand: Ac, 3d)
+-- ending hand #216 --
+entry,at,order

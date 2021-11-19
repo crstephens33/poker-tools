@@ -10,9 +10,9 @@ import java.nio.file.Paths;
 public class FileUtils {
 
     private FileWriter fileWriter;
-    public static String CLEAN_LOGS_LOCATION = "cleanLogs\\";
-    public static String ANALYSIS_LOCATION = "analysis\\";
-    public static String RAW_LOGS_LOCATION = "rawLogs\\";
+    public static final String CLEAN_LOGS_LOCATION = "outputs\\logs\\clean-logs\\";
+    public static final String ANALYSIS_LOCATION = "outputs\\analysis\\";
+    public static final String RAW_LOGS_LOCATION = "outpurs\\logs\\raw-logs\\";
 
 
     public FileUtils(String fileName) { 

@@ -1,0 +1,2104 @@
+The player "Cole Stephens" created the game with a stack of 2500.
+The player "Sam Schrader" requested a seat.
+The admin approved the player "Sam Schrader" participation with a stack of 2500.
+The player "Jack Betcher" requested a seat.
+The admin approved the player "Jack Betcher" participation with a stack of 2500.
+The player "Jack Betcher" stand up with the stack of 2500.
+The player "Cole Stephens" stand up with the stack of 2500.
+The player "Cole Stephens" sit back with the stack of 2500.
+The player "Cole Stephens" stand up with the stack of 2500.
+The player "Cole Stephens" sit back with the stack of 2500.
+The player "Cole Stephens" stand up with the stack of 2500.
+The player "Jack Betcher" sit back with the stack of 2500.
+The player "Cole Stephens" sit back with the stack of 2500.
+The player "Dylan Russian" requested a seat.
+The admin approved the player "Dylan Russian" participation with a stack of 2500.
+The player "Jack Betcher" stand up with the stack of 2500.
+The player "Jack Betcher" sit back with the stack of 2500.
+-- starting hand #1  (Texas Hold'em) (dealer: "Dylan Russian") [4-handed] --
+Player stacks: #1 "Dylan" (2500) | #2 "Betch" (2500) | #3 "Sam" (2500) | #5 "Cole Ste" (2500)
+Your hand is Qs, 5h
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Dylan Russian" folds
+"Jack Betcher" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Jack Betcher"
+"Jack Betcher" collected 40 from pot
+-- ending hand #1 --
+-- starting hand #2  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #1 "Dylan" (2500) | #2 "Betch" (2520) | #3 "Sam" (2480) | #5 "Cole Ste" (2500)
+Your hand is 7c, 8h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Dylan Russian" raises to 60
+"Jack Betcher" calls 60
+"Sam Schrader" calls 60
+"Cole Stephens" calls 60
+flop:  [5c, 10d, 6d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Dylan Russian" checks
+"Jack Betcher" bets 120
+"Sam Schrader" calls 120
+"Cole Stephens" calls 120
+"Dylan Russian" folds
+turn: 5c, 10d, 6d [4d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Jack Betcher" bets 450
+"Sam Schrader" calls 450
+"Cole Stephens" calls 450
+river: 5c, 10d, 6d, 4d [5d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Jack Betcher" bets 975
+"Sam Schrader" calls 975
+"Cole Stephens" folds
+"Jack Betcher" collected 3900 from pot with Full House, 6's over 5's (hand: 6s, 6c)
+-- ending hand #2 --
+"Cole Stephens" shows a 7c, 8h.
+"Sam Schrader" shows a 7d, Ad.
+-- starting hand #3  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #1 "Dylan" (2440) | #2 "Betch" (4815) | #3 "Sam" (875) | #5 "Cole Ste" (1870)
+Your hand is 8d, Ah
+"Cole Stephens" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" raises to 60
+"Dylan Russian" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #3 --
+WARNING: the admin queued the stack change for the player "Sam Schrader" to 2875 in the next hand.
+The admin updated the player "Sam Schrader" stack from 875 to 2875.
+-- starting hand #4  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #1 "Dylan" (2420) | #2 "Betch" (4815) | #3 "Sam" (2875) | #5 "Cole Ste" (1890)
+Your hand is 3h, Kh
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises to 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #4 --
+-- starting hand #5  (Texas Hold'em) (dealer: "Dylan Russian") [4-handed] --
+Player stacks: #1 "Dylan" (2410) | #2 "Betch" (4795) | #3 "Sam" (2875) | #5 "Cole Ste" (1920)
+Your hand is 4d, 8d
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Dylan Russian" folds
+"Jack Betcher" raises to 60
+"Sam Schrader" calls 60
+flop:  [3h, 10s, 9s]
+"Jack Betcher" checks
+"Sam Schrader" bets 100
+"Jack Betcher" folds
+Uncalled bet of 100 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #5 --
+-- starting hand #6  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #1 "Dylan" (2410) | #2 "Betch" (4735) | #3 "Sam" (2935) | #5 "Cole Ste" (1920)
+Your hand is 3s, Qh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" calls 20
+"Sam Schrader" calls 20
+"Cole Stephens" checks
+flop:  [9h, 2s, 8d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Jack Betcher" bets 60
+"Sam Schrader" calls 60
+"Cole Stephens" folds
+turn: 9h, 2s, 8d [4h]
+"Sam Schrader" checks
+"Jack Betcher" bets 90
+"Sam Schrader" calls 90
+river: 9h, 2s, 8d, 4h [7c]
+"Sam Schrader" checks
+"Jack Betcher" checks
+"Jack Betcher" collected 360 from pot with Pair, 8's (hand: Qc, 8c)
+"Sam Schrader" shows a Ks, 2h.
+-- ending hand #6 --
+-- starting hand #7  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #1 "Dylan" (2410) | #2 "Betch" (4925) | #3 "Sam" (2765) | #5 "Cole Ste" (1900)
+Your hand is 10s, 5c
+"Cole Stephens" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" raises to 60
+"Sam Schrader" calls 60
+"Cole Stephens" folds
+"Dylan Russian" folds
+flop:  [6s, Kc, 10d]
+"Jack Betcher" bets 75
+"Sam Schrader" raises to 190
+"Jack Betcher" calls 190
+turn: 6s, Kc, 10d [9d]
+"Jack Betcher" checks
+"Sam Schrader" bets 350
+"Jack Betcher" folds
+Uncalled bet of 350 returned to "Sam Schrader"
+"Sam Schrader" collected 530 from pot
+-- ending hand #7 --
+-- starting hand #8  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #1 "Dylan" (2390) | #2 "Betch" (4675) | #3 "Sam" (3045) | #5 "Cole Ste" (1890)
+Your hand is 3s, 6c
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Dylan Russian" folds
+Uncalled bet of 10 returned to "Jack Betcher"
+"Jack Betcher" collected 20 from pot
+-- ending hand #8 --
+-- starting hand #9  (Texas Hold'em) (dealer: "Dylan Russian") [4-handed] --
+Player stacks: #1 "Dylan" (2380) | #2 "Betch" (4685) | #3 "Sam" (3045) | #5 "Cole Ste" (1890)
+Your hand is 8d, 6s
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Dylan Russian" folds
+"Jack Betcher" calls 20
+"Sam Schrader" checks
+flop:  [Qh, 10d, 9h]
+"Jack Betcher" checks
+"Sam Schrader" checks
+turn: Qh, 10d, 9h [Kd]
+"Jack Betcher" checks
+"Sam Schrader" checks
+river: Qh, 10d, 9h, Kd [6c]
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Jack Betcher" collected 40 from pot with K High (hand: 8h, 5d)
+-- ending hand #9 --
+-- starting hand #10  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #1 "Dylan" (2380) | #2 "Betch" (4705) | #3 "Sam" (3025) | #5 "Cole Ste" (1890)
+Your hand is 4h, Jd
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" calls 20
+"Sam Schrader" raises to 80
+"Cole Stephens" folds
+"Jack Betcher" raises to 240
+"Sam Schrader" calls 240
+flop:  [Kh, Qc, Ah]
+"Sam Schrader" checks
+"Jack Betcher" bets 250
+"Sam Schrader" calls 250
+turn: Kh, Qc, Ah [7c]
+"Sam Schrader" checks
+"Jack Betcher" bets 750
+"Sam Schrader" folds
+Uncalled bet of 750 returned to "Jack Betcher"
+"Jack Betcher" collected 1000 from pot
+-- ending hand #10 --
+"Sam Schrader" shows a 6s, As.
+"Jack Betcher" shows a 3c, 4c.
+-- starting hand #11  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #1 "Dylan" (2380) | #2 "Betch" (5215) | #3 "Sam" (2535) | #5 "Cole Ste" (1870)
+Your hand is 7c, 2d
+"Cole Stephens" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" raises to 80
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Dylan Russian" calls 80
+flop:  [10d, 6s, Qd]
+"Dylan Russian" bets 90
+"Jack Betcher" calls 90
+turn: 10d, 6s, Qd [Ah]
+"Dylan Russian" checks
+"Jack Betcher" bets 175
+"Dylan Russian" raises to 350
+"Jack Betcher" calls 350
+river: 10d, 6s, Qd, Ah [2s]
+"Dylan Russian" checks
+"Jack Betcher" bets 525
+"Dylan Russian" raises to 1300
+"Jack Betcher" calls 1300
+"Dylan Russian" collected 3650 from pot with Straight, A High (hand: Jh, Kh)
+-- ending hand #11 --
+-- starting hand #12  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #1 "Dylan" (4210) | #2 "Betch" (3395) | #3 "Sam" (2535) | #5 "Cole Ste" (1860)
+Your hand is 9s, Kd
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Dylan Russian" folds
+"Jack Betcher" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #12 --
+-- starting hand #13  (Texas Hold'em) (dealer: "Dylan Russian") [4-handed] --
+Player stacks: #1 "Dylan" (4200) | #2 "Betch" (3375) | #3 "Sam" (2565) | #5 "Cole Ste" (1860)
+Your hand is 6d, Ac
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #13 --
+-- starting hand #14  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #1 "Dylan" (4200) | #2 "Betch" (3365) | #3 "Sam" (2545) | #5 "Cole Ste" (1890)
+Your hand is As, Jd
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" raises to 60
+"Sam Schrader" folds
+"Cole Stephens" raises to 220
+"Jack Betcher" folds
+Uncalled bet of 160 returned to "Cole Stephens"
+"Cole Stephens" collected 130 from pot
+-- ending hand #14 --
+-- starting hand #15  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #1 "Dylan" (4200) | #2 "Betch" (3305) | #3 "Sam" (2535) | #5 "Cole Ste" (1960)
+Your hand is 3h, 5h
+"Cole Stephens" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" calls 20
+"Dylan Russian" raises to 60
+"Cole Stephens" raises to 190
+"Dylan Russian" calls 190
+flop:  [2c, 9c, 6s]
+"Cole Stephens" checks
+"Dylan Russian" checks
+turn: 2c, 9c, 6s [4d]
+"Cole Stephens" bets 285
+"Dylan Russian" folds
+Uncalled bet of 285 returned to "Cole Stephens"
+"Cole Stephens" collected 380 from pot
+-- ending hand #15 --
+-- starting hand #16  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #1 "Dylan" (4010) | #2 "Betch" (3305) | #3 "Sam" (2535) | #5 "Cole Ste" (2150)
+Your hand is 3c, Ad
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" calls 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+flop:  [9h, Kd, 7s]
+"Sam Schrader" bets 100
+"Cole Stephens" folds
+Uncalled bet of 100 returned to "Sam Schrader"
+"Sam Schrader" collected 150 from pot
+-- ending hand #16 --
+"Sam Schrader" shows a Ac, 3s.
+"Cole Stephens" shows a 3c, Ad.
+-- starting hand #17  (Texas Hold'em) (dealer: "Dylan Russian") [4-handed] --
+Player stacks: #1 "Dylan" (4000) | #2 "Betch" (3285) | #3 "Sam" (2625) | #5 "Cole Ste" (2090)
+Your hand is 10c, Kc
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #17 --
+-- starting hand #18  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #1 "Dylan" (4000) | #2 "Betch" (3275) | #3 "Sam" (2605) | #5 "Cole Ste" (2120)
+Your hand is 4s, 3d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" raises to 60
+"Sam Schrader" raises to 240
+"Cole Stephens" folds
+"Jack Betcher" calls 240
+flop:  [5h, Ah, 6c]
+"Sam Schrader" bets 380
+"Jack Betcher" folds
+Uncalled bet of 380 returned to "Sam Schrader"
+"Sam Schrader" collected 500 from pot
+-- ending hand #18 --
+"Sam Schrader" shows a 7d, 10d.
+"Jack Betcher" shows a 10c, 9s.
+-- starting hand #19  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #1 "Dylan" (4000) | #2 "Betch" (3035) | #3 "Sam" (2865) | #5 "Cole Ste" (2100)
+Your hand is Qh, 9d
+"Cole Stephens" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Dylan Russian" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #19 --
+"Sam Schrader" shows a Qc, As.
+"Cole Stephens" shows a Qh, 9d.
+-- starting hand #20  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #1 "Dylan" (3980) | #2 "Betch" (3035) | #3 "Sam" (2895) | #5 "Cole Ste" (2090)
+Your hand is 8c, Kc
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" calls 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+flop:  [Kh, Jd, 4c]
+"Sam Schrader" checks
+"Cole Stephens" bets 95
+"Sam Schrader" folds
+Uncalled bet of 95 returned to "Cole Stephens"
+"Cole Stephens" collected 150 from pot
+-- ending hand #20 --
+-- starting hand #21  (Texas Hold'em) (dealer: "Dylan Russian") [4-handed] --
+Player stacks: #1 "Dylan" (3970) | #2 "Betch" (3015) | #3 "Sam" (2835) | #5 "Cole Ste" (2180)
+Your hand is Jh, 7d
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Dylan Russian" raises to 60
+"Jack Betcher" folds
+"Sam Schrader" raises to 180
+"Dylan Russian" calls 180
+flop:  [7s, 10s, Kh]
+"Sam Schrader" bets 180
+"Dylan Russian" calls 180
+turn: 7s, 10s, Kh [Jc]
+"Sam Schrader" bets 400
+"Dylan Russian" folds
+Uncalled bet of 400 returned to "Sam Schrader"
+"Sam Schrader" collected 730 from pot
+-- ending hand #21 --
+"Sam Schrader" shows a 10c, 10d.
+-- starting hand #22  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #1 "Dylan" (3610) | #2 "Betch" (3005) | #3 "Sam" (3205) | #5 "Cole Ste" (2180)
+Your hand is Ah, Qs
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" calls 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 120
+"Jack Betcher" calls 120
+"Sam Schrader" folds
+flop:  [3s, Jc, 9c]
+"Cole Stephens" checks
+"Jack Betcher" bets 130
+"Cole Stephens" calls 130
+turn: 3s, Jc, 9c [8c]
+"Cole Stephens" checks
+"Jack Betcher" bets 260
+"Cole Stephens" folds
+Uncalled bet of 260 returned to "Jack Betcher"
+"Jack Betcher" collected 520 from pot
+-- ending hand #22 --
+-- starting hand #23  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #1 "Dylan" (3610) | #2 "Betch" (3275) | #3 "Sam" (3185) | #5 "Cole Ste" (1930)
+Your hand is Qc, 9h
+"Cole Stephens" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Dylan Russian" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #23 --
+"Sam Schrader" shows a 9c, As.
+-- starting hand #24  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #1 "Dylan" (3590) | #2 "Betch" (3275) | #3 "Sam" (3215) | #5 "Cole Ste" (1920)
+Your hand is 8c, 5s
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Dylan Russian" folds
+Uncalled bet of 10 returned to "Jack Betcher"
+"Jack Betcher" collected 20 from pot
+-- ending hand #24 --
+"Jack Betcher" shows a Ks, 7s.
+-- starting hand #25  (Texas Hold'em) (dealer: "Dylan Russian") [4-handed] --
+Player stacks: #1 "Dylan" (3580) | #2 "Betch" (3285) | #3 "Sam" (3215) | #5 "Cole Ste" (1920)
+Your hand is As, 6s
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" calls 60
+flop:  [9c, 4s, 2s]
+"Sam Schrader" checks
+"Cole Stephens" bets 90
+"Sam Schrader" calls 90
+turn: 9c, 4s, 2s [Qd]
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 9c, 4s, 2s, Qd [Ks]
+"Sam Schrader" checks
+"Cole Stephens" bets 370
+"Sam Schrader" folds
+Uncalled bet of 370 returned to "Cole Stephens"
+"Cole Stephens" collected 310 from pot
+-- ending hand #25 --
+-- starting hand #26  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #1 "Dylan" (3580) | #2 "Betch" (3275) | #3 "Sam" (3065) | #5 "Cole Ste" (2080)
+Your hand is 4c, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Dylan Russian" raises to 60
+"Jack Betcher" raises to 240
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Dylan Russian" calls 240
+flop:  [9d, 10c, 7s]
+"Dylan Russian" checks
+"Jack Betcher" bets 255
+"Dylan Russian" raises to 510
+"Jack Betcher" raises to 1275
+"Dylan Russian" calls 1275
+turn: 9d, 10c, 7s [10h]
+"Dylan Russian" checks
+"Jack Betcher" checks
+river: 9d, 10c, 7s, 10h [Jc]
+"Dylan Russian" checks
+"Jack Betcher" bets 1760 and go all in
+"Dylan Russian" calls 1760
+"Jack Betcher" collected 6580 from pot with Full House, 9's over 10's (hand: 9h, 9s)
+"Dylan Russian" shows a 7h, 7d.
+-- ending hand #26 --
+-- starting hand #27  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #1 "Dylan" (305) | #2 "Betch" (6580) | #3 "Sam" (3055) | #5 "Cole Ste" (2060)
+Your hand is Qc, 9c
+"Cole Stephens" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" calls 20
+"Sam Schrader" folds
+"Cole Stephens" raises to 105
+"Dylan Russian" folds
+"Jack Betcher" calls 105
+flop:  [4d, 10c, 7c]
+WARNING: the admin queued the stack change for the player "Dylan Russian" to 2785 in the next hand.
+"Cole Stephens" bets 180
+"Jack Betcher" calls 180
+turn: 4d, 10c, 7c [8h]
+"Cole Stephens" bets 440
+"Jack Betcher" calls 440
+river: 4d, 10c, 7c, 8h [9h]
+"Cole Stephens" checks
+"Jack Betcher" checks
+"Cole Stephens" collected 1470 from pot with Pair, 9's (hand: Qc, 9c)
+-- ending hand #27 --
+The admin updated the player "Dylan Russian" stack from 285 to 2785.
+-- starting hand #28  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #1 "Dylan" (2785) | #2 "Betch" (5855) | #3 "Sam" (3055) | #5 "Cole Ste" (2805)
+Your hand is 10c, 8s
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Dylan Russian" calls 20
+"Jack Betcher" checks
+flop:  [7d, 6s, 9s]
+"Dylan Russian" bets 40
+"Jack Betcher" calls 40
+turn: 7d, 6s, 9s [As]
+"Dylan Russian" bets 80
+"Jack Betcher" folds
+Uncalled bet of 80 returned to "Dylan Russian"
+"Dylan Russian" collected 120 from pot
+-- ending hand #28 --
+-- starting hand #29  (Texas Hold'em) (dealer: "Dylan Russian") [4-handed] --
+Player stacks: #1 "Dylan" (2845) | #2 "Betch" (5795) | #3 "Sam" (3055) | #5 "Cole Ste" (2805)
+Your hand is Ac, 2c
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" calls 60
+flop:  [Jh, As, 8d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Jh, As, 8d [Kc]
+"Sam Schrader" checks
+"Cole Stephens" bets 65
+"Sam Schrader" folds
+Uncalled bet of 65 returned to "Cole Stephens"
+"Cole Stephens" collected 130 from pot
+-- ending hand #29 --
+-- starting hand #30  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #1 "Dylan" (2845) | #2 "Betch" (5785) | #3 "Sam" (2995) | #5 "Cole Ste" (2875)
+Your hand is 9h, Kh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #30 --
+"Cole Stephens" shows a 9h, Kh.
+-- starting hand #31  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #1 "Dylan" (2845) | #2 "Betch" (5785) | #3 "Sam" (2985) | #5 "Cole Ste" (2885)
+Your hand is 6c, 3d
+"Cole Stephens" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Dylan Russian"
+"Dylan Russian" collected 20 from pot
+-- ending hand #31 --
+"Dylan Russian" shows a Ac, 2h.
+-- starting hand #32  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #1 "Dylan" (2855) | #2 "Betch" (5785) | #3 "Sam" (2985) | #5 "Cole Ste" (2875)
+Your hand is 9h, As
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises to 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #32 --
+-- starting hand #33  (Texas Hold'em) (dealer: "Dylan Russian") [5-handed] --
+Player stacks: #1 "Dylan" (2845) | #2 "Betch" (5765) | #3 "Sam" (2985) | #5 "Cole Ste" (2905)
+Your hand is 5d, 4h
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+The player "Cole Ford" requested a seat.
+"Dylan Russian" folds
+"Jack Betcher" raises to 60
+"Sam Schrader" calls 60
+flop:  [Jc, Ks, Kh]
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+"Jack Betcher" checks
+"Sam Schrader" checks
+turn: Jc, Ks, Kh [Jd]
+"Jack Betcher" checks
+"Sam Schrader" checks
+river: Jc, Ks, Kh, Jd [Qs]
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Jack Betcher" collected 60 from pot with Two Pair, K's & J's (hand: 4s, 6s)
+"Sam Schrader" collected 60 from pot with Two Pair, K's & J's (hand: 9c, 7c)
+-- ending hand #33 --
+The player "Cole Ford" joined the game with a stack of 2500.
+-- starting hand #34  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Player stacks: #1 "Dylan" (2845) | #2 "Betch" (5765) | #3 "Sam" (2985) | #5 "Cole Ste" (2905) | #9 "Cole" (2500)
+Your hand is 2c, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" folds
+"Dylan Russian" folds
+"Jack Betcher" calls 20
+"Sam Schrader" folds
+"Cole Stephens" checks
+flop:  [4d, Kh, As]
+"Cole Stephens" checks
+"Jack Betcher" bets 25
+"Cole Stephens" folds
+Uncalled bet of 25 returned to "Jack Betcher"
+"Jack Betcher" collected 50 from pot
+-- ending hand #34 --
+-- starting hand #35  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Player stacks: #1 "Dylan" (2845) | #2 "Betch" (5795) | #3 "Sam" (2975) | #5 "Cole Ste" (2885) | #9 "Cole" (2500)
+Your hand is 8d, 9d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Dylan Russian" calls 20
+"Jack Betcher" calls 20
+"Sam Schrader" folds
+"Cole Stephens" calls 20
+"Cole Ford" checks
+flop:  [2h, Qh, 2c]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Dylan Russian" checks
+"Jack Betcher" checks
+turn: 2h, Qh, 2c [10c]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Dylan Russian" checks
+"Jack Betcher" bets 40
+"Cole Stephens" folds
+"Cole Ford" folds
+"Dylan Russian" calls 40
+river: 2h, Qh, 2c, 10c [6s]
+"Dylan Russian" bets 90
+"Jack Betcher" folds
+Uncalled bet of 90 returned to "Dylan Russian"
+"Dylan Russian" collected 160 from pot
+-- ending hand #35 --
+-- starting hand #36  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Player stacks: #1 "Dylan" (2945) | #2 "Betch" (5735) | #3 "Sam" (2975) | #5 "Cole Ste" (2865) | #9 "Cole" (2480)
+Your hand is 7s, 2h
+"Cole Ford" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Dylan Russian" checks
+flop:  [Kc, 5c, 10c]
+"Cole Ford" checks
+"Dylan Russian" bets 40
+"Cole Ford" calls 40
+turn: Kc, 5c, 10c [2d]
+"Cole Ford" checks
+"Dylan Russian" checks
+river: Kc, 5c, 10c, 2d [Kd]
+"Cole Ford" checks
+"Dylan Russian" checks
+"Dylan Russian" collected 120 from pot with Pair, K's (hand: 3d, Jc)
+"Cole Ford" shows a 7c, 9h.
+-- ending hand #36 --
+-- starting hand #37  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Player stacks: #1 "Dylan" (3005) | #2 "Betch" (5735) | #3 "Sam" (2975) | #5 "Cole Ste" (2865) | #9 "Cole" (2420)
+Your hand is 3c, 10s
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Dylan Russian" raises to 80
+"Jack Betcher" folds
+"Cole Ford" calls 80
+flop:  [5d, 10d, 4h]
+"Dylan Russian" bets 100
+"Cole Ford" folds
+Uncalled bet of 100 returned to "Dylan Russian"
+"Dylan Russian" collected 180 from pot
+-- ending hand #37 --
+"Cole Ford" shows a Js, Qs.
+-- starting hand #38  (Texas Hold'em) (dealer: "Dylan Russian") [5-handed] --
+Player stacks: #1 "Dylan" (3105) | #2 "Betch" (5715) | #3 "Sam" (2975) | #5 "Cole Ste" (2865) | #9 "Cole" (2340)
+Your hand is Jc, 10c
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Cole Ford" raises to 100
+"Dylan Russian" raises to 200
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" raises to 300
+"Dylan Russian" raises to 600
+"Cole Ford" raises to 900
+"Dylan Russian" raises to 1800
+"Cole Ford" raises to 2340 and go all in
+"Dylan Russian" calls 2340
+flop:  [Ah, 2h, 7s]
+"Dylan Russian" shows a Kc, Kd.
+"Cole Ford" shows a Js, Jh.
+turn: Ah, 2h, 7s [9h]
+river: Ah, 2h, 7s, 9h [8h]
+"Cole Ford" collected 4770 from pot with Flush, Ah High (hand: Js, Jh)
+-- ending hand #38 --
+"Jack Betcher" shows a 6s, 6h.
+-- starting hand #39  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Player stacks: #1 "Dylan" (765) | #2 "Betch" (5705) | #3 "Sam" (2955) | #5 "Cole Ste" (2805) | #9 "Cole" (4770)
+Your hand is 8d, 3c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" calls 20
+"Cole Stephens" checks
+flop:  [6h, 5h, Qc]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 6h, 5h, Qc [2h]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+river: 6h, 5h, Qc, 2h [3d]
+"Sam Schrader" bets 300
+"Cole Stephens" folds
+"Cole Ford" folds
+Uncalled bet of 300 returned to "Sam Schrader"
+"Sam Schrader" collected 60 from pot
+-- ending hand #39 --
+"Cole Ford" shows a 10d, Ac.
+-- starting hand #40  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Player stacks: #1 "Dylan" (765) | #2 "Betch" (5705) | #3 "Sam" (2995) | #5 "Cole Ste" (2785) | #9 "Cole" (4750)
+Your hand is 2d, 6h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #40 --
+-- starting hand #41  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Player stacks: #1 "Dylan" (765) | #2 "Betch" (5705) | #3 "Sam" (2995) | #5 "Cole Ste" (2775) | #9 "Cole" (4760)
+Your hand is Kh, Jd
+"Cole Ford" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" raises to 60
+"Cole Ford" folds
+"Dylan Russian" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #41 --
+-- starting hand #42  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Player stacks: #1 "Dylan" (745) | #2 "Betch" (5705) | #3 "Sam" (2995) | #5 "Cole Ste" (2805) | #9 "Cole" (4750)
+Your hand is 8c, 4d
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Dylan Russian" calls 20
+"Jack Betcher" raises to 80
+"Cole Ford" calls 80
+"Dylan Russian" folds
+flop:  [9s, 5d, Kd]
+"Jack Betcher" checks
+"Cole Ford" checks
+WARNING: the admin queued the stack change for the player "Dylan Russian" to 2725 in the next hand.
+turn: 9s, 5d, Kd [10d]
+"Jack Betcher" checks
+"Cole Ford" bets 20
+"Jack Betcher" calls 20
+river: 9s, 5d, Kd, 10d [Qd]
+"Jack Betcher" bets 220
+"Cole Ford" calls 220
+"Jack Betcher" collected 660 from pot with Flush, Kd High (hand: Ah, 9d)
+-- ending hand #42 --
+"Cole Ford" shows a 2d, 8d.
+The admin updated the player "Dylan Russian" stack from 725 to 2725.
+-- starting hand #43  (Texas Hold'em) (dealer: "Dylan Russian") [5-handed] --
+Player stacks: #1 "Dylan" (2725) | #2 "Betch" (6045) | #3 "Sam" (2995) | #5 "Cole Ste" (2805) | #9 "Cole" (4430)
+Your hand is 8d, 7d
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Cole Ford" folds
+"Dylan Russian" raises to 150
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" calls 150
+flop:  [9s, 4s, 7s]
+"Cole Stephens" checks
+"Dylan Russian" bets 200
+"Cole Stephens" calls 200
+turn: 9s, 4s, 7s [5c]
+"Cole Stephens" checks
+"Dylan Russian" bets 400
+"Cole Stephens" calls 400
+river: 9s, 4s, 7s, 5c [Jc]
+"Cole Stephens" checks
+"Dylan Russian" bets 800
+"Cole Stephens" folds
+Uncalled bet of 800 returned to "Dylan Russian"
+"Dylan Russian" collected 1530 from pot
+-- ending hand #43 --
+"Dylan Russian" shows a Qd, Ks.
+-- starting hand #44  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Player stacks: #1 "Dylan" (3505) | #2 "Betch" (6035) | #3 "Sam" (2975) | #5 "Cole Ste" (2055) | #9 "Cole" (4430)
+Your hand is 7c, Jh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Dylan Russian" calls 20
+"Jack Betcher" folds
+"Sam Schrader" raises to 100
+"Cole Stephens" folds
+"Cole Ford" calls 100
+"Dylan Russian" folds
+flop:  [5d, 8h, 3c]
+"Sam Schrader" bets 160
+"Cole Ford" folds
+Uncalled bet of 160 returned to "Sam Schrader"
+"Sam Schrader" collected 240 from pot
+-- ending hand #44 --
+"Sam Schrader" shows a Kh, 10h.
+-- starting hand #45  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Player stacks: #1 "Dylan" (3485) | #2 "Betch" (6035) | #3 "Sam" (3115) | #5 "Cole Ste" (2035) | #9 "Cole" (4330)
+Your hand is 7d, 10d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" calls 20
+"Cole Ford" checks
+flop:  [Jh, Kc, Ks]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: Jh, Kc, Ks [5c]
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Jh, Kc, Ks, 5c [As]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" collected 40 from pot with Pair, K's (hand: 7d, 10d)
+-- ending hand #45 --
+"Cole Ford" shows a 8h, 3c.
+-- starting hand #46  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Player stacks: #1 "Dylan" (3485) | #2 "Betch" (6035) | #3 "Sam" (3115) | #5 "Cole Ste" (2055) | #9 "Cole" (4310)
+Your hand is 9h, 9c
+"Cole Ford" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" calls 20
+"Sam Schrader" folds
+"Cole Stephens" raises to 100
+"Cole Ford" calls 100
+"Dylan Russian" calls 100
+"Jack Betcher" calls 100
+flop:  [2d, Qh, Kh]
+"Cole Ford" checks
+"Dylan Russian" checks
+"Jack Betcher" checks
+"Cole Stephens" checks
+turn: 2d, Qh, Kh [8d]
+"Cole Ford" checks
+"Dylan Russian" checks
+"Jack Betcher" checks
+"Cole Stephens" checks
+river: 2d, Qh, Kh, 8d [10c]
+"Cole Ford" checks
+"Dylan Russian" checks
+"Jack Betcher" checks
+"Cole Stephens" checks
+"Cole Ford" collected 400 from pot with Two Pair, K's & Q's (hand: Kd, Qc)
+-- ending hand #46 --
+-- starting hand #47  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Player stacks: #1 "Dylan" (3385) | #2 "Betch" (5935) | #3 "Sam" (3115) | #5 "Cole Ste" (1955) | #9 "Cole" (4610)
+Your hand is 2c, 5c
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+"Dylan Russian" folds
+"Jack Betcher" folds
+flop:  [As, 8c, Qh]
+"Sam Schrader" checks
+"Cole Ford" bets 150
+"Sam Schrader" calls 150
+turn: As, 8c, Qh [2d]
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Sam Schrader" calls 80
+river: As, 8c, Qh, 2d [7c]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" collected 610 from pot with Pair, Q's (hand: Jh, Qs)
+"Sam Schrader" shows a Js, 8s.
+-- ending hand #47 --
+-- starting hand #48  (Texas Hold'em) (dealer: "Dylan Russian") [5-handed] --
+Player stacks: #1 "Dylan" (3375) | #2 "Betch" (5915) | #3 "Sam" (2825) | #5 "Cole Ste" (1955) | #9 "Cole" (4930)
+Your hand is 9h, 7s
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Dylan Russian" calls 20
+"Jack Betcher" raises to 100
+"Sam Schrader" raises to 350
+"Cole Ford" folds
+"Dylan Russian" folds
+"Jack Betcher" calls 350
+flop:  [10h, 2h, Jc]
+"Jack Betcher" checks
+"Sam Schrader" bets 500
+"Jack Betcher" folds
+Uncalled bet of 500 returned to "Sam Schrader"
+"Sam Schrader" collected 740 from pot
+-- ending hand #48 --
+"Sam Schrader" shows a Qs, Kc.
+"Cole Ford" shows a 9d, Ah.
+"Jack Betcher" shows a 5c, 8s.
+-- starting hand #49  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Player stacks: #1 "Dylan" (3355) | #2 "Betch" (5565) | #3 "Sam" (3215) | #5 "Cole Ste" (1955) | #9 "Cole" (4910)
+Your hand is 10h, 2s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Dylan Russian" raises to 60
+"Jack Betcher" raises to 240
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" folds
+"Dylan Russian" folds
+Uncalled bet of 180 returned to "Jack Betcher"
+"Jack Betcher" collected 170 from pot
+-- ending hand #49 --
+-- starting hand #50  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Player stacks: #1 "Dylan" (3295) | #2 "Betch" (5675) | #3 "Sam" (3205) | #5 "Cole Ste" (1935) | #9 "Cole" (4890)
+Your hand is 9d, 7h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+flop:  [Jc, 5c, 6d]
+"Cole Ford" checks
+"Sam Schrader" bets 80
+"Cole Ford" folds
+Uncalled bet of 80 returned to "Sam Schrader"
+"Sam Schrader" collected 130 from pot
+-- ending hand #50 --
+"Sam Schrader" shows a Jh, Kc.
+"Cole Ford" shows a 2s, Qs.
+-- starting hand #51  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Player stacks: #1 "Dylan" (3295) | #2 "Betch" (5675) | #3 "Sam" (3275) | #5 "Cole Ste" (1925) | #9 "Cole" (4830)
+Your hand is Qc, 2c
+"Cole Ford" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+"Dylan Russian" folds
+flop:  [Kd, 6h, 6c]
+"Cole Ford" checks
+"Sam Schrader" bets 80
+"Cole Ford" folds
+Uncalled bet of 80 returned to "Sam Schrader"
+"Sam Schrader" collected 140 from pot
+-- ending hand #51 --
+-- starting hand #52  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Player stacks: #1 "Dylan" (3275) | #2 "Betch" (5675) | #3 "Sam" (3355) | #5 "Cole Ste" (1925) | #9 "Cole" (4770)
+Your hand is 2s, Ac
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+"Dylan Russian" raises to 150
+"Jack Betcher" folds
+"Sam Schrader" calls 150
+"Cole Ford" calls 150
+flop:  [4h, Js, Qs]
+"Dylan Russian" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4h, Js, Qs [7s]
+"Dylan Russian" checks
+"Sam Schrader" bets 290
+"Cole Ford" raises to 580
+"Dylan Russian" folds
+"Sam Schrader" folds
+Uncalled bet of 290 returned to "Cole Ford"
+"Cole Ford" collected 1050 from pot
+-- ending hand #52 --
+"Cole Ford" shows a 3d, Jd.
+-- starting hand #53  (Texas Hold'em) (dealer: "Dylan Russian") [5-handed] --
+Player stacks: #1 "Dylan" (3125) | #2 "Betch" (5655) | #3 "Sam" (2915) | #5 "Cole Ste" (1925) | #9 "Cole" (5380)
+Your hand is 3s, 3c
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Cole Ford" calls 60
+"Dylan Russian" raises to 150
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" calls 150
+"Cole Ford" calls 150
+flop:  [4d, 3d, 8d]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Dylan Russian" bets 200
+"Cole Stephens" raises to 680
+"Cole Ford" folds
+WARNING: the admin queued the stack change for the player "Sam Schrader" to 4895 in the next hand.
+"Dylan Russian" raises to 1160
+"Cole Stephens" raises to 1775 and go all in
+"Dylan Russian" calls 1775
+turn: 4d, 3d, 8d [6c]
+"Dylan Russian" shows a As, Ah.
+"Cole Stephens" shows a 3s, 3c.
+river: 4d, 3d, 8d, 6c [10s]
+"Cole Stephens" collected 4030 from pot with Three of a Kind, 3's (hand: 3s, 3c)
+-- ending hand #53 --
+The admin updated the player "Sam Schrader" stack from 2895 to 4895.
+-- starting hand #54  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Player stacks: #1 "Dylan" (1200) | #2 "Betch" (5645) | #3 "Sam" (4895) | #5 "Cole Ste" (4030) | #9 "Cole" (5230)
+Your hand is 5c, 4s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" folds
+"Dylan Russian" raises to 80
+"Jack Betcher" calls 80
+"Sam Schrader" folds
+"Cole Stephens" calls 80
+flop:  [Jd, Ah, 2d]
+"Cole Stephens" checks
+"Dylan Russian" bets 150
+"Jack Betcher" calls 150
+"Cole Stephens" folds
+turn: Jd, Ah, 2d [3c]
+"Dylan Russian" checks
+"Jack Betcher" bets 970
+"Dylan Russian" folds
+Uncalled bet of 970 returned to "Jack Betcher"
+"Jack Betcher" collected 550 from pot
+-- ending hand #54 --
+"Cole Ford" shows a 2h, Js.
+"Cole Stephens" shows a 5c, 4s.
+-- starting hand #55  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Player stacks: #1 "Dylan" (970) | #2 "Betch" (5965) | #3 "Sam" (4885) | #5 "Cole Ste" (3950) | #9 "Cole" (5230)
+Your hand is 7c, 6c
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Dylan Russian" raises to 60
+"Jack Betcher" calls 60
+"Sam Schrader" raises to 300
+"Cole Stephens" folds
+"Cole Ford" folds
+"Dylan Russian" folds
+"Jack Betcher" folds
+Uncalled bet of 240 returned to "Sam Schrader"
+"Sam Schrader" collected 210 from pot
+-- ending hand #55 --
+-- starting hand #56  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Player stacks: #1 "Dylan" (910) | #2 "Betch" (5905) | #3 "Sam" (5035) | #5 "Cole Ste" (3940) | #9 "Cole" (5210)
+Your hand is 9c, Kh
+"Cole Ford" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" raises to 60
+"Cole Ford" calls 60
+"Dylan Russian" folds
+flop:  [6s, 5h, 8c]
+"Cole Ford" bets 20
+"Cole Stephens" calls 20
+turn: 6s, 5h, 8c [7h]
+"Cole Ford" checks
+"Cole Stephens" bets 110
+"Cole Ford" folds
+Uncalled bet of 110 returned to "Cole Stephens"
+"Cole Stephens" collected 180 from pot
+-- ending hand #56 --
+"Cole Ford" shows a Kd, Js.
+-- starting hand #57  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Player stacks: #1 "Dylan" (890) | #2 "Betch" (5905) | #3 "Sam" (5035) | #5 "Cole Ste" (4040) | #9 "Cole" (5130)
+Your hand is Kh, 6s
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+"Dylan Russian" folds
+WARNING: the admin queued the stack change for the player "Dylan Russian" to 2890 in the next hand.
+"Jack Betcher" calls 60
+flop:  [8d, 4s, 5s]
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8d, 4s, 5s [2d]
+"Jack Betcher" bets 95
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 95 returned to "Jack Betcher"
+"Jack Betcher" collected 190 from pot
+-- ending hand #57 --
+The admin updated the player "Dylan Russian" stack from 880 to 2890.
+-- starting hand #58  (Texas Hold'em) (dealer: "Dylan Russian") [5-handed] --
+Player stacks: #1 "Dylan" (2890) | #2 "Betch" (6035) | #3 "Sam" (4975) | #5 "Cole Ste" (4040) | #9 "Cole" (5070)
+Your hand is 8d, 5s
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Dylan Russian" raises to 80
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 60 returned to "Dylan Russian"
+"Dylan Russian" collected 70 from pot
+-- ending hand #58 --
+-- starting hand #59  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Player stacks: #1 "Dylan" (2940) | #2 "Betch" (6025) | #3 "Sam" (4955) | #5 "Cole Ste" (4040) | #9 "Cole" (5050)
+Your hand is 9s, 6d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Dylan Russian" raises to 60
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 60
+flop:  [5c, 5s, 4c]
+"Cole Ford" checks
+"Dylan Russian" bets 100
+"Cole Ford" folds
+Uncalled bet of 100 returned to "Dylan Russian"
+"Dylan Russian" collected 150 from pot
+-- ending hand #59 --
+-- starting hand #60  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Player stacks: #1 "Dylan" (3030) | #2 "Betch" (6025) | #3 "Sam" (4945) | #5 "Cole Ste" (4020) | #9 "Cole" (4990)
+Your hand is 4d, 10h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" raises to 80
+"Cole Stephens" folds
+"Cole Ford" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #60 --
+-- starting hand #61  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Player stacks: #1 "Dylan" (3030) | #2 "Betch" (6025) | #3 "Sam" (4975) | #5 "Cole Ste" (4010) | #9 "Cole" (4970)
+Your hand is 6s, 2s
+"Cole Ford" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Dylan Russian"
+"Dylan Russian" collected 20 from pot
+-- ending hand #61 --
+"Dylan Russian" shows a 6h, Js.
+-- starting hand #62  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Player stacks: #1 "Dylan" (3040) | #2 "Betch" (6025) | #3 "Sam" (4975) | #5 "Cole Ste" (4010) | #9 "Cole" (4960)
+Your hand is 9s, 3s
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Dylan Russian" calls 20
+"Jack Betcher" raises to 100
+"Cole Ford" calls 100
+"Dylan Russian" folds
+flop:  [7h, 2d, 6h]
+"Jack Betcher" bets 110
+"Cole Ford" folds
+Uncalled bet of 110 returned to "Jack Betcher"
+"Jack Betcher" collected 220 from pot
+-- ending hand #62 --
+-- starting hand #63  (Texas Hold'em) (dealer: "Dylan Russian") [5-handed] --
+Player stacks: #1 "Dylan" (3020) | #2 "Betch" (6145) | #3 "Sam" (4975) | #5 "Cole Ste" (4010) | #9 "Cole" (4860)
+Your hand is 5c, 3c
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" checks
+flop:  [Jd, Jc, Qd]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Jd, Jc, Qd [4c]
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Jd, Jc, Qd, 4c [3s]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" collected 50 from pot with Two Pair, J's & 3's (hand: 3h, 2s)
+"Sam Schrader" shows a 8s, 7c.
+-- ending hand #63 --
+-- starting hand #64  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Player stacks: #1 "Dylan" (3020) | #2 "Betch" (6135) | #3 "Sam" (4955) | #5 "Cole Ste" (4010) | #9 "Cole" (4890)
+Your hand is 6c, 6d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [Jh, 6s, 4c]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: Jh, 6s, 4c [3s]
+"Cole Stephens" bets 105
+"Cole Ford" raises to 210
+"Cole Stephens" raises to 800
+"Cole Ford" folds
+Uncalled bet of 590 returned to "Cole Stephens"
+"Cole Stephens" collected 590 from pot
+-- ending hand #64 --
+"Cole Ford" shows a 5s, Kh.
+-- starting hand #65  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Player stacks: #1 "Dylan" (3020) | #2 "Betch" (6135) | #3 "Sam" (4945) | #5 "Cole Ste" (4310) | #9 "Cole" (4600)
+Your hand is 9d, 2c
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Dylan Russian" folds
+"Jack Betcher" folds
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+flop:  [9h, 10h, 3c]
+"Cole Ford" bets 60
+"Sam Schrader" raises to 240
+"Cole Ford" calls 240
+turn: 9h, 10h, 3c [5s]
+"Cole Ford" checks
+"Sam Schrader" bets 450
+"Cole Ford" calls 450
+river: 9h, 10h, 3c, 5s [Qs]
+"Cole Ford" bets 1510
+"Sam Schrader" folds
+Uncalled bet of 1510 returned to "Cole Ford"
+"Cole Ford" collected 1510 from pot
+-- ending hand #65 --
+-- starting hand #66  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Player stacks: #1 "Dylan" (3020) | #2 "Betch" (6135) | #3 "Sam" (4195) | #5 "Cole Ste" (4300) | #9 "Cole" (5360)
+Your hand is Kc, Jd
+"Cole Ford" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" raises to 80
+"Sam Schrader" folds
+"Cole Stephens" raises to 260
+"Cole Ford" calls 260
+"Dylan Russian" folds
+"Jack Betcher" folds
+flop:  [8h, 8d, 6d]
+"Cole Ford" bets 310
+"Cole Stephens" calls 310
+turn: 8h, 8d, 6d [6s]
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 8h, 8d, 6d, 6s [7s]
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" collected 1240 from pot with Two Pair, 8's & 6's (hand: Kc, Jd)
+"Cole Ford" shows a 5s, 5c.
+-- ending hand #66 --
+-- starting hand #67  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Player stacks: #1 "Dylan" (3000) | #2 "Betch" (6055) | #3 "Sam" (4195) | #5 "Cole Ste" (4970) | #9 "Cole" (4790)
+Your hand is 5c, 6h
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+"Dylan Russian" calls 60
+"Jack Betcher" calls 60
+flop:  [2d, 3c, 4h]
+"Dylan Russian" checks
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 2d, 3c, 4h [Qs]
+"Dylan Russian" checks
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Cole Ford" folds
+river: 2d, 3c, 4h, Qs [10h]
+"Dylan Russian" checks
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Dylan Russian" collected 240 from pot with Pair, 10's (hand: 10s, Ah)
+-- ending hand #67 --
+"Cole Stephens" shows a 5c, 6h.
+-- starting hand #68  (Texas Hold'em) (dealer: "Dylan Russian") [5-handed] --
+Player stacks: #1 "Dylan" (3180) | #2 "Betch" (5995) | #3 "Sam" (4135) | #5 "Cole Ste" (4970) | #9 "Cole" (4730)
+Your hand is 6s, Jh
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" folds
+"Dylan Russian" calls 20
+"Jack Betcher" folds
+"Sam Schrader" checks
+flop:  [9h, Kd, Jc]
+"Sam Schrader" checks
+"Dylan Russian" checks
+turn: 9h, Kd, Jc [Ah]
+"Sam Schrader" checks
+"Dylan Russian" checks
+river: 9h, Kd, Jc, Ah [10d]
+"Sam Schrader" bets 500
+"Dylan Russian" folds
+Uncalled bet of 500 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #68 --
+-- starting hand #69  (Texas Hold'em) (dealer: "Jack Betcher") [5-handed] --
+Player stacks: #1 "Dylan" (3160) | #2 "Betch" (5985) | #3 "Sam" (4165) | #5 "Cole Ste" (4970) | #9 "Cole" (4730)
+Your hand is 4c, 8d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" folds
+"Dylan Russian" raises to 80
+"Jack Betcher" folds
+"Sam Schrader" raises to 240
+"Cole Stephens" folds
+"Dylan Russian" calls 240
+flop:  [10c, 7s, 5h]
+"Sam Schrader" checks
+"Dylan Russian" checks
+turn: 10c, 7s, 5h [8c]
+"Sam Schrader" checks
+"Dylan Russian" checks
+river: 10c, 7s, 5h, 8c [6c]
+"Sam Schrader" checks
+"Dylan Russian" checks
+"Sam Schrader" collected 500 from pot with Three of a Kind, 10's (hand: 10h, 10d)
+-- ending hand #69 --
+-- starting hand #70  (Texas Hold'em) (dealer: "Sam Schrader") [5-handed] --
+Player stacks: #1 "Dylan" (2920) | #2 "Betch" (5985) | #3 "Sam" (4425) | #5 "Cole Ste" (4950) | #9 "Cole" (4730)
+Your hand is 4d, Kc
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Dylan Russian" calls 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" calls 20
+"Cole Ford" checks
+flop:  [10s, 7s, Qc]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Dylan Russian" bets 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+turn: 10s, 7s, Qc [4s]
+"Cole Ford" checks
+"Dylan Russian" bets 180
+"Cole Ford" folds
+Uncalled bet of 180 returned to "Dylan Russian"
+"Dylan Russian" collected 180 from pot
+-- ending hand #70 --
+-- starting hand #71  (Texas Hold'em) (dealer: "Cole Stephens") [5-handed] --
+Player stacks: #1 "Dylan" (3020) | #2 "Betch" (5985) | #3 "Sam" (4425) | #5 "Cole Ste" (4930) | #9 "Cole" (4650)
+Your hand is Jc, 6s
+"Cole Ford" posts a small blind of 10
+"Dylan Russian" posts a big blind of 20
+"Jack Betcher" calls 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Dylan Russian" checks
+flop:  [Kd, 4s, 3s]
+"Cole Ford" checks
+"Dylan Russian" checks
+"Jack Betcher" bets 30
+"Cole Ford" calls 30
+"Dylan Russian" calls 30
+turn: Kd, 4s, 3s [Jd]
+"Cole Ford" checks
+"Dylan Russian" checks
+"Jack Betcher" bets 75
+"Cole Ford" folds
+"Dylan Russian" calls 75
+river: Kd, 4s, 3s, Jd [4d]
+"Dylan Russian" checks
+"Jack Betcher" bets 150
+"Dylan Russian" folds
+Uncalled bet of 150 returned to "Jack Betcher"
+"Jack Betcher" collected 300 from pot
+-- ending hand #71 --
+-- starting hand #72  (Texas Hold'em) (dealer: "Cole Ford") [5-handed] --
+Player stacks: #1 "Dylan" (2895) | #2 "Betch" (6160) | #3 "Sam" (4425) | #5 "Cole Ste" (4930) | #9 "Cole" (4600)
+Your hand is 9c, Kc
+"Dylan Russian" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises to 60
+"Cole Ford" calls 60
+"Dylan Russian" folds
+"Jack Betcher" calls 60
+flop:  [8c, Jd, Ah]
+"Jack Betcher" checks
+"Cole Stephens" checks
+"Cole Ford" bets 20
+"Jack Betcher" calls 20
+"Cole Stephens" calls 20
+turn: 8c, Jd, Ah [Ad]
+"Jack Betcher" checks
+"Cole Stephens" bets 125
+"Cole Ford" calls 125
+"Jack Betcher" folds
+river: 8c, Jd, Ah, Ad [Kd]
+"Cole Stephens" bets 170
+"Cole Ford" raises to 400
+"Cole Stephens" calls 400
+"Cole Ford" collected 1300 from pot with Full House, A's over K's (hand: Ac, Ks)
+-- ending hand #72 --
+The player "Dylan Russian" quits the game with a stack of 2885.
+-- starting hand #73  (Texas Hold'em) (dead button) [4-handed] --
+Player stacks: #2 "Betch" (6080) | #3 "Sam" (4425) | #5 "Cole Ste" (4325) | #9 "Cole" (5295)
+Your hand is Kd, 4h
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Jack Betcher" calls 20
+"Sam Schrader" checks
+flop:  [8s, 9h, 8d]
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Cole Ford" bets 20
+"Jack Betcher" raises to 80
+"Sam Schrader" folds
+"Cole Ford" calls 80
+turn: 8s, 9h, 8d [6h]
+"Jack Betcher" checks
+"Cole Ford" bets 20
+"Jack Betcher" raises to 150
+"Cole Ford" calls 150
+river: 8s, 9h, 8d, 6h [Ks]
+"Jack Betcher" bets 260
+"Cole Ford" calls 260
+"Jack Betcher" collected 1040 from pot with Two Pair, J's & 8's (hand: Jd, Jh)
+-- ending hand #73 --
+"Cole Ford" shows a 9d, 10h.
+-- starting hand #74  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #2 "Betch" (6610) | #3 "Sam" (4405) | #5 "Cole Ste" (4325) | #9 "Cole" (4785)
+Your hand is Js, 7h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Jack Betcher" folds
+"Sam Schrader" calls 20
+"Cole Stephens" checks
+flop:  [Jc, 7c, 10c]
+"Sam Schrader" bets 60
+"Cole Stephens" calls 60
+"Cole Ford" folds
+turn: Jc, 7c, 10c [7s]
+"Sam Schrader" bets 160
+"Cole Stephens" calls 160
+river: Jc, 7c, 10c, 7s [9c]
+"Sam Schrader" checks
+"Cole Stephens" bets 650
+"Sam Schrader" folds
+Uncalled bet of 650 returned to "Cole Stephens"
+"Cole Stephens" collected 500 from pot
+-- ending hand #74 --
+"Sam Schrader" shows a 9s, Qc.
+"Cole Ford" shows a 3h, Ks.
+-- starting hand #75  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #2 "Betch" (6610) | #3 "Sam" (4165) | #5 "Cole Ste" (4585) | #9 "Cole" (4765)
+Your hand is 6d, 6c
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Jack Betcher" calls 20
+"Sam Schrader" folds
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+"Jack Betcher" calls 80
+flop:  [Ah, Kd, 8s]
+"Cole Stephens" bets 180
+"Cole Ford" calls 180
+"Jack Betcher" folds
+turn: Ah, Kd, 8s [10c]
+"Cole Stephens" bets 450
+"Cole Ford" folds
+Uncalled bet of 450 returned to "Cole Stephens"
+"Cole Stephens" collected 600 from pot
+-- ending hand #75 --
+-- starting hand #76  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #2 "Betch" (6530) | #3 "Sam" (4165) | #5 "Cole Ste" (4925) | #9 "Cole" (4505)
+Your hand is Js, Qh
+"Cole Ford" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises to 60
+"Cole Ford" calls 60
+"Jack Betcher" folds
+flop:  [Qd, 10h, 10c]
+"Cole Ford" checks
+"Cole Stephens" bets 70
+"Cole Ford" calls 70
+turn: Qd, 10h, 10c [Jc]
+"Cole Ford" folds
+"Cole Stephens" collected 280 from pot
+-- ending hand #76 --
+-- starting hand #77  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Player stacks: #2 "Betch" (6510) | #3 "Sam" (4165) | #5 "Cole Ste" (5075) | #9 "Cole" (4375)
+Your hand is 4c, 8d
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Jack Betcher" calls 20
+"Sam Schrader" checks
+flop:  [2d, 2s, 4d]
+"Jack Betcher" checks
+"Sam Schrader" bets 45
+"Cole Ford" calls 45
+"Jack Betcher" folds
+turn: 2d, 2s, 4d [8c]
+"Sam Schrader" bets 100
+"Cole Ford" calls 100
+river: 2d, 2s, 4d, 8c [4s]
+"Sam Schrader" bets 600
+"Cole Ford" calls 600
+"Sam Schrader" collected 1550 from pot with Full House, 4's over 2's (hand: 4h, Jh)
+-- ending hand #77 --
+"Cole Stephens" shows a 4c, 8d.
+"Cole Ford" shows a Jc, 2c.
+-- starting hand #78  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #2 "Betch" (6490) | #3 "Sam" (4950) | #5 "Cole Ste" (5075) | #9 "Cole" (3610)
+Your hand is 10h, 9d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Jack Betcher" raises to 100
+"Sam Schrader" raises to 400
+"Cole Stephens" folds
+"Cole Ford" folds
+"Jack Betcher" calls 400
+flop:  [6d, Qd, 5c]
+"Sam Schrader" bets 400
+"Jack Betcher" folds
+Uncalled bet of 400 returned to "Sam Schrader"
+"Sam Schrader" collected 840 from pot
+-- ending hand #78 --
+"Sam Schrader" shows a Jd, Kc.
+"Jack Betcher" shows a 8s, 9s.
+-- starting hand #79  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #2 "Betch" (6090) | #3 "Sam" (5390) | #5 "Cole Ste" (5055) | #9 "Cole" (3590)
+Your hand is 9h, Ac
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" raises to 60
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #79 --
+-- starting hand #80  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #2 "Betch" (6090) | #3 "Sam" (5390) | #5 "Cole Ste" (5075) | #9 "Cole" (3570)
+Your hand is 5h, Ks
+"Cole Ford" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Jack Betcher" raises to 80
+"Cole Ford" calls 80
+flop:  [5c, Qs, Jd]
+"Cole Ford" checks
+"Jack Betcher" bets 80
+"Cole Ford" folds
+Uncalled bet of 80 returned to "Jack Betcher"
+"Jack Betcher" collected 160 from pot
+-- ending hand #80 --
+"Jack Betcher" shows a 8d, 9s.
+-- starting hand #81  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Player stacks: #2 "Betch" (6170) | #3 "Sam" (5390) | #5 "Cole Ste" (5075) | #9 "Cole" (3490)
+Your hand is 4c, Qh
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" folds
+"Jack Betcher" calls 20
+"Sam Schrader" checks
+flop:  [5h, Ah, Kc]
+"Jack Betcher" checks
+"Sam Schrader" checks
+turn: 5h, Ah, Kc [6h]
+"Jack Betcher" checks
+"Sam Schrader" checks
+river: 5h, Ah, Kc, 6h [10d]
+"Jack Betcher" bets 20
+"Sam Schrader" calls 20
+"Sam Schrader" collected 80 from pot with Pair, 10's (hand: 3d, 10h)
+"Jack Betcher" shows a 7h, Qd.
+-- ending hand #81 --
+-- starting hand #82  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #2 "Betch" (6130) | #3 "Sam" (5430) | #5 "Cole Ste" (5075) | #9 "Cole" (3490)
+Your hand is 10h, 3c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Jack Betcher" folds
+"Sam Schrader" raises to 80
+"Cole Stephens" folds
+"Cole Ford" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 60 from pot
+-- ending hand #82 --
+-- starting hand #83  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #2 "Betch" (6130) | #3 "Sam" (5470) | #5 "Cole Ste" (5055) | #9 "Cole" (3470)
+Your hand is 6d, 10h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Jack Betcher" calls 20
+"Sam Schrader" raises to 80
+"Cole Stephens" folds
+"Cole Ford" calls 80
+"Jack Betcher" calls 80
+flop:  [5s, 2c, 2s]
+"Cole Ford" bets 20
+"Jack Betcher" calls 20
+"Sam Schrader" raises to 140
+"Cole Ford" folds
+"Jack Betcher" folds
+Uncalled bet of 120 returned to "Sam Schrader"
+"Sam Schrader" collected 310 from pot
+-- ending hand #83 --
+-- starting hand #84  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #2 "Betch" (6030) | #3 "Sam" (5680) | #5 "Cole Ste" (5045) | #9 "Cole" (3370)
+Your hand is 3s, 5c
+"Cole Ford" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" calls 60
+"Jack Betcher" calls 60
+flop:  [Ks, 6s, 7h]
+"Cole Ford" bets 80
+"Jack Betcher" calls 80
+"Sam Schrader" calls 80
+turn: Ks, 6s, 7h [Qc]
+"Cole Ford" checks
+"Jack Betcher" bets 210
+"Sam Schrader" folds
+"Cole Ford" calls 210
+river: Ks, 6s, 7h, Qc [4d]
+"Cole Ford" checks
+"Jack Betcher" bets 420
+"Cole Ford" calls 420
+"Cole Ford" collected 1680 from pot with Two Pair, Q's & 4's (hand: Qs, 4s)
+"Jack Betcher" shows a 5d, Kd.
+-- ending hand #84 --
+-- starting hand #85  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Player stacks: #2 "Betch" (5260) | #3 "Sam" (5540) | #5 "Cole Ste" (5045) | #9 "Cole" (4280)
+Your hand is Ad, 4h
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Cole Ford" folds
+"Jack Betcher" folds
+"Sam Schrader" calls 60
+flop:  [Qc, Kh, 8s]
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Qc, Kh, 8s [10s]
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: Qc, Kh, 8s, 10s [2d]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" collected 130 from pot with Pair, K's (hand: 3d, Kd)
+-- ending hand #85 --
+"Cole Stephens" shows a Ad, 4h.
+-- starting hand #86  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #2 "Betch" (5250) | #3 "Sam" (5610) | #5 "Cole Ste" (4985) | #9 "Cole" (4280)
+Your hand is 10s, 10c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Jack Betcher" folds
+"Sam Schrader" raises to 80
+"Cole Stephens" raises to 260
+"Cole Ford" folds
+"Sam Schrader" folds
+Uncalled bet of 180 returned to "Cole Stephens"
+"Cole Stephens" collected 180 from pot
+-- ending hand #86 --
+"Sam Schrader" shows a Js, 10d.
+"Cole Stephens" shows a 10s, 10c.
+-- starting hand #87  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #2 "Betch" (5250) | #3 "Sam" (5530) | #5 "Cole Ste" (5085) | #9 "Cole" (4260)
+Your hand is 10d, 7d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" raises to 60
+"Cole Stephens" calls 60
+"Cole Ford" calls 60
+flop:  [3h, 3d, Ks]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 3h, 3d, Ks [5s]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 3h, 3d, Ks, 5s [Qs]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Sam Schrader" bets 60
+"Cole Stephens" folds
+"Cole Ford" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 180 from pot
+-- ending hand #87 --
+-- starting hand #88  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #2 "Betch" (5250) | #3 "Sam" (5650) | #5 "Cole Ste" (5025) | #9 "Cole" (4200)
+Your hand is 5h, 7s
+"Cole Ford" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Jack Betcher" checks
+flop:  [3s, 6s, Ac]
+"Cole Ford" bets 20
+"Jack Betcher" folds
+Uncalled bet of 20 returned to "Cole Ford"
+"Cole Ford" collected 40 from pot
+-- ending hand #88 --
+"Cole Ford" shows a 9d, 9s.
+"Jack Betcher" shows a 7c, 9h.
+-- starting hand #89  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Player stacks: #2 "Betch" (5230) | #3 "Sam" (5650) | #5 "Cole Ste" (5025) | #9 "Cole" (4220)
+Your hand is Qd, Qs
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Cole Ford" calls 60
+"Jack Betcher" folds
+"Sam Schrader" calls 60
+flop:  [8c, Ad, 5h]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 8c, Ad, 5h [9h]
+"Sam Schrader" bets 80
+"Cole Stephens" calls 80
+"Cole Ford" calls 80
+river: 8c, Ad, 5h, 9h [4h]
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Ford" bets 220
+"Sam Schrader" folds
+"Cole Stephens" calls 220
+"Cole Ford" collected 870 from pot with Three of a Kind, 9's (hand: 9c, 9s)
+-- ending hand #89 --
+-- starting hand #90  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #2 "Betch" (5220) | #3 "Sam" (5510) | #5 "Cole Ste" (4665) | #9 "Cole" (4730)
+Your hand is 7s, 10h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" checks
+flop:  [4d, Jc, 3c]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 4d, Jc, 3c [8s]
+"Cole Stephens" bets 20
+"Cole Ford" calls 20
+river: 4d, Jc, 3c, 8s [6h]
+"Cole Stephens" bets 65
+"Cole Ford" raises to 190
+"Cole Stephens" folds
+Uncalled bet of 125 returned to "Cole Ford"
+"Cole Ford" collected 220 from pot
+-- ending hand #90 --
+"Cole Ford" shows a 5h, 7c.
+-- starting hand #91  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #2 "Betch" (5220) | #3 "Sam" (5500) | #5 "Cole Ste" (4560) | #9 "Cole" (4845)
+Your hand is 8s, 6s
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Jack Betcher" calls 20
+"Sam Schrader" folds
+"Cole Stephens" raises to 100
+"Cole Ford" calls 100
+"Jack Betcher" folds
+flop:  [Jh, Qs, 5c]
+"Cole Stephens" bets 110
+"Cole Ford" calls 110
+turn: Jh, Qs, 5c [5d]
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Jh, Qs, 5c, 5d [5h]
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Ford" collected 440 from pot with Three of a Kind, 5's (hand: 10s, As)
+"Cole Stephens" shows a 8s, 6s.
+-- ending hand #91 --
+-- starting hand #92  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #2 "Betch" (5200) | #3 "Sam" (5500) | #5 "Cole Ste" (4350) | #9 "Cole" (5075)
+Your hand is 10d, 7d
+"Cole Ford" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" calls 60
+"Cole Ford" raises to 100
+"Jack Betcher" calls 100
+"Sam Schrader" calls 100
+"Cole Stephens" calls 100
+flop:  [10h, 5s, 9h]
+"Cole Ford" bets 20
+"Jack Betcher" calls 20
+"Sam Schrader" calls 20
+"Cole Stephens" calls 20
+turn: 10h, 5s, 9h [Qc]
+"Cole Ford" bets 100
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" calls 100
+river: 10h, 5s, 9h, Qc [10s]
+"Cole Ford" bets 100
+"Cole Stephens" raises to 360
+"Cole Ford" calls 360
+"Cole Stephens" collected 1400 from pot with Three of a Kind, 10's (hand: 10d, 7d)
+-- ending hand #92 --
+"Cole Ford" shows a Jc, Jh.
+-- starting hand #93  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Player stacks: #2 "Betch" (5080) | #3 "Sam" (5380) | #5 "Cole Ste" (5170) | #9 "Cole" (4495)
+Your hand is 8d, 2h
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" raises to 100
+"Jack Betcher" folds
+"Sam Schrader" folds
+Uncalled bet of 80 returned to "Cole Ford"
+"Cole Ford" collected 50 from pot
+-- ending hand #93 --
+"Sam Schrader" shows a 2c, 7d.
+"Jack Betcher" shows a 10d, 7s.
+"Cole Ford" shows a Ah, Jc.
+-- starting hand #94  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #2 "Betch" (5070) | #3 "Sam" (5360) | #5 "Cole Ste" (5170) | #9 "Cole" (4525)
+Your hand is 8h, 9s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" checks
+flop:  [8d, Ah, 3c]
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 8d, Ah, 3c [5c]
+"Cole Stephens" bets 40
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #94 --
+-- starting hand #95  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #2 "Betch" (5070) | #3 "Sam" (5350) | #5 "Cole Ste" (5200) | #9 "Cole" (4505)
+Your hand is Jh, 3s
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Jack Betcher" raises to 60
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" calls 60
+flop:  [7s, 8d, 2c]
+"Cole Ford" checks
+"Jack Betcher" bets 65
+"Cole Ford" folds
+Uncalled bet of 65 returned to "Jack Betcher"
+"Jack Betcher" collected 130 from pot
+-- ending hand #95 --
+-- starting hand #96  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #2 "Betch" (5140) | #3 "Sam" (5350) | #5 "Cole Ste" (5190) | #9 "Cole" (4445)
+Your hand is 3h, 9d
+"Cole Ford" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" raises to 100
+"Jack Betcher" folds
+"Sam Schrader" calls 100
+flop:  [Qd, 3c, Kd]
+"Cole Ford" bets 140
+"Sam Schrader" calls 140
+turn: Qd, 3c, Kd [4h]
+"Cole Ford" bets 100
+"Sam Schrader" folds
+Uncalled bet of 100 returned to "Cole Ford"
+"Cole Ford" collected 500 from pot
+-- ending hand #96 --
+-- starting hand #97  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Player stacks: #2 "Betch" (5120) | #3 "Sam" (5110) | #5 "Cole Ste" (5190) | #9 "Cole" (4705)
+Your hand is Ac, 10h
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 80
+"Cole Ford" raises to 140
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" calls 140
+flop:  [Jc, 6h, Qc]
+"Cole Stephens" checks
+"Cole Ford" bets 140
+"Cole Stephens" calls 140
+turn: Jc, 6h, Qc [3d]
+"Cole Stephens" checks
+"Cole Ford" bets 240
+"Cole Stephens" folds
+Uncalled bet of 240 returned to "Cole Ford"
+"Cole Ford" collected 590 from pot
+-- ending hand #97 --
+-- starting hand #98  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #2 "Betch" (5110) | #3 "Sam" (5090) | #5 "Cole Ste" (4910) | #9 "Cole" (5015)
+Your hand is 4s, 8h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" calls 20
+"Jack Betcher" raises to 80
+"Sam Schrader" calls 80
+"Cole Stephens" folds
+"Cole Ford" calls 80
+flop:  [3c, 10d, Ac]
+"Sam Schrader" checks
+"Cole Ford" checks
+"Jack Betcher" bets 130
+"Sam Schrader" calls 130
+"Cole Ford" folds
+turn: 3c, 10d, Ac [6s]
+"Sam Schrader" checks
+"Jack Betcher" bets 260
+"Sam Schrader" calls 260
+river: 3c, 10d, Ac, 6s [5s]
+"Sam Schrader" checks
+"Jack Betcher" checks
+"Sam Schrader" collected 1040 from pot with Two Pair, A's & 5's (hand: As, 5h)
+-- ending hand #98 --
+-- starting hand #99  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #2 "Betch" (4640) | #3 "Sam" (5660) | #5 "Cole Ste" (4890) | #9 "Cole" (4935)
+Your hand is 5d, 3h
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Jack Betcher" calls 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Cole Ford" checks
+flop:  [3c, 9d, 4d]
+"Cole Ford" checks
+"Jack Betcher" bets 20
+"Cole Ford" folds
+Uncalled bet of 20 returned to "Jack Betcher"
+"Jack Betcher" collected 50 from pot
+-- ending hand #99 --
+-- starting hand #100  (Texas Hold'em) (dealer: "Cole Stephens") [4-handed] --
+Player stacks: #2 "Betch" (4670) | #3 "Sam" (5660) | #5 "Cole Ste" (4880) | #9 "Cole" (4915)
+Your hand is 3d, Kc
+"Cole Ford" posts a small blind of 10
+"Jack Betcher" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+"Cole Ford" folds
+"Jack Betcher" calls 60
+flop:  [2c, 10h, Qd]
+"Jack Betcher" checks
+"Sam Schrader" checks
+turn: 2c, 10h, Qd [5h]
+"Jack Betcher" checks
+"Sam Schrader" checks
+river: 2c, 10h, Qd, 5h [5c]
+"Jack Betcher" checks
+"Sam Schrader" checks
+"Sam Schrader" collected 130 from pot with Pair, 5's (hand: As, 7c)
+"Jack Betcher" shows a 9h, 8d.
+-- ending hand #100 --
+"Cole Ford" shows a 3h, Qs.
+-- starting hand #101  (Texas Hold'em) (dealer: "Cole Ford") [4-handed] --
+Player stacks: #2 "Betch" (4610) | #3 "Sam" (5730) | #5 "Cole Ste" (4880) | #9 "Cole" (4905)
+Your hand is Qd, 7s
+"Jack Betcher" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Cole Ford" calls 20
+"Jack Betcher" folds
+"Sam Schrader" checks
+flop:  [4h, 4s, As]
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4h, 4s, As [8s]
+"Sam Schrader" checks
+"Cole Ford" bets 40
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Ford"
+"Cole Ford" collected 50 from pot
+-- ending hand #101 --
+-- starting hand #102  (Texas Hold'em) (dealer: "Jack Betcher") [4-handed] --
+Player stacks: #2 "Betch" (4600) | #3 "Sam" (5710) | #5 "Cole Ste" (4880) | #9 "Cole" (4935)
+Your hand is 5c, 6h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" folds
+"Jack Betcher" raises to 80
+"Sam Schrader" folds
+"Cole Stephens" folds
+Uncalled bet of 60 returned to "Jack Betcher"
+"Jack Betcher" collected 50 from pot
+-- ending hand #102 --
+-- starting hand #103  (Texas Hold'em) (dealer: "Sam Schrader") [4-handed] --
+Player stacks: #2 "Betch" (4630) | #3 "Sam" (5700) | #5 "Cole Ste" (4860) | #9 "Cole" (4935)
+Your hand is 8h, 5d
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Jack Betcher" folds
+"Sam Schrader" folds
+"Cole Stephens" calls 20
+"Cole Ford" checks
+flop:  [2c, Ah, 5c]
+"Cole Stephens" bets 30
+"Cole Ford" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #103 --
+The player "Jack Betcher" quits the game with a stack of 4630.
+-- starting hand #104  (Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Sam" (5700) | #5 "Cole Ste" (4880) | #9 "Cole" (4915)
+Your hand is 9d, Kc
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Cole Ford" calls 45
+"Sam Schrader" raises to 150
+"Cole Stephens" folds
+"Cole Ford" calls 150
+flop:  [7h, 6s, 6h]
+"Cole Ford" bets 140
+"Sam Schrader" calls 140
+turn: 7h, 6s, 6h [2c]
+"Cole Ford" bets 180
+"Sam Schrader" calls 180
+river: 7h, 6s, 6h, 2c [5d]
+"Cole Ford" bets 340
+"Sam Schrader" raises to 1340
+"Cole Ford" raises to 2340
+"Sam Schrader" calls 2340
+"Sam Schrader" collected 5665 from pot with Full House, 5's over 6's (hand: 5s, 5c)
+"Cole Ford" shows a 9c, Ah.
+-- ending hand #104 --
+-- starting hand #105  (Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Sam" (8555) | #5 "Cole Ste" (4835) | #9 "Cole" (2105)
+Your hand is 6d, 3c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Cole Ford" raises to 100
+"Sam Schrader" raises to 8555 and go all in
+"Cole Stephens" folds
+"Cole Ford" calls 2105 and go all in
+Uncalled bet of 6450 returned to "Sam Schrader"
+flop:  [4h, 10h, Ad]
+"Sam Schrader" shows a 9c, 9d.
+"Cole Ford" shows a 5h, 5s.
+turn: 4h, 10h, Ad [Ac]
+river: 4h, 10h, Ad, Ac [3s]
+"Sam Schrader" collected 4230 from pot with Two Pair, A's & 9's (hand: 9c, 9d)
+-- ending hand #105 --
+The player "Cole Ford" quits the game with a stack of 0.
+-- starting hand #106  (Texas Hold'em) (dealer: "Sam Schrader") [2-handed] --
+Player stacks: #3 "Sam" (10680) | #5 "Cole Ste" (4815)
+Your hand is 3d, Kh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+entry,at,order

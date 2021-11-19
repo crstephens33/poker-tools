@@ -1,4 +1,4 @@
-import game.HoleCards;
+import poker.game.HoleCards;
 import org.junit.jupiter.api.Test;
 import range.Range;
 import util.OutputVerifier;

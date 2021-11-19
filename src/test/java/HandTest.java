@@ -1,7 +1,7 @@
-import game.Card;
-import game.FiveCardHand;
-import game.FiveCardHandOptimizationUtils;
-import game.HandRankEncoding;
+import poker.game.Card;
+import poker.game.FiveCardHand;
+import poker.game.FiveCardHandOptimizationUtils;
+import poker.game.HandRankEncoding;
 import org.junit.jupiter.api.Test;
 import util.OutputVerifier;
 

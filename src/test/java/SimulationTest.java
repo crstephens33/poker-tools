@@ -1,5 +1,5 @@
-import game.HoleCards;
-import game.Simulation;
+import poker.game.HoleCards;
+import poker.game.Simulation;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

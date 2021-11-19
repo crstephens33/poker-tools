@@ -1,0 +1,2390 @@
+The player "Cole Stephens" created the game with a stack of 2500.
+The player "Cole Stephens" quits the game with a stack of 2500.
+The player "Cole Stephens" requested a seat.
+The admin approved the player "Cole Stephens" participation with a stack of 2000.
+The player "Sam Schrader" requested a seat.
+The admin approved the player "Sam Schrader" participation with a stack of 2000.
+-- starting hand #1  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2000) | #6 "Sam" (2000)
+Your hand is Ad, 6d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [Ks, 7s, 5h] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Ks, 7s, 5h [Kd] <Pot: 100>
+"Sam Schrader" bets 40
+"Cole Stephens" calls 40
+river: Ks, 7s, 5h, Kd [7d] <Pot: 180>
+"Sam Schrader" bets 140
+"Cole Stephens" calls 140
+"Cole Stephens" collected 230 from pot with Two Pair, K's & 7's (hand: Ad, 6d)
+"Sam Schrader" collected 230 from pot with Two Pair, K's & 7's (hand: 3d, Ac)
+-- ending hand #1 --
+-- starting hand #2  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2000) | #6 "Sam" (2000)
+Your hand is 3c, Kc
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #2 --
+-- starting hand #3  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2010) | #6 "Sam" (1990)
+Your hand is As, Jc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #3 --
+-- starting hand #4  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2030) | #6 "Sam" (1970)
+Your hand is Ad, 5s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #4 --
+"Cole Stephens" shows a Ad, 5s.
+"Sam Schrader" shows a 7s, Jd.
+-- starting hand #5  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2040) | #6 "Sam" (1960)
+Your hand is 7s, Kh
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #5 --
+-- starting hand #6  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2060) | #6 "Sam" (1940)
+Your hand is Kc, Ah
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #6 --
+"Cole Stephens" shows a Kc, Ah.
+"Sam Schrader" shows a 2d, 5c.
+-- starting hand #7  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2070) | #6 "Sam" (1930)
+Your hand is 9d, Ah
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #7 --
+"Sam Schrader" shows a 3d, 5h.
+-- starting hand #8  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2090) | #6 "Sam" (1910)
+Your hand is 7s, Qc
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #8 --
+"Sam Schrader" shows a 10h, 3s.
+-- starting hand #9  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2100) | #6 "Sam" (1900)
+Your hand is 7h, 7s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #9 --
+"Sam Schrader" shows a 3d, 2s.
+-- starting hand #10  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2120) | #6 "Sam" (1880)
+Your hand is 5c, Ac
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [Qs, 10s, 8d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" calls 60
+turn: Qs, 10s, 8d [4c] <Pot: 220>
+"Cole Stephens" checks
+"Sam Schrader" bets 140
+"Cole Stephens" folds
+Uncalled bet of 140 returned to "Sam Schrader"
+"Sam Schrader" collected 220 from pot
+-- ending hand #10 --
+-- starting hand #11  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2010) | #6 "Sam" (1990)
+Your hand is 7s, Js
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" raises to 160
+"Cole Stephens" calls 160
+flop:  [Ah, Qc, 9c] <Pot: 320>
+"Sam Schrader" bets 220
+"Cole Stephens" folds
+Uncalled bet of 220 returned to "Sam Schrader"
+"Sam Schrader" collected 320 from pot
+-- ending hand #11 --
+"Sam Schrader" shows a 3h, 4h.
+"Cole Stephens" shows a 7s, Js.
+-- starting hand #12  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (1850) | #6 "Sam" (2150)
+Your hand is 7d, 6c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [7c, 6d, 2d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 40
+"Cole Stephens" raises to 130
+"Sam Schrader" calls 130
+turn: 7c, 6d, 2d [10s] <Pot: 360>
+"Cole Stephens" bets 270
+"Sam Schrader" calls 270
+river: 7c, 6d, 2d, 10s [5s] <Pot: 900>
+"Cole Stephens" bets 400
+"Sam Schrader" calls 400
+"Cole Stephens" collected 1700 from pot with Two Pair, 7's & 6's (hand: 7d, 6c)
+-- ending hand #12 --
+"Sam Schrader" shows a Ah, 7s.
+-- starting hand #13  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2700) | #6 "Sam" (1300)
+Your hand is 7h, 2d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #13 --
+"Sam Schrader" shows a 10d, 3h.
+-- starting hand #14  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2690) | #6 "Sam" (1310)
+Your hand is 6h, 2d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #14 --
+"Cole Stephens" shows a 6h, 2d.
+"Sam Schrader" shows a Kc, 3d.
+-- starting hand #15  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2670) | #6 "Sam" (1330)
+Your hand is 4h, 5d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+flop:  [8c, As, Ac] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" bets 50
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 120 from pot
+-- ending hand #15 --
+"Sam Schrader" shows a 6d, 10d.
+"Cole Stephens" shows a 4h, 5d.
+-- starting hand #16  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2730) | #6 "Sam" (1270)
+Your hand is Qc, 5h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [Ks, 8s, 3s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 100 from pot
+-- ending hand #16 --
+"Sam Schrader" shows a 3d, Kc.
+-- starting hand #17  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2680) | #6 "Sam" (1320)
+Your hand is 7c, 5s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [6s, 10c, 2s] <Pot: 40>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 6s, 10c, 2s [5d] <Pot: 40>
+"Sam Schrader" bets 30
+"Cole Stephens" calls 30
+river: 6s, 10c, 2s, 5d [As] <Pot: 100>
+"Sam Schrader" bets 80
+"Cole Stephens" folds
+Uncalled bet of 80 returned to "Sam Schrader"
+"Sam Schrader" collected 100 from pot
+-- ending hand #17 --
+"Sam Schrader" shows a 7d, Kc.
+-- starting hand #18  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2630) | #6 "Sam" (1370)
+Your hand is 3s, 2h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" checks
+flop:  [10h, Ah, 4s] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 10h, Ah, 4s [2s] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" bets 20
+"Cole Stephens" calls 20
+river: 10h, Ah, 4s, 2s [10d] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" bets 30
+"Cole Stephens" calls 30
+"Sam Schrader" collected 140 from pot with Two Pair, 10's & 4's (hand: 4h, Ks)
+-- ending hand #18 --
+-- starting hand #19  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2560) | #6 "Sam" (1440)
+Your hand is 6c, Ac
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 180
+"Cole Stephens" calls 180
+flop:  [2c, 5c, 4c] <Pot: 360>
+"Sam Schrader" bets 240
+"Cole Stephens" calls 240
+turn: 2c, 5c, 4c [4s] <Pot: 840>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 2c, 5c, 4c, 4s [Ad] <Pot: 840>
+"Sam Schrader" checks
+"Cole Stephens" bets 610
+"Sam Schrader" calls 610
+"Cole Stephens" collected 2060 from pot with Flush, Ac High (hand: 6c, Ac)
+-- ending hand #19 --
+"Sam Schrader" shows a As, 6s.
+-- starting hand #20  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3590) | #6 "Sam" (410)
+Your hand is 10c, 5s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+WARNING: the admin queued the stack change for the player "Sam Schrader" adding 2000 chips in the next hand.
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [2d, 7s, Jc] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 2d, 7s, Jc [9h] <Pot: 100>
+"Cole Stephens" bets 50
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #20 --
+The admin updated the player "Sam Schrader" stack from 360 to 2360.
+-- starting hand #21  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3640) | #6 "Sam" (2360)
+Your hand is 7h, As
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #21 --
+-- starting hand #22  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3660) | #6 "Sam" (2340)
+Your hand is 6c, 6s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 180
+"Sam Schrader" calls 180
+flop:  [8s, 7d, 9s] <Pot: 360>
+"Cole Stephens" checks
+"Sam Schrader" bets 160
+"Cole Stephens" calls 160
+turn: 8s, 7d, 9s [4s] <Pot: 680>
+"Cole Stephens" checks
+"Sam Schrader" bets 480
+"Cole Stephens" calls 480
+river: 8s, 7d, 9s, 4s [Ks] <Pot: 1640>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Sam Schrader" collected 1640 from pot with Flush, Ks High (hand: Jc, 10s)
+"Cole Stephens" shows a 6c, 6s.
+-- ending hand #22 --
+-- starting hand #23  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2840) | #6 "Sam" (3160)
+Your hand is Kh, Ac
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+flop:  [3d, 3h, Ks] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 3d, 3h, Ks [Jc] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" bets 60
+"Sam Schrader" folds
+Uncalled bet of 60 returned to "Cole Stephens"
+"Cole Stephens" collected 120 from pot
+-- ending hand #23 --
+-- starting hand #24  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2900) | #6 "Sam" (3100)
+Your hand is Qs, 3d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [As, 7s, 2s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: As, 7s, 2s [10d] <Pot: 100>
+"Cole Stephens" bets 50
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #24 --
+-- starting hand #25  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2950) | #6 "Sam" (3050)
+Your hand is 8h, 4h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 180
+"Cole Stephens" folds
+Uncalled bet of 120 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #25 --
+"Sam Schrader" shows a Ac, 10c.
+"Cole Stephens" shows a 8h, 4h.
+-- starting hand #26  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2890) | #6 "Sam" (3110)
+Your hand is Qh, 10s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 160
+"Sam Schrader" calls 160
+flop:  [3d, Ac, 2s] <Pot: 320>
+"Cole Stephens" bets 120
+"Sam Schrader" calls 120
+turn: 3d, Ac, 2s [8d] <Pot: 560>
+"Cole Stephens" checks
+"Sam Schrader" bets 360
+"Cole Stephens" folds
+Uncalled bet of 360 returned to "Sam Schrader"
+"Sam Schrader" collected 560 from pot
+-- ending hand #26 --
+"Sam Schrader" shows a 7c, Ks.
+"Cole Stephens" shows a Qh, 10s.
+-- starting hand #27  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2610) | #6 "Sam" (3390)
+Your hand is Jc, Ad
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #27 --
+"Sam Schrader" shows a 5s, 2h.
+-- starting hand #28  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2630) | #6 "Sam" (3370)
+Your hand is 7c, 3d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #28 --
+"Sam Schrader" shows a 8h, 9h.
+"Cole Stephens" shows a 7c, 3d.
+-- starting hand #29  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2610) | #6 "Sam" (3390)
+Your hand is 2s, 6s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 40
+"Sam Schrader" calls 40
+flop:  [Ad, 3s, 5s] <Pot: 80>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Ad, 3s, 5s [Qh] <Pot: 80>
+"Sam Schrader" checks
+"Cole Stephens" bets 60
+"Sam Schrader" calls 60
+river: Ad, 3s, 5s, Qh [7c] <Pot: 200>
+"Sam Schrader" checks
+"Cole Stephens" bets 150
+"Sam Schrader" calls 150
+"Sam Schrader" collected 500 from pot with Pair, Q's (hand: Qc, 2h)
+"Cole Stephens" shows a 2s, 6s.
+-- ending hand #29 --
+-- starting hand #30  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2360) | #6 "Sam" (3640)
+Your hand is Ah, 2d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #30 --
+-- starting hand #31  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2370) | #6 "Sam" (3630)
+Your hand is 9s, 5d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 200
+"Cole Stephens" folds
+Uncalled bet of 140 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #31 --
+"Sam Schrader" shows a 6h, 2h.
+-- starting hand #32  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2310) | #6 "Sam" (3690)
+Your hand is 4h, 10h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [7c, 4d, As] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 7c, 4d, As [6d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 50
+"Cole Stephens" calls 50
+river: 7c, 4d, As, 6d [8h] <Pot: 200>
+"Cole Stephens" checks
+"Sam Schrader" bets 240
+"Cole Stephens" raises to 760
+"Sam Schrader" calls 760
+"Sam Schrader" collected 1720 from pot with Straight, 8 High (hand: Ks, 5d)
+"Cole Stephens" shows a 4h, 10h.
+-- ending hand #32 --
+-- starting hand #33  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (1450) | #6 "Sam" (4550)
+Your hand is 5c, 3d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+flop:  [3c, 4h, Js] <Pot: 120>
+"Sam Schrader" bets 40
+"Cole Stephens" calls 40
+turn: 3c, 4h, Js [7s] <Pot: 200>
+"Sam Schrader" bets 140
+"Cole Stephens" raises to 380
+"Sam Schrader" calls 380
+river: 3c, 4h, Js, 7s [3s] <Pot: 960>
+"Sam Schrader" checks
+"Cole Stephens" bets 600
+"Sam Schrader" folds
+Uncalled bet of 600 returned to "Cole Stephens"
+"Cole Stephens" collected 960 from pot
+-- ending hand #33 --
+"Sam Schrader" shows a 5d, 2d.
+-- starting hand #34  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (1930) | #6 "Sam" (4070)
+Your hand is 10h, Ac
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 170
+"Sam Schrader" calls 170
+flop:  [2h, 4s, 3h] <Pot: 340>
+"Cole Stephens" bets 255
+"Sam Schrader" folds
+Uncalled bet of 255 returned to "Cole Stephens"
+"Cole Stephens" collected 340 from pot
+-- ending hand #34 --
+-- starting hand #35  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2100) | #6 "Sam" (3900)
+Your hand is Qh, 10s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 200
+"Cole Stephens" calls 200
+flop:  [Kc, Qd, Qc] <Pot: 400>
+"Sam Schrader" bets 100
+"Cole Stephens" raises to 470
+"Sam Schrader" calls 470
+turn: Kc, Qd, Qc [7c] <Pot: 1340>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: Kc, Qd, Qc, 7c [8d] <Pot: 1340>
+"Sam Schrader" bets 540
+"Cole Stephens" calls 540
+"Cole Stephens" collected 2420 from pot with Three of a Kind, Q's (hand: Qh, 10s)
+"Sam Schrader" shows a 3h, As.
+-- ending hand #35 --
+-- starting hand #36  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3310) | #6 "Sam" (2690)
+Your hand is 9c, 4d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #36 --
+-- starting hand #37  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3290) | #6 "Sam" (2710)
+Your hand is Qs, Jc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 200
+"Cole Stephens" calls 200
+flop:  [7c, 10c, 10s] <Pot: 400>
+"Sam Schrader" bets 140
+"Cole Stephens" calls 140
+turn: 7c, 10c, 10s [Ac] <Pot: 680>
+"Sam Schrader" bets 520
+"Cole Stephens" calls 520
+river: 7c, 10c, 10s, Ac [7h] <Pot: 1720>
+"Sam Schrader" bets 1850 and go all in
+"Cole Stephens" folds
+Uncalled bet of 1850 returned to "Sam Schrader"
+"Sam Schrader" collected 1720 from pot
+-- ending hand #37 --
+"Cole Stephens" shows a Qs, Jc.
+"Sam Schrader" shows a 10d, Kc.
+-- starting hand #38  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2430) | #6 "Sam" (3570)
+Your hand is 8d, 7s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [5d, 4c, 6c] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 80
+"Cole Stephens" raises to 210
+"Sam Schrader" calls 210
+turn: 5d, 4c, 6c [2h] <Pot: 520>
+"Cole Stephens" checks
+"Sam Schrader" bets 320
+"Cole Stephens" calls 320
+river: 5d, 4c, 6c, 2h [Kd] <Pot: 1160>
+"Cole Stephens" bets 1400
+"Sam Schrader" folds
+Uncalled bet of 1400 returned to "Cole Stephens"
+"Cole Stephens" collected 1160 from pot
+-- ending hand #38 --
+"Sam Schrader" shows a Qh, 6h.
+"Cole Stephens" shows a 8d, 7s.
+-- starting hand #39  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3010) | #6 "Sam" (2990)
+Your hand is As, 2h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #39 --
+-- starting hand #40  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3030) | #6 "Sam" (2970)
+Your hand is 2c, Qh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [9d, 9s, Ac] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 9d, 9s, Ac [6s] <Pot: 100>
+"Cole Stephens" bets 40
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #40 --
+"Cole Stephens" shows a 2c, Qh.
+"Sam Schrader" shows a 4h, 2h.
+-- starting hand #41  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3080) | #6 "Sam" (2920)
+Your hand is 4h, Qc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" raises to 160
+"Cole Stephens" folds
+Uncalled bet of 115 returned to "Sam Schrader"
+"Sam Schrader" collected 90 from pot
+-- ending hand #41 --
+-- starting hand #42  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3035) | #6 "Sam" (2965)
+Your hand is 3s, Kh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #42 --
+-- starting hand #43  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3045) | #6 "Sam" (2955)
+Your hand is 10c, 4d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #43 --
+-- starting hand #44  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3065) | #6 "Sam" (2935)
+Your hand is Ac, 4s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 175
+"Sam Schrader" folds
+Uncalled bet of 125 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #44 --
+"Sam Schrader" shows a 10d, 7d.
+"Cole Stephens" shows a Ac, 4s.
+-- starting hand #45  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3115) | #6 "Sam" (2885)
+Your hand is 6c, 10h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" raises to 130
+"Cole Stephens" folds
+Uncalled bet of 85 returned to "Sam Schrader"
+"Sam Schrader" collected 90 from pot
+-- ending hand #45 --
+-- starting hand #46  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3070) | #6 "Sam" (2930)
+Your hand is 10h, 9h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #46 --
+-- starting hand #47  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3080) | #6 "Sam" (2920)
+Your hand is 4d, 10s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" calls 45
+flop:  [6c, As, 9h] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" bets 60
+"Sam Schrader" calls 60
+turn: 6c, As, 9h [7d] <Pot: 210>
+"Sam Schrader" checks
+"Cole Stephens" bets 180
+"Sam Schrader" calls 180
+river: 6c, As, 9h, 7d [Jc] <Pot: 570>
+"Sam Schrader" checks
+"Cole Stephens" bets 320
+"Sam Schrader" calls 320
+"Sam Schrader" collected 1210 from pot with Pair, 7's (hand: 7s, 10d)
+"Cole Stephens" shows a 4d, 10s.
+-- ending hand #47 --
+-- starting hand #48  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2475) | #6 "Sam" (3525)
+Your hand is 5h, 2s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #48 --
+-- starting hand #49  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2455) | #6 "Sam" (3545)
+Your hand is Kc, 4h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #49 --
+-- starting hand #50  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2475) | #6 "Sam" (3525)
+Your hand is 5d, Kc
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [6h, 4s, 5h] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 6h, 4s, 5h [Ac] <Pot: 100>
+"Cole Stephens" bets 50
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #50 --
+-- starting hand #51  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2525) | #6 "Sam" (3475)
+Your hand is As, 3d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 200
+"Cole Stephens" calls 200
+flop:  [8s, 5h, 9c] <Pot: 400>
+"Sam Schrader" checks
+"Cole Stephens" bets 250
+"Sam Schrader" folds
+Uncalled bet of 250 returned to "Cole Stephens"
+"Cole Stephens" collected 400 from pot
+-- ending hand #51 --
+-- starting hand #52  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2725) | #6 "Sam" (3275)
+Your hand is Kd, Kh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 160
+"Sam Schrader" folds
+Uncalled bet of 110 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #52 --
+-- starting hand #53  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2775) | #6 "Sam" (3225)
+Your hand is 3h, 7h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [Ac, 3d, 3s] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Ac, 3d, 3s [5c] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" bets 70
+"Sam Schrader" folds
+Uncalled bet of 70 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #53 --
+-- starting hand #54  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2825) | #6 "Sam" (3175)
+Your hand is Jh, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #54 --
+-- starting hand #55  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2835) | #6 "Sam" (3165)
+Your hand is 5c, 3h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #55 --
+-- starting hand #56  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2825) | #6 "Sam" (3175)
+Your hand is Jh, 7c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [4s, 2c, 5s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 4s, 2c, 5s [3h] <Pot: 100>
+"Cole Stephens" bets 50
+"Sam Schrader" calls 50
+river: 4s, 2c, 5s, 3h [3s] <Pot: 200>
+"Cole Stephens" checks
+"Sam Schrader" bets 120
+"Cole Stephens" folds
+Uncalled bet of 120 returned to "Sam Schrader"
+"Sam Schrader" collected 200 from pot
+-- ending hand #56 --
+"Cole Stephens" shows a Jh, 7c.
+-- starting hand #57  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2725) | #6 "Sam" (3275)
+Your hand is 4s, Kd
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #57 --
+-- starting hand #58  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2745) | #6 "Sam" (3255)
+Your hand is 6c, Ah
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [Jd, 3c, 8h] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Jd, 3c, 8h [10h] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Jd, 3c, 8h, 10h [6d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" collected 100 from pot with Pair, 6's (hand: 6c, Ah)
+-- ending hand #58 --
+-- starting hand #59  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2795) | #6 "Sam" (3205)
+Your hand is 2d, Ah
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" raises to 170
+"Cole Stephens" raises to 380
+"Sam Schrader" folds
+Uncalled bet of 210 returned to "Cole Stephens"
+"Cole Stephens" collected 340 from pot
+-- ending hand #59 --
+"Cole Stephens" shows a 2d, Ah.
+"Sam Schrader" shows a 7h, Ac.
+-- starting hand #60  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2965) | #6 "Sam" (3035)
+Your hand is 9d, Ah
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #60 --
+-- starting hand #61  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2975) | #6 "Sam" (3025)
+Your hand is 8c, 10d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" raises to 170
+"Cole Stephens" calls 170
+flop:  [Ks, Jc, 9c] <Pot: 340>
+"Sam Schrader" bets 240
+"Cole Stephens" calls 240
+turn: Ks, Jc, 9c [3s] <Pot: 820>
+"Sam Schrader" bets 640
+"Cole Stephens" calls 640
+river: Ks, Jc, 9c, 3s [3c] <Pot: 2100>
+"Sam Schrader" checks
+"Cole Stephens" bets 870
+"Sam Schrader" folds
+Uncalled bet of 870 returned to "Cole Stephens"
+"Cole Stephens" collected 2100 from pot
+-- ending hand #61 --
+"Cole Stephens" shows a 8c, 10d.
+"Sam Schrader" shows a Ad, 4d.
+-- starting hand #62  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4025) | #6 "Sam" (1975)
+Your hand is Kh, 10h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #62 --
+-- starting hand #63  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4035) | #6 "Sam" (1965)
+Your hand is 8d, 6s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #63 --
+-- starting hand #64  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4055) | #6 "Sam" (1945)
+Your hand is 6c, 6d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [5c, 2h, Ah] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" calls 60
+turn: 5c, 2h, Ah [4h] <Pot: 220>
+"Cole Stephens" checks
+"Sam Schrader" bets 160
+"Cole Stephens" calls 160
+river: 5c, 2h, Ah, 4h [Ad] <Pot: 540>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" collected 540 from pot with Two Pair, A's & 6's (hand: 6c, 6d)
+-- ending hand #64 --
+"Sam Schrader" shows a 8s, Jc.
+-- starting hand #65  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4325) | #6 "Sam" (1675)
+Your hand is Ac, Qc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" folds
+Uncalled bet of 25 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #65 --
+"Cole Stephens" shows a Ac, Qc.
+"Sam Schrader" shows a 7d, 3s.
+-- starting hand #66  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4345) | #6 "Sam" (1655)
+Your hand is 4c, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #66 --
+-- starting hand #67  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4355) | #6 "Sam" (1645)
+Your hand is Ks, 3s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" calls 45
+flop:  [6d, 4d, 7c] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" bets 50
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 90 from pot
+-- ending hand #67 --
+-- starting hand #68  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4400) | #6 "Sam" (1600)
+Your hand is Ad, 6h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [8h, Qc, 5d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" calls 60
+turn: 8h, Qc, 5d [10d] <Pot: 220>
+"Cole Stephens" checks
+"Sam Schrader" bets 120
+"Cole Stephens" folds
+Uncalled bet of 120 returned to "Sam Schrader"
+"Sam Schrader" collected 220 from pot
+-- ending hand #68 --
+-- starting hand #69  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4290) | #6 "Sam" (1710)
+Your hand is 10h, Jc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #69 --
+"Sam Schrader" shows a 9s, 3h.
+-- starting hand #70  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4310) | #6 "Sam" (1690)
+Your hand is Jd, 6h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #70 --
+"Sam Schrader" shows a 3s, 4d.
+"Cole Stephens" shows a Jd, 6h.
+-- starting hand #71  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4320) | #6 "Sam" (1680)
+Your hand is 8h, 6d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #71 --
+"Sam Schrader" shows a 9h, 3d.
+-- starting hand #72  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4340) | #6 "Sam" (1660)
+Your hand is Ac, 7s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [Ah, 10d, 4d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Ah, 10d, 4d [5h] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Ah, 10d, 4d, 5h [2d] <Pot: 100>
+"Cole Stephens" bets 50
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #72 --
+-- starting hand #73  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4390) | #6 "Sam" (1610)
+Your hand is Qh, 9d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+flop:  [Ac, 6d, 2s] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Ac, 6d, 2s [Kd] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: Ac, 6d, 2s, Kd [5s] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" collected 120 from pot with Pair, 2's (hand: 2d, Qs)
+-- ending hand #73 --
+"Cole Stephens" shows a Qh, 9d.
+-- starting hand #74  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4330) | #6 "Sam" (1670)
+Your hand is 3s, 7c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [5s, 6h, 7s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" raises to 200
+"Sam Schrader" calls 200
+turn: 5s, 6h, 7s [4c] <Pot: 500>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 5s, 6h, 7s, 4c [4h] <Pot: 500>
+"Cole Stephens" bets 375
+"Sam Schrader" folds
+Uncalled bet of 375 returned to "Cole Stephens"
+"Cole Stephens" collected 500 from pot
+-- ending hand #74 --
+"Sam Schrader" shows a 7d, Jd.
+"Cole Stephens" shows a 3s, 7c.
+-- starting hand #75  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4580) | #6 "Sam" (1420)
+Your hand is 5h, 2s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #75 --
+-- starting hand #76  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4570) | #6 "Sam" (1430)
+Your hand is 7h, 9s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [Jd, 9d, 5s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Jd, 9d, 5s [6s] <Pot: 100>
+"Cole Stephens" bets 50
+"Sam Schrader" calls 50
+river: Jd, 9d, 5s, 6s [Ks] <Pot: 200>
+"Cole Stephens" bets 80
+"Sam Schrader" raises to 260
+"Cole Stephens" calls 260
+"Sam Schrader" collected 720 from pot with Flush, Ks High (hand: 4s, Qs)
+-- ending hand #76 --
+-- starting hand #77  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4210) | #6 "Sam" (1790)
+Your hand is 6c, 9c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+flop:  [2d, 7s, 10h] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 2d, 7s, 10h [8d] <Pot: 120>
+"Sam Schrader" bets 60
+"Cole Stephens" raises to 200
+"Sam Schrader" raises to 600
+"Cole Stephens" calls 600
+river: 2d, 7s, 10h, 8d [Ks] <Pot: 1320>
+"Sam Schrader" checks
+"Cole Stephens" bets 900
+"Sam Schrader" calls 900
+"Cole Stephens" collected 3120 from pot with Straight, 10 High (hand: 6c, 9c)
+-- ending hand #77 --
+-- starting hand #78  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5770) | #6 "Sam" (230)
+Your hand is 3h, Ks
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #78 --
+-- starting hand #79  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5790) | #6 "Sam" (210)
+Your hand is 2c, 4c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [Qd, 10s, 6s] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Qd, 10s, 6s [9c] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: Qd, 10s, 6s, 9c [Jd] <Pot: 100>
+"Sam Schrader" bets 160 and go all in
+"Cole Stephens" folds
+Uncalled bet of 160 returned to "Sam Schrader"
+"Sam Schrader" collected 100 from pot
+-- ending hand #79 --
+"Cole Stephens" shows a 2c, 4c.
+"Sam Schrader" shows a Js, 8d.
+-- starting hand #80  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5740) | #6 "Sam" (260)
+Your hand is Jc, Qd
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 80
+"Sam Schrader" folds
+Uncalled bet of 60 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #80 --
+-- starting hand #81  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5760) | #6 "Sam" (240)
+Your hand is Qc, 5d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #81 --
+-- starting hand #82  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5750) | #6 "Sam" (250)
+Your hand is 7s, 9d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #82 --
+-- starting hand #83  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5760) | #6 "Sam" (240)
+Your hand is 3c, Qh
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #83 --
+-- starting hand #84  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5780) | #6 "Sam" (220)
+Your hand is 3h, 6h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [10d, 9c, 7d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 10d, 9c, 7d [8c] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 10d, 9c, 7d, 8c [3d] <Pot: 100>
+"Cole Stephens" bets 50
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #84 --
+"Sam Schrader" shows a Kc, 2d.
+-- starting hand #85  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5830) | #6 "Sam" (170)
+Your hand is Jc, Qc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 40
+"Sam Schrader" raises to 170 and go all in
+"Cole Stephens" calls 170
+flop:  [8s, 7c, 6c] <Pot: 340>
+"Cole Stephens" shows a Jc, Qc.
+"Sam Schrader" shows a 9c, Kd.
+turn: 8s, 7c, 6c [4s] <Pot: 340>
+river: 8s, 7c, 6c, 4s [2d] <Pot: 340>
+"Sam Schrader" collected 340 from pot with K High (hand: 9c, Kd)
+-- ending hand #85 --
+-- starting hand #86  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5660) | #6 "Sam" (340)
+Your hand is 6s, 8h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 40
+"Cole Stephens" calls 40
+flop:  [Js, 8c, 6c] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Js, 8c, 6c [Jc] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Js, 8c, 6c, Jc [Ah] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" collected 80 from pot with Two Pair, J's & 8's (hand: 6s, 8h)
+-- ending hand #86 --
+-- starting hand #87  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5700) | #6 "Sam" (300)
+Your hand is 6h, 3c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #87 --
+-- starting hand #88  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5690) | #6 "Sam" (310)
+Your hand is Ks, 3d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 40
+"Cole Stephens" calls 40
+flop:  [10d, Ah, 8s] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" bets 50
+"Cole Stephens" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 80 from pot
+-- ending hand #88 --
+"Sam Schrader" shows a Qs, Js.
+"Cole Stephens" shows a Ks, 3d.
+-- starting hand #89  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5650) | #6 "Sam" (350)
+Your hand is 3s, 4s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 40
+"Sam Schrader" folds
+Uncalled bet of 20 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #89 --
+"Sam Schrader" shows a 9h, 2c.
+"Cole Stephens" shows a 3s, 4s.
+-- starting hand #90  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5670) | #6 "Sam" (330)
+Your hand is Ah, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #90 --
+"Sam Schrader" shows a 5h, 6c.
+-- starting hand #91  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5690) | #6 "Sam" (310)
+Your hand is 10h, 9s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [2c, As, 5d] <Pot: 100>
+"Sam Schrader" bets 40
+"Cole Stephens" calls 40
+turn: 2c, As, 5d [Qs] <Pot: 180>
+"Sam Schrader" checks
+"Cole Stephens" bets 5600 and go all in
+"Sam Schrader" folds
+Uncalled bet of 5600 returned to "Cole Stephens"
+"Cole Stephens" collected 180 from pot
+-- ending hand #91 --
+-- starting hand #92  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5780) | #6 "Sam" (220)
+Your hand is 8c, 3d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 40
+"Cole Stephens" folds
+Uncalled bet of 20 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #92 --
+"Sam Schrader" shows a Kh, 5h.
+-- starting hand #93  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5760) | #6 "Sam" (240)
+Your hand is 2h, 4s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #93 --
+-- starting hand #94  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5750) | #6 "Sam" (250)
+Your hand is 10s, Qs
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 40
+"Cole Stephens" raises to 140
+"Sam Schrader" raises to 250 and go all in
+"Cole Stephens" calls 250
+flop:  [Qh, 2d, 7s] <Pot: 500>
+"Cole Stephens" shows a 10s, Qs.
+"Sam Schrader" shows a Js, Qc.
+turn: Qh, 2d, 7s [8c] <Pot: 500>
+river: Qh, 2d, 7s, 8c [6h] <Pot: 500>
+"Sam Schrader" collected 500 from pot with Pair, Q's (hand: Js, Qc)
+-- ending hand #94 --
+-- starting hand #95  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5500) | #6 "Sam" (500)
+Your hand is 2h, Jd
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 40
+"Sam Schrader" folds
+Uncalled bet of 20 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #95 --
+-- starting hand #96  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5520) | #6 "Sam" (480)
+Your hand is 9s, 7d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Stephens" calls 60
+flop:  [7h, Kc, 4h] <Pot: 120>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 7h, Kc, 4h [As] <Pot: 120>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 7h, Kc, 4h, As [4d] <Pot: 120>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" collected 120 from pot with Two Pair, 7's & 4's (hand: 9s, 7d)
+-- ending hand #96 --
+-- starting hand #97  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5580) | #6 "Sam" (420)
+Your hand is 5d, 6h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #97 --
+-- starting hand #98  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5570) | #6 "Sam" (430)
+Your hand is 4c, 6c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+flop:  [9c, Kc, Ah] <Pot: 120>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 9c, Kc, Ah [5d] <Pot: 120>
+"Cole Stephens" bets 75
+"Sam Schrader" folds
+Uncalled bet of 75 returned to "Cole Stephens"
+"Cole Stephens" collected 120 from pot
+-- ending hand #98 --
+"Cole Stephens" shows a 4c, 6c.
+"Sam Schrader" shows a 8s, 7h.
+-- starting hand #99  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5630) | #6 "Sam" (370)
+Your hand is 10s, Ah
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [9h, 5d, 3s] <Pot: 40>
+"Sam Schrader" checks
+"Cole Stephens" bets 20
+"Sam Schrader" calls 20
+turn: 9h, 5d, 3s [4d] <Pot: 80>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 9h, 5d, 3s, 4d [3d] <Pot: 80>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" collected 80 from pot with Two Pair, 9's & 5's (hand: 5s, 9c)
+-- ending hand #99 --
+-- starting hand #100  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5590) | #6 "Sam" (410)
+Your hand is 5c, Qh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 40
+"Cole Stephens" calls 40
+flop:  [10d, 2d, Qs] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" bets 40
+"Cole Stephens" calls 40
+turn: 10d, 2d, Qs [2s] <Pot: 160>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" calls 60
+river: 10d, 2d, Qs, 2s [Qc] <Pot: 280>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" collected 280 from pot with Full House, Q's over 2's (hand: 5c, Qh)
+-- ending hand #100 --
+-- starting hand #101  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5730) | #6 "Sam" (270)
+Your hand is As, 4c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" folds
+Uncalled bet of 25 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #101 --
+"Sam Schrader" shows a 8c, 4h.
+"Cole Stephens" shows a As, 4c.
+-- starting hand #102  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5750) | #6 "Sam" (250)
+Your hand is 2s, 7c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #102 --
+"Cole Stephens" shows a 2s, 7c.
+"Sam Schrader" shows a 7d, Qc.
+-- starting hand #103  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5730) | #6 "Sam" (270)
+Your hand is Qs, Ks
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [2s, 2c, 5d] <Pot: 40>
+"Sam Schrader" checks
+"Cole Stephens" bets 30
+"Sam Schrader" raises to 100
+"Cole Stephens" calls 100
+turn: 2s, 2c, 5d [6h] <Pot: 240>
+"Sam Schrader" bets 150 and go all in
+"Cole Stephens" folds
+Uncalled bet of 150 returned to "Sam Schrader"
+"Sam Schrader" collected 240 from pot
+-- ending hand #103 --
+-- starting hand #104  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5610) | #6 "Sam" (390)
+Your hand is Kh, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 40
+"Cole Stephens" calls 40
+flop:  [3d, Jc, Jd] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" bets 40
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 80 from pot
+-- ending hand #104 --
+-- starting hand #105  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5570) | #6 "Sam" (430)
+Your hand is Ac, 4c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [8c, 8s, 9h] <Pot: 100>
+"Sam Schrader" bets 40
+"Cole Stephens" calls 40
+turn: 8c, 8s, 9h [6d] <Pot: 180>
+"Sam Schrader" bets 60
+"Cole Stephens" calls 60
+river: 8c, 8s, 9h, 6d [10d] <Pot: 300>
+"Sam Schrader" bets 280 and go all in
+"Cole Stephens" folds
+Uncalled bet of 280 returned to "Sam Schrader"
+"Sam Schrader" collected 300 from pot
+-- ending hand #105 --
+-- starting hand #106  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5420) | #6 "Sam" (580)
+Your hand is 4h, Kd
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" checks
+flop:  [3h, Jh, 5s] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 3h, Jh, 5s [9h] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 3h, Jh, 5s, 9h [8h] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" collected 40 from pot with Flush, Jh High (hand: 4h, Kd)
+-- ending hand #106 --
+-- starting hand #107  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5440) | #6 "Sam" (560)
+Your hand is Kd, 3h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" folds
+Uncalled bet of 25 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #107 --
+"Sam Schrader" shows a 10h, 3c.
+"Cole Stephens" shows a Kd, 3h.
+-- starting hand #108  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5460) | #6 "Sam" (540)
+Your hand is 3s, Ks
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [As, 10h, 9s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" raises to 200
+"Sam Schrader" raises to 490 and go all in
+"Cole Stephens" calls 490
+turn: As, 10h, 9s [Ac] <Pot: 1080>
+"Cole Stephens" shows a 3s, Ks.
+"Sam Schrader" shows a Ad, 6s.
+river: As, 10h, 9s, Ac [Kc] <Pot: 1080>
+"Sam Schrader" collected 1080 from pot with Three of a Kind, A's (hand: Ad, 6s)
+-- ending hand #108 --
+-- starting hand #109  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4920) | #6 "Sam" (1080)
+Your hand is Qc, 8d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" raises to 150
+"Cole Stephens" folds
+Uncalled bet of 105 returned to "Sam Schrader"
+"Sam Schrader" collected 90 from pot
+-- ending hand #109 --
+-- starting hand #110  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4875) | #6 "Sam" (1125)
+Your hand is 6s, 7h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [Jh, Kd, 9s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 100 from pot
+-- ending hand #110 --
+-- starting hand #111  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4825) | #6 "Sam" (1175)
+Your hand is 3s, 5c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #111 --
+-- starting hand #112  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4815) | #6 "Sam" (1185)
+Your hand is 6s, Qs
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #112 --
+-- starting hand #113  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4835) | #6 "Sam" (1165)
+Your hand is 7d, Ad
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+flop:  [4c, 3s, 6d] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" bets 60
+"Sam Schrader" calls 60
+turn: 4c, 3s, 6d [Qh] <Pot: 240>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 4c, 3s, 6d, Qh [6c] <Pot: 240>
+"Sam Schrader" bets 180
+"Cole Stephens" calls 180
+"Cole Stephens" collected 600 from pot with Pair, 6's (hand: 7d, Ad)
+"Sam Schrader" shows a 8s, Js.
+-- ending hand #113 --
+-- starting hand #114  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5135) | #6 "Sam" (865)
+Your hand is 4h, 9c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #114 --
+-- starting hand #115  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5115) | #6 "Sam" (885)
+Your hand is 3s, 7d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #115 --
+"Sam Schrader" shows a 4d, 7h.
+"Cole Stephens" shows a 3s, 7d.
+-- starting hand #116  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5105) | #6 "Sam" (895)
+Your hand is 10c, 3d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #116 --
+"Cole Stephens" shows a 10c, 3d.
+"Sam Schrader" shows a 3s, 6h.
+-- starting hand #117  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5115) | #6 "Sam" (885)
+Your hand is 4h, Jd
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #117 --
+"Sam Schrader" shows a 10c, 3c.
+"Cole Stephens" shows a 4h, Jd.
+-- starting hand #118  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5105) | #6 "Sam" (895)
+Your hand is Jc, 8h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [4d, Qh, 7d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 4d, Qh, 7d [5s] <Pot: 100>
+"Cole Stephens" bets 40
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #118 --
+-- starting hand #119  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5155) | #6 "Sam" (845)
+Your hand is 3h, 10s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #119 --
+"Cole Stephens" shows a 3h, 10s.
+-- starting hand #120  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5145) | #6 "Sam" (855)
+Your hand is 8c, 6s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #120 --
+-- starting hand #121  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5125) | #6 "Sam" (875)
+Your hand is 5h, 7s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #121 --
+"Sam Schrader" shows a Kh, Kc.
+"Cole Stephens" shows a 5h, 7s.
+-- starting hand #122  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5115) | #6 "Sam" (885)
+Your hand is 5s, 10h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #122 --
+-- starting hand #123  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (5125) | #6 "Sam" (875)
+Your hand is 7d, 5c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #123 --
+"Sam Schrader" shows a 10s, 6h.
+"Cole Stephens" shows a 7d, 5c.
+-- starting hand #124  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (5115) | #6 "Sam" (885)
+Your hand is 9d, 7d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [10s, 10c, Kd] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" raises to 180
+"Sam Schrader" calls 180
+turn: 10s, 10c, Kd [3c] <Pot: 460>
+"Cole Stephens" bets 345
+"Sam Schrader" raises to 655 and go all in
+"Cole Stephens" folds
+Uncalled bet of 310 returned to "Sam Schrader"
+"Sam Schrader" collected 1150 from pot
+-- ending hand #124 --
+"Sam Schrader" shows a 7s, 7c.
+"Cole Stephens" shows a 9d, 7d.
+-- starting hand #125  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4540) | #6 "Sam" (1460)
+Your hand is Qc, 7c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" calls 45
+flop:  [3s, 9s, 5h] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 3s, 9s, 5h [Ks] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 3s, 9s, 5h, Ks [3c] <Pot: 90>
+"Sam Schrader" bets 60
+"Cole Stephens" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 90 from pot
+-- ending hand #125 --
+"Sam Schrader" shows a 8d, Kh.
+-- starting hand #126  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4495) | #6 "Sam" (1505)
+Your hand is 4s, Ad
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #126 --
+-- starting hand #127  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4505) | #6 "Sam" (1495)
+Your hand is 10s, 8d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 40
+"Sam Schrader" calls 40
+flop:  [5d, 10h, 5h] <Pot: 80>
+"Sam Schrader" checks
+"Cole Stephens" bets 45
+"Sam Schrader" folds
+Uncalled bet of 45 returned to "Cole Stephens"
+"Cole Stephens" collected 80 from pot
+-- ending hand #127 --
+-- starting hand #128  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4545) | #6 "Sam" (1455)
+Your hand is 3s, 10s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [Ac, 10h, 7h] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Ac, 10h, 7h [2s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Ac, 10h, 7h, 2s [2c] <Pot: 100>
+"Cole Stephens" bets 45
+"Sam Schrader" folds
+Uncalled bet of 45 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #128 --
+-- starting hand #129  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4595) | #6 "Sam" (1405)
+Your hand is Kd, Kc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [6h, 7h, 2c] <Pot: 40>
+"Sam Schrader" checks
+"Cole Stephens" bets 30
+"Sam Schrader" raises to 90
+"Cole Stephens" calls 90
+turn: 6h, 7h, 2c [Ah] <Pot: 220>
+"Sam Schrader" bets 160
+"Cole Stephens" calls 160
+river: 6h, 7h, 2c, Ah [Ks] <Pot: 540>
+"Sam Schrader" bets 380
+"Cole Stephens" calls 380
+"Sam Schrader" collected 1300 from pot with Flush, Ah High (hand: 9h, 8h)
+-- ending hand #129 --
+-- starting hand #130  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3945) | #6 "Sam" (2055)
+Your hand is Kh, Jc
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [3s, 6d, 4h] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 3s, 6d, 4h [Qs] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 40
+"Cole Stephens" calls 40
+river: 3s, 6d, 4h, Qs [Ks] <Pot: 180>
+"Cole Stephens" checks
+"Sam Schrader" bets 80
+"Cole Stephens" raises to 250
+"Sam Schrader" folds
+Uncalled bet of 170 returned to "Cole Stephens"
+"Cole Stephens" collected 340 from pot
+-- ending hand #130 --
+-- starting hand #131  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4115) | #6 "Sam" (1885)
+Your hand is Qd, Js
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #131 --
+-- starting hand #132  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4135) | #6 "Sam" (1865)
+Your hand is 2d, 3c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 40
+"Cole Stephens" calls 40
+flop:  [8c, 6s, 9d] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" bets 50
+"Cole Stephens" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 80 from pot
+-- ending hand #132 --
+-- starting hand #133  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4095) | #6 "Sam" (1905)
+Your hand is Jh, 4h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" calls 45
+flop:  [4c, 8s, 7s] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 4c, 8s, 7s [7d] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" bets 30
+"Sam Schrader" calls 30
+river: 4c, 8s, 7s, 7d [As] <Pot: 150>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" collected 150 from pot with Two Pair, A's & 7's (hand: 5s, Ad)
+-- ending hand #133 --
+-- starting hand #134  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4020) | #6 "Sam" (1980)
+Your hand is 2c, 10d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #134 --
+"Cole Stephens" shows a 2c, 10d.
+"Sam Schrader" shows a 9h, 8h.
+-- starting hand #135  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (4000) | #6 "Sam" (2000)
+Your hand is 2d, 8h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #135 --
+"Sam Schrader" shows a 4c, 5s.
+-- starting hand #136  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3990) | #6 "Sam" (2010)
+Your hand is Jh, 5s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #136 --
+"Sam Schrader" shows a 2s, 2h.
+"Cole Stephens" shows a Jh, 5s.
+-- starting hand #137  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3970) | #6 "Sam" (2030)
+Your hand is 8d, 2h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #137 --
+-- starting hand #138  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3960) | #6 "Sam" (2040)
+Your hand is Ac, Qd
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 65
+"Sam Schrader" folds
+Uncalled bet of 45 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #138 --
+-- starting hand #139  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3980) | #6 "Sam" (2020)
+Your hand is 6s, 8d
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #139 --
+-- starting hand #140  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (4000) | #6 "Sam" (2000)
+Your hand is 4c, 7c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [6h, 8h, 2h] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 70
+"Cole Stephens" raises to 200
+"Sam Schrader" calls 200
+turn: 6h, 8h, 2h [Js] <Pot: 500>
+"Cole Stephens" bets 320
+"Sam Schrader" raises to 700
+"Cole Stephens" folds
+Uncalled bet of 380 returned to "Sam Schrader"
+"Sam Schrader" collected 1140 from pot
+-- ending hand #140 --
+-- starting hand #141  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3430) | #6 "Sam" (2570)
+Your hand is Qh, 8h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [9s, 9d, 6c] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 9s, 9d, 6c [6h] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 9s, 9d, 6c, 6h [6d] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Stephens" collected 50 from pot with Full House, 6's over 9's (hand: Qh, 8h)
+"Sam Schrader" collected 50 from pot with Full House, 6's over 9's (hand: 4h, Ks)
+-- ending hand #141 --
+-- starting hand #142  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (3430) | #6 "Sam" (2570)
+Your hand is Kh, 3d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [Ah, Qs, Jc] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 70
+"Cole Stephens" calls 70
+turn: Ah, Qs, Jc [8c] <Pot: 240>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Ah, Qs, Jc, 8c [Ad] <Pot: 240>
+"Cole Stephens" bets 140
+"Sam Schrader" calls 140
+"Sam Schrader" collected 520 from pot with Three of a Kind, A's (hand: As, 2d)
+"Cole Stephens" shows a Kh, 3d.
+-- ending hand #142 --
+-- starting hand #143  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (3170) | #6 "Sam" (2830)
+Your hand is Jd, 8s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" calls 45
+flop:  [8h, 5d, 7h] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" bets 70
+"Sam Schrader" raises to 200
+"Cole Stephens" calls 200
+turn: 8h, 5d, 7h [2d] <Pot: 490>
+"Sam Schrader" bets 340
+"Cole Stephens" calls 340
+river: 8h, 5d, 7h, 2d [10s] <Pot: 1170>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" collected 1170 from pot with Pair, K's (hand: Kh, Kd)
+-- ending hand #143 --
+-- starting hand #144  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2585) | #6 "Sam" (3415)
+Your hand is 6h, 5d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #144 --
+-- starting hand #145  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2595) | #6 "Sam" (3405)
+Your hand is 8s, 4h
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #145 --
+-- starting hand #146  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2585) | #6 "Sam" (3415)
+Your hand is 2d, 6d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" checks
+flop:  [2c, 4s, 10h] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" bets 20
+"Cole Stephens" calls 20
+turn: 2c, 4s, 10h [Qs] <Pot: 80>
+"Cole Stephens" checks
+"Sam Schrader" bets 50
+"Cole Stephens" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 80 from pot
+-- ending hand #146 --
+"Sam Schrader" shows a 6s, 5h.
+-- starting hand #147  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2545) | #6 "Sam" (3455)
+Your hand is 6h, Ad
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [Js, 3d, 8d] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Js, 3d, 8d [9d] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" bets 75
+"Sam Schrader" folds
+Uncalled bet of 75 returned to "Cole Stephens"
+"Cole Stephens" collected 100 from pot
+-- ending hand #147 --
+-- starting hand #148  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2595) | #6 "Sam" (3405)
+Your hand is Js, 8c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #148 --
+"Sam Schrader" shows a 3c, 7d.
+"Cole Stephens" shows a Js, 8c.
+-- starting hand #149  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2605) | #6 "Sam" (3395)
+Your hand is 3h, 4s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #149 --
+"Sam Schrader" shows a 6d, 6s.
+"Cole Stephens" shows a 3h, 4s.
+-- starting hand #150  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2595) | #6 "Sam" (3405)
+Your hand is Ah, 3h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 170
+"Sam Schrader" calls 170
+flop:  [Qh, 7c, 5s] <Pot: 340>
+"Cole Stephens" bets 150
+"Sam Schrader" calls 150
+turn: Qh, 7c, 5s [Qs] <Pot: 640>
+"Cole Stephens" bets 350
+"Sam Schrader" calls 350
+river: Qh, 7c, 5s, Qs [8h] <Pot: 1340>
+"Cole Stephens" checks
+"Sam Schrader" bets 650
+"Cole Stephens" folds
+Uncalled bet of 650 returned to "Sam Schrader"
+"Sam Schrader" collected 1340 from pot
+-- ending hand #150 --
+-- starting hand #151  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (1925) | #6 "Sam" (4075)
+Your hand is 10d, 7c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #151 --
+-- starting hand #152  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (1915) | #6 "Sam" (4085)
+Your hand is Kc, 4d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #152 --
+-- starting hand #153  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (1925) | #6 "Sam" (4075)
+Your hand is 2s, 5s
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 45
+"Sam Schrader" calls 45
+flop:  [8d, Ks, 2h] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 8d, Ks, 2h [5d] <Pot: 90>
+"Sam Schrader" checks
+"Cole Stephens" bets 60
+"Sam Schrader" folds
+Uncalled bet of 60 returned to "Cole Stephens"
+"Cole Stephens" collected 90 from pot
+-- ending hand #153 --
+-- starting hand #154  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (1970) | #6 "Sam" (4030)
+Your hand is Ac, Qs
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 175
+"Sam Schrader" calls 175
+flop:  [2d, 4c, 4h] <Pot: 350>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 2d, 4c, 4h [3c] <Pot: 350>
+"Cole Stephens" bets 150
+"Sam Schrader" folds
+Uncalled bet of 150 returned to "Cole Stephens"
+"Cole Stephens" collected 350 from pot
+-- ending hand #154 --
+"Sam Schrader" shows a 8h, Kh.
+"Cole Stephens" shows a Ac, Qs.
+-- starting hand #155  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2145) | #6 "Sam" (3855)
+Your hand is 6c, 8c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+flop:  [8s, 3s, Jc] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 8s, 3s, Jc [Ac] <Pot: 120>
+"Sam Schrader" checks
+"Cole Stephens" bets 80
+"Sam Schrader" folds
+Uncalled bet of 80 returned to "Cole Stephens"
+"Cole Stephens" collected 120 from pot
+-- ending hand #155 --
+-- starting hand #156  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2205) | #6 "Sam" (3795)
+Your hand is 5s, 9s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #156 --
+-- starting hand #157  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2215) | #6 "Sam" (3785)
+Your hand is 9d, 4c
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #157 --
+"Sam Schrader" shows a Jc, Ac.
+"Cole Stephens" shows a 9d, 4c.
+-- starting hand #158  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2205) | #6 "Sam" (3795)
+Your hand is 2s, 10d
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" folds
+Uncalled bet of 30 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #158 --
+"Sam Schrader" shows a Kd, Jc.
+"Cole Stephens" shows a 2s, 10d.
+-- starting hand #159  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2185) | #6 "Sam" (3815)
+Your hand is 2s, Jh
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #159 --
+"Sam Schrader" shows a Ad, 4s.
+-- starting hand #160  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2175) | #6 "Sam" (3825)
+Your hand is Jc, 2h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [8h, 4h, Qh] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" calls 60
+turn: 8h, 4h, Qh [2d] <Pot: 220>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 8h, 4h, Qh, 2d [Qd] <Pot: 220>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Sam Schrader" collected 220 from pot with Two Pair, Q's & 4's (hand: 4d, As)
+"Cole Stephens" shows a Jc, 2h.
+-- ending hand #160 --
+-- starting hand #161  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (2065) | #6 "Sam" (3935)
+Your hand is 8s, Ad
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #161 --
+"Sam Schrader" shows a 3d, 6h.
+-- starting hand #162  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (2085) | #6 "Sam" (3915)
+Your hand is Kh, Qh
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 175
+"Sam Schrader" raises to 375
+"Cole Stephens" calls 375
+flop:  [10h, As, 2d] <Pot: 750>
+"Cole Stephens" checks
+"Sam Schrader" bets 300
+"Cole Stephens" calls 300
+turn: 10h, As, 2d [8c] <Pot: 1350>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 10h, As, 2d, 8c [9s] <Pot: 1350>
+"Cole Stephens" bets 500
+"Sam Schrader" raises to 3240 and go all in
+"Cole Stephens" folds
+Uncalled bet of 2740 returned to "Sam Schrader"
+"Sam Schrader" collected 2350 from pot
+-- ending hand #162 --
+"Cole Stephens" shows a Kh, Qh.
+"Sam Schrader" shows a Ac, 9h.
+-- starting hand #163  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (910) | #6 "Sam" (5090)
+Your hand is 6c, Qc
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [2s, 3c, 7c] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" bets 50
+"Sam Schrader" raises to 150
+"Cole Stephens" calls 150
+turn: 2s, 3c, 7c [10d] <Pot: 400>
+"Sam Schrader" bets 200
+"Cole Stephens" calls 200
+river: 2s, 3c, 7c, 10d [8d] <Pot: 800>
+"Sam Schrader" bets 917
+"Cole Stephens" folds
+Uncalled bet of 917 returned to "Sam Schrader"
+"Sam Schrader" collected 800 from pot
+-- ending hand #163 --
+-- starting hand #164  (Texas Hold'em) (dealer: "Sam Schrader") [Heads up] --
+Player stacks: #1 "Cole Ste" (510) | #6 "Sam" (5490)
+Your hand is 9c, Qs
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #164 --
+"Sam Schrader" shows a 4d, 6h.
+-- starting hand #165  (Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ste" (530) | #6 "Sam" (5470)
+Your hand is Qs, Kh
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises to 50
+"Sam Schrader" calls 50
+flop:  [4h, Jd, Qh] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" bets 70
+"Sam Schrader" calls 70
+turn: 4h, Jd, Qh [8s] <Pot: 240>
+"Sam Schrader" checks
+"Cole Stephens" bets 120
+"Sam Schrader" raises to 420
+"Cole Stephens" calls 410 and go all in
+Uncalled bet of 10 returned to "Sam Schrader"
+river: 4h, Jd, Qh, 8s [7d] <Pot: 1070>
+"Cole Stephens" shows a Qs, Kh.
+"Sam Schrader" shows a Qc, 8d.
+"Sam Schrader" collected 1060 from pot with Two Pair, Q's & 8's (hand: Qc, 8d)
+-- ending hand #165 --
+The player "Cole Stephens" quits the game with a stack of 0.
+The player "Cole Ste" passed the room ownership to "Sam".
+The player "Cole Ste" passed the room ownership to "Sam".
+entry,at,order

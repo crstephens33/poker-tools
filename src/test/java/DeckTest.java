@@ -1,5 +1,5 @@
-import game.Card;
-import game.Deck;
+import poker.game.Card;
+import poker.game.Deck;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashSet;

@@ -1,0 +1,4248 @@
+The player "Sam Schrader" created the game with a stack of 2500.
+The admin approved the player "Andrew Cloutier" participation with a stack of 2500.
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+-- starting hand #1 (dealer: "Cole Ford") [3-handed] --
+"Andrew Cloutier" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Andrew Cloutier" folds
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+flop: Jc, Qc, Jh
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 3c
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ts
+"Sam Schrader" raises with 60
+"Cole Ford" folds
+"Sam Schrader" gained 130
+-- ending hand #1 --
+"Andrew Cloutier" shows a 6h, 9s.
+-- starting hand #2 (dealer: "Andrew Cloutier") [3-handed] --
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Sam Schrader" folds
+"Cole Ford" calls with 60
+flop: 3c, 8h, 8d
+"Cole Ford" checks
+"Andrew Cloutier" raises with 45
+"Cole Ford" folds
+"Andrew Cloutier" gained 130
+-- ending hand #2 --
+"Andrew Cloutier" shows a As, Ad.
+-- starting hand #3 (dealer: "Sam Schrader") [4-handed] --
+"Cole Ford" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Sam Schrader" raises with 60
+The admin approved the player "Cole Stephens" participation with a stack of 3000.
+"Cole Ford" folds
+"Andrew Cloutier" folds
+"Sam Schrader" gained 50
+-- ending hand #3 --
+-- starting hand #4 (dealer: "Cole Ford") [3-handed] --
+"Andrew Cloutier" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" raises with 40
+"Andrew Cloutier" calls with 40
+"Sam Schrader" calls with 40
+flop: 3c, 3h, 6c
+"Andrew Cloutier" raises with 45
+"Sam Schrader" folds
+"Cole Ford" calls with 45
+turn: 4s
+"Andrew Cloutier" raises with 85
+"Cole Ford" calls with 85
+river: 4d
+"Andrew Cloutier" raises with 190
+"Cole Ford" folds
+"Andrew Cloutier" gained 380
+-- ending hand #4 --
+"Andrew Cloutier" shows a Ks, 2s.
+"Cole Ford" shows a Tc, Jc.
+The player "Cole Stephens" joined the game with a stack of 3000.
+-- starting hand #5 (dealer: "Andrew Cloutier") [4-handed] --
+Your hand is 2s, Ah
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" posts a missing small blind of 10
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 47
+"Sam Schrader" folds
+"Cole Ford" calls with 47
+flop: Td, 9c, Kc
+"Cole Ford" raises with 20
+"Andrew Cloutier" calls with 20
+turn: 6d
+"Cole Ford" raises with 20
+"Andrew Cloutier" raises with 117
+"Cole Ford" calls with 117
+river: 7s
+"Cole Ford" calls with 20
+"Andrew Cloutier" calls with 20
+"Cole Ford" wins 428 with Pair, 9's (hand: Qs, 9h)
+-- ending hand #5 --
+-- starting hand #6 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 5d, 7h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 20
+-- ending hand #6 --
+"Cole Stephens" shows a 5d, 7h.
+-- starting hand #7 (dealer: "Cole Ford") [4-handed] --
+Your hand is As, Kd
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 85
+"Andrew Cloutier" folds
+"Cole Ford" calls with 85
+flop: Qd, 4d, 5h
+"Cole Stephens" raises with 140
+"Cole Ford" folds
+"Cole Stephens" gained 190
+-- ending hand #7 --
+"Cole Ford" shows a 2s, 2c.
+-- starting hand #8 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 9d, 3d
+"Andrew Cloutier" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" raises with 60
+"Andrew Cloutier" folds
+"Sam Schrader" calls with 60
+flop: 7d, 9h, 8c
+"Sam Schrader" raises with 60
+"Cole Stephens" raises with 160
+"Sam Schrader" calls with 160
+turn: Qs
+"Sam Schrader" checks
+"Cole Stephens" raises with 230
+"Sam Schrader" calls with 230
+river: 5h
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 910 with Pair, 9's (hand: 9d, 3d)
+-- ending hand #8 --
+"Andrew Cloutier" shows a 9c, Qh.
+"Sam Schrader" shows a 8h, As.
+-- starting hand #9 (dealer: "Andrew Cloutier") [4-handed] --
+Your hand is Ac, Kc
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 65
+"Andrew Cloutier" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 65
+flop: 2h, 8s, As
+"Cole Ford" checks
+"Cole Stephens" raises with 110
+"Cole Ford" raises with 220
+"Cole Stephens" raises with 400
+"Cole Ford" calls with 400
+turn: 2d
+"Cole Ford" checks
+"Cole Stephens" raises with 400
+"Cole Ford" calls with 400
+river: Kd
+"Cole Ford" checks
+"Cole Stephens" raises with 800
+"Cole Ford" calls with 800
+"Cole Stephens" wins 3340 with Two Pair, A's & K's (hand: Ac, Kc)
+-- ending hand #9 --
+"Cole Ford" shows a Ad, 6d.
+-- starting hand #10 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 2c, 3h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" checks
+flop: Ah, 5s, Qd
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 2d
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 5d
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 40 with Two Pair, 5's & 2's (hand: 2c, 3h)
+-- ending hand #10 --
+-- starting hand #11 (dealer: "Cole Ford") [4-handed] --
+Your hand is 3d, 6c
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" checks
+flop: 5d, 5s, Ac
+"Andrew Cloutier" checks
+"Cole Ford" checks
+turn: 4h
+"Andrew Cloutier" raises with 50
+"Cole Ford" folds
+"Andrew Cloutier" gained 50
+-- ending hand #11 --
+-- starting hand #12 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 4h, Kh
+"Andrew Cloutier" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" folds
+"Sam Schrader" checks
+flop: Js, Ad, 8c
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Sam Schrader" calls with 20
+turn: Kd
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+river: Ac
+"Sam Schrader" checks
+"Cole Ford" raises and all in with 564
+"Sam Schrader" folds
+"Cole Ford" gained 150
+-- ending hand #12 --
+"Cole Ford" shows a 8d, Ah.
+"Sam Schrader" shows a 6s, Ks.
+-- starting hand #13 (dealer: "Andrew Cloutier") [4-handed] --
+Your hand is 6c, 5c
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 60
+"Andrew Cloutier" calls with 60
+"Sam Schrader" calls with 60
+"Cole Ford" calls with 60
+flop: Kc, 7s, Jd
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+turn: 5h
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+river: Td
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Andrew Cloutier" wins 240 with Pair, 10's (hand: Th, 8h)
+-- ending hand #13 --
+"Sam Schrader" shows a 5s, Ac.
+"Cole Stephens" shows a 6c, 5c.
+"Cole Ford" shows a 3h, 9h.
+-- starting hand #14 (dealer: "Sam Schrader") [4-handed] --
+Your hand is Qh, 8h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" calls with 60
+flop: 4c, 7h, 6d
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 45
+"Cole Stephens" raises with 140
+"Andrew Cloutier" calls with 140
+turn: 3h
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 205
+"Cole Stephens" calls with 205
+river: 3d
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 615
+"Cole Stephens" folds
+"Andrew Cloutier" gained 820
+-- ending hand #14 --
+"Sam Schrader" shows a 5s, 8s.
+"Andrew Cloutier" shows a Kh, Qd.
+"Cole Stephens" shows a Qh, 8h.
+-- starting hand #15 (dealer: "Cole Ford") [4-handed] --
+Your hand is 8c, 2h
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+flop: As, Jh, 4d
+"Sam Schrader" raises with 80
+"Cole Ford" folds
+"Sam Schrader" gained 150
+-- ending hand #15 --
+-- starting hand #16 (dealer: "Cole Stephens") [4-handed] --
+Your hand is Tc, Js
+"Andrew Cloutier" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" folds
+"Sam Schrader" checks
+flop: Ac, 2h, 4h
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Jh
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 8c
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 45
+"Sam Schrader" calls with 45
+"Cole Ford" folds
+"Cole Stephens" wins 160 with Pair, J's (hand: Tc, Js)
+-- ending hand #16 --
+"Sam Schrader" shows a 3h, 8d.
+"Cole Ford" shows a 2s, 6s.
+-- starting hand #17 (dealer: "Andrew Cloutier") [4-handed] --
+Your hand is Td, As
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 65
+"Andrew Cloutier" folds
+"Sam Schrader" calls with 65
+"Cole Ford" raises and all in with 564
+"Cole Stephens" folds
+"Sam Schrader" calls with 564
+flop: 5h, Qc, 8c
+turn: Jd
+"Cole Ford" shows a Js, 5s.
+river: 3c
+"Sam Schrader" wins 1193 with Three of a Kind, 3's (hand: 3d, 3h)
+-- ending hand #17 --
+The player "Cole Ford" quits the game with a stack of 0.
+-- starting hand #18 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Th, 5d
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 20
+-- ending hand #18 --
+-- starting hand #19 (dealer: "Cole Stephens") [4-handed] --
+Your hand is Ah, Js
+"Andrew Cloutier" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises with 70
+"Andrew Cloutier" folds
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+"Sam Schrader" folds
+"Cole Stephens" gained 50
+-- ending hand #19 --
+-- starting hand #20 (dealer: "Andrew Cloutier") [3-handed] --
+Your hand is Qs, 9s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Sam Schrader" raises with 60
+"Cole Stephens" calls with 60
+flop: Ad, 8s, Tc
+"Sam Schrader" raises with 60
+"Cole Stephens" calls with 60
+turn: 8d
+"Sam Schrader" raises with 180
+"Cole Stephens" folds
+"Sam Schrader" gained 240
+-- ending hand #20 --
+"Sam Schrader" shows a 9c, Kh.
+"Cole Stephens" shows a Qs, 9s.
+The player "Cole Ford" joined the game with a stack of 2500.
+-- starting hand #21 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 7h, 8d
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Cole Ford" posts a missing small blind of 10
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Andrew Cloutier" checks
+flop: 9c, Th, 2s
+"Andrew Cloutier" calls with 20
+"Cole Ford" folds
+"Andrew Cloutier" gained 60
+-- ending hand #21 --
+-- starting hand #22 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 7s, 8s
+"Andrew Cloutier" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Stephens" raises with 240
+"Andrew Cloutier" folds
+"Cole Ford" folds
+"Sam Schrader" calls with 240
+flop: Qc, Kc, 7c
+"Sam Schrader" checks
+"Cole Stephens" raises with 375
+"Sam Schrader" calls with 375
+turn: 3h
+"Sam Schrader" checks
+"Cole Stephens" raises with 950
+"Sam Schrader" raises and all in with 2099
+"Cole Stephens" folds
+"Sam Schrader" gained 3160
+-- ending hand #22 --
+-- starting hand #23 (dealer: "Andrew Cloutier") [4-handed] --
+Your hand is 4c, 9h
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Cole Ford" calls with 60
+"Sam Schrader" folds
+flop: 3c, 9d, 5h
+"Cole Ford" calls with 20
+"Andrew Cloutier" calls with 20
+turn: 3h
+"Cole Ford" checks
+"Andrew Cloutier" raises with 90
+"Cole Ford" calls with 90
+river: Tc
+"Cole Ford" checks
+"Andrew Cloutier" raises with 270
+"Cole Ford" folds
+"Andrew Cloutier" gained 360
+-- ending hand #23 --
+-- starting hand #24 (dealer: "Cole Ford") [4-handed] --
+Your hand is 6c, Kd
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Cole Ford" folds
+"Sam Schrader" calls with 20
+"Cole Stephens" checks
+flop: Qd, Kh, 5s
+"Sam Schrader" checks
+"Cole Stephens" raises with 30
+"Sam Schrader" folds
+"Cole Stephens" gained 40
+-- ending hand #24 --
+-- starting hand #25 (dealer: "Sam Schrader") [4-handed] --
+Your hand is Kh, Ad
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" raises with 80
+"Cole Stephens" raises with 280
+"Andrew Cloutier" folds
+"Cole Ford" calls with 280
+"Sam Schrader" folds
+flop: Th, 6s, 2h
+"Cole Stephens" raises with 300
+"Cole Ford" folds
+"Cole Stephens" gained 660
+-- ending hand #25 --
+-- starting hand #26 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 3h, 3c
+"Andrew Cloutier" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises with 60
+"Andrew Cloutier" calls with 60
+"Cole Ford" calls with 60
+flop: Js, 6h, 7h
+"Andrew Cloutier" checks
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" raises with 175
+"Cole Ford" calls with 175
+"Cole Stephens" folds
+turn: 3s
+"Andrew Cloutier" raises with 275
+"Cole Ford" calls with 275
+river: 5d
+"Andrew Cloutier" raises with 1490
+"Cole Ford" folds
+"Andrew Cloutier" gained 1100
+-- ending hand #26 --
+-- starting hand #27 (dealer: "Andrew Cloutier") [4-handed] --
+Your hand is 8s, 7s
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" raises with 80
+"Andrew Cloutier" folds
+"Cole Ford" folds
+"Sam Schrader" folds
+"Cole Stephens" gained 50
+-- ending hand #27 --
+-- starting hand #28 (dealer: "Cole Ford") [5-handed] --
+Your hand is 2h, 7c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+The admin approved the player "Mike Gray" participation with a stack of 2500.
+"Andrew Cloutier" raises with 60
+"Cole Ford" calls with 60
+"Sam Schrader" folds
+"Cole Stephens" folds
+flop: 4c, 3s, 5c
+"Andrew Cloutier" raises with 75
+"Cole Ford" folds
+"Andrew Cloutier" gained 150
+-- ending hand #28 --
+"Andrew Cloutier" shows a Th, Tc.
+-- starting hand #29 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 5c, Js
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Cole Stephens" calls with 20
+"Andrew Cloutier" checks
+flop: Kd, 4h, Jc
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Cole Ford" checks
+turn: 2h
+"Cole Stephens" raises with 25
+"Andrew Cloutier" calls with 25
+"Cole Ford" folds
+river: Ad
+"Cole Stephens" raises with 50
+"Andrew Cloutier" folds
+"Cole Stephens" gained 110
+-- ending hand #29 --
+"Andrew Cloutier" shows a 2s, 3c.
+The player "Mike Gray" joined the game with a stack of 2500.
+-- starting hand #30 (dealer: "Cole Stephens") [5-handed] --
+Your hand is Tc, 5d
+"Andrew Cloutier" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Mike Gray" posts a missing small blind of 10
+"Sam Schrader" folds
+"Mike Gray" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 20
+"Cole Ford" checks
+flop: Jh, 3d, Ah
+"Andrew Cloutier" raises with 35
+"Cole Ford" folds
+"Mike Gray" folds
+"Andrew Cloutier" gained 70
+-- ending hand #30 --
+"Andrew Cloutier" shows a 2h, 6h.
+-- starting hand #31 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is Jc, As
+"Cole Ford" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Mike Gray" calls with 20
+"Cole Stephens" raises with 85
+"Andrew Cloutier" folds
+"Cole Ford" calls with 85
+"Sam Schrader" folds
+"Mike Gray" folds
+flop: 5s, Qd, 8h
+"Cole Ford" checks
+"Cole Stephens" raises with 120
+"Cole Ford" folds
+"Cole Stephens" gained 210
+-- ending hand #31 --
+"Sam Schrader" shows a 8d, 5c.
+-- starting hand #32 (dealer: "Cole Ford") [5-handed] --
+Your hand is Kh, Qs
+"Sam Schrader" posts a small blind of 10
+"Mike Gray" posts a big blind of 20
+"Cole Stephens" raises with 65
+"Andrew Cloutier" folds
+"Cole Ford" folds
+"Sam Schrader" folds
+"Mike Gray" calls with 65
+flop: Tc, 9s, Ks
+"Mike Gray" calls with 20
+"Cole Stephens" raises with 120
+"Mike Gray" calls with 120
+turn: As
+"Mike Gray" checks
+"Cole Stephens" raises with 200
+"Mike Gray" folds
+"Cole Stephens" gained 380
+-- ending hand #32 --
+-- starting hand #33 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 9c, Qc
+"Mike Gray" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Mike Gray" calls with 20
+"Cole Stephens" raises with 80
+"Cole Ford" calls with 80
+"Mike Gray" calls with 80
+flop: Ah, Qd, 8h
+"Mike Gray" checks
+"Cole Stephens" raises with 80
+"Cole Ford" folds
+"Mike Gray" folds
+"Cole Stephens" gained 240
+-- ending hand #33 --
+-- starting hand #34 (dealer: "Mike Gray") [6-handed] --
+Your hand is 3s, Jc
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Cole Ford" raises with 60
+The admin approved the player "Joe Delory" participation with a stack of 2500.
+"Sam Schrader" folds
+"Mike Gray" raises with 100
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Cole Ford" calls with 100
+flop: Qs, Ah, 2s
+"Cole Ford" checks
+"Mike Gray" calls with 20
+"Cole Ford" calls with 20
+turn: 4s
+"Cole Ford" calls with 20
+"Mike Gray" raises with 40
+"Cole Ford" calls with 40
+river: 9s
+"Cole Ford" raises with 350
+"Mike Gray" raises with 700
+"Cole Ford" calls with 700
+"Cole Ford" wins 1750 with Flush, Qs High (hand: Ts, Jh)
+"Mike Gray" shows a 8s, Td.
+-- ending hand #34 --
+The player "Joe Delory" joined the game with a stack of 2500.
+-- starting hand #35 (dealer: "Cole Stephens") [6-handed] --
+Your hand is 2c, 8s
+"Andrew Cloutier" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Joe Delory" folds
+"Sam Schrader" folds
+"Mike Gray" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 20
+"Cole Ford" checks
+flop: 6d, 3c, Kh
+"Andrew Cloutier" raises with 30
+"Cole Ford" calls with 30
+"Mike Gray" folds
+turn: 9s
+"Andrew Cloutier" checks
+"Cole Ford" checks
+river: Jc
+"Andrew Cloutier" raises with 60
+"Cole Ford" calls with 60
+"Cole Ford" wins 240 with Pair, 10's (hand: Th, Ts)
+"Andrew Cloutier" shows a 9c, 5c.
+-- ending hand #35 --
+-- starting hand #36 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is Qc, Jc
+"Cole Ford" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" folds
+"Mike Gray" calls with 20
+"Cole Stephens" raises with 95
+"Andrew Cloutier" folds
+"Cole Ford" calls with 95
+"Joe Delory" folds
+"Mike Gray" folds
+flop: 3d, Js, 6c
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 140
+"Cole Ford" calls with 140
+turn: Tc
+"Cole Ford" checks
+"Cole Stephens" raises with 350
+"Cole Ford" calls with 350
+river: 4d
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 1210 with Pair, J's (hand: Qc, Jc)
+-- ending hand #36 --
+-- starting hand #37 (dealer: "Cole Ford") [6-handed] --
+Your hand is 4s, 4d
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Mike Gray" folds
+"Cole Stephens" raises with 60
+"Andrew Cloutier" folds
+"Cole Ford" calls with 60
+"Joe Delory" folds
+"Sam Schrader" folds
+flop: Qh, 5s, Ac
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 4h
+"Cole Stephens" raises with 100
+"Cole Ford" calls with 100
+river: 2d
+"Cole Stephens" checks
+"Cole Ford" raises with 175
+"Cole Stephens" raises with 350
+"Cole Ford" calls with 350
+"Cole Stephens" wins 1050 with Three of a Kind, 4's (hand: 4s, 4d)
+-- ending hand #37 --
+"Cole Ford" shows a Jd, Kd.
+-- starting hand #38 (dealer: "Joe Delory") [6-handed] --
+Your hand is 6c, 8s
+"Sam Schrader" posts a small blind of 10
+"Mike Gray" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Cole Ford" calls with 20
+"Joe Delory" calls with 20
+"Sam Schrader" raises with 100
+"Mike Gray" calls with 100
+"Cole Ford" calls with 100
+"Joe Delory" calls with 100
+flop: 3h, 7h, Ks
+"Sam Schrader" checks
+"Mike Gray" checks
+"Cole Ford" checks
+"Joe Delory" raises with 250
+"Sam Schrader" folds
+"Mike Gray" folds
+"Cole Ford" calls with 250
+turn: Qs
+"Cole Ford" checks
+"Joe Delory" checks
+river: 4d
+"Cole Ford" checks
+"Joe Delory" raises with 615
+"Cole Ford" raises and all in with 790
+"Joe Delory" calls with 790
+"Joe Delory" wins 2480 with Pair, 7's (hand: Ad, 7c)
+"Cole Ford" shows a 6s, 7d.
+-- ending hand #38 --
+The player "Cole Ford" quits the game with a stack of 0.
+-- starting hand #39 (dealer: "Sam Schrader") [6-handed] --
+Your hand is 3c, 7h
+"Mike Gray" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Joe Delory" folds
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+"Sam Schrader" raises with 60
+"Mike Gray" calls with 60
+"Cole Stephens" folds
+flop: Kc, 8d, 2s
+"Mike Gray" calls with 20
+"Sam Schrader" raises with 60
+"Mike Gray" calls with 60
+turn: 4c
+"Mike Gray" checks
+"Sam Schrader" checks
+river: Ks
+"Mike Gray" calls with 20
+"Sam Schrader" raises with 80
+"Mike Gray" calls with 80
+"Sam Schrader" wins 420 with Four of a Kind, K's (hand: Kh, Kd)
+-- ending hand #39 --
+The player "Cole Ford" joined the game with a stack of 2500.
+-- starting hand #40 (dealer: "Mike Gray") [6-handed] --
+Your hand is 9d, Qh
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Joe Delory" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Mike Gray" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" checks
+flop: Qd, Jh, Ac
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Cole Ford" checks
+"Mike Gray" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" folds
+"Cole Ford" folds
+turn: 5d
+"Cole Stephens" checks
+"Mike Gray" calls with 20
+"Cole Stephens" calls with 20
+river: 6h
+"Cole Stephens" checks
+"Mike Gray" calls with 20
+"Cole Stephens" calls with 20
+"Cole Stephens" wins 200 with Pair, Q's (hand: 9d, Qh)
+"Mike Gray" shows a Ts, Jd.
+-- ending hand #40 --
+-- starting hand #41 (dealer: "Cole Stephens") [6-handed] --
+Your hand is Ks, Kh
+"Andrew Cloutier" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+"Mike Gray" calls with 60
+"Cole Stephens" raises with 300
+"Andrew Cloutier" folds
+"Joe Delory" folds
+"Sam Schrader" calls with 300
+"Cole Ford" calls with 300
+"Mike Gray" folds
+flop: 8d, Td, 9d
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 800
+"Sam Schrader" calls with 800
+"Cole Ford" raises and all in with 2180
+"Cole Stephens" folds
+"Sam Schrader" calls with 2180
+turn: 2d
+"Cole Ford" shows a 6c, 7d.
+river: 2h
+"Sam Schrader" wins 6150 with Flush, Ad High (hand: 4d, Ad)
+-- ending hand #41 --
+"Cole Stephens" shows a Ks, Kh.
+The player "Cole Ford" quits the game with a stack of 0.
+-- starting hand #42 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is 6h, 5d
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Mike Gray" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 100
+"Joe Delory" folds
+"Sam Schrader" folds
+"Mike Gray" calls with 100
+flop: Kh, 5c, 2c
+"Mike Gray" calls with 20
+"Andrew Cloutier" raises with 155
+"Mike Gray" calls with 155
+turn: 3c
+"Mike Gray" checks
+"Andrew Cloutier" checks
+river: 7c
+"Mike Gray" raises with 80
+"Andrew Cloutier" raises with 590
+"Mike Gray" folds
+"Andrew Cloutier" gained 700
+-- ending hand #42 --
+"Andrew Cloutier" shows a Qs, 8h.
+-- starting hand #43 (dealer: "Joe Delory") [5-handed] --
+Your hand is 6c, 8h
+"Sam Schrader" posts a small blind of 10
+"Mike Gray" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Joe Delory" folds
+"Sam Schrader" raises with 40
+"Mike Gray" calls with 40
+flop: 2h, Ah, 8c
+"Sam Schrader" raises with 40
+"Mike Gray" raises and all in with 470
+"Sam Schrader" calls with 470
+turn: Jh
+river: 9s
+"Sam Schrader" wins 1020 with Pair, Q's (hand: Qs, Qc)
+-- ending hand #43 --
+The player "Mike Gray" quits the game with a stack of 0.
+-- starting hand #44 (dealer: "Sam Schrader") [4-handed] --
+Your hand is Th, 4s
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Joe Delory" folds
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 20
+-- ending hand #44 --
+-- starting hand #45 (dealer: "Cole Stephens") [4-handed] --
+Your hand is Ah, 7d
+"Andrew Cloutier" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises with 65
+"Andrew Cloutier" raises with 175
+"Joe Delory" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 150
+-- ending hand #45 --
+"Andrew Cloutier" shows a 4s, Ac.
+-- starting hand #46 (dealer: "Andrew Cloutier") [4-handed] --
+Your hand is 5s, Tc
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Joe Delory" folds
+"Sam Schrader" calls with 60
+flop: Ad, 6c, Jh
+"Sam Schrader" checks
+"Andrew Cloutier" raises with 45
+"Sam Schrader" folds
+"Andrew Cloutier" gained 130
+-- ending hand #46 --
+-- starting hand #47 (dealer: "Joe Delory") [5-handed] --
+Your hand is Kd, 6h
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Joe Delory" folds
+"Sam Schrader" raises with 180
+"Cole Stephens" folds
+The admin approved the player "Dan Gill" participation with a stack of 2500.
+"Andrew Cloutier" raises with 450
+"Sam Schrader" calls with 450
+flop: 3h, Ts, 7c
+"Sam Schrader" checks
+"Andrew Cloutier" raises with 340
+"Sam Schrader" calls with 340
+turn: 8d
+"Sam Schrader" checks
+"Andrew Cloutier" checks
+river: 4s
+"Sam Schrader" checks
+"Andrew Cloutier" checks
+"Andrew Cloutier" wins 1600 with A High (hand: Ah, Kc)
+-- ending hand #47 --
+"Sam Schrader" shows a Qh, As.
+The player "Dan Gill" joined the game with a stack of 2500.
+-- starting hand #48 (dealer: "Sam Schrader") [5-handed] --
+Your hand is Th, 5d
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" calls with 20
+"Joe Delory" folds
+"Sam Schrader" raises with 80
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 80
+"Dan Gill" folds
+flop: 9s, Ah, 5s
+"Andrew Cloutier" checks
+"Sam Schrader" raises with 120
+"Andrew Cloutier" calls with 120
+turn: Qd
+"Andrew Cloutier" raises with 215
+"Sam Schrader" folds
+"Andrew Cloutier" gained 430
+-- ending hand #48 --
+"Sam Schrader" shows a 8s, 8d.
+"Andrew Cloutier" shows a Jh, Kc.
+-- starting hand #49 (dealer: "Cole Stephens") [5-handed] --
+Your hand is Ah, Qd
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Joe Delory" raises with 60
+"Sam Schrader" folds
+"Cole Stephens" raises with 240
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Joe Delory" folds
+"Cole Stephens" gained 150
+-- ending hand #49 --
+-- starting hand #50 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is 2d, Th
+"Dan Gill" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 60
+"Joe Delory" calls with 60
+flop: Kc, Qd, 4h
+"Dan Gill" checks
+"Joe Delory" checks
+"Sam Schrader" checks
+turn: 6d
+"Dan Gill" checks
+"Joe Delory" checks
+"Sam Schrader" raises with 100
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" gained 180
+-- ending hand #50 --
+-- starting hand #51 (dealer: "Dan Gill") [5-handed] --
+Your hand is 5h, 7h
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" calls with 60
+"Joe Delory" raises with 280
+"Sam Schrader" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 280
+flop: 8h, Js, 4h
+"Joe Delory" raises with 220
+"Dan Gill" folds
+"Joe Delory" gained 640
+-- ending hand #51 --
+"Dan Gill" shows a Kd, Qd.
+-- starting hand #52 (dealer: "Joe Delory") [5-handed] --
+Your hand is 6c, 4c
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" folds
+"Cole Stephens" calls with 60
+flop: Ac, Th, Ad
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+turn: Ah
+"Cole Stephens" checks
+"Andrew Cloutier" calls with 20
+"Cole Stephens" raises with 110
+"Andrew Cloutier" calls with 110
+river: 5c
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 350
+"Cole Stephens" folds
+"Andrew Cloutier" gained 350
+-- ending hand #52 --
+"Andrew Cloutier" shows a Ts, Qd.
+-- starting hand #53 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 4h, 7d
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" raises with 60
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Sam Schrader" gained 50
+-- ending hand #53 --
+"Sam Schrader" shows a Ac, 3c.
+-- starting hand #54 (dealer: "Cole Stephens") [5-handed] --
+Your hand is Jc, 9h
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Joe Delory" folds
+"Sam Schrader" raises with 60
+"Cole Stephens" calls with 60
+"Andrew Cloutier" raises with 240
+"Dan Gill" folds
+"Sam Schrader" calls with 240
+"Cole Stephens" folds
+flop: 2d, 8c, 2c
+"Andrew Cloutier" raises with 145
+"Sam Schrader" calls with 145
+turn: Jd
+"Andrew Cloutier" raises with 637
+"Sam Schrader" folds
+"Andrew Cloutier" gained 850
+-- ending hand #54 --
+"Andrew Cloutier" shows a Qd, Kd.
+-- starting hand #55 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is 9c, Tc
+"Dan Gill" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Stephens" raises with 65
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Joe Delory" calls with 65
+flop: Kc, 8h, 3s
+"Joe Delory" checks
+"Cole Stephens" checks
+turn: 8s
+"Joe Delory" raises with 80
+"Cole Stephens" folds
+"Joe Delory" gained 140
+-- ending hand #55 --
+-- starting hand #56 (dealer: "Dan Gill") [5-handed] --
+Your hand is Qh, 3d
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Joe Delory" calls with 60
+"Sam Schrader" calls with 60
+flop: Qs, 9d, 7c
+"Joe Delory" checks
+"Sam Schrader" checks
+"Andrew Cloutier" checks
+turn: 6c
+"Joe Delory" checks
+"Sam Schrader" checks
+"Andrew Cloutier" checks
+river: 3c
+"Joe Delory" checks
+"Sam Schrader" checks
+"Andrew Cloutier" checks
+"Joe Delory" wins 180 with Pair, 9's (hand: 9h, Kh)
+-- ending hand #56 --
+"Sam Schrader" shows a Ad, 4c.
+-- starting hand #57 (dealer: "Joe Delory") [5-handed] --
+Your hand is Jc, 7s
+"Sam Schrader" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Joe Delory" calls with 20
+"Sam Schrader" calls with 20
+"Cole Stephens" checks
+flop: 6c, 3h, Qs
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Dan Gill" checks
+"Joe Delory" raises with 60
+"Sam Schrader" folds
+"Cole Stephens" folds
+"Dan Gill" folds
+"Joe Delory" gained 80
+-- ending hand #57 --
+"Joe Delory" shows a Ah, 6d.
+-- starting hand #58 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 8s, 9d
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Joe Delory" raises with 60
+"Sam Schrader" folds
+"Cole Stephens" calls with 60
+"Andrew Cloutier" calls with 60
+flop: Th, Kc, 4s
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Joe Delory" raises with 110
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Joe Delory" gained 180
+-- ending hand #58 --
+-- starting hand #59 (dealer: "Cole Stephens") [6-handed] --
+Your hand is 5d, 6h
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Joe Delory" folds
+"Sam Schrader" raises with 60
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 60
+"Dan Gill" folds
+flop: 3d, Qs, 2s
+"Andrew Cloutier" checks
+"Sam Schrader" raises with 80
+"Andrew Cloutier" calls with 80
+turn: Ac
+"Andrew Cloutier" checks
+"Sam Schrader" raises with 160
+"Andrew Cloutier" calls with 160
+river: 9d
+"Andrew Cloutier" checks
+The admin approved the player "Cole Ford" participation with a stack of 4000.
+"Sam Schrader" checks
+"Andrew Cloutier" wins 620 with Two Pair, Q's & 9's (hand: 9h, Qc)
+-- ending hand #59 --
+"Sam Schrader" shows a As, 5s.
+The player "Cole Ford" joined the game with a stack of 4000.
+-- starting hand #60 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is 3c, 5d
+"Dan Gill" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 95
+"Dan Gill" raises with 429
+"Joe Delory" folds
+"Cole Ford" folds
+"Andrew Cloutier" folds
+"Dan Gill" gained 230
+-- ending hand #60 --
+"Dan Gill" shows a As, Ac.
+"Joe Delory" shows a Kh, 8c.
+"Cole Ford" shows a Th, Jc.
+-- starting hand #61 (dealer: "Dan Gill") [6-handed] --
+Your hand is Qs, Kc
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 100
+"Andrew Cloutier" calls with 100
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+flop: 3c, 6d, As
+"Cole Ford" checks
+"Cole Stephens" raises with 210
+"Andrew Cloutier" folds
+"Cole Ford" calls with 210
+turn: 7h
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Qc
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 750 with Two Pair, A's & Q's (hand: Qh, Ac)
+-- ending hand #61 --
+"Joe Delory" shows a Qd, Jd.
+-- starting hand #62 (dealer: "Joe Delory") [6-handed] --
+Your hand is Qc, 7h
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" raises with 40
+"Joe Delory" calls with 40
+"Sam Schrader" calls with 40
+"Cole Ford" calls with 40
+flop: 4h, Qs, 9h
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Dan Gill" calls with 20
+"Joe Delory" calls with 20
+"Sam Schrader" calls with 20
+turn: 7c
+"Sam Schrader" checks
+"Cole Ford" checks
+"Dan Gill" checks
+"Joe Delory" raises with 200
+"Sam Schrader" folds
+"Cole Ford" calls with 200
+"Dan Gill" folds
+river: As
+"Cole Ford" checks
+"Joe Delory" raises with 440
+"Cole Ford" folds
+"Joe Delory" gained 640
+-- ending hand #62 --
+"Joe Delory" shows a Td, 8d.
+-- starting hand #63 (dealer: "Sam Schrader") [6-handed] --
+Your hand is 6h, Qc
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 50
+-- ending hand #63 --
+"Andrew Cloutier" shows a Ts, Td.
+"Cole Ford" shows a 4c, 8h.
+-- starting hand #64 (dealer: "Cole Ford") [6-handed] --
+Your hand is Ac, 8s
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 70
+"Andrew Cloutier" calls with 70
+"Cole Ford" folds
+flop: 4h, 7s, Kh
+"Cole Stephens" raises with 90
+"Andrew Cloutier" calls with 90
+turn: 4c
+"Cole Stephens" raises with 250
+"Andrew Cloutier" calls with 250
+river: Th
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 450
+"Cole Stephens" folds
+"Andrew Cloutier" gained 840
+-- ending hand #64 --
+"Cole Ford" shows a 4d, Jh.
+-- starting hand #65 (dealer: "Cole Stephens") [7-handed] --
+Your hand is Jh, Td
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Joe Delory" raises with 60
+"Sam Schrader" folds
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+"Andrew Cloutier" calls with 60
+"Dan Gill" folds
+flop: 9c, 2s, Kd
+"Andrew Cloutier" checks
+"Joe Delory" raises with 130
+"Cole Ford" folds
+"Cole Stephens" calls with 130
+"Andrew Cloutier" folds
+turn: 8s
+"Joe Delory" checks
+"Cole Stephens" raises with 305
+The admin approved the player "Griffin BC" participation with a stack of 2500.
+"Joe Delory" folds
+"Cole Stephens" gained 520
+-- ending hand #65 --
+"Joe Delory" shows a 9d, Jd.
+"Cole Stephens" shows a Jh, Td.
+The player "Griffin BC" joined the game with a stack of 2500.
+-- starting hand #66 (dealer: "Andrew Cloutier") [7-handed] --
+Your hand is 7s, Ac
+"Dan Gill" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Griffin BC" folds
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 180
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" calls with 180
+flop: Js, Jc, 9s
+"Sam Schrader" checks
+"Andrew Cloutier" raises with 195
+"Sam Schrader" calls with 195
+turn: Jd
+"Sam Schrader" checks
+"Andrew Cloutier" checks
+river: Ad
+"Sam Schrader" checks
+"Andrew Cloutier" raises with 235
+"Sam Schrader" calls with 235
+"Andrew Cloutier" wins 1250 with Full House, J's over A's (hand: 5h, Ah)
+-- ending hand #66 --
+"Sam Schrader" shows a 2h, 2c.
+-- starting hand #67 (dealer: "Dan Gill") [7-handed] --
+Your hand is Qh, 6h
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" folds
+flop: Ts, 2d, 5s
+"Griffin BC" raises with 65
+"Cole Ford" folds
+"Griffin BC" gained 150
+-- ending hand #67 --
+-- starting hand #68 (dealer: "Joe Delory") [7-handed] --
+Your hand is 2s, Js
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" folds
+"Griffin BC" calls with 60
+"Cole Ford" calls with 60
+flop: Qd, As, 4d
+"Griffin BC" checks
+"Cole Ford" checks
+"Andrew Cloutier" raises with 75
+"Griffin BC" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 190
+-- ending hand #68 --
+"Andrew Cloutier" shows a 7h, 7s.
+-- starting hand #69 (dealer: "Sam Schrader") [7-handed] --
+Your hand is 4c, 9h
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" folds
+"Griffin BC" raises with 180
+"Cole Ford" folds
+"Andrew Cloutier" calls with 180
+flop: Qs, 8c, 7h
+"Griffin BC" raises with 175
+"Andrew Cloutier" calls with 175
+turn: 5s
+"Griffin BC" checks
+"Andrew Cloutier" checks
+river: Ad
+"Griffin BC" checks
+"Andrew Cloutier" checks
+"Andrew Cloutier" wins 730 with Pair, A's (hand: Ac, 9s)
+-- ending hand #69 --
+-- starting hand #70 (dealer: "Griffin BC") [7-handed] --
+Your hand is Ts, 8h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Joe Delory" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" checks
+flop: Ah, 9d, 2s
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Dan Gill" calls with 20
+turn: Qh
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Dan Gill" calls with 20
+river: 9h
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Dan Gill" calls with 20
+"Cole Ford" wins 110 with Two Pair, A's & 9's (hand: Ac, 6s)
+"Dan Gill" wins 110 with Two Pair, A's & 9's (hand: 8c, As)
+-- ending hand #70 --
+-- starting hand #71 (dealer: "Cole Ford") [7-handed] --
+Your hand is Ks, Qd
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" calls with 20
+"Joe Delory" folds
+"Sam Schrader" folds
+"Griffin BC" raises with 60
+"Cole Ford" folds
+"Cole Stephens" raises with 210
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Griffin BC" calls with 210
+flop: 4d, 6h, Ah
+"Cole Stephens" raises with 230
+"Griffin BC" folds
+"Cole Stephens" gained 460
+-- ending hand #71 --
+-- starting hand #72 (dealer: "Cole Stephens") [7-handed] --
+Your hand is 8c, 4s
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Joe Delory" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 20
+"Dan Gill" checks
+flop: 2d, 9d, 7s
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 60
+-- ending hand #72 --
+-- starting hand #73 (dealer: "Andrew Cloutier") [7-handed] --
+Your hand is 4d, Tc
+"Dan Gill" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 100
+"Dan Gill" folds
+"Joe Delory" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 70
+-- ending hand #73 --
+-- starting hand #74 (dealer: "Dan Gill") [7-handed] --
+Your hand is 7h, Jh
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" raises with 60
+"Cole Ford" folds
+"Cole Stephens" calls with 60
+"Andrew Cloutier" folds
+"Dan Gill" calls with 60
+"Joe Delory" folds
+"Sam Schrader" calls with 60
+flop: 9s, 4d, 8s
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Stephens" checks
+"Dan Gill" calls with 20
+"Sam Schrader" calls with 20
+"Griffin BC" calls with 20
+"Cole Stephens" calls with 20
+turn: Ts
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Stephens" raises with 230
+"Dan Gill" calls with 230
+"Sam Schrader" calls with 230
+"Griffin BC" folds
+river: 3s
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Dan Gill" raises with 510
+"Sam Schrader" calls with 510
+"Cole Stephens" folds
+"Dan Gill" wins 2040 with Flush, As High (hand: 8c, As)
+-- ending hand #74 --
+"Cole Stephens" shows a 7h, Jh.
+"Sam Schrader" shows a Kh, Js.
+"Griffin BC" shows a Qd, Kd.
+"Cole Ford" shows a 2d, Jc.
+-- starting hand #75 (dealer: "Joe Delory") [7-handed] --
+Your hand is 3s, 2h
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 100
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 100
+flop: 8c, 9s, Ks
+"Cole Ford" checks
+"Andrew Cloutier" raises with 100
+"Cole Ford" calls with 100
+turn: 4h
+"Cole Ford" checks
+"Andrew Cloutier" raises with 322
+"Cole Ford" calls with 322
+river: 9d
+"Cole Ford" checks
+"Andrew Cloutier" checks
+"Cole Ford" wins 1074 with Full House, 9's over 8's (hand: 9h, 8s)
+-- ending hand #75 --
+-- starting hand #76 (dealer: "Sam Schrader") [7-handed] --
+Your hand is Ah, 9s
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 70
+"Andrew Cloutier" folds
+"Dan Gill" calls with 70
+"Joe Delory" folds
+"Sam Schrader" folds
+"Griffin BC" calls with 70
+"Cole Ford" calls with 70
+flop: 9h, Qc, 6h
+"Griffin BC" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 90
+"Dan Gill" folds
+"Griffin BC" calls with 90
+"Cole Ford" folds
+turn: 3c
+"Griffin BC" checks
+"Cole Stephens" checks
+river: 7c
+"Griffin BC" raises with 275
+"Cole Stephens" calls with 275
+"Cole Stephens" wins 1010 with Pair, 9's (hand: Ah, 9s)
+"Griffin BC" shows a Th, Kh.
+-- ending hand #76 --
+-- starting hand #77 (dealer: "Griffin BC") [7-handed] --
+Your hand is 5d, 7d
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" raises with 60
+"Griffin BC" raises with 180
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" calls with 180
+flop: Ad, 8d, 6c
+"Sam Schrader" checks
+"Griffin BC" checks
+turn: 5c
+"Sam Schrader" checks
+"Griffin BC" checks
+river: 4h
+"Sam Schrader" checks
+"Griffin BC" checks
+"Griffin BC" wins 390 with Pair, K's (hand: Kh, Ks)
+-- ending hand #77 --
+"Sam Schrader" shows a Th, Td.
+-- starting hand #78 (dealer: "Cole Ford") [7-handed] --
+Your hand is 5d, 9c
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Joe Delory" raises with 60
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 360
+"Joe Delory" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 190
+-- ending hand #78 --
+-- starting hand #79 (dealer: "Cole Stephens") [7-handed] --
+Your hand is 4c, Kh
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Joe Delory" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 80
+"Dan Gill" calls with 80
+"Cole Ford" calls with 80
+flop: 5s, Qs, 7s
+"Andrew Cloutier" raises with 100
+"Dan Gill" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 240
+-- ending hand #79 --
+"Andrew Cloutier" shows a Th, 8h.
+-- starting hand #80 (dealer: "Andrew Cloutier") [7-handed] --
+Your hand is 2c, 3c
+"Dan Gill" posts a small blind of 10
+"Joe Delory" posts a big blind of 20
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Joe Delory" raises with 100
+"Cole Ford" calls with 100
+"Cole Stephens" calls with 100
+flop: Ad, 9h, Ah
+"Joe Delory" raises with 125
+"Cole Ford" calls with 125
+"Cole Stephens" folds
+turn: 4c
+"Joe Delory" raises with 280
+"Cole Ford" calls with 280
+river: Qh
+"Joe Delory" checks
+"Cole Ford" raises with 560
+"Joe Delory" calls with 560
+"Cole Ford" wins 2240 with Flush, Ah High (hand: Kh, 7h)
+-- ending hand #80 --
+"Joe Delory" shows a As, Kd.
+-- starting hand #81 (dealer: "Dan Gill") [7-handed] --
+Your hand is 5s, 7d
+"Joe Delory" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Joe Delory" calls with 20
+"Sam Schrader" checks
+flop: Jc, 3d, Ac
+"Joe Delory" checks
+"Sam Schrader" checks
+"Cole Ford" raises with 80
+"Dan Gill" calls with 80
+"Joe Delory" calls with 80
+"Sam Schrader" folds
+turn: 7h
+"Joe Delory" checks
+"Cole Ford" checks
+"Dan Gill" raises with 160
+"Joe Delory" raises with 450
+"Cole Ford" folds
+"Dan Gill" calls with 450
+river: 6s
+"Joe Delory" raises with 290
+"Dan Gill" calls with 290
+"Joe Delory" wins 1800 with Pair, A's (hand: 9c, As)
+-- ending hand #81 --
+-- starting hand #82 (dealer: "Joe Delory") [7-handed] --
+Your hand is 2d, Tc
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Joe Delory" calls with 60
+"Sam Schrader" folds
+"Griffin BC" calls with 60
+"Cole Ford" calls with 60
+flop: As, 6h, Kc
+"Griffin BC" checks
+"Cole Ford" checks
+"Andrew Cloutier" raises with 120
+"Joe Delory" raises with 240
+"Griffin BC" folds
+"Cole Ford" folds
+"Andrew Cloutier" calls with 240
+turn: 7h
+"Andrew Cloutier" checks
+"Joe Delory" raises with 500
+"Andrew Cloutier" calls with 500
+river: 3c
+"Andrew Cloutier" checks
+"Joe Delory" raises with 1000
+"Andrew Cloutier" folds
+"Joe Delory" gained 1730
+-- ending hand #82 --
+-- starting hand #83 (dealer: "Sam Schrader") [7-handed] --
+Your hand is Ah, Ts
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 80
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Joe Delory" folds
+"Sam Schrader" calls with 80
+"Griffin BC" folds
+"Cole Ford" calls with 80
+flop: 2s, 7d, Jh
+"Cole Ford" checks
+"Cole Stephens" raises with 215
+"Sam Schrader" folds
+"Cole Ford" calls with 215
+turn: 4c
+"Cole Ford" calls with 20
+The player "Joe Delory" stand up with the stack of 5230.
+"Cole Stephens" calls with 20
+river: 2d
+"Cole Ford" raises with 360
+"Cole Stephens" folds
+"Cole Ford" gained 720
+-- ending hand #83 --
+-- starting hand #84 (dealer: "Griffin BC") [6-handed] --
+Your hand is 9d, 4h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+flop: 6h, 2d, Ac
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 65
+"Cole Ford" calls with 65
+turn: Ah
+"Cole Ford" calls with 20
+"Andrew Cloutier" raises with 100
+"Cole Ford" calls with 100
+river: 3s
+"Cole Ford" calls with 20
+"Andrew Cloutier" raises with 295
+"Cole Ford" folds
+"Andrew Cloutier" gained 550
+-- ending hand #84 --
+"Cole Ford" shows a Kc, Qc.
+"Andrew Cloutier" shows a Kd, Ad.
+-- starting hand #85 (dealer: "Cole Ford") [6-handed] --
+Your hand is 9s, Qs
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Sam Schrader" raises with 60
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+"Andrew Cloutier" calls with 60
+flop: 3d, Kh, 2s
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 120
+"Sam Schrader" folds
+"Cole Ford" calls with 120
+"Cole Stephens" folds
+turn: 4h
+"Andrew Cloutier" raises with 240
+"Cole Ford" calls with 240
+river: Js
+"Andrew Cloutier" raises with 720
+"Cole Ford" calls with 720
+"Cole Ford" wins 2400 with Pair, 3's (hand: 3c, Ac)
+"Andrew Cloutier" shows a 7s, Ts.
+-- ending hand #85 --
+-- starting hand #86 (dealer: "Cole Stephens") [6-handed] --
+Your hand is Td, Qh
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" calls with 20
+"Griffin BC" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+"Andrew Cloutier" calls with 60
+"Dan Gill" calls with 60
+"Sam Schrader" calls with 60
+flop: Ts, Kh, 3d
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" calls with 20
+"Dan Gill" folds
+"Sam Schrader" calls with 20
+"Griffin BC" calls with 20
+turn: 5h
+"Andrew Cloutier" checks
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 6h
+"Andrew Cloutier" checks
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 460 with Pair, K's (hand: Kc, 2s)
+-- ending hand #86 --
+"Sam Schrader" shows a 9s, 6s.
+"Griffin BC" shows a 4s, 4h.
+"Cole Stephens" shows a Td, Qh.
+"Dan Gill" shows a 4c, 4d.
+The player "Joe Delory" quits the game with a stack of 5230.
+-- starting hand #87 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is 5d, 7h
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" checks
+flop: 8c, Kh, 6c
+"Dan Gill" raises with 40
+"Sam Schrader" folds
+"Cole Ford" folds
+"Dan Gill" gained 60
+-- ending hand #87 --
+"Dan Gill" shows a Ks, 2d.
+-- starting hand #88 (dealer: "Dan Gill") [6-handed] --
+Your hand is Ac, 2s
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 100
+"Dan Gill" folds
+"Sam Schrader" calls with 100
+"Griffin BC" folds
+"Cole Ford" calls with 100
+flop: 8d, Qs, 3h
+"Sam Schrader" checks
+"Cole Ford" checks
+"Andrew Cloutier" raises with 135
+"Sam Schrader" folds
+"Cole Ford" calls with 135
+turn: 2c
+"Cole Ford" checks
+"Andrew Cloutier" checks
+river: 5c
+"Cole Ford" checks
+"Andrew Cloutier" checks
+"Cole Ford" wins 590 with Pair, 8's (hand: 8h, Ts)
+-- ending hand #88 --
+"Griffin BC" shows a 4c, Qh.
+-- starting hand #89 (dealer: "Sam Schrader") [6-handed] --
+Your hand is 3d, 9d
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" calls with 20
+"Cole Ford" checks
+flop: Td, 7d, 5h
+"Griffin BC" checks
+"Cole Ford" calls with 20
+"Griffin BC" folds
+"Cole Ford" gained 40
+-- ending hand #89 --
+"Cole Ford" shows a As, Qc.
+-- starting hand #90 (dealer: "Griffin BC") [6-handed] --
+Your hand is 7s, Ks
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Sam Schrader" calls with 60
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+flop: Ts, Qh, 7h
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Sam Schrader" raises with 160
+"Cole Ford" folds
+"Cole Stephens" calls with 160
+"Andrew Cloutier" calls with 160
+turn: 3s
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Sam Schrader" raises with 500
+"Cole Stephens" calls with 500
+"Andrew Cloutier" folds
+river: Qs
+"Cole Stephens" raises with 1200
+"Sam Schrader" raises with 2420
+"Cole Stephens" calls and all in with 2420
+"Sam Schrader" wins 6560 with Full House, Q's over 10's (hand: Th, Qc)
+-- ending hand #90 --
+"Cole Stephens" shows a 7s, Ks.
+The player "Cole Stephens" quits the game with a stack of 0.
+-- starting hand #91 (dealer: "Cole Ford") [6-handed] --
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Andrew Cloutier" calls with 60
+The admin approved the player "Cole Stephens" participation with a stack of 3000.
+"Dan Gill" folds
+flop: 3h, 2d, Jd
+"Andrew Cloutier" checks
+"Sam Schrader" raises with 80
+"Cole Ford" calls with 80
+"Andrew Cloutier" folds
+turn: Ks
+"Sam Schrader" raises with 220
+"Cole Ford" folds
+"Sam Schrader" gained 360
+-- ending hand #91 --
+The player "Cole Stephens" joined the game with a stack of 3000.
+-- starting hand #92 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is Qd, 2c
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+WARNING: the admin queued the stack change for the player "Cole Stephens" to 5000 in the next hand.
+"Sam Schrader" checks
+flop: 3h, 6h, Kh
+"Dan Gill" checks
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Dan Gill" folds
+"Sam Schrader" calls with 20
+turn: Th
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Sam Schrader" calls with 20
+river: 7h
+"Sam Schrader" checks
+"Cole Ford" raises with 140
+"Sam Schrader" folds
+"Cole Ford" gained 140
+-- ending hand #92 --
+The admin updated the player "Cole Stephens" stack from 3000 to 5000.
+-- starting hand #93 (dealer: "Dan Gill") [6-handed] --
+Your hand is 7c, 2h
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" calls with 20
+"Griffin BC" checks
+flop: 4s, Qc, 7s
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" calls with 20
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" gained 60
+-- ending hand #93 --
+-- starting hand #94 (dealer: "Sam Schrader") [6-handed] --
+Your hand is 5d, 9h
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" folds
+"Griffin BC" calls with 20
+"Cole Ford" checks
+flop: 5h, Kd, Ac
+"Griffin BC" checks
+"Cole Ford" checks
+"Dan Gill" checks
+turn: 9d
+"Griffin BC" checks
+"Cole Ford" checks
+"Dan Gill" checks
+river: Ah
+"Griffin BC" checks
+"Cole Ford" calls with 20
+"Dan Gill" folds
+"Griffin BC" calls with 20
+"Griffin BC" wins 100 with Two Pair, A's & 9's (hand: 9s, Td)
+"Cole Ford" shows a 6s, 6c.
+-- ending hand #94 --
+-- starting hand #95 (dealer: "Griffin BC") [6-handed] --
+Your hand is 6d, 3d
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+flop: Qh, 2s, 7d
+"Cole Ford" checks
+"Cole Stephens" checks
+"Griffin BC" raises with 75
+"Cole Ford" folds
+"Cole Stephens" calls with 75
+turn: Jh
+"Cole Stephens" checks
+"Griffin BC" checks
+river: Jc
+"Cole Stephens" raises with 360
+"Griffin BC" folds
+"Cole Stephens" gained 330
+-- ending hand #95 --
+"Cole Stephens" shows a 6d, 3d.
+-- starting hand #96 (dealer: "Cole Ford") [6-handed] --
+Your hand is Qc, 5s
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" raises with 80
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" gained 50
+-- ending hand #96 --
+"Dan Gill" shows a Qh, Ad.
+-- starting hand #97 (dealer: "Cole Stephens") [6-handed] --
+Your hand is 3c, Qd
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 20
+"Dan Gill" raises with 80
+"Cole Ford" calls with 80
+"Andrew Cloutier" calls with 80
+flop: Qc, Qs, 4h
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Cole Ford" checks
+turn: 8s
+"Andrew Cloutier" raises with 120
+"Dan Gill" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 240
+-- ending hand #97 --
+"Andrew Cloutier" shows a 2d, 7d.
+-- starting hand #98 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is 9c, 4s
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" checks
+flop: 9s, 9d, Jc
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4d
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 8s
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 25 with Pair, 9's (hand: Ks, 3d)
+"Cole Ford" wins 25 with Pair, 9's (hand: 2c, Kc)
+-- ending hand #98 --
+-- starting hand #99 (dealer: "Dan Gill") [6-handed] --
+Your hand is Kd, 6d
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 120
+"Andrew Cloutier" folds
+"Dan Gill" calls with 120
+"Sam Schrader" raises with 420
+"Griffin BC" folds
+"Cole Ford" folds
+"Cole Stephens" folds
+"Dan Gill" folds
+"Sam Schrader" gained 400
+-- ending hand #99 --
+-- starting hand #100 (dealer: "Sam Schrader") [6-handed] --
+Your hand is 3h, 8h
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" calls with 60
+"Sam Schrader" raises with 220
+"Griffin BC" folds
+"Cole Ford" calls with 220
+"Andrew Cloutier" calls with 220
+"Dan Gill" folds
+flop: Js, 5d, Qd
+"Cole Ford" checks
+"Andrew Cloutier" checks
+"Sam Schrader" checks
+turn: As
+"Cole Ford" checks
+"Andrew Cloutier" checks
+"Sam Schrader" checks
+river: Th
+"Cole Ford" checks
+"Andrew Cloutier" raises with 325
+"Sam Schrader" raises with 790
+"Cole Ford" folds
+"Andrew Cloutier" folds
+"Sam Schrader" gained 1380
+-- ending hand #100 --
+-- starting hand #101 (dealer: "Griffin BC") [6-handed] --
+Your hand is 9h, Kc
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+flop: Ah, Ks, 3s
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 90
+"Cole Ford" calls with 90
+"Cole Stephens" calls with 90
+turn: 9s
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+river: 9d
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 225
+"Cole Ford" calls with 225
+"Cole Stephens" raises with 1111
+"Andrew Cloutier" calls with 1111
+"Cole Ford" folds
+"Cole Stephens" wins 2897 with Full House, 9's over K's (hand: 9h, Kc)
+-- ending hand #101 --
+-- starting hand #102 (dealer: "Cole Ford") [6-handed] --
+Your hand is 8c, 2h
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" raises with 60
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 60
+flop: 3h, Ts, 7h
+"Andrew Cloutier" checks
+"Griffin BC" raises with 60
+"Andrew Cloutier" calls with 60
+turn: As
+"Andrew Cloutier" checks
+"Griffin BC" raises with 187
+"Andrew Cloutier" calls with 187
+river: 4s
+"Andrew Cloutier" checks
+"Griffin BC" checks
+"Griffin BC" wins 624 with Pair, 10's (hand: Th, 9h)
+-- ending hand #102 --
+-- starting hand #103 (dealer: "Cole Stephens") [6-handed] --
+Your hand is 9s, Ah
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 95
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Cole Ford" calls with 95
+flop: Th, 5d, 8d
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+turn: 3s
+"Cole Ford" raises with 130
+"Cole Stephens" folds
+"Cole Ford" gained 260
+-- ending hand #103 --
+-- starting hand #104 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is 5d, 5s
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" folds
+"Cole Ford" raises with 80
+"Cole Stephens" calls with 80
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" calls with 80
+flop: 2h, 4h, 3s
+"Sam Schrader" checks
+"Cole Ford" raises with 125
+"Cole Stephens" calls with 125
+"Sam Schrader" calls with 125
+turn: 8d
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 400
+"Sam Schrader" folds
+"Cole Ford" calls with 400
+river: 8h
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 1425 with Two Pair, A's & 8's (hand: Ad, As)
+-- ending hand #104 --
+"Cole Stephens" shows a 5d, 5s.
+-- starting hand #105 (dealer: "Dan Gill") [6-handed] --
+Your hand is Ah, 3d
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" calls with 20
+"Griffin BC" checks
+flop: 6d, 9d, 8d
+"Sam Schrader" checks
+"Griffin BC" raises with 40
+"Cole Ford" calls with 40
+"Dan Gill" calls with 40
+"Sam Schrader" folds
+turn: 3h
+"Griffin BC" raises with 100
+"Cole Ford" calls with 100
+"Dan Gill" calls with 100
+river: Ac
+"Griffin BC" checks
+"Cole Ford" checks
+"Dan Gill" raises with 250
+"Griffin BC" calls with 250
+"Cole Ford" folds
+"Dan Gill" wins 1000 with Pair, A's (hand: 5c, Ad)
+-- ending hand #105 --
+"Cole Ford" shows a 6s, Kd.
+-- starting hand #106 (dealer: "Sam Schrader") [6-handed] --
+Your hand is 3h, Qc
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" calls with 60
+"Sam Schrader" calls with 60
+"Griffin BC" folds
+"Cole Ford" calls with 60
+flop: 8d, Ad, 8h
+"Cole Ford" checks
+"Andrew Cloutier" raises with 100
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 250
+-- ending hand #106 --
+-- starting hand #107 (dealer: "Griffin BC") [6-handed] --
+Your hand is As, 7h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" calls with 20
+"Griffin BC" raises with 60
+"Cole Ford" folds
+"Cole Stephens" calls with 60
+"Sam Schrader" calls with 60
+flop: 8s, Ts, Qd
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Griffin BC" raises with 85
+"Cole Stephens" calls with 85
+"Sam Schrader" folds
+turn: 4h
+"Cole Stephens" checks
+"Griffin BC" raises with 200
+"Cole Stephens" folds
+"Griffin BC" gained 360
+-- ending hand #107 --
+-- starting hand #108 (dealer: "Cole Ford") [6-handed] --
+Your hand is 4h, Kh
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 80
+"Andrew Cloutier" raises with 265
+"Cole Ford" calls with 265
+"Cole Stephens" calls with 265
+flop: Qs, As, 5h
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Cole Ford" checks
+turn: 6h
+"Cole Stephens" raises with 430
+"Andrew Cloutier" folds
+"Cole Ford" folds
+"Cole Stephens" gained 795
+-- ending hand #108 --
+"Andrew Cloutier" shows a Jc, Js.
+-- starting hand #109 (dealer: "Cole Stephens") [6-handed] --
+Your hand is Kc, Qh
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Griffin BC" folds
+"Cole Ford" folds
+"Cole Stephens" raises with 150
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" calls with 150
+flop: 5d, 8d, 3s
+"Sam Schrader" raises with 140
+"Cole Stephens" calls with 140
+turn: 5c
+"Sam Schrader" raises with 240
+"Cole Stephens" calls with 240
+river: 9s
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" wins 1090 with Two Pair, 8's & 5's (hand: Ah, 8h)
+-- ending hand #109 --
+-- starting hand #110 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is As, 5d
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 65
+"Andrew Cloutier" raises with 275
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 180
+-- ending hand #110 --
+"Andrew Cloutier" shows a 2s, Qs.
+-- starting hand #111 (dealer: "Dan Gill") [6-handed] --
+Your hand is Th, 3c
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" calls with 20
+"Griffin BC" checks
+flop: 3h, 3d, 6h
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+"Dan Gill" calls with 20
+"Sam Schrader" calls with 20
+"Griffin BC" folds
+"Cole Ford" folds
+turn: Qh
+"Sam Schrader" checks
+"Dan Gill" calls with 20
+"Sam Schrader" calls with 20
+river: Ts
+"Sam Schrader" checks
+"Dan Gill" raises with 160
+"Sam Schrader" folds
+"Dan Gill" gained 160
+-- ending hand #111 --
+"Cole Stephens" shows a Th, 3c.
+"Dan Gill" shows a Ac, As.
+-- starting hand #112 (dealer: "Sam Schrader") [6-handed] --
+Your hand is Th, Qc
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 65
+"Andrew Cloutier" calls with 65
+"Dan Gill" calls with 65
+"Sam Schrader" calls with 65
+"Griffin BC" folds
+"Cole Ford" calls with 65
+flop: Js, Ts, 2s
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" folds
+"Dan Gill" checks
+"Sam Schrader" checks
+turn: Jh
+"Cole Ford" checks
+"Cole Stephens" checks
+"Dan Gill" checks
+"Sam Schrader" checks
+river: Kh
+"Cole Ford" checks
+"Cole Stephens" checks
+"Dan Gill" checks
+"Sam Schrader" checks
+"Cole Stephens" wins 335 with Two Pair, J's & 10's (hand: Th, Qc)
+-- ending hand #112 --
+"Sam Schrader" shows a 8s, 8c.
+"Dan Gill" shows a Ad, 3s.
+-- starting hand #113 (dealer: "Griffin BC") [6-handed] --
+Your hand is Kh, 3s
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 120
+"Cole Ford" calls with 120
+flop: 5c, 8c, 3d
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 240
+"Cole Ford" calls with 240
+turn: 8d
+"Cole Ford" checks
+"Cole Stephens" raises with 250
+"Cole Ford" calls with 250
+river: 6s
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 1220 with Two Pair, 8's & 3's (hand: Kh, 3s)
+-- ending hand #113 --
+"Sam Schrader" shows a 4c, 7c.
+"Cole Ford" shows a 2c, Ac.
+-- starting hand #114 (dealer: "Cole Ford") [6-handed] --
+Your hand is Ah, Kh
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" calls with 20
+"Sam Schrader" raises with 80
+"Griffin BC" folds
+"Cole Ford" calls with 80
+"Cole Stephens" raises with 350
+"Andrew Cloutier" calls with 350
+"Dan Gill" folds
+"Sam Schrader" calls with 350
+"Cole Ford" calls with 350
+flop: 6c, 6h, 2s
+"Cole Stephens" raises with 800
+"Andrew Cloutier" calls with 800
+"Sam Schrader" folds
+"Cole Ford" folds
+turn: 3h
+"Cole Stephens" raises with 1941
+"Andrew Cloutier" calls and all in with 1941
+river: 5c
+"Andrew Cloutier" wins 6902 with Two Pair, 8's & 6's (hand: 8s, 8d)
+-- ending hand #114 --
+-- starting hand #115 (dealer: "Cole Stephens") [6-handed] --
+Your hand is 2h, 7c
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 60
+"Dan Gill" calls with 60
+flop: Js, 5d, Kh
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Sam Schrader" raises with 140
+"Cole Ford" folds
+"Andrew Cloutier" calls with 140
+"Dan Gill" folds
+turn: 6d
+"Andrew Cloutier" checks
+"Sam Schrader" raises with 280
+"Andrew Cloutier" calls with 280
+river: Td
+"Andrew Cloutier" checks
+"Sam Schrader" raises with 360
+"Andrew Cloutier" raises with 999
+"Sam Schrader" calls with 999
+"Sam Schrader" wins 3078 with Two Pair, K's & 10's (hand: Kd, Ts)
+"Andrew Cloutier" shows a Jc, 9h.
+-- ending hand #115 --
+-- starting hand #116 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is 7h, Kd
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 60
+"Sam Schrader" raises with 360
+"Griffin BC" calls with 360
+"Cole Ford" calls with 360
+"Dan Gill" folds
+flop: 2c, Ac, 6c
+"Sam Schrader" raises with 400
+"Griffin BC" folds
+"Cole Ford" calls with 400
+turn: 2h
+"Sam Schrader" raises with 850
+"Cole Ford" raises with 1700
+"Sam Schrader" folds
+"Cole Ford" gained 3640
+-- ending hand #116 --
+-- starting hand #117 (dealer: "Dan Gill") [6-handed] --
+Your hand is Kh, 6d
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" calls with 20
+"Griffin BC" checks
+flop: 2h, Ts, 4d
+WARNING: the admin queued the stack change for the player "Cole Stephens" to 6550 in the next hand.
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+turn: Qs
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+river: Kd
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+"Cole Ford" wins 60 with Pair, 10's (hand: 8c, Td)
+-- ending hand #117 --
+The admin updated the player "Cole Stephens" stack from 3550 to 6550.
+-- starting hand #118 (dealer: "Sam Schrader") [6-handed] --
+Your hand is 8d, 6s
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 60
+flop: Qd, 7d, 6h
+"Cole Ford" checks
+"Andrew Cloutier" raises with 65
+"Cole Ford" raises with 130
+"Andrew Cloutier" calls with 130
+turn: 5c
+"Cole Ford" checks
+"Andrew Cloutier" raises with 195
+"Cole Ford" calls with 195
+river: Kc
+"Cole Ford" checks
+"Andrew Cloutier" raises with 585
+"Cole Ford" raises with 1170
+"Andrew Cloutier" raises with 2535
+"Cole Ford" calls with 2535
+"Andrew Cloutier" wins 5850 with Straight, 9 High (hand: 9c, 8h)
+-- ending hand #118 --
+-- starting hand #119 (dealer: "Griffin BC") [6-handed] --
+Your hand is 4h, Ac
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Dan Gill" raises with 40
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 40
+"Cole Stephens" calls with 40
+flop: Jh, 5d, 8s
+"Cole Ford" raises with 120
+"Cole Stephens" folds
+"Dan Gill" calls with 120
+turn: Ah
+"Cole Ford" calls with 20
+"Dan Gill" raises with 140
+"Cole Ford" calls with 140
+river: 3c
+"Cole Ford" checks
+"Dan Gill" raises with 640
+"Cole Ford" folds
+"Dan Gill" gained 640
+-- ending hand #119 --
+"Cole Ford" shows a Qs, Th.
+-- starting hand #120 (dealer: "Cole Ford") [6-handed] --
+Your hand is 2c, Ts
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" checks
+flop: Td, 7s, 5h
+"Cole Stephens" raises with 60
+"Andrew Cloutier" raises with 150
+"Cole Ford" calls with 150
+"Cole Stephens" calls with 150
+turn: Qd
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 255
+"Cole Ford" calls with 255
+"Cole Stephens" calls with 255
+river: 6c
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Cole Ford" raises with 637
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 637
+"Cole Ford" wins 2549 with Two Pair, Q's & 5's (hand: Qc, 5d)
+-- ending hand #120 --
+-- starting hand #121 (dealer: "Cole Stephens") [6-handed] --
+Your hand is 7d, Tc
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 60
+"Dan Gill" calls with 60
+flop: 7c, 6c, 5c
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Qs
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Sam Schrader" checks
+"Cole Ford" raises with 120
+"Andrew Cloutier" calls with 120
+"Dan Gill" folds
+"Sam Schrader" folds
+river: Jc
+"Andrew Cloutier" checks
+"Cole Ford" checks
+"Cole Ford" wins 480 with Flush, Qc High (hand: Qc, 3h)
+-- ending hand #121 --
+"Andrew Cloutier" shows a 4c, 4d.
+-- starting hand #122 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is Ah, 8s
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+"Andrew Cloutier" calls with 60
+"Dan Gill" calls with 60
+"Sam Schrader" calls with 60
+flop: Qc, Jh, 5s
+"Dan Gill" raises with 360
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 360
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 360
+turn: Kc
+"Dan Gill" raises with 1080
+"Cole Ford" folds
+"Andrew Cloutier" raises with 2200
+"Dan Gill" calls and all in with 2200
+river: 9d
+"Andrew Cloutier" wins 5840 with Straight, K High (hand: Td, Ks)
+-- ending hand #122 --
+The player "Dan Gill" quits the game with a stack of 0.
+-- starting hand #123 (dead button) [6-handed] --
+Your hand is 4d, Jc
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Sam Schrader" calls with 60
+"Griffin BC" folds
+"Cole Ford" calls with 60
+flop: Ah, 7s, 3s
+"Sam Schrader" checks
+"Cole Ford" checks
+"Andrew Cloutier" raises with 85
+The admin approved the player "Dan Gill" participation with a stack of 2500.
+"Sam Schrader" calls with 85
+"Cole Ford" folds
+turn: Kd
+"Sam Schrader" checks
+"Andrew Cloutier" checks
+river: Jh
+"Sam Schrader" checks
+"Andrew Cloutier" raises with 185
+"Sam Schrader" folds
+"Andrew Cloutier" gained 370
+-- ending hand #123 --
+"Andrew Cloutier" shows a Ad, Qd.
+"Sam Schrader" shows a 5c, 7c.
+The player "Dan Gill" joined the game with a stack of 2500.
+-- starting hand #124 (dealer: "Sam Schrader") [6-handed] --
+Your hand is Kh, 6h
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises with 85
+"Andrew Cloutier" raises with 225
+"Dan Gill" calls with 225
+"Sam Schrader" calls with 225
+"Griffin BC" folds
+"Cole Ford" calls with 225
+"Cole Stephens" calls with 225
+flop: Qs, 4d, 2s
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 420
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 1135
+-- ending hand #124 --
+"Andrew Cloutier" shows a Th, Ts.
+-- starting hand #125 (dealer: "Griffin BC") [6-handed] --
+Your hand is 5h, 2h
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" calls with 20
+"Griffin BC" raises with 100
+"Cole Ford" calls with 100
+"Cole Stephens" folds
+"Dan Gill" calls with 100
+"Sam Schrader" calls with 100
+flop: 9c, 7c, 9h
+"Cole Ford" calls with 20
+"Dan Gill" folds
+"Sam Schrader" calls with 20
+"Griffin BC" calls with 20
+turn: 2d
+"Cole Ford" raises with 240
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" gained 480
+-- ending hand #125 --
+"Cole Ford" shows a 3c, 3h.
+-- starting hand #126 (dealer: "Cole Ford") [6-handed] --
+Your hand is 9s, Tc
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+"Andrew Cloutier" calls with 60
+flop: Jd, 4d, 8d
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Griffin BC" checks
+"Cole Ford" checks
+turn: Ad
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 120
+"Griffin BC" folds
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 240
+-- ending hand #126 --
+"Andrew Cloutier" shows a Th, 2d.
+"Cole Ford" shows a 9c, 5s.
+"Griffin BC" shows a Ts, As.
+"Cole Stephens" shows a 9s, Tc.
+-- starting hand #127 (dealer: "Cole Stephens") [6-handed] --
+Your hand is 7c, As
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 85
+"Andrew Cloutier" calls with 85
+"Dan Gill" folds
+"Cole Ford" calls with 85
+flop: 3c, Jh, 9d
+"Andrew Cloutier" checks
+"Cole Ford" raises with 137
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 137
+turn: Qs
+"Andrew Cloutier" raises with 274
+"Cole Ford" calls with 274
+river: 6h
+"Andrew Cloutier" checks
+"Cole Ford" checks
+"Cole Ford" wins 1097 with Pair, J's (hand: Jc, 5c)
+-- ending hand #127 --
+-- starting hand #128 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is 3c, Ts
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 60
+"Sam Schrader" calls with 60
+flop: Jh, 7c, 6h
+"Dan Gill" checks
+"Sam Schrader" checks
+"Griffin BC" raises with 100
+"Cole Ford" raises with 320
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" gained 440
+-- ending hand #128 --
+-- starting hand #129 (dealer: "Dan Gill") [6-handed] --
+Your hand is 8h, 2c
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" calls with 20
+"Griffin BC" checks
+flop: Qs, Ts, 2s
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+"Dan Gill" checks
+turn: 5s
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+"Dan Gill" checks
+river: 7s
+"Sam Schrader" checks
+"Griffin BC" checks
+"Cole Ford" checks
+"Dan Gill" checks
+"Sam Schrader" wins 20 with Flush, Qs High (hand: 9c, Jd)
+"Griffin BC" wins 20 with Flush, Qs High (hand: 5c, 6h)
+"Cole Ford" wins 20 with Flush, Qs High (hand: Kh, 4c)
+"Dan Gill" wins 20 with Flush, Qs High (hand: 6c, 3c)
+-- ending hand #129 --
+-- starting hand #130 (dealer: "Sam Schrader") [6-handed] --
+Your hand is 8s, 4c
+"Griffin BC" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 60
+flop: Qc, Td, 6s
+"Cole Ford" checks
+"Andrew Cloutier" raises with 55
+"Cole Ford" folds
+"Andrew Cloutier" gained 130
+-- ending hand #130 --
+-- starting hand #131 (dealer: "Griffin BC") [6-handed] --
+Your hand is Qh, 5c
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Sam Schrader" calls with 60
+"Griffin BC" folds
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+flop: 7s, 7c, 6d
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 180
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 240
+-- ending hand #131 --
+"Dan Gill" shows a 7h, 6c.
+"Andrew Cloutier" shows a 4d, 4c.
+-- starting hand #132 (dealer: "Cole Ford") [6-handed] --
+Your hand is 9d, 2d
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" checks
+flop: 2c, Ad, Jc
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Cole Ford" raises with 60
+"Cole Stephens" calls with 60
+"Andrew Cloutier" calls with 60
+turn: Ks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Cole Ford" checks
+river: 9s
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 120
+"Cole Ford" calls with 120
+"Cole Stephens" folds
+"Andrew Cloutier" wins 480 with Pair, K's (hand: 7s, Kc)
+-- ending hand #132 --
+"Cole Ford" shows a 9c, 6c.
+-- starting hand #133 (dealer: "Cole Stephens") [6-handed] --
+Your hand is Jh, 5s
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" folds
+"Griffin BC" raises with 60
+"Cole Ford" folds
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 60
+flop: 7c, Ac, Js
+"Dan Gill" raises with 60
+"Griffin BC" raises with 200
+"Dan Gill" folds
+"Griffin BC" gained 250
+-- ending hand #133 --
+"Sam Schrader" shows a Jd, 7s.
+"Griffin BC" shows a Ah, As.
+-- starting hand #134 (dealer: "Andrew Cloutier") [6-handed] --
+Your hand is Ac, 7h
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Griffin BC" folds
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" checks
+flop: 8d, Qd, 4d
+"Dan Gill" checks
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" gained 80
+-- ending hand #134 --
+-- starting hand #135 (dealer: "Dan Gill") [6-handed] --
+Your hand is 9s, 8s
+"Sam Schrader" posts a small blind of 10
+"Griffin BC" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 95
+"Andrew Cloutier" folds
+"Dan Gill" raises with 305
+"Sam Schrader" folds
+"Griffin BC" folds
+"Cole Ford" folds
+"Cole Stephens" calls with 305
+flop: 9h, 7s, 8h
+"Cole Stephens" checks
+"Dan Gill" checks
+turn: 6c
+"Cole Stephens" checks
+"Dan Gill" checks
+river: 2c
+"Cole Stephens" raises with 400
+"Dan Gill" calls with 400
+"Cole Stephens" wins 1460 with Two Pair, 9's & 8's (hand: 9s, 8s)
+-- ending hand #135 --
+"Andrew Cloutier" shows a 3d, 5s.
+"Dan Gill" shows a Qh, Kh.
+The player "Griffin BC" quits the game with a stack of 687.
+-- starting hand #136 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 2c, Jc
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" raises with 380
+"Sam Schrader" folds
+"Cole Ford" calls with 380
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 380
+flop: 3d, 9d, 3h
+"Cole Ford" checks
+"Andrew Cloutier" checks
+WARNING: the admin queued the stack change for the player "Cole Stephens" to 6190 in the next hand.
+"Dan Gill" raises with 580
+"Cole Ford" calls with 580
+"Andrew Cloutier" folds
+turn: 9h
+"Cole Ford" raises with 284
+"Dan Gill" calls with 284
+river: 6c
+"Cole Ford" calls with 20
+"Dan Gill" calls and all in with 6
+"Cole Ford" wins 1450 with Two Pair, 9's & 3's (hand: Ac, Qh)
+"Dan Gill" wins 1450 with Two Pair, 9's & 3's (hand: Ah, Kh)
+-- ending hand #136 --
+"Andrew Cloutier" shows a 2s, As.
+The admin updated the player "Cole Stephens" stack from 6210 to 6190.
+-- starting hand #137 (dealer: "Cole Ford") [5-handed] --
+Your hand is 2d, 6h
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" raises with 360
+"Sam Schrader" folds
+"Cole Ford" calls with 360
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+flop: Th, Ad, 6s
+"Dan Gill" raises and all in with 1090
+"Cole Ford" folds
+"Dan Gill" gained 750
+-- ending hand #137 --
+"Dan Gill" shows a As, Qc.
+-- starting hand #138 (dealer: "Cole Stephens") [5-handed] --
+Your hand is Jd, 4s
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 20
+"Dan Gill" checks
+flop: 2h, 8d, 6s
+"Andrew Cloutier" raises with 30
+"Dan Gill" folds
+"Cole Ford" calls with 30
+turn: 7h
+"Andrew Cloutier" raises with 90
+"Cole Ford" calls with 90
+river: Js
+"Andrew Cloutier" raises with 698
+"Cole Ford" folds
+"Andrew Cloutier" gained 300
+-- ending hand #138 --
+-- starting hand #139 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is 8h, 4s
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 100
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+flop: Qd, 6c, Qc
+"Cole Ford" calls with 20
+"Andrew Cloutier" raises with 155
+"Cole Ford" calls with 155
+turn: 4d
+"Cole Ford" checks
+"Andrew Cloutier" raises with 270
+"Cole Ford" raises with 540
+"Andrew Cloutier" calls with 540
+river: 3c
+"Cole Ford" checks
+"Andrew Cloutier" checks
+"Cole Ford" wins 1620 with Two Pair, Q's & 4's (hand: 4c, 5s)
+-- ending hand #139 --
+-- starting hand #140 (dealer: "Dan Gill") [5-handed] --
+Your hand is 2d, 9h
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" calls with 60
+"Sam Schrader" calls with 60
+"Cole Ford" calls with 60
+flop: 4c, 2s, Th
+"Sam Schrader" checks
+"Cole Ford" checks
+"Andrew Cloutier" raises with 120
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 240
+-- ending hand #140 --
+-- starting hand #141 (dealer: "Sam Schrader") [5-handed] --
+Your hand is Qc, Ks
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" raises with 100
+"Sam Schrader" calls with 100
+"Cole Ford" calls with 100
+"Cole Stephens" calls with 100
+"Andrew Cloutier" calls with 100
+flop: Kh, 3s, 2c
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Sam Schrader" raises with 160
+"Cole Ford" folds
+"Cole Stephens" raises with 350
+"Andrew Cloutier" calls with 350
+"Dan Gill" folds
+"Sam Schrader" calls with 350
+turn: 3h
+"Cole Stephens" raises with 550
+"Andrew Cloutier" folds
+"Sam Schrader" calls with 550
+river: 6s
+"Cole Stephens" raises with 2250
+"Sam Schrader" folds
+"Cole Stephens" gained 2650
+-- ending hand #141 --
+"Sam Schrader" shows a Kc, Qd.
+"Cole Stephens" shows a Qc, Ks.
+-- starting hand #142 (dealer: "Cole Ford") [5-handed] --
+Your hand is 4c, 7s
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" calls with 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" checks
+flop: Qs, Qd, 9d
+"Andrew Cloutier" raises with 35
+"Dan Gill" raises with 270
+"Cole Ford" calls with 270
+"Andrew Cloutier" calls with 270
+turn: 6h
+"Andrew Cloutier" checks
+"Dan Gill" raises with 240
+"Cole Ford" calls with 240
+"Andrew Cloutier" calls with 240
+river: Tc
+"Andrew Cloutier" raises with 800
+"Dan Gill" folds
+"Cole Ford" calls with 800
+"Cole Ford" wins 3200 with Straight, K High (hand: Jd, Kd)
+"Andrew Cloutier" shows a 5d, 3d.
+-- ending hand #142 --
+-- starting hand #143 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 9h, 9d
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" raises with 40
+"Cole Stephens" raises with 160
+"Andrew Cloutier" calls with 160
+"Dan Gill" calls with 160
+"Cole Ford" calls with 160
+flop: 8h, Ks, 9c
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 480
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Cole Ford" calls with 480
+turn: 4c
+"Cole Ford" checks
+"Cole Stephens" raises with 1360
+"Cole Ford" folds
+"Cole Stephens" gained 1600
+-- ending hand #143 --
+"Cole Stephens" shows a 9h, 9d.
+"Cole Ford" shows a Ts, Tc.
+-- starting hand #144 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is 7h, 7d
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 85
+"Andrew Cloutier" raises with 320
+"Dan Gill" folds
+"Sam Schrader" calls with 320
+"Cole Ford" calls with 320
+"Cole Stephens" calls with 320
+flop: Qc, 2c, Kh
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+turn: 2d
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 450
+"Andrew Cloutier" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 450
+river: Ts
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 2190 with Two Pair, Q's & 2's (hand: Qh, 4h)
+-- ending hand #144 --
+"Andrew Cloutier" shows a Ah, Jd.
+"Sam Schrader" shows a 7c, 7s.
+"Cole Stephens" shows a 7h, 7d.
+-- starting hand #145 (dealer: "Dan Gill") [5-handed] --
+Your hand is Td, 4s
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" calls with 20
+"Cole Ford" checks
+flop: 2c, Qs, Js
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Ad
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 6d
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 40 with A High (hand: 8h, 7d)
+-- ending hand #145 --
+-- starting hand #146 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 4h, Jd
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" calls with 60
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" calls with 60
+flop: 8c, 3d, 3s
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 95
+"Dan Gill" folds
+"Cole Stephens" folds
+"Andrew Cloutier" gained 190
+-- ending hand #146 --
+-- starting hand #147 (dealer: "Cole Ford") [5-handed] --
+Your hand is 8h, 8d
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 85
+"Andrew Cloutier" calls with 85
+"Cole Ford" calls with 85
+flop: 7s, 9h, Kc
+"Cole Stephens" raises with 155
+"Andrew Cloutier" calls with 155
+"Cole Ford" calls with 155
+turn: 2h
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 360
+"Cole Ford" calls with 360
+"Cole Stephens" folds
+river: 6h
+"Andrew Cloutier" checks
+"Cole Ford" raises with 720
+"Andrew Cloutier" calls with 720
+"Cole Ford" wins 2880 with Straight, 10 High (hand: Td, 8s)
+-- ending hand #147 --
+-- starting hand #148 (dealer: "Cole Stephens") [5-handed] --
+Your hand is Jh, Kd
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 85
+"Andrew Cloutier" calls with 85
+"Dan Gill" calls with 85
+"Cole Ford" calls with 85
+flop: 3c, Jd, Qs
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 250
+"Andrew Cloutier" raises with 670
+"Dan Gill" folds
+"Cole Ford" folds
+"Cole Stephens" calls with 670
+turn: 2c
+"Andrew Cloutier" raises with 840
+"Cole Stephens" calls with 840
+river: 7c
+"Andrew Cloutier" checks
+"Cole Stephens" checks
+"Cole Stephens" wins 3360 with Pair, J's (hand: Jh, Kd)
+-- ending hand #148 --
+-- starting hand #149 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is Qc, 8s
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" checks
+flop: Qh, 8h, Ac
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 7s
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 50 with Pair, 8's (hand: 3h, 8c)
+-- ending hand #149 --
+"Cole Ford" shows a 6s, 7h.
+-- starting hand #150 (dealer: "Dan Gill") [5-handed] --
+Your hand is Js, Tc
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" calls with 20
+"Cole Ford" checks
+flop: 4d, Ac, 9h
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" calls with 20
+turn: Kc
+"Sam Schrader" checks
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Sam Schrader" calls with 20
+river: 8d
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 180 with Pair, A's (hand: Ah, 7s)
+-- ending hand #150 --
+-- starting hand #151 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 9s, Kh
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" calls with 60
+"Sam Schrader" folds
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+flop: Ad, 6h, Ks
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" raises with 160
+"Dan Gill" folds
+"Cole Ford" calls with 160
+"Cole Stephens" calls with 160
+turn: Jh
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" checks
+river: 7s
+"Cole Ford" checks
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 540
+"Cole Ford" folds
+"Cole Stephens" raises with 1280
+"Andrew Cloutier" calls with 1280
+"Andrew Cloutier" wins 3280 with Two Pair, A's & 7's (hand: As, 7d)
+"Cole Stephens" shows a 9s, Kh.
+-- ending hand #151 --
+"Cole Ford" shows a 8d, Kd.
+"Cole Ford" shows a 8d, Kd.
+-- starting hand #152 (dealer: "Cole Ford") [5-handed] --
+Your hand is 9c, 9h
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" raises with 180
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" calls with 180
+"Andrew Cloutier" calls with 180
+flop: 2h, 7d, Td
+"Cole Stephens" checks
+"Andrew Cloutier" raises with 240
+"Dan Gill" raises and all in with 555
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" gained 1020
+-- ending hand #152 --
+"Cole Stephens" shows a 9c, 9h.
+-- starting hand #153 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 8d, 7h
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" raises with 60
+"Cole Ford" calls with 60
+"Cole Stephens" calls with 60
+"Andrew Cloutier" calls with 60
+"Dan Gill" calls with 60
+flop: 2h, Jh, 7d
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 150
+"Andrew Cloutier" calls with 150
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+turn: 2c
+"Andrew Cloutier" checks
+"Cole Stephens" raises with 400
+"Andrew Cloutier" calls with 400
+river: 9h
+"Andrew Cloutier" checks
+"Cole Stephens" checks
+"Andrew Cloutier" wins 1400 with Two Pair, 9's & 7's (hand: 9c, 7c)
+-- ending hand #153 --
+"Cole Ford" shows a Qc, 8c.
+-- starting hand #154 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is Td, 8s
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 120
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 70
+-- ending hand #154 --
+-- starting hand #155 (dealer: "Dan Gill") [5-handed] --
+Your hand is Jc, 6d
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" calls with 20
+"Cole Ford" checks
+flop: 3c, Ac, 2c
+"Sam Schrader" checks
+"Cole Ford" checks
+"Dan Gill" checks
+turn: Ks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Dan Gill" checks
+river: 2d
+"Sam Schrader" checks
+"Cole Ford" checks
+"Dan Gill" checks
+"Cole Ford" wins 30 with Pair, 2's (hand: 9h, Qh)
+"Dan Gill" wins 30 with Pair, 2's (hand: Qc, 8d)
+-- ending hand #155 --
+-- starting hand #156 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 4h, 9c
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Andrew Cloutier" raises with 60
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" raises with 100
+"Cole Stephens" folds
+"Andrew Cloutier" calls with 100
+flop: Tc, Kc, 6c
+"Cole Ford" checks
+"Andrew Cloutier" raises with 110
+"Cole Ford" folds
+"Andrew Cloutier" gained 220
+-- ending hand #156 --
+"Andrew Cloutier" shows a Jc, 9s.
+"Cole Ford" shows a 8s, As.
+-- starting hand #157 (dealer: "Cole Ford") [5-handed] --
+Your hand is Qh, Kd
+"Cole Stephens" posts a small blind of 10
+"Andrew Cloutier" posts a big blind of 20
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" raises with 90
+"Andrew Cloutier" folds
+"Cole Ford" calls with 90
+flop: 7d, 2h, 3h
+"Cole Stephens" raises with 150
+"Cole Ford" calls with 150
+turn: 7s
+"Cole Stephens" raises with 300
+"Cole Ford" calls with 300
+river: 6h
+"Cole Stephens" raises with 505
+"Cole Ford" raises with 1010
+"Cole Stephens" folds
+"Cole Ford" gained 2110
+-- ending hand #157 --
+"Andrew Cloutier" shows a 2d, Jh.
+"Cole Ford" shows a Ac, 2c.
+-- starting hand #158 (dealer: "Cole Stephens") [5-handed] --
+Your hand is 6s, 4s
+"Andrew Cloutier" posts a small blind of 10
+"Dan Gill" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls with 20
+"Cole Stephens" calls with 20
+"Andrew Cloutier" calls with 20
+"Dan Gill" checks
+flop: 9s, Ts, 8c
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 100
+"Andrew Cloutier" calls with 100
+"Dan Gill" calls with 100
+"Cole Ford" folds
+turn: 3d
+"Andrew Cloutier" checks
+"Dan Gill" checks
+"Cole Stephens" raises with 480
+"Andrew Cloutier" folds
+"Dan Gill" calls with 480
+river: Qc
+"Dan Gill" checks
+"Cole Stephens" raises with 675
+"Dan Gill" folds
+"Cole Stephens" gained 1340
+-- ending hand #158 --
+"Cole Ford" shows a 5c, 5d.
+-- starting hand #159 (dealer: "Andrew Cloutier") [5-handed] --
+Your hand is 7h, 4s
+"Dan Gill" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls with 20
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+"Dan Gill" calls with 20
+"Sam Schrader" checks
+flop: Kc, Qh, Qc
+"Dan Gill" raises and all in with 655
+"Sam Schrader" folds
+"Cole Ford" folds
+"Dan Gill" gained 60
+-- ending hand #159 --
+"Dan Gill" shows a Kh, 3h.
+-- starting hand #160 (dealer: "Dan Gill") [5-handed] --
+Your hand is 7h, Ks
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Andrew Cloutier" raises with 60
+"Dan Gill" calls with 60
+"Sam Schrader" folds
+"Cole Ford" calls with 60
+flop: 4h, 6h, 9d
+"Cole Ford" calls with 20
+"Andrew Cloutier" raises with 135
+"Dan Gill" folds
+"Cole Ford" folds
+"Andrew Cloutier" gained 230
+-- ending hand #160 --
+"Andrew Cloutier" shows a 4s, 4d.
+The game's big blind was changed from 10 to 25.
+The game's small blind was changed from 20 to 50.
+-- starting hand #161 (dealer: "Sam Schrader") [5-handed] --
+Your hand is 7d, Kh
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Andrew Cloutier" folds
+"Dan Gill" folds
+"Sam Schrader" raises with 150
+"Cole Ford" calls with 150
+"Cole Stephens" calls with 150
+flop: Th, 8d, Kd
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" raises with 50
+"Cole Ford" folds
+"Cole Stephens" calls with 50
+turn: 5h
+"Cole Stephens" checks
+"Sam Schrader" raises with 250
+"Cole Stephens" calls with 250
+river: 8h
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" wins 1050 with Two Pair, K's & 8's (hand: 7d, Kh)
+-- ending hand #161 --
+"Sam Schrader" shows a Tc, Ac.
+"Cole Ford" shows a 3h, 7s.
+-- starting hand #162 (dealer: "Cole Ford") [5-handed] --
+Your hand is 9s, 3s
+"Cole Stephens" posts a small blind of 25
+"Andrew Cloutier" posts a big blind of 50
+"Dan Gill" folds
+"Sam Schrader" raises with 150
+"Cole Ford" calls with 150
+"Cole Stephens" folds
+"Andrew Cloutier" folds
+flop: 5h, 8h, Kh
+"Sam Schrader" raises with 250
+"Cole Ford" raises with 500
+"Sam Schrader" raises with 1300
+"Cole Ford" calls with 1300
+turn: 3d
+"Sam Schrader" raises with 1600
+"Cole Ford" calls with 1600
+river: 5s
+"Sam Schrader" raises and all in with 3163
+"Cole Ford" calls with 3163
+"Sam Schrader" wins 12501 with Full House, K's over 5's (hand: Kc, Kd)
+-- ending hand #162 --
+The player "Andrew Cloutier" quits the game with a stack of 8050.
+-- starting hand #163 (dealer: "Cole Stephens") [4-handed] --
+Your hand is 4d, Ts
+"Dan Gill" posts a small blind of 25
+"Sam Schrader" posts a big blind of 50
+"Cole Ford" calls with 50
+"Cole Stephens" folds
+"Dan Gill" calls with 50
+"Sam Schrader" checks
+flop: Td, 6h, 7d
+"Dan Gill" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8h
+"Dan Gill" calls with 50
+"Sam Schrader" calls with 50
+"Cole Ford" calls with 50
+river: Th
+"Dan Gill" raises and all in with 555
+"Sam Schrader" folds
+"Cole Ford" calls with 555
+"Dan Gill" wins 1410 with Straight, 10 High (hand: Qs, 9d)
+-- ending hand #163 --
+-- starting hand #164 (dealer: "Dan Gill") [4-handed] --
+Your hand is 6h, Kc
+"Sam Schrader" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" folds
+"Dan Gill" folds
+"Sam Schrader" calls with 50
+"Cole Ford" checks
+flop: Qc, 4d, 5h
+"Sam Schrader" checks
+"Cole Ford" raises with 100
+"Sam Schrader" folds
+"Cole Ford" gained 100
+-- ending hand #164 --
+-- starting hand #165 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 3s, 5s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Dan Gill" calls with 50
+"Sam Schrader" folds
+"Cole Ford" calls with 50
+"Cole Stephens" checks
+flop: Td, Qc, 6c
+"Cole Ford" calls with 50
+"Cole Stephens" folds
+"Dan Gill" calls with 50
+turn: Jd
+"Cole Ford" calls with 50
+"Dan Gill" calls with 50
+river: 5h
+"Cole Ford" calls with 50
+"Dan Gill" calls with 50
+"Dan Gill" wins 450 with Pair, J's (hand: Js, 9d)
+"Cole Ford" shows a As, 6d.
+-- ending hand #165 --
+-- starting hand #166 (dealer: "Cole Ford") [4-handed] --
+Your hand is 9d, Ac
+"Cole Stephens" posts a small blind of 25
+"Dan Gill" posts a big blind of 50
+"Sam Schrader" folds
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+"Dan Gill" checks
+flop: 7h, 3c, 8d
+"Cole Stephens" checks
+"Dan Gill" checks
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+"Dan Gill" folds
+turn: 5c
+"Cole Stephens" checks
+"Cole Ford" raises with 250
+"Cole Stephens" folds
+"Cole Ford" gained 250
+-- ending hand #166 --
+-- starting hand #167 (dealer: "Cole Stephens") [4-handed] --
+Your hand is Ks, Td
+"Dan Gill" posts a small blind of 25
+"Sam Schrader" posts a big blind of 50
+"Cole Ford" calls with 50
+"Cole Stephens" raises with 200
+"Dan Gill" folds
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 175
+-- ending hand #167 --
+-- starting hand #168 (dealer: "Dan Gill") [4-handed] --
+Your hand is Qd, 5d
+"Sam Schrader" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" folds
+"Dan Gill" calls with 50
+"Sam Schrader" calls with 50
+"Cole Ford" checks
+flop: 6s, Kd, Ks
+"Sam Schrader" checks
+"Cole Ford" calls with 50
+"Dan Gill" folds
+"Sam Schrader" calls with 50
+turn: 8s
+"Sam Schrader" checks
+"Cole Ford" calls with 50
+"Sam Schrader" calls with 50
+river: 2s
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 350 with Full House, 6's over K's (hand: 6h, 6c)
+-- ending hand #168 --
+-- starting hand #169 (dealer: "Sam Schrader") [4-handed] --
+Your hand is 4c, Qh
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Dan Gill" folds
+"Sam Schrader" calls with 50
+"Cole Ford" calls with 50
+"Cole Stephens" checks
+flop: 3c, 6s, 4d
+"Cole Ford" folds
+"Cole Stephens" raises with 120
+"Sam Schrader" calls with 120
+turn: Qd
+"Cole Stephens" raises with 300
+"Sam Schrader" calls with 300
+river: Jd
+"Cole Stephens" raises with 620
+"Sam Schrader" folds
+"Cole Stephens" gained 990
+-- ending hand #169 --
+-- starting hand #170 (dealer: "Cole Ford") [4-handed] --
+Your hand is 8s, Jh
+"Cole Stephens" posts a small blind of 25
+"Dan Gill" posts a big blind of 50
+"Sam Schrader" folds
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+"Dan Gill" raises with 250
+"Cole Ford" raises with 500
+"Cole Stephens" folds
+"Dan Gill" raises and all in with 1535
+"Cole Ford" calls with 1535
+flop: 9c, 2c, 3s
+turn: 6s
+river: 3c
+"Cole Ford" wins 3120 with Pair, 3's (hand: As, Qs)
+-- ending hand #170 --
+"Dan Gill" shows a Ks, Qd.
+The player "Dan Gill" quits the game with a stack of 0.
+-- starting hand #171 (dealer: "Cole Stephens") [3-handed] --
+Your hand is Th, 3d
+"Sam Schrader" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 50
+-- ending hand #171 --
+-- starting hand #172 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 5h, 5d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Sam Schrader" folds
+"Cole Ford" calls with 50
+"Cole Stephens" raises with 150
+"Cole Ford" folds
+"Cole Stephens" gained 100
+-- ending hand #172 --
+-- starting hand #173 (dealer: "Cole Ford") [3-handed] --
+Your hand is 2c, 9h
+"Cole Stephens" posts a small blind of 25
+"Sam Schrader" posts a big blind of 50
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 50
+-- ending hand #173 --
+"Sam Schrader" shows a 8c, Qh.
+-- starting hand #174 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 8s, Qh
+"Sam Schrader" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises with 150
+"Sam Schrader" folds
+"Cole Ford" calls with 150
+flop: 4c, 2s, 5c
+"Cole Ford" checks
+"Cole Stephens" raises with 225
+"Cole Ford" calls with 225
+turn: 6c
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+river: Ks
+"Cole Ford" raises with 437
+"Cole Stephens" folds
+"Cole Ford" gained 875
+-- ending hand #174 --
+-- starting hand #175 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Tc, Jh
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Sam Schrader" raises with 150
+"Cole Ford" calls with 150
+"Cole Stephens" calls with 150
+flop: Kd, 5s, As
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" raises with 200
+"Cole Ford" raises with 400
+"Cole Stephens" folds
+"Sam Schrader" calls with 400
+turn: 6s
+"Cole Ford" checks
+"Sam Schrader" checks
+river: Jd
+"Cole Ford" raises with 1250
+"Sam Schrader" folds
+"Cole Ford" gained 1250
+-- ending hand #175 --
+-- starting hand #176 (dealer: "Cole Ford") [3-handed] --
+Your hand is Kd, Jd
+"Cole Stephens" posts a small blind of 25
+"Sam Schrader" posts a big blind of 50
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+"Sam Schrader" checks
+flop: 3h, 5h, 5s
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+"Sam Schrader" calls with 50
+turn: 7h
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 7s
+"Cole Stephens" raises with 150
+"Sam Schrader" folds
+"Cole Ford" calls with 150
+"Cole Ford" wins 600 with Two Pair, 7's & 5's (hand: Ad, 3c)
+"Cole Stephens" shows a Kd, Jd.
+-- ending hand #176 --
+"Sam Schrader" shows a Ks, 4s.
+-- starting hand #177 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 3h, 8d
+"Sam Schrader" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" folds
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+flop: Qs, 2h, Jh
+"Sam Schrader" checks
+"Cole Ford" calls with 50
+"Sam Schrader" calls with 50
+turn: 4s
+"Sam Schrader" checks
+"Cole Ford" calls with 50
+"Sam Schrader" folds
+"Cole Ford" gained 300
+-- ending hand #177 --
+-- starting hand #178 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Qh, Td
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Sam Schrader" raises with 150
+"Cole Ford" folds
+"Cole Stephens" calls with 150
+flop: 8h, 5s, 9c
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Tc
+"Cole Stephens" raises with 200
+"Sam Schrader" folds
+"Cole Stephens" gained 325
+-- ending hand #178 --
+-- starting hand #179 (dealer: "Cole Ford") [3-handed] --
+Your hand is 8h, 9s
+"Cole Stephens" posts a small blind of 25
+"Sam Schrader" posts a big blind of 50
+"Cole Ford" calls with 50
+"Cole Stephens" calls with 50
+"Sam Schrader" checks
+flop: Kc, 6h, 8d
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8c
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 3s
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" wins 150 with Three of a Kind, 8's (hand: 8h, 9s)
+-- ending hand #179 --
+"Cole Ford" shows a 9d, 4d.
+The game's big blind was changed from 25 to 50.
+The game's small blind was changed from 50 to 100.
+-- starting hand #180 (dealer: "Cole Stephens") [3-handed] --
+Your hand is Ac, Ts
+"Sam Schrader" posts a small blind of 50
+"Cole Ford" posts a big blind of 100
+"Cole Stephens" raises with 250
+"Sam Schrader" folds
+"Cole Ford" calls with 250
+flop: Kh, Tc, 3s
+"Cole Ford" checks
+"Cole Stephens" raises with 175
+"Cole Ford" calls with 175
+turn: As
+"Cole Ford" calls with 100
+"Cole Stephens" raises with 375
+"Cole Ford" calls with 375
+river: 9d
+"Cole Ford" checks
+"Cole Stephens" raises with 450
+"Cole Ford" calls with 450
+"Cole Stephens" wins 2550 with Two Pair, A's & 10's (hand: Ac, Ts)
+-- ending hand #180 --
+-- starting hand #181 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Jc, 5h
+"Cole Ford" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+"Cole Stephens" checks
+flop: 3s, Qs, Js
+"Cole Ford" raises with 200
+"Cole Stephens" folds
+"Cole Ford" gained 200
+-- ending hand #181 --
+-- starting hand #182 (dealer: "Cole Ford") [3-handed] --
+Your hand is 7d, 2s
+"Cole Stephens" posts a small blind of 50
+"Sam Schrader" posts a big blind of 100
+"Cole Ford" calls with 100
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop: Tc, Qs, 9h
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Jc
+"Sam Schrader" checks
+"Cole Ford" calls with 100
+"Sam Schrader" folds
+"Cole Ford" gained 250
+-- ending hand #182 --
+-- starting hand #183 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 2h, 4d
+"Sam Schrader" posts a small blind of 50
+"Cole Ford" posts a big blind of 100
+"Cole Stephens" folds
+"Sam Schrader" calls with 100
+"Cole Ford" checks
+flop: 6s, 5s, 9c
+"Sam Schrader" checks
+"Cole Ford" calls with 100
+"Sam Schrader" folds
+"Cole Ford" gained 200
+-- ending hand #183 --
+-- starting hand #184 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 7h, 3c
+"Cole Ford" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" calls with 100
+"Cole Ford" calls with 100
+"Cole Stephens" raises with 450
+"Sam Schrader" folds
+"Cole Ford" calls with 450
+flop: 9c, Ad, 7d
+WARNING: the admin queued the stack change for the player "Sam Schrader" to 10716 in the next hand.
+"Cole Ford" checks
+"Cole Stephens" raises with 650
+"Cole Ford" raises with 1300
+"Cole Stephens" folds
+"Cole Ford" gained 2300
+-- ending hand #184 --
+The admin updated the player "Sam Schrader" stack from 10656 to 10716.
+-- starting hand #185 (dealer: "Cole Ford") [3-handed] --
+Your hand is 7d, 7s
+"Cole Stephens" posts a small blind of 50
+"Sam Schrader" posts a big blind of 100
+"Cole Ford" calls with 100
+"Cole Stephens" raises with 450
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 300
+-- ending hand #185 --
+-- starting hand #186 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 5c, 5h
+"Sam Schrader" posts a small blind of 50
+"Cole Ford" posts a big blind of 100
+"Cole Stephens" calls with 100
+"Sam Schrader" calls with 100
+"Cole Ford" checks
+flop: 2d, 3h, Jc
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 125
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 300
+-- ending hand #186 --
+-- starting hand #187 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 5h, Tc
+"Cole Ford" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" raises with 300
+"Cole Ford" calls with 300
+"Cole Stephens" folds
+flop: 6c, 6d, 4s
+"Cole Ford" checks
+"Sam Schrader" raises with 400
+"Cole Ford" folds
+"Sam Schrader" gained 700
+-- ending hand #187 --
+"Cole Ford" shows a Jh, Th.
+"Sam Schrader" shows a As, 7c.
+-- starting hand #188 (dealer: "Cole Ford") [3-handed] --
+Your hand is Js, Jh
+"Cole Stephens" posts a small blind of 50
+"Sam Schrader" posts a big blind of 100
+"Cole Ford" calls with 100
+"Cole Stephens" calls with 100
+"Sam Schrader" checks
+flop: 3d, 5h, 2s
+"Cole Stephens" raises with 180
+"Sam Schrader" folds
+"Cole Ford" calls with 180
+turn: 6d
+"Cole Stephens" raises with 300
+"Cole Ford" calls with 300
+river: 5c
+"Cole Stephens" checks
+"Cole Ford" raises with 700
+"Cole Stephens" calls with 700
+"Cole Stephens" wins 2660 with Two Pair, J's & 5's (hand: Js, Jh)
+"Cole Ford" shows a 7s, 2d.
+-- ending hand #188 --
+-- starting hand #189 (dealer: "Cole Stephens") [3-handed] --
+Your hand is Qc, 9d
+"Sam Schrader" posts a small blind of 50
+"Cole Ford" posts a big blind of 100
+"Cole Stephens" raises with 250
+"Sam Schrader" raises with 800
+"Cole Ford" raises with 1350
+"Cole Stephens" folds
+"Sam Schrader" calls with 1350
+flop: 4d, Js, Kc
+"Sam Schrader" checks
+"Cole Ford" raises with 1475
+"Sam Schrader" folds
+"Cole Ford" gained 2950
+-- ending hand #189 --
+-- starting hand #190 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 7d, Ad
+"Cole Ford" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" calls with 100
+"Cole Ford" calls with 100
+"Cole Stephens" raises with 500
+"Sam Schrader" calls with 500
+"Cole Ford" calls with 500
+flop: 9s, 7s, 4c
+"Cole Ford" checks
+"Cole Stephens" raises with 400
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 1500
+-- ending hand #190 --
+-- starting hand #191 (dealer: "Cole Ford") [3-handed] --
+Your hand is Ad, Qh
+"Cole Stephens" posts a small blind of 50
+"Sam Schrader" posts a big blind of 100
+"Cole Ford" raises with 400
+"Cole Stephens" raises with 1250
+"Sam Schrader" folds
+"Cole Ford" calls with 1250
+flop: 3c, Ks, 2s
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: Ah
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Qc
+"Cole Stephens" raises with 1500
+"Cole Ford" folds
+"Cole Stephens" gained 2600
+-- ending hand #191 --
+-- starting hand #192 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 3d, 2h
+"Sam Schrader" posts a small blind of 50
+"Cole Ford" posts a big blind of 100
+"Cole Stephens" folds
+"Sam Schrader" calls with 100
+"Cole Ford" checks
+flop: 2s, 8s, Tc
+"Sam Schrader" checks
+"Cole Ford" calls with 100
+"Sam Schrader" folds
+"Cole Ford" gained 200
+-- ending hand #192 --
+-- starting hand #193 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 9h, 7c
+"Cole Ford" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+"Cole Stephens" checks
+flop: Ad, 2s, 4s
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 7d
+"Cole Ford" calls with 100
+"Cole Stephens" calls with 100
+river: Ks
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" wins 400 with Straight, 5 High (hand: 3h, 5s)
+-- ending hand #193 --
+-- starting hand #194 (dealer: "Cole Ford") [3-handed] --
+Your hand is Qs, 9c
+"Cole Stephens" posts a small blind of 50
+"Sam Schrader" posts a big blind of 100
+"Cole Ford" calls with 100
+"Cole Stephens" calls with 100
+"Sam Schrader" checks
+flop: 2c, 2h, 2s
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 2d
+"Cole Stephens" raises with 150
+"Sam Schrader" calls with 150
+"Cole Ford" folds
+river: 5d
+"Cole Stephens" raises with 250
+"Sam Schrader" calls with 250
+"Sam Schrader" wins 1100 with Four of a Kind, 2's (hand: 8h, Ks)
+"Cole Stephens" shows a Qs, 9c.
+-- ending hand #194 --
+-- starting hand #195 (dealer: "Cole Stephens") [3-handed] --
+Your hand is Ac, 6h
+"Sam Schrader" posts a small blind of 50
+"Cole Ford" posts a big blind of 100
+"Cole Stephens" raises with 250
+"Sam Schrader" calls with 250
+"Cole Ford" calls with 250
+flop: 2s, Ks, 7s
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" raises with 250
+"Sam Schrader" folds
+"Cole Ford" folds
+"Cole Stephens" gained 750
+-- ending hand #195 --
+"Cole Ford" shows a 9d, Jc.
+-- starting hand #196 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 3d, 5s
+"Cole Ford" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+"Cole Stephens" checks
+flop: Kh, As, 6d
+"Cole Ford" calls with 100
+"Cole Stephens" folds
+"Cole Ford" gained 200
+-- ending hand #196 --
+-- starting hand #197 (dealer: "Cole Ford") [3-handed] --
+Your hand is 7c, 2c
+"Cole Stephens" posts a small blind of 50
+"Sam Schrader" posts a big blind of 100
+"Cole Ford" calls with 100
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop: 5d, Qd, As
+"Sam Schrader" raises with 100
+"Cole Ford" calls with 100
+turn: 8h
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 2h
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" wins 450 with Pair, 5's (hand: 5c, 6s)
+-- ending hand #197 --
+-- starting hand #198 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 3h, 4d
+"Sam Schrader" posts a small blind of 50
+"Cole Ford" posts a big blind of 100
+"Cole Stephens" folds
+"Sam Schrader" raises with 300
+"Cole Ford" folds
+"Sam Schrader" gained 200
+-- ending hand #198 --
+"Sam Schrader" shows a As, Ts.
+"Cole Ford" shows a 2h, 8c.
+-- starting hand #199 (dealer: "Sam Schrader") [3-handed] --
+Your hand is 7s, 4d
+"Cole Ford" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" raises with 300
+"Cole Ford" folds
+"Cole Stephens" folds
+"Sam Schrader" gained 250
+-- ending hand #199 --
+"Cole Ford" shows a 4h, Tc.
+-- starting hand #200 (dealer: "Cole Ford") [3-handed] --
+Your hand is 7h, 5c
+"Cole Stephens" posts a small blind of 50
+"Sam Schrader" posts a big blind of 100
+"Cole Ford" calls with 100
+"Cole Stephens" calls with 100
+"Sam Schrader" checks
+flop: Tc, Kd, 3h
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Jh
+"Cole Stephens" raises with 200
+"Sam Schrader" folds
+"Cole Ford" calls with 200
+river: Ks
+"Cole Stephens" raises with 625
+"Cole Ford" folds
+"Cole Stephens" gained 700
+-- ending hand #200 --
+"Cole Ford" shows a Qh, 8s.
+"Cole Stephens" shows a 7h, 5c.
+-- starting hand #201 (dealer: "Cole Stephens") [3-handed] --
+Your hand is 4s, Qd
+"Sam Schrader" posts a small blind of 50
+"Cole Ford" posts a big blind of 100
+"Cole Stephens" folds
+"Sam Schrader" folds
+"Cole Ford" gained 100
+-- ending hand #201 --
+-- starting hand #202 (dealer: "Sam Schrader") [3-handed] --
+Your hand is Qd, Jd
+"Cole Ford" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" folds
+"Cole Ford" calls with 100
+"Cole Stephens" raises with 350
+"Cole Ford" calls with 350
+flop: 7s, Jc, 7h
+"Cole Ford" checks
+"Cole Stephens" raises with 1250
+"Cole Ford" calls with 1250
+turn: Jh
+"Cole Ford" checks
+"Cole Stephens" raises with 1500
+"Cole Ford" raises and all in with 3932
+"Cole Stephens" calls with 3932
+river: 5h
+"Cole Stephens" wins 11064 with Full House, J's over 7's (hand: Qd, Jd)
+-- ending hand #202 --
+The player "Cole Ford" quits the game with a stack of 0.
+-- starting hand #203 (dead button) [2-handed] --
+Your hand is 7c, 7s
+"Sam Schrader" posts a small blind of 50
+"Cole Stephens" posts a big blind of 100
+"Sam Schrader" folds
+"Cole Stephens" shows a 7c, 7s.
+-- ending hand #203 --
+"Cole Stephens" shows a 7c, 7s.
+-- ending hand #203 --
+"Cole Stephens" shows a 7c, 7s.
+-- ending hand #203 --
+entry,at,order

@@ -1,0 +1,4693 @@
+The player "Cole Stephens" requested a seat.
+The admin approved the player "Cole Stephens" participation with a stack of 2500.
+The player "Sam Schrader" requested a seat.
+The admin approved the player "Sam Schrader" participation with a stack of 2500.
+The player "Cole Ford" requested a seat.
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+The player "Sam" passed the room ownership to "Cole Ste".
+-- starting hand #1  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+The player "Cole Ford" joined the game with a stack of 2500.
+The player "Cole Stephens" joined the game with a stack of 2500.
+The player "Sam Schrader" joined the game with a stack of 2500.
+Player stacks: #2 "Cole F" (2500) | #3 "Cole Ste" (2500) | #8 "Sam" (2500)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #1 --
+"Cole Stephens" shows a Kd, Ac.
+-- starting hand #2  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #2 "Cole F" (2480) | #3 "Cole Ste" (2530) | #8 "Sam" (2490)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [Jd, Qs, 10s] <Pot: 160>
+"Cole Ford" bets 60
+"Cole Stephens" calls 60
+turn: Jd, Qs, 10s [10c] <Pot: 280>
+"Cole Ford" checks
+"Cole Stephens" bets 210
+"Cole Ford" folds
+Uncalled bet of 210 returned to "Cole Stephens"
+"Cole Stephens" collected 280 from pot
+-- ending hand #2 --
+-- starting hand #3  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #2 "Cole F" (2340) | #3 "Cole Ste" (2670) | #8 "Sam" (2490)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 100
+"Sam Schrader" folds
+"Cole Ford" calls 100
+flop:  [Ac, 10d, Kh] <Pot: 220>
+"Cole Stephens" bets 110
+"Cole Ford" calls 110
+turn: Ac, 10d, Kh [Qh] <Pot: 440>
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Ac, 10d, Kh, Qh [4s] <Pot: 440>
+"Cole Stephens" checks
+"Cole Ford" bets 330
+"Cole Stephens" folds
+Uncalled bet of 330 returned to "Cole Ford"
+"Cole Ford" collected 440 from pot
+-- ending hand #3 --
+-- starting hand #4  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #2 "Cole F" (2570) | #3 "Cole Ste" (2460) | #8 "Sam" (2470)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" raises to 140
+"Cole Stephens" calls 140
+flop:  [4s, 3h, Jh] <Pot: 290>
+"Cole Ford" bets 60
+"Cole Stephens" folds
+Uncalled bet of 60 returned to "Cole Ford"
+"Cole Ford" collected 290 from pot
+-- ending hand #4 --
+"Cole Ford" shows a Kh, Ah.
+-- starting hand #5  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #2 "Cole F" (2720) | #3 "Cole Ste" (2320) | #8 "Sam" (2460)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [4s, Kh, 10c] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 4s, Kh, 10c [4c] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" bets 90
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 90 returned to "Cole Stephens"
+"Cole Stephens" collected 180 from pot
+-- ending hand #5 --
+-- starting hand #6  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #2 "Cole F" (2660) | #3 "Cole Ste" (2440) | #8 "Sam" (2400)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #6 --
+"Sam Schrader" shows a 7c, 2c.
+-- starting hand #7  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #2 "Cole F" (2660) | #3 "Cole Ste" (2430) | #8 "Sam" (2410)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [10c, 6d, 5d] <Pot: 120>
+"Sam Schrader" bets 70
+"Cole Ford" folds
+Uncalled bet of 70 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #7 --
+-- starting hand #8  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #2 "Cole F" (2600) | #3 "Cole Ste" (2430) | #8 "Sam" (2470)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" raises to 140
+"Cole Stephens" calls 140
+flop:  [6s, 4c, Jd] <Pot: 280>
+"Cole Ford" bets 100
+"Cole Stephens" calls 100
+turn: 6s, 4c, Jd [2s] <Pot: 480>
+"Cole Ford" bets 140
+"Cole Stephens" calls 140
+river: 6s, 4c, Jd, 2s [Qc] <Pot: 760>
+"Cole Ford" bets 360
+"Cole Stephens" calls 360
+"Cole Stephens" shows a As, Jh.
+"Cole Stephens" collected 1480 from pot with Pair, J's (combination: Jh, Jd, As, Qc, 6s)
+"Cole Ford" shows a Kc, Ac.
+-- ending hand #8 --
+-- starting hand #9  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #2 "Cole F" (1860) | #3 "Cole Ste" (3170) | #8 "Sam" (2470)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [Jh, 2s, 3d] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Jh, 2s, 3d [9c] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Jh, 2s, 3d, 9c [4c] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" shows a 6s, 2c.
+"Cole Stephens" collected 60 from pot with Pair, 2's (combination: 2c, 2s, Jh, 9c, 6s)
+-- ending hand #9 --
+-- starting hand #10  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #2 "Cole F" (1840) | #3 "Cole Ste" (3210) | #8 "Sam" (2450)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [9c, 6d, 10s] <Pot: 120>
+"Sam Schrader" bets 70
+"Cole Ford" calls 70
+turn: 9c, 6d, 10s [3h] <Pot: 260>
+"Sam Schrader" bets 140
+"Cole Ford" folds
+Uncalled bet of 140 returned to "Sam Schrader"
+"Sam Schrader" collected 260 from pot
+-- ending hand #10 --
+-- starting hand #11  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #2 "Cole F" (1710) | #3 "Cole Ste" (3210) | #8 "Sam" (2580)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #11 --
+"Cole Stephens" shows a 2s, 10h.
+"Cole Ford" shows a 5c, Kd.
+-- starting hand #12  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #2 "Cole F" (1700) | #3 "Cole Ste" (3190) | #8 "Sam" (2610)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [8c, Qd, 10h] <Pot: 150>
+"Sam Schrader" bets 80
+"Cole Ford" calls 80
+turn: 8c, Qd, 10h [4d] <Pot: 310>
+"Sam Schrader" bets 160
+"Cole Ford" calls 160
+river: 8c, Qd, 10h, 4d [10c] <Pot: 630>
+"Sam Schrader" checks
+"Cole Ford" bets 472
+"Sam Schrader" folds
+Uncalled bet of 472 returned to "Cole Ford"
+"Cole Ford" collected 630 from pot
+-- ending hand #12 --
+-- starting hand #13  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #2 "Cole F" (2020) | #3 "Cole Ste" (3180) | #8 "Sam" (2300)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #13 --
+-- starting hand #14  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #2 "Cole F" (2000) | #3 "Cole Ste" (3210) | #8 "Sam" (2290)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #14 --
+-- starting hand #15  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #2 "Cole F" (1990) | #3 "Cole Ste" (3190) | #8 "Sam" (2320)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 80
+"Cole Ford" calls 80
+"Cole Stephens" calls 80
+flop:  [3h, 2s, 8d] <Pot: 240>
+"Cole Stephens" checks
+"Sam Schrader" bets 100
+"Cole Ford" folds
+"Cole Stephens" calls 100
+turn: 3h, 2s, 8d [10c] <Pot: 440>
+"Cole Stephens" checks
+"Sam Schrader" bets 180
+"Cole Stephens" folds
+Uncalled bet of 180 returned to "Sam Schrader"
+"Sam Schrader" collected 440 from pot
+-- ending hand #15 --
+-- starting hand #16  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #2 "Cole F" (1910) | #3 "Cole Ste" (3010) | #8 "Sam" (2580)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls 20
+"Cole Ford" checks
+flop:  [8c, Qs, 2h] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8c, Qs, 2h [3s] <Pot: 40>
+"Sam Schrader" bets 20
+"Cole Ford" calls 20
+river: 8c, Qs, 2h, 3s [8h] <Pot: 80>
+"Sam Schrader" bets 120
+"Cole Ford" folds
+Uncalled bet of 120 returned to "Sam Schrader"
+"Sam Schrader" collected 80 from pot
+-- ending hand #16 --
+"Cole Ford" shows a 5d, 4d.
+-- starting hand #17  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #2 "Cole F" (1870) | #3 "Cole Ste" (3010) | #8 "Sam" (2620)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" raises to 275
+"Sam Schrader" folds
+"Cole Ford" calls 275
+flop:  [4h, Kh, Kc] <Pot: 610>
+"Cole Ford" checks
+"Cole Stephens" bets 220
+"Cole Ford" calls 220
+turn: 4h, Kh, Kc [2s] <Pot: 1050>
+"Cole Ford" checks
+"Cole Stephens" bets 350
+"Cole Ford" folds
+Uncalled bet of 350 returned to "Cole Stephens"
+"Cole Stephens" collected 1050 from pot
+-- ending hand #17 --
+"Cole Ford" shows a As, Js.
+-- starting hand #18  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #2 "Cole F" (1375) | #3 "Cole Ste" (3565) | #8 "Sam" (2560)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [5c, 3h, 4h] <Pot: 150>
+"Sam Schrader" bets 60
+"Cole Ford" calls 60
+turn: 5c, 3h, 4h [4d] <Pot: 270>
+"Sam Schrader" bets 150
+"Cole Ford" calls 150
+river: 5c, 3h, 4h, 4d [6s] <Pot: 570>
+"Sam Schrader" bets 400
+"Cole Ford" calls 400
+"Sam Schrader" shows a 6c, 7h.
+"Sam Schrader" collected 1370 from pot with Straight, 7 High (combination: 7h, 6c, 5c, 4h, 3h)
+-- ending hand #18 --
+"Cole Stephens" shows a 4c, 6d.
+-- starting hand #19  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #2 "Cole F" (695) | #3 "Cole Ste" (3555) | #8 "Sam" (3250)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls 20
+"Cole Ford" checks
+flop:  [3s, Qc, 7d] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 3s, Qc, 7d [4s] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 3s, Qc, 7d, 4s [As] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a 6h, 6s.
+"Cole Ford" collected 40 from pot with Pair, 6's (combination: 6h, 6s, As, Qc, 7d)
+"Sam Schrader" shows a 8c, 4c.
+-- ending hand #19 --
+-- starting hand #20  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #2 "Cole F" (715) | #3 "Cole Ste" (3555) | #8 "Sam" (3230)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [Qc, 2h, As] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Qc, 2h, As [4s] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Qc, 2h, As, 4s [2s] <Pot: 160>
+"Cole Ford" bets 160
+"Cole Stephens" raises to 3475 and go all in
+"Cole Ford" calls 635 and go all in
+Uncalled bet of 2840 returned to "Cole Stephens"
+"Cole Stephens" shows a Ac, Qs.
+"Cole Stephens" collected 1430 from pot with Two Pair, A's & Q's (combination: Ac, As, Qs, Qc, 4s)
+"Cole Ford" shows a Js, Ah.
+-- ending hand #20 --
+The player "Cole Ford" quits the game with a stack of 0.
+-- starting hand #21  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #3 "Cole Ste" (4270) | #8 "Sam" (3230)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+The player "Cole Ford" requested a seat.
+The admin approved the player "Cole Ford" participation with a stack of 2500.
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 200
+"Cole Stephens" calls 200
+flop:  [3h, 8d, 7c] <Pot: 400>
+"Sam Schrader" bets 160
+"Cole Stephens" raises to 420
+"Sam Schrader" calls 420
+turn: 3h, 8d, 7c [5c] <Pot: 1240>
+"Sam Schrader" checks
+"Cole Stephens" bets 620
+"Sam Schrader" folds
+Uncalled bet of 620 returned to "Cole Stephens"
+"Cole Stephens" collected 1240 from pot
+-- ending hand #21 --
+The player "Cole Ford" joined the game with a stack of 2500.
+-- starting hand #22  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2500) | #3 "Cole Ste" (4890) | #8 "Sam" (2610)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [Kc, 8c, 5h] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Kc, 8c, 5h [9h] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" bets 80
+"Cole Ford" folds
+Uncalled bet of 80 returned to "Cole Stephens"
+"Cole Stephens" collected 160 from pot
+-- ending hand #22 --
+"Cole Stephens" shows a Kd, Kh.
+-- starting hand #23  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2420) | #3 "Cole Ste" (4970) | #8 "Sam" (2610)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 100
+"Cole Ford" calls 100
+"Cole Stephens" folds
+flop:  [6h, 7d, 10d] <Pot: 220>
+"Sam Schrader" bets 100
+"Cole Ford" calls 100
+turn: 6h, 7d, 10d [Js] <Pot: 420>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 6h, 7d, 10d, Js [Ah] <Pot: 420>
+"Sam Schrader" checks
+"Cole Ford" bets 100
+"Sam Schrader" calls 100
+"Cole Ford" shows a Kd, Jc.
+"Cole Ford" collected 620 from pot with Pair, J's (combination: Jc, Js, Ah, Kd, 10d)
+-- ending hand #23 --
+-- starting hand #24  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2740) | #3 "Cole Ste" (4950) | #8 "Sam" (2310)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls 20
+"Cole Ford" raises to 80
+"Sam Schrader" calls 80
+flop:  [Ks, 3s, 9c] <Pot: 160>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Ks, 3s, 9c [Qh] <Pot: 160>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ks, 3s, 9c, Qh [10h] <Pot: 160>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" shows a 2c, 10c.
+"Sam Schrader" collected 160 from pot with Pair, 10's (combination: 10c, 10h, Ks, Qh, 9c)
+-- ending hand #24 --
+"Cole Ford" shows a 8s, Ad.
+-- starting hand #25  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2660) | #3 "Cole Ste" (4950) | #8 "Sam" (2390)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [Kh, 3h, 2c] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Kh, 3h, 2c [Qc] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Kh, 3h, 2c, Qc [6c] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a 5c, 10h.
+"Cole Stephens" collected 40 from pot with K High (combination: Kh, Qc, 10h, 6c, 5c)
+"Cole Ford" shows a 8s, 9h.
+-- ending hand #25 --
+-- starting hand #26  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2640) | #3 "Cole Ste" (4970) | #8 "Sam" (2390)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [9h, Jd, 9s] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" bets 60
+"Sam Schrader" raises to 160
+"Cole Ford" calls 160
+turn: 9h, Jd, 9s [10s] <Pot: 370>
+"Sam Schrader" bets 280
+"Cole Ford" calls 280
+river: 9h, Jd, 9s, 10s [6c] <Pot: 930>
+"Sam Schrader" bets 820
+"Cole Ford" folds
+Uncalled bet of 820 returned to "Sam Schrader"
+"Sam Schrader" collected 930 from pot
+-- ending hand #26 --
+"Cole Ford" shows a 6s, Ks.
+-- starting hand #27  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2180) | #3 "Cole Ste" (4960) | #8 "Sam" (2860)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" calls 60
+flop:  [8s, 5h, 10d] <Pot: 130>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+turn: 8s, 5h, 10d [5c] <Pot: 290>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+river: 8s, 5h, 10d, 5c [7s] <Pot: 450>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a Jd, Jh.
+"Cole Ford" collected 450 from pot with Two Pair, J's & 5's (combination: Jd, Jh, 5h, 5c, 10d)
+-- ending hand #27 --
+-- starting hand #28  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2410) | #3 "Cole Ste" (4740) | #8 "Sam" (2850)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+"Cole Stephens" folds
+flop:  [Qc, 4h, 2s] <Pot: 160>
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: Qc, 4h, 2s [8d] <Pot: 160>
+"Cole Ford" bets 80
+"Sam Schrader" calls 80
+river: Qc, 4h, 2s, 8d [Jh] <Pot: 320>
+"Cole Ford" checks
+"Sam Schrader" checks
+"Cole Ford" shows a Qh, 6h.
+"Cole Ford" collected 320 from pot with Pair, Q's (combination: Qh, Qc, Jh, 8d, 6h)
+-- ending hand #28 --
+-- starting hand #29  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2580) | #3 "Cole Ste" (4720) | #8 "Sam" (2700)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [8s, Jc, 8c] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8s, Jc, 8c [5c] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 8s, Jc, 8c, 5c [Js] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a 6h, Qh.
+"Cole Ford" collected 50 from pot with Two Pair, J's & 8's (combination: Jc, Js, 8s, 8c, Qh)
+"Sam Schrader" shows a 6s, 2d.
+-- ending hand #29 --
+-- starting hand #30  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2610) | #3 "Cole Ste" (4710) | #8 "Sam" (2680)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls 20
+"Cole Ford" raises to 80
+"Sam Schrader" folds
+Uncalled bet of 60 returned to "Cole Ford"
+"Cole Ford" collected 40 from pot
+-- ending hand #30 --
+-- starting hand #31  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2630) | #3 "Cole Ste" (4710) | #8 "Sam" (2660)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #31 --
+-- starting hand #32  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2620) | #3 "Cole Ste" (4690) | #8 "Sam" (2690)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #32 --
+-- starting hand #33  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2620) | #3 "Cole Ste" (4710) | #8 "Sam" (2670)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #33 --
+-- starting hand #34  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2600) | #3 "Cole Ste" (4740) | #8 "Sam" (2660)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" calls 70
+flop:  [2h, 3h, 3d] <Pot: 150>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 2h, 3h, 3d [4h] <Pot: 150>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 2h, 3h, 3d, 4h [3s] <Pot: 150>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Sam Schrader" shows a Qs, As.
+"Sam Schrader" collected 150 from pot with Three of a Kind, 3's (combination: 3h, 3d, 3s, As, Qs)
+"Cole Stephens" shows a 10c, Jh.
+-- ending hand #34 --
+-- starting hand #35  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2590) | #3 "Cole Ste" (4670) | #8 "Sam" (2740)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Sam Schrader" folds
+"Cole Ford" raises to 140
+"Cole Stephens" calls 140
+flop:  [5h, Js, Qs] <Pot: 300>
+"Cole Stephens" checks
+"Cole Ford" bets 100
+"Cole Stephens" calls 100
+turn: 5h, Js, Qs [5c] <Pot: 500>
+"Cole Stephens" checks
+"Cole Ford" checks
+river: 5h, Js, Qs, 5c [3d] <Pot: 500>
+"Cole Stephens" bets 250
+"Cole Ford" raises to 500
+"Cole Stephens" folds
+Uncalled bet of 250 returned to "Cole Ford"
+"Cole Ford" collected 1000 from pot
+-- ending hand #35 --
+"Cole Ford" shows a Kc, Kh.
+-- starting hand #36  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (3100) | #3 "Cole Ste" (4180) | #8 "Sam" (2720)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #36 --
+"Cole Ford" shows a 5s, 2d.
+-- starting hand #37  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (3110) | #3 "Cole Ste" (4180) | #8 "Sam" (2710)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #37 --
+-- starting hand #38  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (3100) | #3 "Cole Ste" (4160) | #8 "Sam" (2740)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [6d, 3h, Jc] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 6d, 3h, Jc [7d] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 6d, 3h, Jc, 7d [Js] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" shows a 8s, As.
+"Cole Stephens" collected 40 from pot with Pair, J's (combination: Jc, Js, As, 8s, 7d)
+-- ending hand #38 --
+-- starting hand #39  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (3100) | #3 "Cole Ste" (4180) | #8 "Sam" (2720)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #39 --
+-- starting hand #40  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (3110) | #3 "Cole Ste" (4180) | #8 "Sam" (2710)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #40 --
+-- starting hand #41  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (3100) | #3 "Cole Ste" (4160) | #8 "Sam" (2740)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [10s, 8s, Jd] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 10s, 8s, Jd [Js] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" bets 100
+"Sam Schrader" folds
+Uncalled bet of 100 returned to "Cole Ford"
+"Cole Ford" collected 50 from pot
+-- ending hand #41 --
+"Cole Ford" shows a Kh, Kc.
+-- starting hand #42  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (3130) | #3 "Cole Ste" (4150) | #8 "Sam" (2720)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #42 --
+-- starting hand #43  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (3140) | #3 "Cole Ste" (4150) | #8 "Sam" (2710)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [2d, 6s, 9h] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 2d, 6s, 9h [Kh] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 2d, 6s, 9h, Kh [8d] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a 8c, As.
+"Cole Ford" collected 160 from pot with Pair, 8's (combination: 8c, 8d, As, Kh, 9h)
+-- ending hand #43 --
+-- starting hand #44  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (3220) | #3 "Cole Ste" (4070) | #8 "Sam" (2710)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [6s, 10c, 7c] <Pot: 60>
+"Cole Stephens" bets 30
+"Sam Schrader" calls 30
+"Cole Ford" calls 30
+turn: 6s, 10c, 7c [3c] <Pot: 150>
+"Cole Stephens" bets 112
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 112 returned to "Cole Stephens"
+"Cole Stephens" collected 150 from pot
+-- ending hand #44 --
+-- starting hand #45  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (3170) | #3 "Cole Ste" (4170) | #8 "Sam" (2660)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #45 --
+"Cole Ford" shows a Ad, Ah.
+-- starting hand #46  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (3180) | #3 "Cole Ste" (4170) | #8 "Sam" (2650)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [2d, 9c, 10h] <Pot: 180>
+"Cole Ford" bets 20
+"Cole Stephens" calls 20
+"Sam Schrader" calls 20
+turn: 2d, 9c, 10h [5c] <Pot: 240>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 2d, 9c, 10h, 5c [2c] <Pot: 240>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" shows a 9s, 4s.
+"Cole Stephens" collected 240 from pot with Two Pair, 9's & 2's (combination: 9s, 9c, 2d, 2c, 10h)
+"Cole Ford" shows a 6d, 7s.
+-- ending hand #46 --
+-- starting hand #47  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (3100) | #3 "Cole Ste" (4330) | #8 "Sam" (2570)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 100
+"Sam Schrader" raises to 260
+"Cole Ford" calls 260
+"Cole Stephens" calls 260
+flop:  [3s, 7s, 2s] <Pot: 780>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 3s, 7s, 2s [2d] <Pot: 780>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 3s, 7s, 2s, 2d [7d] <Pot: 780>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" shows a Ac, Kd.
+"Sam Schrader" collected 780 from pot with Two Pair, 7's & 2's (combination: 7s, 7d, 2s, 2d, Ac)
+"Cole Stephens" shows a Qc, 10c.
+-- ending hand #47 --
+"Cole Ford" shows a Qh, Ks.
+-- starting hand #48  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2840) | #3 "Cole Ste" (4070) | #8 "Sam" (3090)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" calls 60
+flop:  [5d, 10c, 4c] <Pot: 130>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+turn: 5d, 10c, 4c [8s] <Pot: 290>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+river: 5d, 10c, 4c, 8s [As] <Pot: 450>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a 10h, Qs.
+"Cole Ford" collected 450 from pot with Pair, 10's (combination: 10h, 10c, As, Qs, 8s)
+-- ending hand #48 --
+-- starting hand #49  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (3070) | #3 "Cole Ste" (3850) | #8 "Sam" (3080)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #49 --
+"Cole Stephens" shows a 2h, 2d.
+"Cole Ford" shows a 9s, 2c.
+-- starting hand #50  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (3060) | #3 "Cole Ste" (3860) | #8 "Sam" (3080)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [10c, Kd, Kh] <Pot: 130>
+"Sam Schrader" bets 70
+"Cole Ford" calls 70
+turn: 10c, Kd, Kh [7c] <Pot: 270>
+"Sam Schrader" bets 170
+"Cole Ford" folds
+Uncalled bet of 170 returned to "Sam Schrader"
+"Sam Schrader" collected 270 from pot
+-- ending hand #50 --
+-- starting hand #51  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2930) | #3 "Cole Ste" (3850) | #8 "Sam" (3220)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+"Cole Ford" calls 60
+flop:  [Jc, Kh, 4h] <Pot: 180>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Jc, Kh, 4h [2s] <Pot: 180>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" bets 135
+"Sam Schrader" calls 135
+"Cole Ford" folds
+river: Jc, Kh, 4h, 2s [Kc] <Pot: 450>
+"Sam Schrader" checks
+"Cole Stephens" bets 300
+"Sam Schrader" calls 300
+"Sam Schrader" shows a Jd, 6d.
+"Sam Schrader" collected 1050 from pot with Two Pair, K's & J's (combination: Kh, Kc, Jd, Jc, 6d)
+"Cole Stephens" shows a Qs, Ad.
+-- ending hand #51 --
+-- starting hand #52  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2870) | #3 "Cole Ste" (3355) | #8 "Sam" (3775)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+"Cole Stephens" folds
+flop:  [7d, Js, 4s] <Pot: 160>
+"Cole Ford" checks
+"Sam Schrader" bets 90
+"Cole Ford" calls 90
+turn: 7d, Js, 4s [10d] <Pot: 340>
+"Cole Ford" checks
+"Sam Schrader" bets 210
+"Cole Ford" calls 210
+river: 7d, Js, 4s, 10d [8h] <Pot: 760>
+"Cole Ford" bets 400
+"Sam Schrader" folds
+Uncalled bet of 400 returned to "Cole Ford"
+"Cole Ford" collected 760 from pot
+-- ending hand #52 --
+"Cole Ford" shows a Kd, Qd.
+"Sam Schrader" shows a 2d, 5d.
+-- starting hand #53  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (3260) | #3 "Cole Ste" (3335) | #8 "Sam" (3405)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [Jc, 8h, 7h] <Pot: 150>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Jc, 8h, 7h [Jd] <Pot: 150>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Jc, 8h, 7h, Jd [2c] <Pot: 150>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" shows a 5s, 5c.
+"Sam Schrader" collected 150 from pot with Two Pair, J's & 5's (combination: Jc, Jd, 5s, 5c, 8h)
+-- ending hand #53 --
+-- starting hand #54  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (3190) | #3 "Cole Ste" (3325) | #8 "Sam" (3485)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #54 --
+-- starting hand #55  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (3170) | #3 "Cole Ste" (3355) | #8 "Sam" (3475)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 100
+"Cole Ford" calls 100
+flop:  [2s, 10h, Ah] <Pot: 200>
+"Cole Ford" checks
+"Cole Stephens" bets 100
+"Cole Ford" calls 100
+turn: 2s, 10h, Ah [9d] <Pot: 400>
+"Cole Ford" checks
+"Cole Stephens" bets 200
+"Cole Ford" folds
+Uncalled bet of 200 returned to "Cole Stephens"
+"Cole Stephens" collected 400 from pot
+-- ending hand #55 --
+-- starting hand #56  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2970) | #3 "Cole Ste" (3555) | #8 "Sam" (3475)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [3d, As, 5c] <Pot: 150>
+"Sam Schrader" bets 70
+"Cole Ford" calls 70
+turn: 3d, As, 5c [5h] <Pot: 290>
+"Sam Schrader" bets 170
+"Cole Ford" folds
+Uncalled bet of 170 returned to "Sam Schrader"
+"Sam Schrader" collected 290 from pot
+-- ending hand #56 --
+-- starting hand #57  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2830) | #3 "Cole Ste" (3545) | #8 "Sam" (3625)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+"Cole Ford" calls 60
+flop:  [6d, Kd, 2s] <Pot: 180>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" bets 135
+"Sam Schrader" calls 135
+"Cole Ford" folds
+turn: 6d, Kd, 2s [7d] <Pot: 450>
+"Sam Schrader" checks
+"Cole Stephens" bets 330
+"Sam Schrader" calls 330
+river: 6d, Kd, 2s, 7d [2c] <Pot: 1110>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Kc, 6c.
+"Cole Stephens" collected 1110 from pot with Two Pair, K's & 6's (combination: Kc, Kd, 6c, 6d, 7d)
+"Sam Schrader" shows a As, 6h.
+-- ending hand #57 --
+"Cole Ford" shows a 5s, 4d.
+-- starting hand #58  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2770) | #3 "Cole Ste" (4130) | #8 "Sam" (3100)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [7d, 4c, 4s] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" bets 90
+"Cole Ford" calls 90
+turn: 7d, 4c, 4s [2c] <Pot: 340>
+"Cole Ford" checks
+"Cole Stephens" bets 110
+"Cole Ford" calls 110
+river: 7d, 4c, 4s, 2c [Ac] <Pot: 560>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a Jc, Js.
+"Cole Ford" collected 560 from pot with Two Pair, J's & 4's (combination: Jc, Js, 4c, 4s, Ac)
+-- ending hand #58 --
+-- starting hand #59  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (3050) | #3 "Cole Ste" (3850) | #8 "Sam" (3100)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 100
+"Sam Schrader" folds
+"Cole Ford" calls 100
+flop:  [Ad, Qs, Js] <Pot: 220>
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: Ad, Qs, Js [8s] <Pot: 220>
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Ad, Qs, Js, 8s [Ah] <Pot: 220>
+"Cole Stephens" bets 110
+"Cole Ford" folds
+Uncalled bet of 110 returned to "Cole Stephens"
+"Cole Stephens" collected 220 from pot
+-- ending hand #59 --
+-- starting hand #60  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2950) | #3 "Cole Ste" (3970) | #8 "Sam" (3080)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" calls 60
+flop:  [4h, 2d, Jh] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 4h, 2d, Jh [7d] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" bets 65
+"Cole Ford" folds
+Uncalled bet of 65 returned to "Cole Stephens"
+"Cole Stephens" collected 130 from pot
+-- ending hand #60 --
+-- starting hand #61  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2890) | #3 "Cole Ste" (4040) | #8 "Sam" (3070)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #61 --
+-- starting hand #62  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2880) | #3 "Cole Ste" (4050) | #8 "Sam" (3070)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [4s, 8d, 10h] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4s, 8d, 10h [Ad] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 4s, 8d, 10h, Ad [9s] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a Kh, 7h.
+"Cole Ford" collected 50 from pot with A High (combination: Ad, Kh, 10h, 9s, 8d)
+"Sam Schrader" shows a 7c, Qh.
+-- ending hand #62 --
+-- starting hand #63  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2910) | #3 "Cole Ste" (4040) | #8 "Sam" (3050)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 240
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 180 returned to "Sam Schrader"
+"Sam Schrader" collected 140 from pot
+-- ending hand #63 --
+-- starting hand #64  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2890) | #3 "Cole Ste" (3980) | #8 "Sam" (3130)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #64 --
+-- starting hand #65  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2880) | #3 "Cole Ste" (3960) | #8 "Sam" (3160)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Jc, 6h, Ah] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Sam Schrader" folds
+Uncalled bet of 80 returned to "Cole Ford"
+"Cole Ford" collected 50 from pot
+-- ending hand #65 --
+-- starting hand #66  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2910) | #3 "Cole Ste" (3950) | #8 "Sam" (3140)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+"Cole Ford" folds
+flop:  [3c, 10c, 8s] <Pot: 140>
+"Sam Schrader" checks
+"Cole Stephens" bets 70
+"Sam Schrader" calls 70
+turn: 3c, 10c, 8s [Ac] <Pot: 280>
+"Sam Schrader" checks
+"Cole Stephens" bets 140
+"Sam Schrader" calls 140
+river: 3c, 10c, 8s, Ac [Js] <Pot: 560>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Qd, Qc.
+"Cole Stephens" collected 560 from pot with Pair, Q's (combination: Qd, Qc, Ac, Js, 10c)
+"Sam Schrader" shows a 9h, 8d.
+-- ending hand #66 --
+"Cole Ford" shows a 9c, Qs.
+-- starting hand #67  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2890) | #3 "Cole Ste" (4240) | #8 "Sam" (2870)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" calls 70
+flop:  [2h, 6s, 10s] <Pot: 150>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" calls 60
+turn: 2h, 6s, 10s [Kc] <Pot: 270>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 2h, 6s, 10s, Kc [Qd] <Pot: 270>
+"Cole Stephens" bets 270
+"Sam Schrader" folds
+Uncalled bet of 270 returned to "Cole Stephens"
+"Cole Stephens" collected 270 from pot
+-- ending hand #67 --
+"Cole Ford" shows a 6c, Kh.
+-- starting hand #68  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2880) | #3 "Cole Ste" (4380) | #8 "Sam" (2740)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 60
+"Cole Stephens" raises to 200
+"Sam Schrader" calls 200
+flop:  [10s, 6d, Ks] <Pot: 400>
+"Cole Stephens" bets 200
+"Sam Schrader" raises to 480
+"Cole Stephens" calls 480
+turn: 10s, 6d, Ks [Jd] <Pot: 1360>
+"Cole Stephens" checks
+"Sam Schrader" bets 600
+"Cole Stephens" raises to 3700 and go all in
+"Sam Schrader" calls 2060 and go all in
+Uncalled bet of 1640 returned to "Cole Stephens"
+"Cole Stephens" shows a 9d, Qd.
+"Sam Schrader" shows a Kh, 10d.
+river: 10s, 6d, Ks, Jd [8h] <Pot: 7120>
+"Cole Stephens" collected 5480 from pot with Straight, K High (combination: Ks, Qd, Jd, 10s, 9d)
+-- ending hand #68 --
+The player "Sam Schrader" quits the game with a stack of 0.
+-- starting hand #69  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole F" (2880) | #3 "Cole Ste" (7120)
+"Cole Stephens" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 80
+The player "Sam Schrader" requested a seat.
+"Cole Ford" calls 80
+flop:  [As, Kd, 6d] <Pot: 160>
+The admin approved the player "Sam Schrader" participation with a stack of 5000.
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+turn: As, Kd, 6d [5c] <Pot: 320>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: As, Kd, 6d, 5c [Ac] <Pot: 320>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a 7h, 7s.
+"Cole Stephens" collected 320 from pot with Two Pair, A's & 7's (combination: As, Ac, 7h, 7s, Kd)
+"Cole Ford" shows a Qh, 10h.
+-- ending hand #69 --
+The player "Sam Schrader" joined the game with a stack of 5000.
+-- starting hand #70  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2720) | #3 "Cole Ste" (7280) | #7 "Sam" (5000)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [Kh, 8d, Ah] <Pot: 130>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Kh, 8d, Ah [7c] <Pot: 130>
+"Sam Schrader" bets 70
+"Cole Ford" calls 70
+river: Kh, 8d, Ah, 7c [3d] <Pot: 270>
+"Sam Schrader" bets 200
+"Cole Ford" raises to 400
+"Sam Schrader" raises to 1200
+"Cole Ford" folds
+Uncalled bet of 800 returned to "Sam Schrader"
+"Sam Schrader" collected 1070 from pot
+-- ending hand #70 --
+-- starting hand #71  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2190) | #3 "Cole Ste" (7270) | #7 "Sam" (5540)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+"Cole Ford" calls 60
+flop:  [As, 3d, 7d] <Pot: 180>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" bets 110
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 110 returned to "Cole Stephens"
+"Cole Stephens" collected 180 from pot
+-- ending hand #71 --
+-- starting hand #72  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2130) | #3 "Cole Ste" (7390) | #7 "Sam" (5480)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" calls 70
+flop:  [5s, 2h, 6s] <Pot: 150>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 5s, 2h, 6s [Kc] <Pot: 150>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 150 from pot
+-- ending hand #72 --
+-- starting hand #73  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2120) | #3 "Cole Ste" (7320) | #7 "Sam" (5560)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [7d, 5h, Kd] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 7d, 5h, Kd [Kh] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 7d, 5h, Kd, Kh [9h] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a 4d, 4c.
+"Cole Ford" collected 50 from pot with Two Pair, K's & 4's (combination: Kd, Kh, 4d, 4c, 9h)
+"Sam Schrader" shows a 2h, Qc.
+-- ending hand #73 --
+-- starting hand #74  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2150) | #3 "Cole Ste" (7310) | #7 "Sam" (5540)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #74 --
+-- starting hand #75  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2130) | #3 "Cole Ste" (7310) | #7 "Sam" (5560)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #75 --
+-- starting hand #76  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2120) | #3 "Cole Ste" (7290) | #7 "Sam" (5590)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [7s, Kc, 3c] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 7s, Kc, 3c [Js] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 7s, Kc, 3c, Js [4d] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" shows a 8d, 3d.
+"Sam Schrader" collected 50 from pot with Pair, 3's (combination: 3d, 3c, Kc, Js, 8d)
+-- ending hand #76 --
+"Cole Ford" shows a 9d, 8s.
+-- starting hand #77  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2100) | #3 "Cole Ste" (7280) | #7 "Sam" (5620)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [9s, Qh, 5h] <Pot: 120>
+"Sam Schrader" bets 70
+"Cole Ford" folds
+Uncalled bet of 70 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #77 --
+-- starting hand #78  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2040) | #3 "Cole Ste" (7280) | #7 "Sam" (5680)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 84
+"Cole Ford" calls 84
+flop:  [7s, 2d, 10s] <Pot: 168>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+turn: 7s, 2d, 10s [3c] <Pot: 328>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+river: 7s, 2d, 10s, 3c [7d] <Pot: 488>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a Qs, 2s.
+"Cole Ford" collected 488 from pot with Two Pair, 7's & 2's (combination: 7s, 7d, 2s, 2d, Qs)
+-- ending hand #78 --
+-- starting hand #79  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2284) | #3 "Cole Ste" (7036) | #7 "Sam" (5680)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [7c, 3s, 6d] <Pot: 40>
+"Cole Stephens" bets 30
+"Sam Schrader" calls 30
+turn: 7c, 3s, 6d [5d] <Pot: 100>
+"Cole Stephens" bets 75
+"Sam Schrader" calls 75
+river: 7c, 3s, 6d, 5d [6h] <Pot: 250>
+"Cole Stephens" bets 500
+"Sam Schrader" folds
+Uncalled bet of 500 returned to "Cole Stephens"
+"Cole Stephens" collected 250 from pot
+-- ending hand #79 --
+"Sam Schrader" shows a 10d, 7s.
+-- starting hand #80  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2284) | #3 "Cole Ste" (7161) | #7 "Sam" (5555)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+"Cole Ford" folds
+flop:  [Kh, Ad, 10c] <Pot: 140>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Kh, Ad, 10c [5s] <Pot: 140>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: Kh, Ad, 10c, 5s [Ks] <Pot: 140>
+"Sam Schrader" checks
+"Cole Stephens" bets 70
+"Sam Schrader" folds
+Uncalled bet of 70 returned to "Cole Stephens"
+"Cole Stephens" collected 140 from pot
+-- ending hand #80 --
+-- starting hand #81  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2264) | #3 "Cole Ste" (7241) | #7 "Sam" (5495)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #81 --
+-- starting hand #82  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2254) | #3 "Cole Ste" (7221) | #7 "Sam" (5525)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Ac, 10s, 3h] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Ac, 10s, 3h [Jc] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ac, 10s, 3h, Jc [2s] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" bets 100
+"Sam Schrader" folds
+Uncalled bet of 100 returned to "Cole Ford"
+"Cole Ford" collected 50 from pot
+-- ending hand #82 --
+-- starting hand #83  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2284) | #3 "Cole Ste" (7211) | #7 "Sam" (5505)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" calls 70
+"Cole Ford" calls 70
+flop:  [3c, 4s, 2d] <Pot: 210>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" bets 157
+"Sam Schrader" calls 157
+"Cole Ford" folds
+turn: 3c, 4s, 2d [8h] <Pot: 524>
+"Sam Schrader" checks
+"Cole Stephens" checks
+river: 3c, 4s, 2d, 8h [5c] <Pot: 524>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" shows a 5h, 2h.
+"Sam Schrader" collected 524 from pot with Two Pair, 5's & 2's (combination: 5h, 5c, 2h, 2d, 8h)
+-- ending hand #83 --
+-- starting hand #84  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2214) | #3 "Cole Ste" (6984) | #7 "Sam" (5802)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [2c, 10s, 3s] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" bets 90
+"Cole Ford" calls 90
+turn: 2c, 10s, 3s [6s] <Pot: 340>
+"Cole Ford" checks
+"Cole Stephens" bets 170
+"Cole Ford" folds
+Uncalled bet of 170 returned to "Cole Stephens"
+"Cole Stephens" collected 340 from pot
+-- ending hand #84 --
+-- starting hand #85  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2044) | #3 "Cole Ste" (7154) | #7 "Sam" (5802)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [2h, 5h, 7c] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 2h, 5h, 7c [Ac] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 2h, 5h, 7c, Ac [3h] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" shows a 5d, Jc.
+"Sam Schrader" collected 50 from pot with Pair, 5's (combination: 5d, 5h, Ac, Jc, 7c)
+-- ending hand #85 --
+-- starting hand #86  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2024) | #3 "Cole Ste" (7144) | #7 "Sam" (5832)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [Jd, Ah, 4h] <Pot: 140>
+"Sam Schrader" bets 60
+"Cole Ford" calls 60
+turn: Jd, Ah, 4h [Ks] <Pot: 260>
+"Sam Schrader" bets 140
+"Cole Ford" calls 140
+river: Jd, Ah, 4h, Ks [9c] <Pot: 540>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a Ac, 7h.
+"Cole Ford" collected 540 from pot with Pair, A's (combination: Ac, Ah, Ks, Jd, 9c)
+"Sam Schrader" shows a 6h, Jh.
+-- ending hand #86 --
+-- starting hand #87  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2294) | #3 "Cole Ste" (7144) | #7 "Sam" (5562)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" raises to 200
+"Cole Stephens" folds
+Uncalled bet of 120 returned to "Cole Ford"
+"Cole Ford" collected 160 from pot
+-- ending hand #87 --
+-- starting hand #88  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2374) | #3 "Cole Ste" (7064) | #7 "Sam" (5562)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [4s, 8d, 10s] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4s, 8d, 10s [7d] <Pot: 60>
+"Cole Stephens" bets 45
+"Sam Schrader" calls 45
+"Cole Ford" calls 45
+river: 4s, 8d, 10s, 7d [3c] <Pot: 195>
+"Cole Stephens" checks
+"Sam Schrader" bets 150
+"Cole Ford" folds
+"Cole Stephens" calls 150
+"Sam Schrader" shows a 5c, 6s.
+"Sam Schrader" collected 495 from pot with Straight, 8 High (combination: 8d, 7d, 6s, 5c, 4s)
+-- ending hand #88 --
+"Cole Ford" shows a 6d, Ad.
+-- starting hand #89  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2309) | #3 "Cole Ste" (6849) | #7 "Sam" (5842)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #89 --
+-- starting hand #90  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2319) | #3 "Cole Ste" (6849) | #7 "Sam" (5832)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 90
+"Cole Ford" calls 90
+flop:  [4c, 9h, Qh] <Pot: 180>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+turn: 4c, 9h, Qh [Kd] <Pot: 340>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+river: 4c, 9h, Qh, Kd [3d] <Pot: 500>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a Qc, 5c.
+"Cole Ford" collected 500 from pot with Pair, Q's (combination: Qc, Qh, Kd, 9h, 5c)
+-- ending hand #90 --
+-- starting hand #91  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2569) | #3 "Cole Ste" (6599) | #7 "Sam" (5832)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [Jc, 4c, Qh] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Jc, 4c, Qh [2c] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 60 from pot
+-- ending hand #91 --
+-- starting hand #92  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2549) | #3 "Cole Ste" (6579) | #7 "Sam" (5872)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" calls 70
+"Cole Ford" folds
+flop:  [Kh, 9c, 4h] <Pot: 160>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: Kh, 9c, 4h [10s] <Pot: 160>
+"Sam Schrader" checks
+"Cole Stephens" bets 120
+"Sam Schrader" folds
+Uncalled bet of 120 returned to "Cole Stephens"
+"Cole Stephens" collected 160 from pot
+-- ending hand #92 --
+-- starting hand #93  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2529) | #3 "Cole Ste" (6669) | #7 "Sam" (5802)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #93 --
+-- starting hand #94  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2519) | #3 "Cole Ste" (6679) | #7 "Sam" (5802)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 110
+"Sam Schrader" folds
+"Cole Ford" calls 110
+flop:  [8s, 7c, Jd] <Pot: 240>
+"Cole Stephens" bets 120
+"Cole Ford" folds
+Uncalled bet of 120 returned to "Cole Stephens"
+"Cole Stephens" collected 240 from pot
+-- ending hand #94 --
+-- starting hand #95  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2409) | #3 "Cole Ste" (6809) | #7 "Sam" (5782)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #95 --
+"Cole Stephens" shows a Ks, As.
+-- starting hand #96  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2389) | #3 "Cole Ste" (6839) | #7 "Sam" (5772)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+"Cole Stephens" calls 70
+flop:  [8c, 4d, Qh] <Pot: 210>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" bets 130
+"Cole Ford" folds
+"Cole Stephens" calls 130
+turn: 8c, 4d, Qh [Qs] <Pot: 470>
+"Cole Stephens" checks
+"Sam Schrader" bets 220
+"Cole Stephens" calls 220
+river: 8c, 4d, Qh, Qs [Kh] <Pot: 910>
+"Cole Stephens" checks
+"Sam Schrader" bets 1050
+"Cole Stephens" folds
+Uncalled bet of 1050 returned to "Sam Schrader"
+"Sam Schrader" collected 910 from pot
+-- ending hand #96 --
+-- starting hand #97  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2319) | #3 "Cole Ste" (6419) | #7 "Sam" (6262)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #97 --
+-- starting hand #98  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2319) | #3 "Cole Ste" (6409) | #7 "Sam" (6272)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #98 --
+-- starting hand #99  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2299) | #3 "Cole Ste" (6439) | #7 "Sam" (6262)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" calls 70
+flop:  [9h, 3d, 2h] <Pot: 150>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 9h, 3d, 2h [8h] <Pot: 150>
+"Cole Stephens" bets 112
+"Sam Schrader" folds
+Uncalled bet of 112 returned to "Cole Stephens"
+"Cole Stephens" collected 150 from pot
+-- ending hand #99 --
+-- starting hand #100  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2289) | #3 "Cole Ste" (6519) | #7 "Sam" (6192)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [5s, 6c, 6h] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 5s, 6c, 6h [2h] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Ford" calls 60
+"Cole Stephens" folds
+river: 5s, 6c, 6h, 2h [4s] <Pot: 180>
+"Sam Schrader" bets 180
+"Cole Ford" calls 180
+"Sam Schrader" shows a 5h, 3h.
+"Sam Schrader" collected 540 from pot with Straight, 6 High (combination: 6c, 5h, 4s, 3h, 2h)
+-- ending hand #100 --
+"Cole Ford" shows a Ad, 6d.
+-- starting hand #101  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2029) | #3 "Cole Ste" (6499) | #7 "Sam" (6472)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #101 --
+-- starting hand #102  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2009) | #3 "Cole Ste" (6499) | #7 "Sam" (6492)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #102 --
+-- starting hand #103  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1999) | #3 "Cole Ste" (6479) | #7 "Sam" (6522)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #103 --
+-- starting hand #104  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (1999) | #3 "Cole Ste" (6469) | #7 "Sam" (6532)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #104 --
+-- starting hand #105  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2009) | #3 "Cole Ste" (6469) | #7 "Sam" (6522)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #105 --
+"Cole Stephens" shows a 3s, 9h.
+-- starting hand #106  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1999) | #3 "Cole Ste" (6449) | #7 "Sam" (6552)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 100
+"Cole Ford" calls 100
+flop:  [9s, 4c, 2c] <Pot: 210>
+"Sam Schrader" bets 130
+"Cole Ford" folds
+Uncalled bet of 130 returned to "Sam Schrader"
+"Sam Schrader" collected 210 from pot
+-- ending hand #106 --
+-- starting hand #107  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (1899) | #3 "Cole Ste" (6439) | #7 "Sam" (6662)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #107 --
+-- starting hand #108  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (1879) | #3 "Cole Ste" (6439) | #7 "Sam" (6682)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #108 --
+-- starting hand #109  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1869) | #3 "Cole Ste" (6449) | #7 "Sam" (6682)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [3d, Qc, 6c] <Pot: 150>
+"Sam Schrader" checks
+"Cole Ford" bets 60
+"Sam Schrader" calls 60
+turn: 3d, Qc, 6c [6h] <Pot: 270>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 3d, Qc, 6c, 6h [2s] <Pot: 270>
+"Sam Schrader" checks
+"Cole Ford" bets 270
+"Sam Schrader" folds
+Uncalled bet of 270 returned to "Cole Ford"
+"Cole Ford" collected 270 from pot
+-- ending hand #109 --
+-- starting hand #110  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2009) | #3 "Cole Ste" (6439) | #7 "Sam" (6552)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" calls 70
+"Cole Ford" calls 70
+flop:  [3s, Jh, 9s] <Pot: 210>
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+"Sam Schrader" folds
+turn: 3s, Jh, 9s [8c] <Pot: 370>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 3s, Jh, 9s, 8c [Qd] <Pot: 370>
+"Cole Ford" bets 200
+"Cole Stephens" folds
+Uncalled bet of 200 returned to "Cole Ford"
+"Cole Ford" collected 370 from pot
+-- ending hand #110 --
+-- starting hand #111  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2229) | #3 "Cole Ste" (6289) | #7 "Sam" (6482)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [Kd, 5h, 5d] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Kd, 5h, 5d [4h] <Pot: 40>
+"Cole Ford" bets 80
+"Cole Stephens" folds
+Uncalled bet of 80 returned to "Cole Ford"
+"Cole Ford" collected 40 from pot
+-- ending hand #111 --
+-- starting hand #112  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2249) | #3 "Cole Ste" (6269) | #7 "Sam" (6482)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #112 --
+-- starting hand #113  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2249) | #3 "Cole Ste" (6259) | #7 "Sam" (6492)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls 20
+"Cole Ford" checks
+flop:  [Jh, 9d, Ah] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Jh, 9d, Ah [Jc] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Jh, 9d, Ah, Jc [Ac] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a 6d, 8d.
+"Cole Ford" collected 20 from pot with Two Pair, A's & J's (combination: Ah, Ac, Jh, Jc, 9d)
+"Sam Schrader" shows a 4d, 5c.
+"Sam Schrader" collected 20 from pot with Two Pair, A's & J's (combination: Ah, Ac, Jh, Jc, 9d)
+-- ending hand #113 --
+-- starting hand #114  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2249) | #3 "Cole Ste" (6259) | #7 "Sam" (6492)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" calls 70
+flop:  [8h, 5s, 6h] <Pot: 150>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 8h, 5s, 6h [10d] <Pot: 150>
+"Cole Stephens" bets 100
+"Sam Schrader" calls 100
+river: 8h, 5s, 6h, 10d [Jh] <Pot: 350>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" shows a 7s, 8c.
+"Cole Stephens" collected 350 from pot with Pair, 8's (combination: 8c, 8h, Jh, 10d, 7s)
+-- ending hand #114 --
+-- starting hand #115  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2239) | #3 "Cole Ste" (6439) | #7 "Sam" (6322)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [7c, 2h, Kd] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 7c, 2h, Kd [2c] <Pot: 60>
+"Cole Stephens" bets 45
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 45 returned to "Cole Stephens"
+"Cole Stephens" collected 60 from pot
+-- ending hand #115 --
+-- starting hand #116  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2219) | #3 "Cole Ste" (6479) | #7 "Sam" (6302)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #116 --
+-- starting hand #117  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2229) | #3 "Cole Ste" (6479) | #7 "Sam" (6292)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [Kc, Qh, Jh] <Pot: 40>
+"Cole Ford" bets 80
+"Cole Stephens" folds
+Uncalled bet of 80 returned to "Cole Ford"
+"Cole Ford" collected 40 from pot
+-- ending hand #117 --
+-- starting hand #118  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2249) | #3 "Cole Ste" (6459) | #7 "Sam" (6292)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [Kh, 9c, 3c] <Pot: 40>
+"Cole Stephens" bets 30
+"Sam Schrader" calls 30
+turn: Kh, 9c, 3c [Qs] <Pot: 100>
+"Cole Stephens" bets 75
+"Sam Schrader" calls 75
+river: Kh, 9c, 3c, Qs [4d] <Pot: 250>
+"Cole Stephens" checks
+"Sam Schrader" bets 175
+"Cole Stephens" folds
+Uncalled bet of 175 returned to "Sam Schrader"
+"Sam Schrader" collected 250 from pot
+-- ending hand #118 --
+-- starting hand #119  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2249) | #3 "Cole Ste" (6334) | #7 "Sam" (6417)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" calls 60
+flop:  [6c, Qc, 2d] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 6c, Qc, 2d [3h] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 6c, Qc, 2d, 3h [6h] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a 2h, 7h.
+"Cole Ford" collected 130 from pot with Two Pair, 6's & 2's (combination: 6c, 6h, 2h, 2d, Qc)
+-- ending hand #119 --
+-- starting hand #120  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2319) | #3 "Cole Ste" (6274) | #7 "Sam" (6407)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [7d, 2h, 3c] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" bets 80
+"Cole Ford" folds
+Uncalled bet of 80 returned to "Cole Stephens"
+"Cole Stephens" collected 160 from pot
+-- ending hand #120 --
+-- starting hand #121  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2239) | #3 "Cole Ste" (6354) | #7 "Sam" (6407)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Sam Schrader" folds
+"Cole Ford" calls 80
+flop:  [Kd, 7h, 8h] <Pot: 180>
+"Cole Stephens" checks
+"Cole Ford" bets 60
+"Cole Stephens" calls 60
+turn: Kd, 7h, 8h [6s] <Pot: 300>
+"Cole Stephens" checks
+"Cole Ford" checks
+river: Kd, 7h, 8h, 6s [3c] <Pot: 300>
+"Cole Stephens" checks
+"Cole Ford" bets 300
+"Cole Stephens" folds
+Uncalled bet of 300 returned to "Cole Ford"
+"Cole Ford" collected 300 from pot
+-- ending hand #121 --
+-- starting hand #122  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2399) | #3 "Cole Ste" (6214) | #7 "Sam" (6387)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" raises to 200
+"Cole Ford" folds
+"Cole Stephens" raises to 450
+"Sam Schrader" folds
+Uncalled bet of 250 returned to "Cole Stephens"
+"Cole Stephens" collected 420 from pot
+-- ending hand #122 --
+"Cole Stephens" shows a 3s, 4s.
+-- starting hand #123  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2379) | #3 "Cole Ste" (6434) | #7 "Sam" (6187)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #123 --
+-- starting hand #124  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2369) | #3 "Cole Ste" (6444) | #7 "Sam" (6187)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #124 --
+-- starting hand #125  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2369) | #3 "Cole Ste" (6434) | #7 "Sam" (6197)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #125 --
+-- starting hand #126  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2349) | #3 "Cole Ste" (6434) | #7 "Sam" (6217)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #126 --
+"Cole Stephens" shows a Ad, 8d.
+-- starting hand #127  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2339) | #3 "Cole Ste" (6444) | #7 "Sam" (6217)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [2s, Kh, 7h] <Pot: 40>
+"Cole Stephens" bets 30
+"Sam Schrader" calls 30
+turn: 2s, Kh, 7h [3d] <Pot: 100>
+"Cole Stephens" bets 60
+"Sam Schrader" calls 60
+river: 2s, Kh, 7h, 3d [9c] <Pot: 220>
+"Cole Stephens" checks
+"Sam Schrader" bets 80
+"Cole Stephens" calls 80
+"Sam Schrader" shows a Kc, 10s.
+"Sam Schrader" collected 380 from pot with Pair, K's (combination: Kc, Kh, 10s, 9c, 7h)
+-- ending hand #127 --
+-- starting hand #128  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2339) | #3 "Cole Ste" (6254) | #7 "Sam" (6407)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [4h, 5s, 3d] <Pot: 140>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4h, 5s, 3d [6s] <Pot: 140>
+"Sam Schrader" bets 80
+"Cole Ford" calls 80
+river: 4h, 5s, 3d, 6s [8d] <Pot: 300>
+"Sam Schrader" bets 280
+"Cole Ford" calls 280
+"Cole Ford" shows a Ac, 7s.
+"Cole Ford" collected 430 from pot with Straight, 8 High (combination: 8d, 7s, 6s, 5s, 4h)
+"Sam Schrader" shows a 7c, 8h.
+"Sam Schrader" collected 430 from pot with Straight, 8 High (combination: 8h, 7c, 6s, 5s, 4h)
+-- ending hand #128 --
+-- starting hand #129  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2339) | #3 "Cole Ste" (6254) | #7 "Sam" (6407)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+"Cole Stephens" calls 70
+flop:  [7h, Ah, Qh] <Pot: 210>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" bets 150
+"Cole Ford" folds
+"Cole Stephens" calls 150
+turn: 7h, Ah, Qh [Jh] <Pot: 510>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 7h, Ah, Qh, Jh [4h] <Pot: 510>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" shows a 9h, 10c.
+"Cole Stephens" collected 510 from pot with Flush, Ah High (combination: Ah, Qh, Jh, 9h, 7h, 4h)
+-- ending hand #129 --
+"Sam Schrader" shows a Jd, Jc.
+-- starting hand #130  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2269) | #3 "Cole Ste" (6544) | #7 "Sam" (6187)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [3h, 8c, 10s] <Pot: 150>
+"Sam Schrader" bets 60
+"Cole Ford" calls 60
+turn: 3h, 8c, 10s [2h] <Pot: 270>
+"Sam Schrader" bets 130
+"Cole Ford" calls 130
+river: 3h, 8c, 10s, 2h [10c] <Pot: 530>
+"Sam Schrader" bets 250
+"Cole Ford" folds
+Uncalled bet of 250 returned to "Sam Schrader"
+"Sam Schrader" collected 530 from pot
+-- ending hand #130 --
+"Cole Ford" shows a 6h, 4h.
+-- starting hand #131  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2009) | #3 "Cole Ste" (6534) | #7 "Sam" (6457)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #131 --
+-- starting hand #132  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (1989) | #3 "Cole Ste" (6534) | #7 "Sam" (6477)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" raises to 240
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 180 returned to "Cole Stephens"
+"Cole Stephens" collected 180 from pot
+-- ending hand #132 --
+-- starting hand #133  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1929) | #3 "Cole Ste" (6654) | #7 "Sam" (6417)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [4c, Ks, 5s] <Pot: 40>
+"Cole Stephens" bets 30
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #133 --
+-- starting hand #134  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (1929) | #3 "Cole Ste" (6674) | #7 "Sam" (6397)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" calls 70
+flop:  [Kd, 6h, Jh] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Kd, 6h, Jh [5s] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" bets 75
+"Cole Ford" calls 75
+river: Kd, 6h, Jh, 5s [4d] <Pot: 300>
+"Cole Ford" checks
+"Cole Stephens" bets 100
+"Cole Ford" folds
+Uncalled bet of 100 returned to "Cole Stephens"
+"Cole Stephens" collected 300 from pot
+-- ending hand #134 --
+-- starting hand #135  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (1784) | #3 "Cole Ste" (6829) | #7 "Sam" (6387)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #135 --
+-- starting hand #136  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1774) | #3 "Cole Ste" (6839) | #7 "Sam" (6387)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [Ks, 9h, 3s] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" bets 60
+"Cole Stephens" calls 60
+"Sam Schrader" calls 60
+turn: Ks, 9h, 3s [8c] <Pot: 240>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Cole Stephens" folds
+"Sam Schrader" calls 80
+river: Ks, 9h, 3s, 8c [5s] <Pot: 400>
+"Sam Schrader" checks
+"Cole Ford" bets 400
+"Sam Schrader" folds
+Uncalled bet of 400 returned to "Cole Ford"
+"Cole Ford" collected 400 from pot
+-- ending hand #136 --
+"Cole Stephens" shows a 4s, 7s.
+"Cole Ford" shows a 8s, 9c.
+-- starting hand #137  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2014) | #3 "Cole Ste" (6759) | #7 "Sam" (6227)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [5c, 3h, Kd] <Pot: 120>
+"Sam Schrader" bets 60
+"Cole Ford" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #137 --
+-- starting hand #138  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (1954) | #3 "Cole Ste" (6759) | #7 "Sam" (6287)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 90
+"Cole Ford" calls 90
+flop:  [10h, 2s, Ks] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" bets 85
+"Cole Ford" calls 85
+turn: 10h, 2s, Ks [Jd] <Pot: 350>
+"Cole Ford" checks
+"Cole Stephens" bets 175
+"Cole Ford" calls 175
+river: 10h, 2s, Ks, Jd [Qd] <Pot: 700>
+"Cole Ford" bets 350
+"Cole Stephens" folds
+Uncalled bet of 350 returned to "Cole Ford"
+"Cole Ford" collected 700 from pot
+-- ending hand #138 --
+"Cole Ford" shows a 2c, 2d.
+-- starting hand #139  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2304) | #3 "Cole Ste" (6409) | #7 "Sam" (6287)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [Qd, 3s, Kd] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Qd, 3s, Kd [6c] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" bets 60
+"Sam Schrader" folds
+Uncalled bet of 60 returned to "Cole Ford"
+"Cole Ford" collected 50 from pot
+-- ending hand #139 --
+-- starting hand #140  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2334) | #3 "Cole Ste" (6399) | #7 "Sam" (6267)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [Kc, 8h, 5h] <Pot: 120>
+"Sam Schrader" bets 70
+"Cole Ford" calls 70
+turn: Kc, 8h, 5h [3s] <Pot: 260>
+"Sam Schrader" bets 140
+"Cole Ford" calls 140
+river: Kc, 8h, 5h, 3s [3d] <Pot: 540>
+"Sam Schrader" checks
+"Cole Ford" bets 140
+"Sam Schrader" calls 140
+"Cole Ford" shows a Kd, 4c.
+"Cole Ford" collected 820 from pot with Two Pair, K's & 3's (combination: Kd, Kc, 3s, 3d, 8h)
+-- ending hand #140 --
+"Sam Schrader" shows a Jh, Js.
+-- starting hand #141  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2744) | #3 "Cole Ste" (6399) | #7 "Sam" (5857)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [10h, 3d, 3c] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" bets 50
+"Cole Ford" calls 50
+turn: 10h, 3d, 3c [9d] <Pot: 260>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 10h, 3d, 3c, 9d [6s] <Pot: 260>
+"Cole Ford" bets 160
+"Cole Stephens" folds
+Uncalled bet of 160 returned to "Cole Ford"
+"Cole Ford" collected 260 from pot
+-- ending hand #141 --
+-- starting hand #142  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2874) | #3 "Cole Ste" (6269) | #7 "Sam" (5857)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [2s, 8s, 2d] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 2s, 8s, 2d [Kd] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" bets 50
+"Cole Ford" calls 50
+"Cole Stephens" calls 50
+river: 2s, 8s, 2d, Kd [5s] <Pot: 210>
+"Cole Stephens" checks
+"Sam Schrader" bets 170
+"Cole Ford" calls 170
+"Cole Stephens" folds
+"Cole Ford" shows a Kh, 9h.
+"Cole Ford" collected 550 from pot with Two Pair, K's & 2's (combination: Kh, Kd, 2s, 2d, 9h)
+"Sam Schrader" shows a As, 6c.
+-- ending hand #142 --
+-- starting hand #143  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (3184) | #3 "Cole Ste" (6199) | #7 "Sam" (5617)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" calls 70
+"Cole Ford" calls 70
+flop:  [6c, Qh, Kh] <Pot: 210>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 6c, Qh, Kh [3d] <Pot: 210>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 6c, Qh, Kh, 3d [6d] <Pot: 210>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a 2h, Ac.
+"Cole Stephens" collected 210 from pot with Pair, 6's (combination: 6c, 6d, Ac, Kh, Qh)
+"Sam Schrader" shows a 9d, Jd.
+-- ending hand #143 --
+-- starting hand #144  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (3114) | #3 "Cole Ste" (6339) | #7 "Sam" (5547)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+"Cole Stephens" raises to 280
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 210 returned to "Cole Stephens"
+"Cole Stephens" collected 210 from pot
+-- ending hand #144 --
+-- starting hand #145  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (3044) | #3 "Cole Ste" (6479) | #7 "Sam" (5477)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [5d, 4s, 10h] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 5d, 4s, 10h [6h] <Pot: 100>
+"Cole Stephens" bets 75
+"Sam Schrader" calls 75
+river: 5d, 4s, 10h, 6h [7h] <Pot: 250>
+"Cole Stephens" bets 125
+"Sam Schrader" folds
+Uncalled bet of 125 returned to "Cole Stephens"
+"Cole Stephens" collected 250 from pot
+-- ending hand #145 --
+-- starting hand #146  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (3044) | #3 "Cole Ste" (6604) | #7 "Sam" (5352)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [3d, 2h, 5d] <Pot: 120>
+"Sam Schrader" bets 60
+"Cole Ford" calls 60
+turn: 3d, 2h, 5d [9h] <Pot: 240>
+"Sam Schrader" bets 150
+"Cole Ford" folds
+Uncalled bet of 150 returned to "Sam Schrader"
+"Sam Schrader" collected 240 from pot
+-- ending hand #146 --
+-- starting hand #147  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2924) | #3 "Cole Ste" (6604) | #7 "Sam" (5472)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+"Cole Stephens" folds
+flop:  [10d, 7s, Js] <Pot: 160>
+"Cole Ford" checks
+"Sam Schrader" bets 80
+"Cole Ford" calls 80
+turn: 10d, 7s, Js [Ks] <Pot: 320>
+"Cole Ford" bets 140
+"Sam Schrader" calls 140
+river: 10d, 7s, Js, Ks [3c] <Pot: 600>
+"Cole Ford" checks
+"Sam Schrader" bets 400
+"Cole Ford" folds
+Uncalled bet of 400 returned to "Sam Schrader"
+"Sam Schrader" collected 600 from pot
+-- ending hand #147 --
+"Cole Ford" shows a 5s, 5h.
+-- starting hand #148  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2634) | #3 "Cole Ste" (6584) | #7 "Sam" (5782)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 175
+"Sam Schrader" calls 175
+flop:  [6d, 10c, 6s] <Pot: 350>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 6d, 10c, 6s [6h] <Pot: 350>
+"Cole Stephens" checks
+"Sam Schrader" bets 175
+"Cole Stephens" calls 175
+river: 6d, 10c, 6s, 6h [4c] <Pot: 700>
+"Cole Stephens" checks
+"Sam Schrader" bets 550
+"Cole Stephens" raises to 1900
+"Sam Schrader" calls 1900
+"Cole Stephens" shows a 3c, 6c.
+"Cole Stephens" collected 4500 from pot with Four of a Kind, 6's (combination: 6c, 6d, 6s, 6h, 10c)
+-- ending hand #148 --
+"Sam Schrader" shows a As, Ad.
+-- starting hand #149  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2634) | #3 "Cole Ste" (8834) | #7 "Sam" (3532)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls 20
+"Cole Ford" checks
+flop:  [9c, 3s, 5s] <Pot: 40>
+"Sam Schrader" bets 30
+"Cole Ford" calls 30
+turn: 9c, 3s, 5s [7c] <Pot: 100>
+"Sam Schrader" bets 75
+"Cole Ford" folds
+Uncalled bet of 75 returned to "Sam Schrader"
+"Sam Schrader" collected 100 from pot
+-- ending hand #149 --
+-- starting hand #150  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2584) | #3 "Cole Ste" (8834) | #7 "Sam" (3582)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" folds
+flop:  [9s, Jc, Ac] <Pot: 140>
+"Cole Ford" checks
+"Sam Schrader" checks
+turn: 9s, Jc, Ac [Kd] <Pot: 140>
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 9s, Jc, Ac, Kd [4h] <Pot: 140>
+"Cole Ford" checks
+"Sam Schrader" checks
+"Cole Ford" shows a 7d, 9c.
+"Cole Ford" collected 140 from pot with Pair, 9's (combination: 9c, 9s, Ac, Kd, Jc)
+-- ending hand #150 --
+-- starting hand #151  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2664) | #3 "Cole Ste" (8814) | #7 "Sam" (3522)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Sam Schrader" folds
+"Cole Ford" calls 80
+flop:  [2c, 8c, 10s] <Pot: 180>
+"Cole Stephens" checks
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+turn: 2c, 8c, 10s [Qs] <Pot: 340>
+"Cole Stephens" checks
+"Cole Ford" checks
+river: 2c, 8c, 10s, Qs [Ad] <Pot: 340>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Ford" shows a 8d, 6c.
+"Cole Ford" collected 340 from pot with Pair, 8's (combination: 8d, 8c, Ad, Qs, 10s)
+"Cole Stephens" shows a 9c, Kh.
+-- ending hand #151 --
+-- starting hand #152  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2844) | #3 "Cole Ste" (8654) | #7 "Sam" (3502)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [3h, 7s, 3c] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 3h, 7s, 3c [Ad] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 3h, 7s, 3c, Ad [4s] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" shows a Qc, Js.
+"Sam Schrader" collected 120 from pot with Pair, 3's (combination: 3h, 3c, Ad, Qc, Js)
+-- ending hand #152 --
+"Cole Stephens" shows a 3d, 6d.
+-- starting hand #153  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2784) | #3 "Cole Ste" (8654) | #7 "Sam" (3562)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [3s, 5c, Jd] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 3s, 5c, Jd [8c] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" bets 30
+"Cole Ford" calls 30
+river: 3s, 5c, Jd, 8c [4d] <Pot: 100>
+"Cole Ford" checks
+"Cole Stephens" bets 100
+"Cole Ford" calls 100
+"Cole Stephens" shows a 8h, 3c.
+"Cole Stephens" collected 300 from pot with Two Pair, 8's & 3's (combination: 8h, 8c, 3c, 3s, Jd)
+-- ending hand #153 --
+"Cole Ford" shows a 9d, 8s.
+-- starting hand #154  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2634) | #3 "Cole Ste" (8804) | #7 "Sam" (3562)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" raises to 70
+"Sam Schrader" raises to 240
+"Cole Stephens" calls 240
+flop:  [Qc, 2s, 5c] <Pot: 480>
+"Cole Stephens" checks
+"Sam Schrader" bets 200
+"Cole Stephens" calls 200
+turn: Qc, 2s, 5c [7c] <Pot: 880>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Qc, 2s, 5c, 7c [10h] <Pot: 880>
+"Cole Stephens" bets 400
+"Sam Schrader" raises to 1150
+"Cole Stephens" calls 1150
+"Sam Schrader" shows a 10c, Ac.
+"Sam Schrader" collected 3180 from pot with Flush, Ac High (combination: Ac, Qc, 10c, 7c, 5c)
+-- ending hand #154 --
+-- starting hand #155  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2634) | #3 "Cole Ste" (7214) | #7 "Sam" (5152)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls 20
+"Cole Ford" raises to 80
+"Sam Schrader" calls 80
+flop:  [Qs, 8h, Kh] <Pot: 160>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Qs, 8h, Kh [7d] <Pot: 160>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Qs, 8h, Kh, 7d [7s] <Pot: 160>
+"Sam Schrader" bets 200
+"Cole Ford" folds
+Uncalled bet of 200 returned to "Sam Schrader"
+"Sam Schrader" collected 160 from pot
+-- ending hand #155 --
+-- starting hand #156  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2554) | #3 "Cole Ste" (7214) | #7 "Sam" (5232)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [4d, 3h, 8s] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 4d, 3h, 8s [Js] <Pot: 40>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+river: 4d, 3h, 8s, Js [Jd] <Pot: 200>
+"Cole Ford" checks
+"Cole Stephens" bets 100
+"Cole Ford" folds
+Uncalled bet of 100 returned to "Cole Stephens"
+"Cole Stephens" collected 200 from pot
+-- ending hand #156 --
+-- starting hand #157  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (2454) | #3 "Cole Ste" (7314) | #7 "Sam" (5232)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 110
+"Sam Schrader" folds
+"Cole Ford" calls 110
+flop:  [Ac, 9d, 6h] <Pot: 240>
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: Ac, 9d, 6h [Qc] <Pot: 240>
+"Cole Stephens" bets 120
+"Cole Ford" calls 120
+river: Ac, 9d, 6h, Qc [2d] <Pot: 480>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a Kd, Jh.
+"Cole Stephens" collected 480 from pot with A High (combination: Ac, Kd, Qc, Jh, 9d)
+-- ending hand #157 --
+"Cole Ford" shows a 7c, 8s.
+-- starting hand #158  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (2224) | #3 "Cole Ste" (7564) | #7 "Sam" (5212)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #158 --
+-- starting hand #159  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (2204) | #3 "Cole Ste" (7564) | #7 "Sam" (5232)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" raises to 250
+"Sam Schrader" calls 250
+"Cole Ford" calls 250
+flop:  [2s, 9c, 2c] <Pot: 750>
+"Cole Ford" checks
+"Cole Stephens" bets 375
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 375 returned to "Cole Stephens"
+"Cole Stephens" collected 750 from pot
+-- ending hand #159 --
+"Cole Stephens" shows a Jh, 10h.
+-- starting hand #160  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1954) | #3 "Cole Ste" (8064) | #7 "Sam" (4982)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 110
+"Sam Schrader" folds
+"Cole Ford" calls 110
+flop:  [9c, Ad, 2c] <Pot: 240>
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 9c, Ad, 2c [5s] <Pot: 240>
+"Cole Stephens" checks
+"Cole Ford" bets 120
+"Cole Stephens" calls 120
+river: 9c, Ad, 2c, 5s [6h] <Pot: 480>
+"Cole Stephens" checks
+"Cole Ford" bets 360
+"Cole Stephens" calls 360
+"Cole Stephens" shows a Qh, Qc.
+"Cole Stephens" collected 1200 from pot with Pair, Q's (combination: Qh, Qc, Ad, 9c, 6h)
+"Cole Ford" shows a 4s, 4h.
+-- ending hand #160 --
+-- starting hand #161  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (1364) | #3 "Cole Ste" (8674) | #7 "Sam" (4962)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [3d, 9c, 7h] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 3d, 9c, 7h [9s] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 3d, 9c, 7h, 9s [4d] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Sam Schrader" shows a Ac, 10s.
+"Sam Schrader" collected 120 from pot with Pair, 9's (combination: 9c, 9s, Ac, 10s, 7h)
+-- ending hand #161 --
+-- starting hand #162  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (1304) | #3 "Cole Ste" (8674) | #7 "Sam" (5022)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" folds
+flop:  [3h, Kh, 4d] <Pot: 140>
+"Cole Ford" bets 120
+"Sam Schrader" folds
+Uncalled bet of 120 returned to "Cole Ford"
+"Cole Ford" collected 140 from pot
+-- ending hand #162 --
+-- starting hand #163  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1384) | #3 "Cole Ste" (8654) | #7 "Sam" (4962)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #163 --
+-- starting hand #164  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (1384) | #3 "Cole Ste" (8644) | #7 "Sam" (4972)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [10d, Jd, 9h] <Pot: 120>
+"Sam Schrader" bets 70
+"Cole Ford" folds
+Uncalled bet of 70 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #164 --
+-- starting hand #165  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (1324) | #3 "Cole Ste" (8644) | #7 "Sam" (5032)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [9s, Jh, 2c] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" bets 130
+"Cole Ford" calls 130
+"Cole Stephens" folds
+turn: 9s, Jh, 2c [9h] <Pot: 440>
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 9s, Jh, 2c, 9h [3c] <Pot: 440>
+"Cole Ford" checks
+"Sam Schrader" checks
+"Sam Schrader" shows a Qs, Ac.
+"Sam Schrader" collected 440 from pot with Pair, 9's (combination: 9s, 9h, Ac, Qs, Jh)
+"Cole Ford" shows a Ah, 10c.
+-- ending hand #165 --
+-- starting hand #166  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1134) | #3 "Cole Ste" (8584) | #7 "Sam" (5282)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #166 --
+-- starting hand #167  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #1 "Cole F" (1134) | #3 "Cole Ste" (8574) | #7 "Sam" (5292)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #167 --
+-- starting hand #168  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #1 "Cole F" (1114) | #3 "Cole Ste" (8604) | #7 "Sam" (5282)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #168 --
+-- starting hand #169  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #1 "Cole F" (1104) | #3 "Cole Ste" (8614) | #7 "Sam" (5282)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 110
+"Sam Schrader" raises to 260
+"Cole Ford" calls 260
+"Cole Stephens" calls 260
+flop:  [5d, Ac, 2c] <Pot: 780>
+"Cole Stephens" checks
+"Sam Schrader" bets 300
+"Cole Ford" raises to 844 and go all in
+"Cole Stephens" folds
+"Sam Schrader" calls 844
+"Cole Ford" shows a 3d, 2d.
+"Sam Schrader" shows a Ad, Kd.
+turn: 5d, Ac, 2c [8h] <Pot: 2468>
+river: 5d, Ac, 2c, 8h [9d] <Pot: 2468>
+"Sam Schrader" collected 2468 from pot with Pair, A's (combination: Ad, Ac, Kd, 9d, 8h)
+-- ending hand #169 --
+"Cole Stephens" shows a Jd, Ah.
+The player "Cole Ford" quits the game with a stack of 0.
+-- starting hand #170  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #3 "Cole Ste" (8354) | #7 "Sam" (6646)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+The player "Cole Ford" requested a seat.
+The admin approved the player "Cole Ford" participation with a stack of 5000.
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [2h, Qc, 2s] <Pot: 100>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 2h, Qc, 2s [Qh] <Pot: 100>
+"Sam Schrader" bets 60
+"Cole Stephens" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 100 from pot
+-- ending hand #170 --
+The player "Cole Ford" joined the game with a stack of 5000.
+-- starting hand #171  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (8304) | #7 "Sam" (6696) | #10 "Cole F" (5000)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [5c, 5h, Ks] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 5c, 5h, Ks [Ac] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" bets 90
+"Sam Schrader" calls 90
+"Cole Ford" folds
+river: 5c, 5h, Ks, Ac [4h] <Pot: 360>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Sam Schrader" shows a Kc, 9d.
+"Sam Schrader" collected 360 from pot with Two Pair, K's & 5's (combination: Kc, Ks, 5c, 5h, Ac)
+"Cole Stephens" shows a Qc, 4c.
+-- ending hand #171 --
+-- starting hand #172  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (8154) | #7 "Sam" (6906) | #10 "Cole F" (4940)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [9d, 7d, Js] <Pot: 40>
+"Cole Stephens" bets 30
+"Sam Schrader" calls 30
+turn: 9d, 7d, Js [10d] <Pot: 100>
+"Cole Stephens" bets 75
+"Sam Schrader" calls 75
+river: 9d, 7d, Js, 10d [As] <Pot: 250>
+"Cole Stephens" bets 250
+"Sam Schrader" folds
+Uncalled bet of 250 returned to "Cole Stephens"
+"Cole Stephens" collected 250 from pot
+-- ending hand #172 --
+-- starting hand #173  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (8279) | #7 "Sam" (6781) | #10 "Cole F" (4940)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #173 --
+-- starting hand #174  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (8309) | #7 "Sam" (6771) | #10 "Cole F" (4920)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [Qh, 3h, Qd] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" bets 30
+"Cole Ford" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #174 --
+-- starting hand #175  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (8329) | #7 "Sam" (6771) | #10 "Cole F" (4900)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 50
+"Cole Stephens" raises to 175
+"Sam Schrader" calls 175
+flop:  [Js, Kc, 4s] <Pot: 350>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Js, Kc, 4s [8c] <Pot: 350>
+"Cole Stephens" bets 175
+"Sam Schrader" calls 175
+river: Js, Kc, 4s, 8c [8s] <Pot: 700>
+"Cole Stephens" bets 500
+"Sam Schrader" calls 500
+"Cole Stephens" shows a As, Qs.
+"Cole Stephens" collected 1700 from pot with Flush, As High (combination: As, Qs, Js, 8s, 4s)
+-- ending hand #175 --
+"Sam Schrader" shows a Kd, 9d.
+-- starting hand #176  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (9179) | #7 "Sam" (5921) | #10 "Cole F" (4900)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #176 --
+-- starting hand #177  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (9179) | #7 "Sam" (5941) | #10 "Cole F" (4880)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #177 --
+-- starting hand #178  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (9159) | #7 "Sam" (5971) | #10 "Cole F" (4870)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 120
+"Sam Schrader" calls 120
+"Cole Ford" calls 120
+flop:  [6s, 4h, 7c] <Pot: 360>
+"Cole Stephens" bets 270
+"Sam Schrader" calls 270
+"Cole Ford" raises to 540
+"Cole Stephens" calls 540
+"Sam Schrader" calls 540
+turn: 6s, 4h, 7c [5h] <Pot: 1980>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 6s, 4h, 7c, 5h [3c] <Pot: 1980>
+"Cole Stephens" bets 990
+"Sam Schrader" calls 990
+"Cole Ford" raises to 1980
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 990 returned to "Cole Ford"
+"Cole Ford" collected 4950 from pot
+-- ending hand #178 --
+"Cole Ford" shows a 6h, 6c.
+-- starting hand #179  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (7509) | #7 "Sam" (4321) | #10 "Cole F" (8170)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 40
+"Cole Ford" calls 40
+flop:  [5h, 2h, 6d] <Pot: 80>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 5h, 2h, 6d [4s] <Pot: 80>
+"Sam Schrader" bets 60
+"Cole Ford" calls 60
+river: 5h, 2h, 6d, 4s [10c] <Pot: 200>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a Js, 2s.
+"Cole Ford" collected 200 from pot with Pair, 2's (combination: 2s, 2h, Js, 10c, 6d)
+"Sam Schrader" shows a Qh, 7h.
+-- ending hand #179 --
+-- starting hand #180  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (7509) | #7 "Sam" (4221) | #10 "Cole F" (8270)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" folds
+flop:  [2c, 8s, Ks] <Pot: 140>
+"Cole Ford" checks
+"Sam Schrader" bets 80
+"Cole Ford" calls 80
+turn: 2c, 8s, Ks [9s] <Pot: 300>
+"Cole Ford" checks
+"Sam Schrader" checks
+river: 2c, 8s, Ks, 9s [2s] <Pot: 300>
+"Cole Ford" checks
+"Sam Schrader" bets 500
+"Cole Ford" calls 500
+"Sam Schrader" shows a Qs, 5s.
+"Sam Schrader" collected 1300 from pot with Flush, Ks High (combination: Ks, Qs, 9s, 8s, 5s, 2s)
+-- ending hand #180 --
+"Cole Ford" shows a Qc, 10s.
+-- starting hand #181  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (7489) | #7 "Sam" (4881) | #10 "Cole F" (7630)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #181 --
+-- starting hand #182  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (7479) | #7 "Sam" (4891) | #10 "Cole F" (7630)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #182 --
+-- starting hand #183  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (7479) | #7 "Sam" (4911) | #10 "Cole F" (7610)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #183 --
+-- starting hand #184  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (7489) | #7 "Sam" (4911) | #10 "Cole F" (7600)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 60
+"Cole Stephens" calls 60
+flop:  [Qh, Jh, 10d] <Pot: 120>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Qh, Jh, 10d [Kh] <Pot: 120>
+"Cole Stephens" bets 60
+"Sam Schrader" calls 60
+river: Qh, Jh, 10d, Kh [5s] <Pot: 240>
+"Cole Stephens" checks
+"Sam Schrader" bets 100
+"Cole Stephens" calls 100
+"Sam Schrader" shows a 10s, 9c.
+"Sam Schrader" collected 440 from pot with Straight, K High (combination: Kh, Qh, Jh, 10s, 9c)
+-- ending hand #184 --
+-- starting hand #185  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (7269) | #7 "Sam" (5131) | #10 "Cole F" (7600)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [Qs, 5s, Jd] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" bets 60
+"Sam Schrader" raises to 160
+"Cole Ford" calls 160
+turn: Qs, 5s, Jd [4d] <Pot: 440>
+"Sam Schrader" bets 240
+"Cole Ford" calls 240
+river: Qs, 5s, Jd, 4d [6d] <Pot: 920>
+"Sam Schrader" bets 750
+"Cole Ford" folds
+Uncalled bet of 750 returned to "Sam Schrader"
+"Sam Schrader" collected 920 from pot
+-- ending hand #185 --
+-- starting hand #186  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (7269) | #7 "Sam" (5591) | #10 "Cole F" (7140)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #186 --
+-- starting hand #187  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (7249) | #7 "Sam" (5621) | #10 "Cole F" (7130)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [10h, 9c, Qs] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 10h, 9c, Qs [5d] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" bets 50
+"Sam Schrader" folds
+Uncalled bet of 50 returned to "Cole Ford"
+"Cole Ford" collected 50 from pot
+-- ending hand #187 --
+-- starting hand #188  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (7239) | #7 "Sam" (5601) | #10 "Cole F" (7160)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" calls 70
+flop:  [4c, 6d, 3c] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" bets 75
+"Cole Ford" calls 75
+turn: 4c, 6d, 3c [Kh] <Pot: 300>
+"Cole Ford" checks
+"Cole Stephens" bets 170
+"Cole Ford" calls 170
+river: 4c, 6d, 3c, Kh [Jc] <Pot: 640>
+"Cole Ford" bets 300
+"Cole Stephens" raises to 900
+"Cole Ford" raises to 1500
+"Cole Stephens" folds
+Uncalled bet of 600 returned to "Cole Ford"
+"Cole Ford" collected 2440 from pot
+-- ending hand #188 --
+-- starting hand #189  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (6024) | #7 "Sam" (5591) | #10 "Cole F" (8385)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [10d, 7c, 3h] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 10d, 7c, 3h [10s] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 10d, 7c, 3h, 10s [4d] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" shows a 6h, 5s.
+"Cole Ford" collected 180 from pot with Straight, 7 High (combination: 7c, 6h, 5s, 4d, 3h)
+-- ending hand #189 --
+-- starting hand #190  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5964) | #7 "Sam" (5531) | #10 "Cole F" (8505)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 70
+"Cole Ford" calls 70
+flop:  [2s, 9c, Ac] <Pot: 150>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 2s, 9c, Ac [3s] <Pot: 150>
+"Sam Schrader" bets 70
+"Cole Ford" folds
+Uncalled bet of 70 returned to "Sam Schrader"
+"Sam Schrader" collected 150 from pot
+-- ending hand #190 --
+-- starting hand #191  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5954) | #7 "Sam" (5611) | #10 "Cole F" (8435)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #191 --
+-- starting hand #192  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5984) | #7 "Sam" (5601) | #10 "Cole F" (8415)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [6h, 3s, 9d] <Pot: 180>
+"Cole Ford" bets 100
+"Cole Stephens" calls 100
+"Sam Schrader" folds
+turn: 6h, 3s, 9d [As] <Pot: 380>
+"Cole Ford" bets 100
+"Cole Stephens" calls 100
+river: 6h, 3s, 9d, As [Ac] <Pot: 580>
+"Cole Ford" checks
+"Cole Stephens" bets 435
+"Cole Ford" calls 435
+"Cole Ford" shows a 9s, 4s.
+"Cole Ford" collected 1450 from pot with Two Pair, A's & 9's (combination: As, Ac, 9s, 9d, 6h)
+"Cole Stephens" shows a 2d, 4d.
+-- ending hand #192 --
+-- starting hand #193  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5289) | #7 "Sam" (5541) | #10 "Cole F" (9170)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 50
+"Cole Stephens" calls 50
+flop:  [9s, 8h, 4d] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 50
+"Cole Stephens" calls 50
+turn: 9s, 8h, 4d [9d] <Pot: 200>
+"Cole Stephens" checks
+"Sam Schrader" bets 130
+"Cole Stephens" calls 130
+river: 9s, 8h, 4d, 9d [2s] <Pot: 460>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Sam Schrader" shows a 10h, 10c.
+"Sam Schrader" collected 460 from pot with Two Pair, 10's & 9's (combination: 10h, 10c, 9s, 9d, 8h)
+"Cole Stephens" shows a 5d, 3d.
+-- ending hand #193 --
+-- starting hand #194  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5059) | #7 "Sam" (5771) | #10 "Cole F" (9170)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" calls 70
+flop:  [9d, 2d, 3c] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 9d, 2d, 3c [Kd] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 9d, 2d, 3c, Kd [8d] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a Qd, 10c.
+"Cole Ford" collected 150 from pot with Flush, Kd High (combination: Kd, Qd, 9d, 8d, 2d)
+-- ending hand #194 --
+-- starting hand #195  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (4989) | #7 "Sam" (5761) | #10 "Cole F" (9250)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #195 --
+-- starting hand #196  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4999) | #7 "Sam" (5761) | #10 "Cole F" (9240)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 110
+"Sam Schrader" calls 110
+"Cole Ford" folds
+flop:  [10h, Qs, 9s] <Pot: 240>
+"Cole Stephens" checks
+"Sam Schrader" bets 140
+"Cole Stephens" folds
+Uncalled bet of 140 returned to "Sam Schrader"
+"Sam Schrader" collected 240 from pot
+-- ending hand #196 --
+-- starting hand #197  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (4889) | #7 "Sam" (5891) | #10 "Cole F" (9220)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" calls 70
+flop:  [9s, 4h, 6h] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 9s, 4h, 6h [10s] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 9s, 4h, 6h, 10s [9h] <Pot: 150>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Jc, Ad.
+"Cole Stephens" collected 150 from pot with Pair, 9's (combination: 9s, 9h, Ad, Jc, 10s)
+"Cole Ford" shows a Ac, 8h.
+-- ending hand #197 --
+-- starting hand #198  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (4969) | #7 "Sam" (5881) | #10 "Cole F" (9150)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #198 --
+-- starting hand #199  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4979) | #7 "Sam" (5881) | #10 "Cole F" (9140)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [Ad, 7h, 9s] <Pot: 130>
+"Sam Schrader" bets 60
+"Cole Ford" calls 60
+turn: Ad, 7h, 9s [2d] <Pot: 250>
+"Sam Schrader" bets 150
+"Cole Ford" calls 150
+river: Ad, 7h, 9s, 2d [10h] <Pot: 550>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a 6s, Ac.
+"Cole Ford" collected 550 from pot with Pair, A's (combination: Ac, Ad, 10h, 9s, 7h)
+"Sam Schrader" shows a 9d, 8d.
+-- ending hand #199 --
+-- starting hand #200  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (4969) | #7 "Sam" (5611) | #10 "Cole F" (9420)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" calls 70
+"Cole Ford" calls 70
+flop:  [4h, 3s, 8s] <Pot: 210>
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Cole Stephens" folds
+"Sam Schrader" calls 80
+turn: 4h, 3s, 8s [10d] <Pot: 370>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 4h, 3s, 8s, 10d [9h] <Pot: 370>
+"Sam Schrader" bets 300
+"Cole Ford" folds
+Uncalled bet of 300 returned to "Sam Schrader"
+"Sam Schrader" collected 370 from pot
+-- ending hand #200 --
+"Cole Ford" shows a 2s, 6s.
+-- starting hand #201  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (4899) | #7 "Sam" (5831) | #10 "Cole F" (9270)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #201 --
+-- starting hand #202  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4909) | #7 "Sam" (5831) | #10 "Cole F" (9260)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 120
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 100 returned to "Sam Schrader"
+"Sam Schrader" collected 60 from pot
+-- ending hand #202 --
+-- starting hand #203  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (4889) | #7 "Sam" (5871) | #10 "Cole F" (9240)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" calls 70
+"Cole Ford" folds
+flop:  [8d, 9s, 2c] <Pot: 160>
+"Sam Schrader" checks
+"Cole Stephens" bets 120
+"Sam Schrader" calls 120
+turn: 8d, 9s, 2c [3c] <Pot: 400>
+"Sam Schrader" checks
+"Cole Stephens" bets 200
+"Sam Schrader" calls 200
+river: 8d, 9s, 2c, 3c [Ac] <Pot: 800>
+"Sam Schrader" checks
+"Cole Stephens" checks
+"Sam Schrader" shows a Jd, 9h.
+"Sam Schrader" collected 800 from pot with Pair, 9's (combination: 9h, 9s, Ac, Jd, 8d)
+-- ending hand #203 --
+-- starting hand #204  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (4499) | #7 "Sam" (6281) | #10 "Cole F" (9220)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #204 --
+-- starting hand #205  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4509) | #7 "Sam" (6281) | #10 "Cole F" (9210)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #205 --
+-- starting hand #206  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (4499) | #7 "Sam" (6291) | #10 "Cole F" (9210)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+"Cole Ford" calls 60
+flop:  [Jd, Qs, 9s] <Pot: 180>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" bets 90
+"Sam Schrader" calls 90
+"Cole Ford" calls 90
+turn: Jd, Qs, 9s [8c] <Pot: 450>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Jd, Qs, 9s, 8c [4s] <Pot: 450>
+"Sam Schrader" bets 200
+"Cole Ford" calls 200
+"Cole Stephens" folds
+"Sam Schrader" shows a Ks, 6s.
+"Sam Schrader" collected 850 from pot with Flush, Ks High (combination: Ks, Qs, 9s, 6s, 4s)
+-- ending hand #206 --
+"Cole Ford" shows a 10h, 3h.
+-- starting hand #207  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (4349) | #7 "Sam" (6791) | #10 "Cole F" (8860)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #207 --
+-- starting hand #208  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4359) | #7 "Sam" (6791) | #10 "Cole F" (8850)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [6h, 10d, 9c] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" bets 30
+"Cole Stephens" calls 30
+turn: 6h, 10d, 9c [4s] <Pot: 100>
+"Cole Stephens" checks
+"Sam Schrader" bets 60
+"Cole Stephens" raises to 180
+"Sam Schrader" calls 180
+river: 6h, 10d, 9c, 4s [9h] <Pot: 460>
+"Cole Stephens" bets 460
+"Sam Schrader" folds
+Uncalled bet of 460 returned to "Cole Stephens"
+"Cole Stephens" collected 460 from pot
+-- ending hand #208 --
+-- starting hand #209  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (4589) | #7 "Sam" (6561) | #10 "Cole F" (8850)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [9c, 4c, Jc] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 9c, 4c, Jc [6d] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 9c, 4c, Jc, 6d [Qc] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a Js, Qh.
+"Cole Ford" collected 120 from pot with Two Pair, Q's & J's (combination: Qh, Qc, Js, Jc, 9c)
+"Sam Schrader" shows a 8h, Ad.
+-- ending hand #209 --
+-- starting hand #210  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (4589) | #7 "Sam" (6501) | #10 "Cole F" (8910)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 90
+"Cole Ford" calls 90
+flop:  [Kd, 2s, 5h] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Kd, 2s, 5h [2c] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: Kd, 2s, 5h, 2c [4c] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Ac, 10c.
+"Cole Stephens" collected 180 from pot with Pair, 2's (combination: 2s, 2c, Ac, Kd, 10c)
+"Cole Ford" shows a 7d, Qd.
+-- ending hand #210 --
+"Sam Schrader" shows a 2d, 4h.
+-- starting hand #211  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4679) | #7 "Sam" (6501) | #10 "Cole F" (8820)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [6h, 9c, 3d] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 6h, 9c, 3d [Qs] <Pot: 40>
+"Cole Stephens" bets 20
+"Sam Schrader" calls 20
+river: 6h, 9c, 3d, Qs [Kd] <Pot: 80>
+"Cole Stephens" bets 160
+"Sam Schrader" calls 160
+"Sam Schrader" shows a 3s, Qd.
+"Sam Schrader" collected 400 from pot with Two Pair, Q's & 3's (combination: Qd, Qs, 3s, 3d, Kd)
+"Cole Stephens" shows a Kh, 5d.
+-- ending hand #211 --
+-- starting hand #212  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (4479) | #7 "Sam" (6701) | #10 "Cole F" (8820)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #212 --
+-- starting hand #213  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (4509) | #7 "Sam" (6691) | #10 "Cole F" (8800)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 70
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #213 --
+-- starting hand #214  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4489) | #7 "Sam" (6721) | #10 "Cole F" (8790)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #214 --
+-- starting hand #215  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (4479) | #7 "Sam" (6731) | #10 "Cole F" (8790)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" raises to 240
+"Cole Ford" folds
+"Cole Stephens" calls 240
+flop:  [Ks, 10s, Jc] <Pot: 500>
+"Sam Schrader" bets 350
+"Cole Stephens" calls 350
+turn: Ks, 10s, Jc [9c] <Pot: 1200>
+"Sam Schrader" bets 750
+"Cole Stephens" calls 750
+river: Ks, 10s, Jc, 9c [8d] <Pot: 2700>
+"Sam Schrader" checks
+"Cole Stephens" bets 2100
+"Sam Schrader" folds
+Uncalled bet of 2100 returned to "Cole Stephens"
+"Cole Stephens" collected 2700 from pot
+-- ending hand #215 --
+"Cole Stephens" shows a Ac, 2c.
+"Cole Ford" shows a 2s, 7d.
+-- starting hand #216  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5839) | #7 "Sam" (5391) | #10 "Cole F" (8770)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [Js, 7d, 4c] <Pot: 40>
+"Cole Ford" bets 80
+"Cole Stephens" folds
+Uncalled bet of 80 returned to "Cole Ford"
+"Cole Ford" collected 40 from pot
+-- ending hand #216 --
+"Cole Ford" shows a Kc, Kh.
+-- starting hand #217  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5819) | #7 "Sam" (5391) | #10 "Cole F" (8790)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 80
+"Cole Ford" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #217 --
+-- starting hand #218  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5809) | #7 "Sam" (5421) | #10 "Cole F" (8770)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" calls 60
+flop:  [2h, Ad, Js] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 2h, Ad, Js [Ks] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 2h, Ad, Js, Ks [Jh] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a 2c, 4c.
+"Cole Ford" collected 130 from pot with Two Pair, J's & 2's (combination: Js, Jh, 2c, 2h, Ad)
+-- ending hand #218 --
+-- starting hand #219  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5749) | #7 "Sam" (5411) | #10 "Cole F" (8840)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [As, 8h, Jh] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: As, 8h, Jh [6s] <Pot: 160>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+river: As, 8h, Jh, 6s [5d] <Pot: 320>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Jc, 10s.
+"Cole Stephens" collected 320 from pot with Pair, J's (combination: Jc, Jh, As, 10s, 8h)
+"Cole Ford" shows a Js, 3s.
+-- ending hand #219 --
+-- starting hand #220  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5909) | #7 "Sam" (5411) | #10 "Cole F" (8680)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 110
+"Sam Schrader" folds
+"Cole Ford" calls 110
+flop:  [3d, 8c, 9c] <Pot: 240>
+"Cole Stephens" checks
+"Cole Ford" bets 80
+"Cole Stephens" folds
+Uncalled bet of 80 returned to "Cole Ford"
+"Cole Ford" collected 240 from pot
+-- ending hand #220 --
+-- starting hand #221  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5799) | #7 "Sam" (5391) | #10 "Cole F" (8810)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+"Cole Ford" folds
+flop:  [4h, Qs, 5d] <Pot: 140>
+"Sam Schrader" checks
+"Cole Stephens" bets 50
+"Sam Schrader" calls 50
+turn: 4h, Qs, 5d [8c] <Pot: 240>
+"Sam Schrader" checks
+"Cole Stephens" bets 180
+"Sam Schrader" folds
+Uncalled bet of 180 returned to "Cole Stephens"
+"Cole Stephens" collected 240 from pot
+-- ending hand #221 --
+-- starting hand #222  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5929) | #7 "Sam" (5281) | #10 "Cole F" (8790)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" folds
+flop:  [5h, 3s, Qc] <Pot: 140>
+"Cole Ford" checks
+"Sam Schrader" bets 80
+"Cole Ford" calls 80
+turn: 5h, 3s, Qc [2s] <Pot: 300>
+"Cole Ford" checks
+"Sam Schrader" bets 180
+"Cole Ford" calls 180
+river: 5h, 3s, Qc, 2s [2h] <Pot: 660>
+"Cole Ford" checks
+"Sam Schrader" checks
+"Sam Schrader" shows a Ac, Jd.
+"Sam Schrader" collected 660 from pot with Pair, 2's (combination: 2s, 2h, Ac, Qc, Jd)
+"Cole Ford" shows a 10s, 8s.
+-- ending hand #222 --
+-- starting hand #223  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5909) | #7 "Sam" (5621) | #10 "Cole F" (8470)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #223 --
+-- starting hand #224  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5899) | #7 "Sam" (5631) | #10 "Cole F" (8470)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #224 --
+-- starting hand #225  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5929) | #7 "Sam" (5621) | #10 "Cole F" (8450)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [5s, 9s, 7h] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: 5s, 9s, 7h [As] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 5s, 9s, 7h, As [8s] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" shows a 2s, Ad.
+"Cole Stephens" collected 180 from pot with Flush, As High (combination: As, 9s, 8s, 5s, 2s)
+"Cole Ford" shows a 9h, 6c.
+-- ending hand #225 --
+-- starting hand #226  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (6049) | #7 "Sam" (5561) | #10 "Cole F" (8390)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [Ah, 8d, 4h] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+"Sam Schrader" calls 80
+turn: Ah, 8d, 4h [2c] <Pot: 300>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Ah, 8d, 4h, 2c [Ks] <Pot: 300>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" bets 150
+"Cole Stephens" folds
+"Sam Schrader" calls 150
+"Cole Ford" shows a 10h, Kh.
+"Cole Ford" collected 600 from pot with Pair, K's (combination: Kh, Ks, Ah, 10h, 8d)
+-- ending hand #226 --
+-- starting hand #227  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5949) | #7 "Sam" (5311) | #10 "Cole F" (8740)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Cole Stephens"
+"Cole Stephens" collected 50 from pot
+-- ending hand #227 --
+-- starting hand #228  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5979) | #7 "Sam" (5301) | #10 "Cole F" (8720)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [2s, 2h, 9d] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 2s, 2h, 9d [Kh] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" bets 30
+"Cole Ford" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #228 --
+"Cole Stephens" shows a 8c, 5d.
+"Sam Schrader" shows a 9c, 2d.
+-- starting hand #229  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5999) | #7 "Sam" (5301) | #10 "Cole F" (8700)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #229 --
+-- starting hand #230  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5989) | #7 "Sam" (5311) | #10 "Cole F" (8700)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [3s, Jc, 6h] <Pot: 120>
+"Sam Schrader" bets 80
+"Cole Ford" folds
+Uncalled bet of 80 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #230 --
+-- starting hand #231  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5989) | #7 "Sam" (5371) | #10 "Cole F" (8640)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #231 --
+-- starting hand #232  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5999) | #7 "Sam" (5371) | #10 "Cole F" (8630)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" raises to 80
+"Cole Stephens" calls 80
+"Sam Schrader" calls 80
+flop:  [4d, 4c, 2h] <Pot: 240>
+"Cole Stephens" checks
+"Sam Schrader" bets 150
+"Cole Ford" raises to 300
+"Cole Stephens" folds
+"Sam Schrader" calls 300
+turn: 4d, 4c, 2h [Kd] <Pot: 840>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 4d, 4c, 2h, Kd [4h] <Pot: 840>
+"Sam Schrader" bets 500
+"Cole Ford" raises to 1300
+"Sam Schrader" folds
+Uncalled bet of 800 returned to "Cole Ford"
+"Cole Ford" collected 1840 from pot
+-- ending hand #232 --
+"Cole Stephens" shows a 5h, 5c.
+-- starting hand #233  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5919) | #7 "Sam" (4491) | #10 "Cole F" (9590)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #233 --
+-- starting hand #234  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5919) | #7 "Sam" (4481) | #10 "Cole F" (9600)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [4s, 4c, 10d] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" bets 120
+"Cole Ford" folds
+"Cole Stephens" calls 120
+turn: 4s, 4c, 10d [6c] <Pot: 420>
+"Cole Stephens" checks
+"Sam Schrader" bets 280
+"Cole Stephens" raises to 810
+"Sam Schrader" folds
+Uncalled bet of 530 returned to "Cole Stephens"
+"Cole Stephens" collected 980 from pot
+-- ending hand #234 --
+-- starting hand #235  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (6439) | #7 "Sam" (4021) | #10 "Cole F" (9540)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [8h, 3c, 4c] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 8h, 3c, 4c [Ac] <Pot: 50>
+"Sam Schrader" bets 50
+"Cole Ford" folds
+Uncalled bet of 50 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #235 --
+-- starting hand #236  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (6429) | #7 "Sam" (4051) | #10 "Cole F" (9520)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 10 returned to "Cole Ford"
+"Cole Ford" collected 20 from pot
+-- ending hand #236 --
+-- starting hand #237  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (6429) | #7 "Sam" (4041) | #10 "Cole F" (9530)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [Ad, 6c, Jh] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" bets 80
+"Cole Ford" calls 80
+turn: Ad, 6c, Jh [5c] <Pot: 320>
+"Cole Ford" checks
+"Cole Stephens" bets 120
+"Cole Ford" calls 120
+river: Ad, 6c, Jh, 5c [6s] <Pot: 560>
+"Cole Ford" checks
+"Cole Stephens" bets 300
+"Cole Ford" calls 300
+"Cole Ford" shows a 2h, As.
+"Cole Ford" collected 1160 from pot with Two Pair, A's & 6's (combination: As, Ad, 6c, 6s, Jh)
+"Cole Stephens" shows a 9d, 8d.
+-- ending hand #237 --
+-- starting hand #238  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5849) | #7 "Sam" (4041) | #10 "Cole F" (10110)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 120
+"Cole Ford" calls 120
+"Cole Stephens" folds
+flop:  [Kd, Jc, 5d] <Pot: 260>
+"Sam Schrader" bets 160
+"Cole Ford" calls 160
+turn: Kd, Jc, 5d [7c] <Pot: 580>
+"Sam Schrader" bets 360
+"Cole Ford" raises to 720
+"Sam Schrader" calls 720
+river: Kd, Jc, 5d, 7c [Qh] <Pot: 2020>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a Kh, 10h.
+"Cole Ford" collected 2020 from pot with Pair, K's (combination: Kh, Kd, Qh, Jc, 10h)
+"Sam Schrader" shows a Qc, 10d.
+-- ending hand #238 --
+-- starting hand #239  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (5829) | #7 "Sam" (3041) | #10 "Cole F" (11130)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" calls 60
+flop:  [4h, 2s, Ah] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" bets 65
+"Cole Ford" folds
+Uncalled bet of 65 returned to "Cole Stephens"
+"Cole Stephens" collected 130 from pot
+-- ending hand #239 --
+-- starting hand #240  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (5899) | #7 "Sam" (3031) | #10 "Cole F" (11070)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [7h, Jc, 6d] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 7h, Jc, 6d [Kc] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 7h, Jc, 6d, Kc [8s] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a 6s, 5s.
+"Cole Stephens" collected 160 from pot with Pair, 6's (combination: 6s, 6d, Kc, Jc, 8s)
+"Cole Ford" shows a 5h, Ac.
+-- ending hand #240 --
+-- starting hand #241  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (5979) | #7 "Sam" (3031) | #10 "Cole F" (10990)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 120
+"Sam Schrader" folds
+"Cole Ford" calls 120
+flop:  [6s, Qs, 6d] <Pot: 260>
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 6s, Qs, 6d [Ks] <Pot: 260>
+"Cole Stephens" checks
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+river: 6s, Qs, 6d, Ks [5c] <Pot: 420>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a 10s, Qc.
+"Cole Stephens" collected 420 from pot with Two Pair, Q's & 6's (combination: Qc, Qs, 6s, 6d, Ks)
+-- ending hand #241 --
+"Cole Ford" shows a Ac, 5s.
+-- starting hand #242  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (6199) | #7 "Sam" (3011) | #10 "Cole F" (10790)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" calls 70
+"Cole Ford" calls 70
+flop:  [9c, Qs, 10c] <Pot: 210>
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Cole Stephens" folds
+"Sam Schrader" calls 80
+turn: 9c, Qs, 10c [10d] <Pot: 370>
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Sam Schrader" calls 80
+river: 9c, Qs, 10c, 10d [Qh] <Pot: 530>
+"Sam Schrader" checks
+"Cole Ford" checks
+"Cole Ford" shows a 8s, Jc.
+"Cole Ford" collected 530 from pot with Straight, Q High (combination: Qs, Jc, 10c, 9c, 8s)
+"Sam Schrader" shows a 7c, Ac.
+-- ending hand #242 --
+-- starting hand #243  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (6129) | #7 "Sam" (2781) | #10 "Cole F" (11090)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [Kh, 8h, Ks] <Pot: 40>
+"Cole Ford" bets 80
+"Cole Stephens" folds
+Uncalled bet of 80 returned to "Cole Ford"
+"Cole Ford" collected 40 from pot
+-- ending hand #243 --
+-- starting hand #244  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (6109) | #7 "Sam" (2781) | #10 "Cole F" (11110)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 10 returned to "Sam Schrader"
+"Sam Schrader" collected 20 from pot
+-- ending hand #244 --
+-- starting hand #245  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (6099) | #7 "Sam" (2791) | #10 "Cole F" (11110)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [3s, Ad, Ah] <Pot: 120>
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Sam Schrader" calls 80
+turn: 3s, Ad, Ah [8h] <Pot: 280>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 3s, Ad, Ah, 8h [7s] <Pot: 280>
+"Sam Schrader" bets 180
+"Cole Ford" calls 180
+"Sam Schrader" shows a Ac, 9s.
+"Sam Schrader" collected 640 from pot with Three of a Kind, A's (combination: Ac, Ad, Ah, 9s, 8h)
+-- ending hand #245 --
+"Cole Ford" shows a 6s, 3c.
+-- starting hand #246  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (6099) | #7 "Sam" (3111) | #10 "Cole F" (10790)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 150
+"Sam Schrader" folds
+"Cole Ford" calls 150
+flop:  [4s, Kd, Jd] <Pot: 320>
+"Cole Ford" checks
+"Cole Stephens" bets 160
+"Cole Ford" calls 160
+turn: 4s, Kd, Jd [8s] <Pot: 640>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 4s, Kd, Jd, 8s [8c] <Pot: 640>
+"Cole Ford" bets 220
+"Cole Stephens" calls 220
+"Cole Stephens" shows a 7c, Ah.
+"Cole Stephens" collected 540 from pot with Pair, 8's (combination: 8s, 8c, Ah, Kd, Jd)
+"Cole Ford" shows a 7s, As.
+"Cole Ford" collected 540 from pot with Pair, 8's (combination: 8s, 8c, As, Kd, Jd)
+-- ending hand #246 --
+-- starting hand #247  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (6109) | #7 "Sam" (3091) | #10 "Cole F" (10800)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [10s, 10d, Ad] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 10s, 10d, Ad [7c] <Pot: 50>
+"Sam Schrader" bets 40
+"Cole Ford" calls 40
+river: 10s, 10d, Ad, 7c [10h] <Pot: 130>
+"Sam Schrader" bets 150
+"Cole Ford" raises to 300
+"Sam Schrader" raises to 1200
+"Cole Ford" calls 1200
+"Sam Schrader" shows a 10c, 6h.
+"Sam Schrader" collected 2530 from pot with Four of a Kind, 10's (combination: 10c, 10s, 10d, 10h, Ad)
+-- ending hand #247 --
+"Cole Ford" shows a Ah, Kd.
+-- starting hand #248  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (6099) | #7 "Sam" (4361) | #10 "Cole F" (9540)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" calls 20
+"Cole Ford" checks
+flop:  [4h, Kh, 8c] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4h, Kh, 8c [4c] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" checks
+river: 4h, Kh, 8c, 4c [9h] <Pot: 40>
+"Sam Schrader" checks
+"Cole Ford" bets 20
+"Sam Schrader" folds
+Uncalled bet of 20 returned to "Cole Ford"
+"Cole Ford" collected 40 from pot
+-- ending hand #248 --
+"Sam Schrader" shows a 3d, 2d.
+-- starting hand #249  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (6099) | #7 "Sam" (4341) | #10 "Cole F" (9560)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [Jc, Jd, 2d] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Jc, Jd, 2d [5s] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" bets 30
+"Cole Ford" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #249 --
+-- starting hand #250  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (6119) | #7 "Sam" (4341) | #10 "Cole F" (9540)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" folds
+"Sam Schrader" checks
+flop:  [4d, 9d, 6d] <Pot: 50>
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 4d, 9d, 6d [5c] <Pot: 50>
+"Sam Schrader" bets 50
+"Cole Ford" calls 50
+river: 4d, 9d, 6d, 5c [Jd] <Pot: 150>
+"Sam Schrader" bets 110
+"Cole Ford" folds
+Uncalled bet of 110 returned to "Sam Schrader"
+"Sam Schrader" collected 150 from pot
+-- ending hand #250 --
+-- starting hand #251  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (6109) | #7 "Sam" (4421) | #10 "Cole F" (9470)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [2c, 2h, 8d] <Pot: 120>
+"Sam Schrader" bets 60
+"Cole Ford" calls 60
+turn: 2c, 2h, 8d [6h] <Pot: 240>
+"Sam Schrader" bets 140
+"Cole Ford" calls 140
+river: 2c, 2h, 8d, 6h [10c] <Pot: 520>
+"Sam Schrader" bets 420
+"Cole Ford" calls 420
+"Sam Schrader" shows a Kd, Kc.
+"Sam Schrader" collected 1360 from pot with Two Pair, K's & 2's (combination: Kd, Kc, 2c, 2h, 10c)
+-- ending hand #251 --
+-- starting hand #252  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (6109) | #7 "Sam" (5101) | #10 "Cole F" (8790)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" calls 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 140
+"Sam Schrader" folds
+"Cole Ford" calls 140
+flop:  [Ad, 6s, 4h] <Pot: 300>
+"Cole Ford" checks
+"Cole Stephens" bets 120
+"Cole Ford" calls 120
+turn: Ad, 6s, 4h [2c] <Pot: 540>
+"Cole Ford" checks
+"Cole Stephens" bets 405
+"Cole Ford" calls 405
+river: Ad, 6s, 4h, 2c [9h] <Pot: 1350>
+"Cole Ford" checks
+"Cole Stephens" bets 600
+"Cole Ford" raises to 1200
+"Cole Stephens" calls 1200
+"Cole Ford" shows a 2d, 2s.
+"Cole Ford" collected 3750 from pot with Three of a Kind, 2's (combination: 2d, 2s, 2c, Ad, 9h)
+-- ending hand #252 --
+"Cole Stephens" shows a Kh, As.
+-- starting hand #253  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4244) | #7 "Sam" (5081) | #10 "Cole F" (10675)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [5s, 6s, Qc] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: 5s, 6s, Qc [8s] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" bets 45
+"Cole Ford" raises to 90
+"Cole Stephens" folds
+"Sam Schrader" calls 90
+river: 5s, 6s, Qc, 8s [Kd] <Pot: 240>
+"Sam Schrader" checks
+"Cole Ford" bets 240
+"Sam Schrader" folds
+Uncalled bet of 240 returned to "Cole Ford"
+"Cole Ford" collected 240 from pot
+-- ending hand #253 --
+-- starting hand #254  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (4224) | #7 "Sam" (4971) | #10 "Cole F" (10805)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [9c, 4d, 9d] <Pot: 120>
+"Sam Schrader" bets 80
+"Cole Ford" folds
+Uncalled bet of 80 returned to "Sam Schrader"
+"Sam Schrader" collected 120 from pot
+-- ending hand #254 --
+-- starting hand #255  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (4224) | #7 "Sam" (5031) | #10 "Cole F" (10745)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" folds
+Uncalled bet of 10 returned to "Cole Stephens"
+"Cole Stephens" collected 20 from pot
+-- ending hand #255 --
+-- starting hand #256  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (4234) | #7 "Sam" (5031) | #10 "Cole F" (10735)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 120
+"Sam Schrader" folds
+"Cole Ford" calls 120
+flop:  [8c, 7h, Qc] <Pot: 260>
+"Cole Stephens" checks
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+turn: 8c, 7h, Qc [3d] <Pot: 420>
+"Cole Stephens" checks
+"Cole Ford" bets 100
+"Cole Stephens" calls 100
+river: 8c, 7h, Qc, 3d [8d] <Pot: 620>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Ford" shows a Jd, Qh.
+"Cole Ford" collected 620 from pot with Two Pair, Q's & 8's (combination: Qh, Qc, 8c, 8d, Jd)
+"Cole Stephens" shows a Ad, 3s.
+-- ending hand #256 --
+-- starting hand #257  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (3934) | #7 "Sam" (5011) | #10 "Cole F" (11055)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+flop:  [5s, Ac, 3d] <Pot: 120>
+"Sam Schrader" bets 70
+"Cole Ford" calls 70
+turn: 5s, Ac, 3d [8s] <Pot: 260>
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Sam Schrader" calls 80
+river: 5s, Ac, 3d, 8s [9h] <Pot: 420>
+"Sam Schrader" checks
+"Cole Ford" bets 210
+"Sam Schrader" folds
+Uncalled bet of 210 returned to "Cole Ford"
+"Cole Ford" collected 420 from pot
+-- ending hand #257 --
+"Cole Ford" shows a Qc, Qs.
+-- starting hand #258  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (3934) | #7 "Sam" (4801) | #10 "Cole F" (11265)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" folds
+flop:  [8c, 3c, Qd] <Pot: 140>
+"Cole Ford" checks
+"Sam Schrader" bets 60
+"Cole Ford" folds
+Uncalled bet of 60 returned to "Sam Schrader"
+"Sam Schrader" collected 140 from pot
+-- ending hand #258 --
+-- starting hand #259  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (3914) | #7 "Sam" (4881) | #10 "Cole F" (11205)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 100
+"Cole Ford" calls 100
+"Cole Stephens" folds
+flop:  [4s, 5c, 2h] <Pot: 220>
+"Sam Schrader" bets 150
+"Cole Ford" calls 150
+turn: 4s, 5c, 2h [9c] <Pot: 520>
+"Sam Schrader" bets 300
+"Cole Ford" folds
+Uncalled bet of 300 returned to "Sam Schrader"
+"Sam Schrader" collected 520 from pot
+-- ending hand #259 --
+-- starting hand #260  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (3894) | #7 "Sam" (5151) | #10 "Cole F" (10955)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" calls 60
+"Cole Ford" folds
+flop:  [8c, 3c, 8s] <Pot: 140>
+"Sam Schrader" checks
+"Cole Stephens" checks
+turn: 8c, 3c, 8s [3h] <Pot: 140>
+"Sam Schrader" checks
+"Cole Stephens" bets 70
+"Sam Schrader" raises to 180
+"Cole Stephens" calls 180
+river: 8c, 3c, 8s, 3h [2h] <Pot: 500>
+"Sam Schrader" bets 450
+"Cole Stephens" folds
+Uncalled bet of 450 returned to "Sam Schrader"
+"Sam Schrader" collected 500 from pot
+-- ending hand #260 --
+-- starting hand #261  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (3654) | #7 "Sam" (5411) | #10 "Cole F" (10935)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [10c, 5h, 6d] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 10c, 5h, 6d [6s] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 10c, 5h, 6d, 6s [Jh] <Pot: 40>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a Qh, Jd.
+"Cole Ford" collected 40 from pot with Two Pair, J's & 6's (combination: Jd, Jh, 6d, 6s, Qh)
+-- ending hand #261 --
+-- starting hand #262  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (3634) | #7 "Sam" (5411) | #10 "Cole F" (10955)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [9s, 6c, Ac] <Pot: 60>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" bets 80
+"Cole Stephens" folds
+"Sam Schrader" folds
+Uncalled bet of 80 returned to "Cole Ford"
+"Cole Ford" collected 60 from pot
+-- ending hand #262 --
+-- starting hand #263  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (3614) | #7 "Sam" (5391) | #10 "Cole F" (10995)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" folds
+"Cole Ford" raises to 120
+"Cole Stephens" calls 120
+flop:  [10s, Ad, 9h] <Pot: 250>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 10s, Ad, 9h [Kd] <Pot: 250>
+"Cole Ford" checks
+"Cole Stephens" checks
+river: 10s, Ad, 9h, Kd [4s] <Pot: 250>
+"Cole Ford" bets 250
+"Cole Stephens" folds
+Uncalled bet of 250 returned to "Cole Ford"
+"Cole Ford" collected 250 from pot
+-- ending hand #263 --
+"Cole Ford" shows a Ks, Ah.
+-- starting hand #264  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (3494) | #7 "Sam" (5381) | #10 "Cole F" (11125)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" checks
+flop:  [5d, 6s, 8s] <Pot: 40>
+"Cole Ford" bets 100
+"Cole Stephens" calls 100
+turn: 5d, 6s, 8s [5c] <Pot: 240>
+"Cole Ford" bets 80
+"Cole Stephens" calls 80
+river: 5d, 6s, 8s, 5c [6c] <Pot: 400>
+"Cole Ford" checks
+"Cole Stephens" bets 300
+"Cole Ford" raises to 900
+"Cole Stephens" calls 900
+"Cole Stephens" shows a 6h, 2h.
+"Cole Stephens" collected 1100 from pot with Full House, 6's over 5's (combination: 6h, 6s, 6c, 5d, 5c)
+"Cole Ford" shows a 6d, Ac.
+"Cole Ford" collected 1100 from pot with Full House, 6's over 5's (combination: 6d, 6s, 6c, 5d, 5c)
+-- ending hand #264 --
+-- starting hand #265  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (3494) | #7 "Sam" (5381) | #10 "Cole F" (11125)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" calls 20
+"Sam Schrader" raises to 100
+"Cole Ford" calls 100
+"Cole Stephens" folds
+flop:  [7c, 4h, 4d] <Pot: 220>
+"Sam Schrader" bets 120
+"Cole Ford" calls 120
+turn: 7c, 4h, 4d [4s] <Pot: 460>
+"Sam Schrader" bets 200
+"Cole Ford" calls 200
+river: 7c, 4h, 4d, 4s [8c] <Pot: 860>
+"Sam Schrader" bets 400
+"Cole Ford" raises to 800
+"Sam Schrader" calls 800
+"Sam Schrader" shows a Jc, Jd.
+"Sam Schrader" collected 2460 from pot with Full House, 4's over J's (combination: 4h, 4d, 4s, Jc, Jd)
+"Cole Ford" shows a Js, 7h.
+-- ending hand #265 --
+-- starting hand #266  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (3474) | #7 "Sam" (6621) | #10 "Cole F" (9905)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" calls 60
+flop:  [5d, 3d, Ah] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: 5d, 3d, Ah [Kc] <Pot: 130>
+"Cole Ford" bets 60
+"Cole Stephens" calls 60
+river: 5d, 3d, Ah, Kc [8d] <Pot: 250>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Ac, 7s.
+"Cole Stephens" collected 250 from pot with Pair, A's (combination: Ac, Ah, Kc, 8d, 7s)
+"Cole Ford" shows a Jh, Ks.
+-- ending hand #266 --
+-- starting hand #267  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (3604) | #7 "Sam" (6611) | #10 "Cole F" (9785)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+"Cole Stephens" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 50 from pot
+-- ending hand #267 --
+-- starting hand #268  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (3584) | #7 "Sam" (6641) | #10 "Cole F" (9775)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" folds
+"Cole Stephens" calls 20
+"Sam Schrader" checks
+flop:  [Js, 4d, 3d] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+turn: Js, 4d, 3d [Ad] <Pot: 40>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: Js, 4d, 3d, Ad [8d] <Pot: 40>
+"Cole Stephens" bets 30
+"Sam Schrader" folds
+Uncalled bet of 30 returned to "Cole Stephens"
+"Cole Stephens" collected 40 from pot
+-- ending hand #268 --
+-- starting hand #269  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (3604) | #7 "Sam" (6621) | #10 "Cole F" (9775)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 60
+"Sam Schrader" folds
+"Cole Ford" calls 60
+flop:  [Ks, 3s, Jc] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" checks
+turn: Ks, 3s, Jc [7c] <Pot: 130>
+"Cole Ford" checks
+"Cole Stephens" bets 90
+"Cole Ford" folds
+Uncalled bet of 90 returned to "Cole Stephens"
+"Cole Stephens" collected 130 from pot
+-- ending hand #269 --
+-- starting hand #270  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (3674) | #7 "Sam" (6611) | #10 "Cole F" (9715)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+"Cole Ford" calls 20
+"Cole Stephens" raises to 80
+"Cole Ford" calls 80
+flop:  [8c, Ah, Ad] <Pot: 160>
+"Cole Ford" checks
+"Cole Stephens" bets 80
+"Cole Ford" folds
+Uncalled bet of 80 returned to "Cole Stephens"
+"Cole Stephens" collected 160 from pot
+-- ending hand #270 --
+-- starting hand #271  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (3754) | #7 "Sam" (6611) | #10 "Cole F" (9635)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 110
+"Sam Schrader" calls 110
+"Cole Ford" calls 110
+flop:  [Kh, Kc, 3s] <Pot: 330>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+turn: Kh, Kc, 3s [Js] <Pot: 330>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" checks
+river: Kh, Kc, 3s, Js [4c] <Pot: 330>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Ford" bets 100
+"Cole Stephens" calls 100
+"Sam Schrader" folds
+"Cole Ford" shows a Jc, 5c.
+"Cole Ford" collected 530 from pot with Two Pair, K's & J's (combination: Kh, Kc, Jc, Js, 5c)
+-- ending hand #271 --
+-- starting hand #272  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (3544) | #7 "Sam" (6501) | #10 "Cole F" (9955)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" folds
+"Sam Schrader" raises to 60
+"Cole Ford" folds
+Uncalled bet of 40 returned to "Sam Schrader"
+"Sam Schrader" collected 40 from pot
+-- ending hand #272 --
+-- starting hand #273  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (3544) | #7 "Sam" (6521) | #10 "Cole F" (9935)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" raises to 60
+"Cole Ford" calls 60
+"Cole Stephens" calls 60
+flop:  [9c, As, 6h] <Pot: 180>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Sam Schrader" bets 120
+"Cole Ford" folds
+"Cole Stephens" calls 120
+turn: 9c, As, 6h [3s] <Pot: 420>
+"Cole Stephens" checks
+"Sam Schrader" checks
+river: 9c, As, 6h, 3s [7h] <Pot: 420>
+"Cole Stephens" checks
+"Sam Schrader" checks
+"Cole Stephens" shows a 9d, 5d.
+"Cole Stephens" collected 420 from pot with Pair, 9's (combination: 9d, 9c, As, 7h, 6h)
+-- ending hand #273 --
+-- starting hand #274  (No Limit Texas Hold'em) (dealer: "Cole Ford") [3-handed] --
+Player stacks: #3 "Cole Ste" (3784) | #7 "Sam" (6341) | #10 "Cole F" (9875)
+"Cole Stephens" posts a small blind of 10
+"Sam Schrader" posts a big blind of 20
+"Cole Ford" calls 20
+"Cole Stephens" raises to 120
+"Sam Schrader" folds
+"Cole Ford" calls 120
+flop:  [4c, 3d, 9h] <Pot: 260>
+"Cole Stephens" checks
+"Cole Ford" checks
+turn: 4c, 3d, 9h [5s] <Pot: 260>
+"Cole Stephens" bets 130
+"Cole Ford" calls 130
+river: 4c, 3d, 9h, 5s [3c] <Pot: 520>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Ford" shows a Jh, As.
+"Cole Ford" collected 520 from pot with Pair, 3's (combination: 3d, 3c, As, Jh, 9h)
+"Cole Stephens" shows a Jd, Kd.
+-- ending hand #274 --
+-- starting hand #275  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [3-handed] --
+Player stacks: #3 "Cole Ste" (3534) | #7 "Sam" (6321) | #10 "Cole F" (10145)
+"Sam Schrader" posts a small blind of 10
+"Cole Ford" posts a big blind of 20
+"Cole Stephens" raises to 70
+"Sam Schrader" raises to 240
+"Cole Ford" calls 240
+"Cole Stephens" calls 240
+flop:  [3d, 8c, 2c] <Pot: 720>
+"Sam Schrader" bets 460
+"Cole Ford" raises to 920
+"Cole Stephens" folds
+"Sam Schrader" calls 920
+turn: 3d, 8c, 2c [10h] <Pot: 2560>
+"Sam Schrader" checks
+"Cole Ford" bets 1280
+"Sam Schrader" calls 1280
+river: 3d, 8c, 2c, 10h [10c] <Pot: 5120>
+"Sam Schrader" checks
+"Cole Ford" bets 20
+"Sam Schrader" calls 20
+"Cole Ford" shows a 8h, 8s.
+"Cole Ford" collected 5160 from pot with Full House, 8's over 10's (combination: 8h, 8s, 8c, 10h, 10c)
+-- ending hand #275 --
+"Cole Stephens" shows a Kc, 9c.
+-- starting hand #276  (No Limit Texas Hold'em) (dealer: "Sam Schrader") [3-handed] --
+Player stacks: #3 "Cole Ste" (3294) | #7 "Sam" (3861) | #10 "Cole F" (12845)
+"Cole Ford" posts a small blind of 10
+"Cole Stephens" posts a big blind of 20
+"Sam Schrader" folds
+entry,at,order
