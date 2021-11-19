@@ -117,8 +117,8 @@ public class FileUtils {
           return fileLines;
     }
 
-    public static Collection<String> getFileNamesInDirectoryContainingString(String path, String contains) {        
-        Collection<String> fileNames = new ArrayList<String>();
+    public static List<String> getFilePathsInDirectoryContainingString(String path, String contains) {
+        List<String> fileNames = new ArrayList<String>();
         File folder = new File(path);
         System.out.println("Looking in folder " + folder.getName());
         File[] listOfFiles = folder.listFiles();
@@ -126,7 +126,7 @@ public class FileUtils {
             String name = file.getName();
             System.out.println("Found file " + name);
             if(name.contains(contains))
-                fileNames.add(name);
+                fileNames.add(path + "/" + name);
         }
         System.out.println(fileNames);
         return fileNames;

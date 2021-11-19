@@ -8,6 +8,19 @@ import util.*;
 public class Analyzer {
 
     static final FileUtils fileUtils = new FileUtils();
+
+    public static void main(String[] args) {
+        if (args.length < 1) {
+            System.out.println("Requires at least 1 args: path of files to analyze, and string for filename to contain");
+        }
+        String path = args[0];
+        String contains = "";
+        if(args.length > 1)
+            contains = args[1];
+        List<String> filenames = FileUtils.getFilePathsInDirectoryContainingString(path, contains);
+        analyzeHands(filenames);
+    }
+
     public static void analyzeHands(List<String> filenames) {
         Set<HandHistory> allHandHistories = buildHandHistories(filenames);        
         Collection<HandHistory> historiesToProcess = processHandHistories(allHandHistories);                

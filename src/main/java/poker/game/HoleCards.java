@@ -25,10 +25,10 @@ public class HoleCards implements Comparable<HoleCards> {
         if(card1.compareTo(card2) > 0) {
             this.largerCard = card1;
             this.smallerCard = card2;
-        } else {
-            this.largerCard = card2;
-            this.smallerCard = card1;
+            return;
         }
+        this.largerCard = card2;
+        this.smallerCard = card1;
     }
 
     /**
