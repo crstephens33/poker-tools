@@ -80,7 +80,7 @@ public class Analyzer {
 
     private static List<HandHistory> getHandHistoriesFromFileLines(List<String> lines, String fileName) {
         List<HandHistory> handHistories = new ArrayList<>();        
-        ArrayList<String> handLines = new ArrayList<String>();        
+        ArrayList<String> handLines;
         for(int index = 0; index < lines.size(); index++) {
             handLines = new ArrayList<>();
             if(lines.get(index).contains(LogUtils.startingHandPrefix)) {
