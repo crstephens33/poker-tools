@@ -1,4 +1,4 @@
-package poker.range;
+package poker.game.range;
 
 import java.util.*;
 

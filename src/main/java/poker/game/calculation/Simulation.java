@@ -1,4 +1,4 @@
-package poker.game;
+package poker.game.calculation;
 
 import poker.game.basics.*;
 import poker.game.basics.hand_evaluation.FiveCardHand;

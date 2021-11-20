@@ -1,4 +1,4 @@
-package poker.range;
+package poker.game.range;
 
 import poker.game.basics.Card;
 import poker.game.basics.HoleCards;
