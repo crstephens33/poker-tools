@@ -3,7 +3,7 @@ package poker.log;
 import java.util.*;
 import util.*;
 
-public class Poker {
+public class LogControlHome {
     //Program / labelling
     private static final String PROGRAM_VERSION = "2.0.2";
     private static final String CLEAN_OUTPUT_FILE_PATTERN = "%s_clean_%sv%s.txt";
@@ -67,16 +67,11 @@ public class Poker {
             }
         } else if (command.equals(ANALYZE_LOG_COMMAND)) {
             analyzeLog(inputFileNames);
-        } else if (command.equals(MANAGE_COMMAND)) {
-            manageFiles();
         } else {
             message = INVALID_COMMAND_MSG + " " + MENU_PROMPT;
         }
         System.out.println(message);
     }
-
-    
-
 
     private static List<String> filterFileNames(List<String> fileNames) {
         List<String> filteredFileNames = new ArrayList<String>();
@@ -95,19 +90,11 @@ public class Poker {
         Analyzer.analyzeHands(filteredFileNames);
     }
 
-    public static void manageFiles() {
-
-    }
-
     private static String getCleanOutputFileName(final String inputFileName, boolean hiddenHands) {
         String hidden = hiddenHands ? HIDDEN_HANDS_TITLE_TERM : "";
         String inputFileRemoveExt = inputFileName.replace(".txt", "").replace(".csv", "");
         return String.format(CLEAN_OUTPUT_FILE_PATTERN, inputFileRemoveExt, hidden, PROGRAM_VERSION);
     }
-
-    // private static String getAnalysisFileName(String filename) {
-
-    // }
 
     private static Map<String, String> parseArgs(String[] args) {        
         List<String> argList = new ArrayList<String>(Arrays.asList(args));        

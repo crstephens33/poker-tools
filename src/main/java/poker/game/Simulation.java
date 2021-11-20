@@ -1,6 +1,8 @@
 package poker.game;
 
-import poker.log.HandHistory;
+import poker.game.basics.*;
+import poker.game.basics.hand_evaluation.FiveCardHand;
+import poker.game.basics.hand_evaluation.HandRankEncoding;
 import util.LogUtils;
 
 import java.util.*;

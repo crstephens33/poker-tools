@@ -2,7 +2,7 @@ package poker.log;
 
 import java.util.*;
 
-public class LogUtils extends Poker {    
+public class LogUtils extends LogControlHome {
     public static final String startingHandPrefix = "-- starting hand";
     public static final String endingHandPrefix = "-- ending hand";
     

@@ -1,4 +1,4 @@
-package poker.calculation;
+package poker.game.calculation;
 
 public class MDF {
 

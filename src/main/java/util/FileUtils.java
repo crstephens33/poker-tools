@@ -96,14 +96,10 @@ public class FileUtils {
         System.out.println();
     }
 
-    public List<String> readFile(String fileName) {
-        return readFile("", fileName);
-    }
-
-    public List<String> readFile(String location, String fileName) {
+    public List<String> readFile(String filePath) {
         List<String> fileLines = new LinkedList<String>();
         try {
-            File myObj = new File(location + fileName);
+            File myObj = new File(filePath);
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
               String line = myReader.nextLine();

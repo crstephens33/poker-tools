@@ -1,5 +1,7 @@
 package poker.game;
 
+import poker.game.basics.*;
+import poker.game.basics.hand_evaluation.*;
 import util.LogUtils;
 
 import java.util.*;

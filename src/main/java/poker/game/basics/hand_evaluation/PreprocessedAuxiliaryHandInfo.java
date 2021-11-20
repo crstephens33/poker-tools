@@ -1,4 +1,7 @@
-package poker.game;
+package poker.game.basics.hand_evaluation;
+
+import poker.game.basics.Card;
+import poker.game.basics.HoleCards;
 
 import java.util.List;
 import java.util.Set;

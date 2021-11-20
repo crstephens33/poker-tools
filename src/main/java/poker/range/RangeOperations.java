@@ -1,7 +1,7 @@
 package poker.range;
 
-import poker.game.Card;
-import poker.game.HoleCards;
+import poker.game.basics.Card;
+import poker.game.basics.HoleCards;
 
 import java.util.*;
 

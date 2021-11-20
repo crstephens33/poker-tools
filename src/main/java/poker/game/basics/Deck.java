@@ -1,4 +1,4 @@
-package poker.game;
+package poker.game.basics;
 
 import java.util.*;
 

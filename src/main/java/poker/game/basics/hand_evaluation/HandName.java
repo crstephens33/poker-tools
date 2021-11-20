@@ -1,4 +1,4 @@
-package poker.game;
+package poker.game.basics.hand_evaluation;
 
 import java.util.Collections;
 import java.util.HashMap;

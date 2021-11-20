@@ -1,7 +1,8 @@
 package poker.log;
 
 import java.util.*;
-import poker.game.*;
+
+import poker.game.basics.Card;
 
 
 public class ThreeBetResponseAfterRFICalculator extends StatCalculator {

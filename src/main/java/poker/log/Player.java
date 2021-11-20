@@ -86,7 +86,7 @@ public class Player {
     private static Map<String, String> loadAliasesFromFile() {
         HashMap<String, String> aliasToFullName = new HashMap<String, String>();
         FileUtils fileUtils = new FileUtils();
-        List<String> aliasLines = fileUtils.readFile(Poker.getAliasesFile());
+        List<String> aliasLines = fileUtils.readFile(LogControlHome.getAliasesFile());
         for(String line : aliasLines) {
             String[] aliasesAndFullname = line.split(":");
             String[] aliases = aliasesAndFullname[0].split(",");            

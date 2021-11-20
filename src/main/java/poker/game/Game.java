@@ -1,10 +1,6 @@
 package poker.game;
 
-import poker.range.Range;
-
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import poker.game.basics.Deck;
 
 public class Game {
 

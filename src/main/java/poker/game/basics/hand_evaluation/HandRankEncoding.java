@@ -1,4 +1,6 @@
-package poker.game;
+package poker.game.basics.hand_evaluation;
+
+import poker.game.basics.Card;
 
 import java.util.Comparator;
 import java.util.List;
