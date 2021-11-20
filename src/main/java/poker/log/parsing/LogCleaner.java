@@ -1,4 +1,4 @@
-package poker.log;
+package poker.log.parsing;
 
 import java.util.*;
 import util.*;

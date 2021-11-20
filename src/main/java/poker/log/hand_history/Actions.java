@@ -1,4 +1,6 @@
-package poker.log;
+package poker.log.hand_history;
+
+import poker.log.parsing.LogUtils;
 
 import java.util.*;
 

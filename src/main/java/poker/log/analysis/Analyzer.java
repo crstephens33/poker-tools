@@ -1,7 +1,9 @@
-package poker.log;
+package poker.log.analysis;
 
 import java.util.*;
 
+import poker.log.hand_history.*;
+import poker.log.parsing.LogUtils;
 import util.*;
 
 
@@ -22,7 +24,7 @@ public class Analyzer {
     }
 
     public static void analyzeHands(List<String> filenames) {
-        Set<HandHistory> allHandHistories = buildHandHistories(filenames);        
+        Set<HandHistory> allHandHistories = buildHandHistories(filenames);
         Collection<HandHistory> historiesToProcess = processHandHistories(allHandHistories);                
         System.out.println("Number of unique hand histories detected: " + historiesToProcess.size());
         //fileUtils.writeToOutputFile(HandHistory.collectLinesFromHandHistories(historiesToProcess), "SunRunHandsOver100.txt", FileUtils.ANALYSIS_LOCATION);
@@ -37,7 +39,7 @@ public class Analyzer {
         }
     }
 
-    private static String getStatistics(Collection<HandHistory> handHistories, StatCalculator calculator) {        
+    private static String getStatistics(Collection<HandHistory> handHistories, StatCalculator calculator) {
         calculator.calculateStatsFromHandHistories(handHistories);
         return calculator.getResults();
     }  
@@ -83,11 +85,11 @@ public class Analyzer {
         ArrayList<String> handLines;
         for(int index = 0; index < lines.size(); index++) {
             handLines = new ArrayList<>();
-            if(lines.get(index).contains(LogUtils.startingHandPrefix)) {
+            if(lines.get(index).contains(poker.log.parsing.LogUtils.startingHandPrefix)) {
                 while(index < lines.size() - 1) { //once we reach the next hand, exit
                     handLines.add(lines.get(index));
                     index++;
-                    if(lines.get(index).contains(LogUtils.endingHandPrefix)) { //hand is over, now look to see if anyone showed
+                    if(lines.get(index).contains(poker.log.parsing.LogUtils.endingHandPrefix)) { //hand is over, now look to see if anyone showed
                         handLines.add(lines.get(index));
                         for(int showsIndex = index + 1; showsIndex < lines.size(); showsIndex++) {
                             String showLine = lines.get(showsIndex);

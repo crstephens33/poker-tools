@@ -1,6 +1,8 @@
-package poker.log;
+package poker.log.hand_history;
 
 import java.util.*;
+
+import poker.log.parsing.LogControlHome;
 import util.*;
 
 public class Player {

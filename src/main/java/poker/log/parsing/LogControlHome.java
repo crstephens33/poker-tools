@@ -1,6 +1,8 @@
-package poker.log;
+package poker.log.parsing;
 
 import java.util.*;
+
+import poker.log.analysis.Analyzer;
 import util.*;
 
 public class LogControlHome {

@@ -1,4 +1,6 @@
-package poker.log;
+package poker.log.hand_history;
+
+import poker.log.parsing.LogUtils;
 
 import java.util.*;
 import java.lang.Override;
@@ -47,7 +49,7 @@ public class HandHistory {
             
             //once we have gone all the way around preflop - i.e., we see the SB act after already being added, then we know all the positions 
             if(currentStreet.equals(PREFLOP_STREET) && playerPositions.size() == 0 &&
-            initialPositions.containsKey(LogUtils.parseNameFromLine(line))) { 
+            initialPositions.containsKey(LogUtils.parseNameFromLine(line))) {
                 playerPositions = calculateFinalPositions(initialPositions);
             } 
 

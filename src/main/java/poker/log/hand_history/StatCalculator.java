@@ -1,4 +1,4 @@
-package poker.log;
+package poker.log.hand_history;
 
 import java.util.*;
 
@@ -45,7 +45,7 @@ public abstract class StatCalculator {
     }  
 
     //don't think there is a way around having this code - need specified types to allow a "put" to work.
-    protected void incrementDoubleValue(Map<Position, Double> map, Position key) {        
+    protected void incrementDoubleValue(Map<Position, Double> map, Position key) {
         map.put(key, map.getOrDefault(key, 0.0) + 1.0);
     }  
 
