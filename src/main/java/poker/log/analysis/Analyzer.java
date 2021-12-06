@@ -1,34 +1,68 @@
 package poker.log.analysis;
 
-import java.util.*;
-
 import poker.log.hand_history.*;
 import poker.log.parsing.LogUtils;
-import util.*;
+import util.FileUtils;
 
+import java.util.*;
 
 public class Analyzer {
 
-    static final FileUtils fileUtils = new FileUtils();
+    private static final String SORT_OPTION = "--sort";
+    private static final String SORT_PREFLOP = "-preflop";
+    private static final String SORT_POT = "-pot";
+
+    private static final FileUtils fileUtils = new FileUtils();
 
     public static void main(String[] args) {
+        Set<String> argSet = new HashSet<>(Arrays.asList(args));
         if (args.length < 1) {
-            System.out.println("Requires at least 1 args: path of files to analyze, and string for filename to contain");
+            System.out.println("Requires at least 1 arg: string for filename to contain");
+            System.exit(1);
         }
-        String path = args[0];
-        String contains = "";
-        if(args.length > 1)
-            contains = args[1];
+        String path = FileUtils.CLEAN_LOGS_LOCATION;
+        String contains = args[0];
+
         List<String> filenames = FileUtils.getFilePathsInDirectoryContainingString(path, contains);
-        analyzeHands(filenames);
+        Comparator<HandHistory> comparator = null;
+        if(argSet.contains(SORT_OPTION)) {
+            if(argSet.contains(SORT_POT)) {
+                comparator = new HandHistoryComparators.PotSizeComparator().reversed();
+            } else if (argSet.contains("placeholder")) {
+                comparator = null;
+            } else { //default to sorting on pot size
+                comparator = new HandHistoryComparators.PotSizeComparator();
+            }
+            outputSortedHistories(filenames, comparator, "SortedFileOutput.txt");
+        } else {
+            analyzeHands(filenames);
+        }
+    }
+
+    public static void outputSortedHistories(List<String> filenames, Comparator<HandHistory> comparator, String outputFilename) {
+        List<HandHistory> sortedHistories = sortHandHistoriesFromFiles(filenames, comparator);
+        writeHandHistoriesToOutputFile(sortedHistories, outputFilename);
+    }
+
+    public static List<HandHistory> sortHandHistoriesFromFiles(List<String> filenames, Comparator<HandHistory> comparator) {
+        List<HandHistory> histories = getFilteredHistoriesFromFilenames(filenames);
+        Collections.sort(histories, comparator);
+        return histories;
+    }
+
+    public static List<HandHistory> getFilteredHistoriesFromFilenames(List<String> filenames) {
+        Set<HandHistory> allHandHistories = buildHandHistoriesFromFileNames(filenames);
+        List<HandHistory> historiesToProcess = processHandHistories(allHandHistories);
+        return historiesToProcess;
+    }
+
+    public static void writeHandHistoriesToOutputFile(List<HandHistory> histories, String filename) {
+        fileUtils.writeToOutputFile(HandHistory.collectLinesFromHandHistories(histories), filename, FileUtils.ANALYSIS_LOCATION);
     }
 
     public static void analyzeHands(List<String> filenames) {
-        Set<HandHistory> allHandHistories = buildHandHistories(filenames);
-        Collection<HandHistory> historiesToProcess = processHandHistories(allHandHistories);                
+        List<HandHistory> historiesToProcess = getFilteredHistoriesFromFilenames(filenames);
         System.out.println("Number of unique hand histories detected: " + historiesToProcess.size());
-        //fileUtils.writeToOutputFile(HandHistory.collectLinesFromHandHistories(historiesToProcess), "SunRunHandsOver100.txt", FileUtils.ANALYSIS_LOCATION);
-        //String[] playerNames = new String[]{"Cole Stephens", "Sam Schrader", "Cole Ford", "Jack Betcher", "Jack Stephens", "Dylan Russian", "Joe Delory", "Jake"};
         String[] playerNames = new String[]{"Cole Stephens", "Cole Ford"};
         for(String player : playerNames) {
             String formattedPlayer = Player.buildPlayerNameKey(player);
@@ -44,13 +78,13 @@ public class Analyzer {
         return calculator.getResults();
     }  
 
-    private static Collection<HandHistory> processHandHistories(Collection<HandHistory> handHistories) {
-        Set<HandHistory> uniqueHistories = new HashSet<>();        
+    private static List<HandHistory> processHandHistories(Collection<HandHistory> handHistories) {
+        Set<HandHistory> uniqueHistories = new HashSet<>();
         for(HandHistory history : handHistories) {
-            //if(history.getWinningPot() > 10000)
+            if(history.getWinningPot() > 1000)
                 uniqueHistories.add(history);
         }
-        return uniqueHistories;
+        return new ArrayList<>(uniqueHistories);
     }
 
     private static boolean coleDealtInPreflop(HandHistory handHistory) {
@@ -71,16 +105,16 @@ public class Analyzer {
         return handHistory.getFlopPlayers().contains(player);
     }
 
-    private static Set<HandHistory> buildHandHistories(List<String> filenames) {
+    private static Set<HandHistory> buildHandHistoriesFromFileNames(List<String> filenames) {
         Set<HandHistory> allHandHistories = new HashSet<>();        
         for(String fileName : filenames) {
             List<String> logLines = fileUtils.readFile(fileName);
-            allHandHistories.addAll(getHandHistoriesFromFileLines(logLines, fileName));
+            allHandHistories.addAll(buildHandHistoriesFromFileLines(logLines, fileName));
         } 
         return allHandHistories;
     }
 
-    private static List<HandHistory> getHandHistoriesFromFileLines(List<String> lines, String fileName) {
+    private static List<HandHistory> buildHandHistoriesFromFileLines(List<String> lines, String fileName) {
         List<HandHistory> handHistories = new ArrayList<>();        
         ArrayList<String> handLines;
         for(int index = 0; index < lines.size(); index++) {

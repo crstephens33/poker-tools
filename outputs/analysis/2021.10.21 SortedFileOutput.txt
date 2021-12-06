@@ -1,0 +1,2399 @@
+-- starting hand #528  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (43383) | #6 "Cole Ste" (116617)
+Your hand is Jh, 5h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [8h, Jc, 5c] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 8h, Jc, 5c [3s] <Pot: 3600.0>
+"Cole Ford" bets 3600
+"Cole Stephens" raises to 7200
+"Cole Ford" raises to 41583 and go all in
+"Cole Stephens" calls 41583
+"Cole Ford" shows a 7d, 5d.
+"Cole Stephens" shows a Jh, 5h.
+River: 8h, Jc, 5c, 3s [7c] <Pot: 86766.0>
+"Cole Stephens" collected 86766 from pot with Two Pair, J's & 5's (combination: Jh, Jc, 5h, 5c, 8h)
+-- ending hand #528 --
+-- starting hand #132  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (24743) | #6 "Cole Ste" (55257)
+Your hand is Jc, Qc
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [7s, 10c, 9c] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" raises to 1800
+"Cole Ford" raises to 3025
+"Cole Stephens" calls 3025
+Turn: 7s, 10c, 9c [Ac] <Pot: 6950.0>
+"Cole Ford" bets 5212
+"Cole Stephens" calls 5212
+River: 7s, 10c, 9c, Ac [5d] <Pot: 17374.0>
+"Cole Ford" bets 13030
+"Cole Stephens" raises to 16056 and go all in
+"Cole Ford" calls 16056 and go all in
+"Cole Stephens" shows a Jc, Qc.
+"Cole Stephens" collected 49486 from pot with Flush, Ac High (combination: Ac, Qc, Jc, 10c, 9c)
+"Cole Ford" shows a As, Ah.
+-- ending hand #132 --
+-- starting hand #378  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (63983) | #6 "Cole Ste" (96017)
+Your hand is 10s, Jd
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [9d, 7c, 8h] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: 9d, 7c, 8h [8d] <Pot: 3000.0>
+"Cole Ford" bets 2250
+"Cole Stephens" raises to 7000
+"Cole Ford" calls 7000
+River: 9d, 7c, 8h, 8d [4c] <Pot: 17000.0>
+"Cole Ford" bets 8550
+"Cole Stephens" calls 8550
+"Cole Stephens" shows a 10s, Jd.
+"Cole Stephens" collected 34100 from pot with Straight, J High (combination: Jd, 10s, 9d, 8h, 7c)
+"Cole Ford" shows a Ah, Jh.
+-- ending hand #378 --
+-- starting hand #61  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (16575) | #6 "Cole Ste" (23425)
+Your hand is 3d, 4d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [5d, Jh, 2d] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" raises to 1650
+"Cole Stephens" calls 1650
+Turn: 5d, Jh, 2d [Ah] <Pot: 3600.0>
+"Cole Stephens" checks
+"Cole Ford" bets 2700
+"Cole Stephens" raises to 8000
+"Cole Ford" calls 8000
+River: 5d, Jh, 2d, Ah [4s] <Pot: 19600.0>
+"Cole Stephens" bets 6775 and go all in
+"Cole Ford" calls 6775 and go all in
+"Cole Stephens" shows a 3d, 4d.
+"Cole Stephens" collected 33150 from pot with Straight, 5 High (combination: 5d, 4d, 3d, 2d, Ah)
+"Cole Ford" shows a Ad, 7d.
+-- ending hand #61 --
+-- starting hand #453  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (46333) | #6 "Cole Ste" (113667)
+Your hand is Kd, Kc
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [5c, 10s, Qh] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 5c, 10s, Qh [Ks] <Pot: 3600.0>
+"Cole Stephens" checks
+"Cole Ford" bets 3600
+"Cole Stephens" calls 3600
+River: 5c, 10s, Qh, Ks [7d] <Pot: 10800.0>
+"Cole Stephens" checks
+"Cole Ford" bets 10850
+"Cole Stephens" raises to 40933 and go all in
+"Cole Ford" folds
+Uncalled bet of 30083 returned to "Cole Stephens"
+"Cole Stephens" collected 32500 from pot
+-- ending hand #453 --
+-- starting hand #80  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (30400) | #6 "Cole Ste" (49600)
+Your hand is Kh, Qc
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [Ks, Qh, 7s] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" raises to 1777
+"Cole Ford" calls 1777
+Turn: Ks, Qh, 7s [3s] <Pot: 4454.0>
+"Cole Ford" checks
+"Cole Stephens" bets 2227
+"Cole Ford" raises to 4504
+"Cole Stephens" calls 4504
+River: Ks, Qh, 7s, 3s [2h] <Pot: 13462.0>
+"Cole Ford" bets 7715
+"Cole Stephens" calls 7715
+"Cole Ford" shows a As, 6s.
+"Cole Ford" collected 28892 from pot with Flush, As High (combination: As, Ks, 7s, 6s, 3s)
+-- ending hand #80 --
+-- starting hand #128  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (44093) | #6 "Cole Ste" (35907)
+Your hand is 7h, 9h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [5h, 8s, 8h] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" calls 750
+Turn: 5h, 8s, 8h [6s] <Pot: 1800.0>
+"Cole Ford" bets 1000
+"Cole Stephens" raises to 3500
+"Cole Ford" calls 3500
+River: 5h, 8s, 8h, 6s [3d] <Pot: 8800.0>
+"Cole Ford" bets 4500
+"Cole Stephens" raises to 10000
+"Cole Ford" calls 10000
+"Cole Stephens" shows a 7h, 9h.
+"Cole Stephens" collected 28800 from pot with Straight, 9 High (combination: 9h, 8s, 7h, 6s, 5h)
+-- ending hand #128 --
+"Cole Ford" shows a 6c, 9d.
+-- starting hand #198  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (67067) | #6 "Cole Ste" (92933)
+Your hand is 9s, 9d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" raises to 1100
+"Cole Ford" calls 1100
+Flop:  [9h, 5h, Kd] <Pot: 2200.0>
+"Cole Ford" bets 1650
+"Cole Stephens" calls 1650
+Turn: 9h, 5h, Kd [4d] <Pot: 5500.0>
+"Cole Ford" bets 3000
+"Cole Stephens" calls 3000
+River: 9h, 5h, Kd, 4d [8c] <Pot: 11500.0>
+"Cole Ford" bets 8625
+"Cole Stephens" calls 8625
+"Cole Stephens" shows a 9s, 9d.
+"Cole Stephens" collected 28750 from pot with Three of a Kind, 9's (combination: 9s, 9d, 9h, Kd, 8c)
+"Cole Ford" shows a 6d, 5s.
+-- ending hand #198 --
+-- starting hand #227  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (57017) | #6 "Cole Ste" (102983)
+Your hand is 4s, 5s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [3h, 3s, 5c] <Pot: 1200.0>
+"Cole Stephens" bets 400
+"Cole Ford" calls 400
+Turn: 3h, 3s, 5c [2s] <Pot: 2000.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1500
+"Cole Stephens" calls 1500
+River: 3h, 3s, 5c, 2s [Ad] <Pot: 5000.0>
+"Cole Stephens" bets 3750
+"Cole Ford" raises to 10000
+"Cole Stephens" calls 10000
+"Cole Ford" shows a 3d, Ac.
+"Cole Ford" collected 25000 from pot with Full House, 3's over A's (combination: 3d, 3h, 3s, Ac, Ad)
+-- ending hand #227 --
+-- starting hand #142  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (76400) | #6 "Cole Ste" (83600)
+Your hand is Jc, Jh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [Qh, Ac, Js] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" calls 750
+Turn: Qh, Ac, Js [2h] <Pot: 1800.0>
+"Cole Ford" checks
+"Cole Stephens" bets 2220
+"Cole Ford" calls 2220
+River: Qh, Ac, Js, 2h [2s] <Pot: 6240.0>
+"Cole Ford" checks
+"Cole Stephens" bets 8000
+"Cole Ford" calls 8000
+"Cole Stephens" shows a Jc, Jh.
+"Cole Stephens" collected 22240 from pot with Full House, J's over 2's (combination: Jc, Jh, Js, 2h, 2s)
+-- ending hand #142 --
+-- starting hand #455  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (30033) | #6 "Cole Ste" (129967)
+Your hand is Qc, Jd
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 350
+"Cole Stephens" calls 350
+Flop:  [6d, Qd, 3s] <Pot: 700.0>
+"Cole Stephens" checks
+"Cole Ford" bets 700
+"Cole Stephens" calls 700
+Turn: 6d, Qd, 3s [6c] <Pot: 2100.0>
+"Cole Stephens" checks
+"Cole Ford" bets 2100
+"Cole Stephens" calls 2100
+River: 6d, Qd, 3s, 6c [2c] <Pot: 6300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 6600
+"Cole Stephens" calls 6600
+"Cole Ford" shows a 6h, Ac.
+"Cole Ford" collected 19500 from pot with Three of a Kind, 6's (combination: 6h, 6d, 6c, Ac, Qd)
+-- ending hand #455 --
+-- starting hand #70  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (39875) | #6 "Cole Ste" (40125)
+Your hand is Jd, Js
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [8s, 5s, 10d] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" raises to 2100
+"Cole Stephens" calls 2100
+Turn: 8s, 5s, 10d [4d] <Pot: 4500.0>
+"Cole Ford" bets 2350
+"Cole Stephens" calls 2350
+River: 8s, 5s, 10d, 4d [Qh] <Pot: 9200.0>
+"Cole Ford" bets 5000
+"Cole Stephens" calls 5000
+"Cole Stephens" shows a Jd, Js.
+"Cole Stephens" collected 19200 from pot with Pair, J's (combination: Jd, Js, Qh, 10d, 8s)
+"Cole Ford" shows a As, 10c.
+-- ending hand #70 --
+-- starting hand #383  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (46883) | #6 "Cole Ste" (113117)
+Your hand is 10h, 8h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 200
+"Cole Stephens" calls 200
+Flop:  [9h, Qh, As] <Pot: 400.0>
+"Cole Stephens" checks
+"Cole Ford" bets 400
+"Cole Stephens" calls 400
+Turn: 9h, Qh, As [5h] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" raises to 4000
+"Cole Ford" calls 4000
+River: 9h, Qh, As, 5h [Ks] <Pot: 9200.0>
+"Cole Stephens" bets 4600
+"Cole Ford" calls 4600
+"Cole Stephens" shows a 10h, 8h.
+"Cole Stephens" collected 18400 from pot with Flush, Qh High (combination: Qh, 10h, 9h, 8h, 5h)
+-- ending hand #383 --
+"Cole Ford" shows a 10c, Ah.
+-- starting hand #476  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (41983) | #6 "Cole Ste" (118017)
+Your hand is Jh, 9h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [6c, Js, 10h] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 6c, Js, 10h [Ac] <Pot: 3600.0>
+"Cole Ford" bets 2700
+"Cole Stephens" calls 2700
+River: 6c, Js, 10h, Ac [3h] <Pot: 9000.0>
+"Cole Ford" bets 4600
+"Cole Stephens" calls 4600
+"Cole Stephens" shows a Jh, 9h.
+"Cole Stephens" collected 18200 from pot with Pair, J's (combination: Jh, Js, Ac, 10h, 9h)
+"Cole Ford" shows a Jd, 7c.
+-- ending hand #476 --
+-- starting hand #417  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (48608) | #6 "Cole Ste" (111392)
+Your hand is Qc, Qs
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" raises to 1500
+"Cole Ford" calls 1500
+Flop:  [7h, Ac, Js] <Pot: 3000.0>
+"Cole Stephens" bets 1500
+"Cole Ford" calls 1500
+Turn: 7h, Ac, Js [8d] <Pot: 6000.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 7h, Ac, Js, 8d [10c] <Pot: 6000.0>
+"Cole Stephens" checks
+"Cole Ford" bets 6000
+"Cole Stephens" calls 6000
+"Cole Ford" shows a 9c, 7c.
+"Cole Ford" collected 18000 from pot with Straight, J High (combination: Js, 10c, 9c, 8d, 7c)
+-- ending hand #417 --
+-- starting hand #436  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (59458) | #6 "Cole Ste" (100542)
+Your hand is Ac, 10c
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Js, Qc, 8c] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: Js, Qc, 8c [9h] <Pot: 3000.0>
+"Cole Ford" bets 2250
+"Cole Stephens" raises to 7500
+"Cole Ford" calls 7500
+River: Js, Qc, 8c, 9h [8h] <Pot: 18000.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Ac, 10c.
+"Cole Stephens" collected 18000 from pot with Straight, Q High (combination: Qc, Js, 10c, 9h, 8c)
+"Cole Ford" shows a 7c, 5c.
+-- ending hand #436 --
+-- starting hand #321  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (62891) | #6 "Cole Ste" (97109)
+Your hand is 10c, 7c
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [9c, Jh, 8s] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 300
+"Cole Stephens" raises to 1000
+"Cole Ford" raises to 3300
+"Cole Stephens" calls 3300
+Turn: 9c, Jh, 8s [8h] <Pot: 6900.0>
+"Cole Stephens" checks
+"Cole Ford" bets 5175
+"Cole Stephens" calls 5175
+River: 9c, Jh, 8s, 8h [9d] <Pot: 17250.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a 10c, 7c.
+"Cole Stephens" collected 17250 from pot with Straight, J High (combination: Jh, 10c, 9c, 8s, 7c)
+-- ending hand #321 --
+"Cole Ford" shows a As, Ac.
+-- starting hand #33  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (6275) | #6 "Cole Ste" (13725)
+Your hand is 10c, 9s
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [3c, Jh, 8h] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" raises to 2100
+"Cole Stephens" raises to 6125 and go all in
+"Cole Ford" calls 6125 and go all in
+"Cole Ford" shows a Kh, 2d.
+"Cole Stephens" shows a 10c, 9s.
+Turn: 3c, Jh, 8h [3h] <Pot: 12550.0>
+River: 3c, Jh, 8h, 3h [Ah] <Pot: 12550.0>
+"Cole Ford" collected 12550 from pot with Flush, Ah High (combination: Ah, Kh, Jh, 8h, 3h)
+-- ending hand #33 --
+-- starting hand #104  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (37006) | #6 "Cole Ste" (42994)
+Your hand is Jd, 3d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [Kd, 6c, 7d] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+Turn: Kd, 6c, 7d [7c] <Pot: 2250.0>
+"Cole Ford" bets 1687
+"Cole Stephens" calls 1687
+River: Kd, 6c, 7d, 7c [7s] <Pot: 5624.0>
+"Cole Ford" checks
+"Cole Stephens" bets 2812
+"Cole Ford" raises to 8436
+"Cole Stephens" folds
+Uncalled bet of 5624 returned to "Cole Ford"
+"Cole Ford" collected 11248 from pot
+-- ending hand #104 --
+-- starting hand #391  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (37908) | #6 "Cole Ste" (122092)
+Your hand is Ks, As
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [3s, Jh, Kc] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 3s, Jh, Kc [Qh] <Pot: 3600.0>
+"Cole Stephens" checks
+"Cole Ford" bets 3600
+"Cole Stephens" calls 3600
+River: 3s, Jh, Kc, Qh [Jc] <Pot: 10800.0>
+"Cole Stephens" checks
+"Cole Ford" bets 32508 and go all in
+"Cole Stephens" folds
+Uncalled bet of 32508 returned to "Cole Ford"
+"Cole Ford" collected 10800 from pot
+-- ending hand #391 --
+"Cole Stephens" shows a Ks, As.
+"Cole Ford" shows a Ad, Kh.
+-- starting hand #130  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (29668) | #6 "Cole Ste" (50332)
+Your hand is 10d, Qh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [3s, Qc, 8d] <Pot: 900.0>
+"Cole Ford" bets 500
+"Cole Stephens" calls 500
+Turn: 3s, Qc, 8d [2s] <Pot: 1900.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1000
+"Cole Ford" calls 1000
+River: 3s, Qc, 8d, 2s [10c] <Pot: 3900.0>
+"Cole Ford" bets 3025
+"Cole Stephens" calls 3025
+"Cole Stephens" shows a 10d, Qh.
+"Cole Stephens" collected 9950 from pot with Two Pair, Q's & 10's (combination: Qh, Qc, 10d, 10c, 8d)
+"Cole Ford" shows a Ac, 7c.
+-- ending hand #130 --
+-- starting hand #102  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (41656) | #6 "Cole Ste" (38344)
+Your hand is Kd, Ac
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [4d, 10d, Jd] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" calls 750
+Turn: 4d, 10d, Jd [7c] <Pot: 1800.0>
+"Cole Ford" bets 1400
+"Cole Stephens" calls 1400
+River: 4d, 10d, Jd, 7c [8d] <Pot: 4600.0>
+"Cole Ford" checks
+"Cole Stephens" bets 2400
+"Cole Ford" calls 2400
+"Cole Stephens" shows a Kd, Ac.
+"Cole Stephens" collected 9400 from pot with Flush, Kd High (combination: Kd, Jd, 10d, 8d, 4d)
+-- ending hand #102 --
+"Cole Ford" shows a 7h, Js.
+-- starting hand #312  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (67616) | #6 "Cole Ste" (92384)
+Your hand is Jd, 8s
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [9d, 4d, Jc] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+Turn: 9d, 4d, Jc [6s] <Pot: 2250.0>
+"Cole Ford" bets 1175
+"Cole Stephens" calls 1175
+River: 9d, 4d, Jc, 6s [6c] <Pot: 4600.0>
+"Cole Ford" bets 2300
+"Cole Stephens" calls 2300
+"Cole Stephens" shows a Jd, 8s.
+"Cole Stephens" collected 9200 from pot with Two Pair, J's & 6's (combination: Jd, Jc, 6s, 6c, 9d)
+"Cole Ford" shows a 5h, 9s.
+-- ending hand #312 --
+-- starting hand #484  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (35908) | #6 "Cole Ste" (124092)
+Your hand is Ks, Ah
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [6d, 3c, 5c] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 6d, 3c, 5c [2d] <Pot: 3600.0>
+"Cole Ford" bets 2700
+"Cole Stephens" calls 2700
+River: 6d, 3c, 5c, 2d [9c] <Pot: 9000.0>
+"Cole Ford" bets 9000
+"Cole Stephens" folds
+Uncalled bet of 9000 returned to "Cole Ford"
+"Cole Ford" collected 9000 from pot
+-- ending hand #484 --
+-- starting hand #138  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (79150) | #6 "Cole Ste" (80850)
+Your hand is 7h, 5d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [9c, Js, 6s] <Pot: 900.0>
+"Cole Ford" bets 500
+"Cole Stephens" calls 500
+Turn: 9c, Js, 6s [8c] <Pot: 1900.0>
+"Cole Ford" bets 1000
+"Cole Stephens" raises to 3500
+"Cole Ford" calls 3500
+River: 9c, Js, 6s, 8c [4d] <Pot: 8900.0>
+"Cole Ford" checks
+"Cole Stephens" bets 4440
+"Cole Ford" folds
+Uncalled bet of 4440 returned to "Cole Stephens"
+"Cole Stephens" collected 8900 from pot
+-- ending hand #138 --
+-- starting hand #311  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (71728) | #6 "Cole Ste" (88272)
+Your hand is 7d, 8d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 650
+"Cole Ford" calls 650
+Flop:  [8s, 10h, Jh] <Pot: 1300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 975
+"Cole Stephens" calls 975
+Turn: 8s, 10h, Jh [3s] <Pot: 3250.0>
+"Cole Stephens" checks
+"Cole Ford" bets 2487
+"Cole Stephens" calls 2487
+River: 8s, 10h, Jh, 3s [9c] <Pot: 8224.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a 7d, 8d.
+"Cole Stephens" collected 8224 from pot with Straight, J High (combination: Jh, 10h, 9c, 8d, 7d)
+-- ending hand #311 --
+"Cole Ford" shows a 9d, Kc.
+-- starting hand #361  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (57658) | #6 "Cole Ste" (102342)
+Your hand is 4c, 3c
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [5c, 8d, 6s] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" calls 750
+Turn: 5c, 8d, 6s [4d] <Pot: 1800.0>
+"Cole Stephens" bets 1100
+"Cole Ford" calls 1100
+River: 5c, 8d, 6s, 4d [6h] <Pot: 4000.0>
+"Cole Stephens" bets 2000
+"Cole Ford" raises to 8000
+"Cole Stephens" folds
+Uncalled bet of 6000 returned to "Cole Ford"
+"Cole Ford" collected 8000 from pot
+-- ending hand #361 --
+-- starting hand #174  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (67443) | #6 "Cole Ste" (92557)
+Your hand is Ks, Ah
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [10s, Kc, 5d] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" calls 750
+Turn: 10s, Kc, 5d [3s] <Pot: 1800.0>
+"Cole Ford" bets 1000
+"Cole Stephens" calls 1000
+River: 10s, Kc, 5d, 3s [7c] <Pot: 3800.0>
+"Cole Ford" bets 2000
+"Cole Stephens" calls 2000
+"Cole Stephens" shows a Ks, Ah.
+"Cole Stephens" collected 7800 from pot with Pair, K's (combination: Ks, Kc, Ah, 10s, 7c)
+"Cole Ford" shows a 10h, 6s.
+-- ending hand #174 --
+-- starting hand #209  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (52342) | #6 "Cole Ste" (107658)
+Your hand is Jc, Js
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [Qc, 5h, 5d] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: Qc, 5h, 5d [Qh] <Pot: 3000.0>
+"Cole Stephens" checks
+"Cole Ford" bets 2300
+"Cole Stephens" calls 2300
+River: Qc, 5h, 5d, Qh [Ac] <Pot: 7600.0>
+"Cole Stephens" checks
+"Cole Ford" bets 7800
+"Cole Stephens" folds
+Uncalled bet of 7800 returned to "Cole Ford"
+"Cole Ford" collected 7600 from pot
+-- ending hand #209 --
+-- starting hand #451  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (50183) | #6 "Cole Ste" (109817)
+Your hand is Ad, 10s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Kc, 4c, 10d] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: Kc, 4c, 10d [2h] <Pot: 3000.0>
+"Cole Stephens" checks
+"Cole Ford" bets 2300
+"Cole Stephens" calls 2300
+River: Kc, 4c, 10d, 2h [3s] <Pot: 7600.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a Ad, 10s.
+"Cole Stephens" collected 7600 from pot with Pair, 10's (combination: 10s, 10d, Ad, Kc, 4c)
+-- ending hand #451 --
+"Cole Ford" shows a Jc, 7c.
+-- starting hand #203  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (52842) | #6 "Cole Ste" (107158)
+Your hand is Qs, Ac
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [3h, Qd, 3s] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: 3h, Qd, 3s [2c] <Pot: 3000.0>
+"Cole Stephens" checks
+"Cole Ford" bets 2250
+"Cole Stephens" calls 2250
+River: 3h, Qd, 3s, 2c [As] <Pot: 7500.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a Qs, Ac.
+"Cole Stephens" collected 7500 from pot with Two Pair, A's & Q's (combination: Ac, As, Qs, Qd, 3h)
+-- ending hand #203 --
+"Cole Ford" shows a 8s, Qh.
+-- starting hand #372  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (58708) | #6 "Cole Ste" (101292)
+Your hand is Ad, Kh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [6h, Jc, 10c] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: 6h, Jc, 10c [10h] <Pot: 3000.0>
+"Cole Ford" bets 2250
+"Cole Stephens" calls 2250
+River: 6h, Jc, 10c, 10h [7c] <Pot: 7500.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a 9c, Jh.
+"Cole Ford" collected 7500 from pot with Two Pair, J's & 10's (combination: Jh, Jc, 10c, 10h, 9c)
+-- ending hand #372 --
+-- starting hand #458  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (39658) | #6 "Cole Ste" (120342)
+Your hand is Ah, 3s
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Ad, 2h, 5c] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: Ad, 2h, 5c [6c] <Pot: 3000.0>
+"Cole Ford" bets 2250
+"Cole Stephens" calls 2250
+River: Ad, 2h, 5c, 6c [8s] <Pot: 7500.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Ah, 3s.
+"Cole Stephens" collected 7500 from pot with Pair, A's (combination: Ah, Ad, 8s, 6c, 5c)
+"Cole Ford" shows a Qc, 9c.
+-- ending hand #458 --
+-- starting hand #394  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (43233) | #6 "Cole Ste" (116767)
+Your hand is 8c, Kc
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [5c, Jd, 3s] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: 5c, Jd, 3s [6c] <Pot: 3000.0>
+"Cole Ford" bets 2250
+"Cole Stephens" calls 2250
+River: 5c, Jd, 3s, 6c [Jh] <Pot: 7500.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a 6d, Kd.
+"Cole Ford" collected 7500 from pot with Two Pair, J's & 6's (combination: Jd, Jh, 6d, 6c, Kd)
+-- ending hand #394 --
+-- starting hand #54  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (16375) | #6 "Cole Ste" (3625)
+Your hand is Qc, 2c
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [Kc, Ac, 7s] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: Kc, Ac, 7s [Ks] <Pot: 300.0>
+"Cole Stephens" bets 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+River: Kc, Ac, 7s, Ks [4c] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1000
+"Cole Stephens" raises to 3025 and go all in
+"Cole Ford" calls 3025
+"Cole Ford" shows a Kh, Kd.
+"Cole Ford" collected 7250 from pot with Four of a Kind, K's (combination: Kh, Kd, Kc, Ks, Ac)
+"Cole Stephens" shows a Qc, 2c.
+-- ending hand #54 --
+-- starting hand #472  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (38683) | #6 "Cole Ste" (121317)
+Your hand is Qh, Jh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [4s, 7d, 8d] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 4s, 7d, 8d [Ah] <Pot: 3600.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1800
+"Cole Ford" raises to 7200
+"Cole Stephens" folds
+Uncalled bet of 5400 returned to "Cole Ford"
+"Cole Ford" collected 7200 from pot
+-- ending hand #472 --
+-- starting hand #461  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (35908) | #6 "Cole Ste" (124092)
+Your hand is 10c, 8c
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Qd, 10h, 9s] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: Qd, 10h, 9s [9d] <Pot: 3600.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: Qd, 10h, 9s, 9d [3c] <Pot: 3600.0>
+"Cole Stephens" bets 1800
+"Cole Ford" calls 1800
+"Cole Ford" shows a 10s, 6s.
+"Cole Ford" collected 3600 from pot with Two Pair, 10's & 9's (combination: 10s, 10h, 9s, 9d, Qd)
+"Cole Stephens" shows a 10c, 8c.
+"Cole Stephens" collected 3600 from pot with Two Pair, 10's & 9's (combination: 10c, 10h, 9s, 9d, Qd)
+-- ending hand #461 --
+-- starting hand #348  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (47258) | #6 "Cole Ste" (112742)
+Your hand is Kh, Kd
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" raises to 1400
+"Cole Ford" calls 1400
+Flop:  [9d, Ad, 10s] <Pot: 2800.0>
+"Cole Ford" bets 2100
+"Cole Stephens" calls 2100
+Turn: 9d, Ad, 10s [2c] <Pot: 7000.0>
+"Cole Ford" bets 5250
+"Cole Stephens" folds
+Uncalled bet of 5250 returned to "Cole Ford"
+"Cole Ford" collected 7000 from pot
+-- ending hand #348 --
+"Cole Stephens" shows a Kh, Kd.
+"Cole Ford" shows a 9s, Ac.
+-- starting hand #177  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (63668) | #6 "Cole Ste" (96332)
+Your hand is 7h, 5c
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 200
+"Cole Stephens" calls 200
+Flop:  [3s, 7c, 10d] <Pot: 400.0>
+"Cole Stephens" checks
+"Cole Ford" bets 400
+"Cole Stephens" calls 400
+Turn: 3s, 7c, 10d [8c] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 950
+"Cole Stephens" calls 950
+River: 3s, 7c, 10d, 8c [9s] <Pot: 3100.0>
+"Cole Stephens" bets 1850
+"Cole Ford" raises to 5250
+"Cole Stephens" folds
+Uncalled bet of 3400 returned to "Cole Ford"
+"Cole Ford" collected 6800 from pot
+-- ending hand #177 --
+"Cole Ford" shows a 2d, 9c.
+-- starting hand #351  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (52733) | #6 "Cole Ste" (107267)
+Your hand is 9c, Ac
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 650
+"Cole Ford" calls 650
+Flop:  [5d, 6c, 10d] <Pot: 1300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 975
+"Cole Stephens" calls 975
+Turn: 5d, 6c, 10d [3s] <Pot: 3250.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 5d, 6c, 10d, 3s [10s] <Pot: 3250.0>
+"Cole Stephens" bets 1625
+"Cole Ford" calls 1625
+"Cole Ford" shows a 6s, Js.
+"Cole Ford" collected 6500 from pot with Two Pair, 10's & 6's (combination: 10d, 10s, 6s, 6c, Js)
+"Cole Stephens" shows a 9c, Ac.
+-- ending hand #351 --
+-- starting hand #490  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (40508) | #6 "Cole Ste" (119492)
+Your hand is Jh, As
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 500
+"Cole Stephens" calls 500
+Flop:  [Jc, 10d, Kc] <Pot: 1000.0>
+"Cole Ford" bets 1000
+"Cole Stephens" calls 1000
+Turn: Jc, 10d, Kc [3d] <Pot: 3000.0>
+"Cole Ford" bets 1550
+"Cole Stephens" calls 1550
+River: Jc, 10d, Kc, 3d [Ac] <Pot: 6100.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Jh, As.
+"Cole Stephens" collected 6100 from pot with Two Pair, A's & J's (combination: As, Ac, Jh, Jc, Kc)
+"Cole Ford" shows a 4h, 10h.
+-- ending hand #490 --
+-- starting hand #206  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (48967) | #6 "Cole Ste" (111033)
+Your hand is 2c, 4c
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Ac, 9h, 3h] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: Ac, 9h, 3h [Jc] <Pot: 3000.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1500
+"Cole Ford" calls 1500
+River: Ac, 9h, 3h, Jc [2d] <Pot: 6000.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a Ks, 9c.
+"Cole Ford" collected 6000 from pot with Pair, 9's (combination: 9c, 9h, Ac, Ks, Jc)
+-- ending hand #206 --
+-- starting hand #292  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (66353) | #6 "Cole Ste" (93647)
+Your hand is 6d, 7c
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [4c, 10c, 8h] <Pot: 300.0>
+"Cole Ford" bets 300
+"Cole Stephens" raises to 1000
+"Cole Ford" calls 1000
+Turn: 4c, 10c, 8h [3s] <Pot: 2300.0>
+"Cole Ford" bets 1725
+"Cole Stephens" calls 1725
+River: 4c, 10c, 8h, 3s [Qc] <Pot: 5750.0>
+"Cole Ford" bets 4862
+"Cole Stephens" folds
+Uncalled bet of 4862 returned to "Cole Ford"
+"Cole Ford" collected 5750 from pot
+-- ending hand #292 --
+-- starting hand #283  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (69390) | #6 "Cole Ste" (90610)
+Your hand is 2s, Qs
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [9h, 5c, 10s] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 300
+"Cole Stephens" calls 300
+Turn: 9h, 5c, 10s [Qd] <Pot: 900.0>
+"Cole Stephens" checks
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+River: 9h, 5c, 10s, Qd [Qc] <Pot: 2250.0>
+"Cole Stephens" bets 1687
+"Cole Ford" calls 1687
+"Cole Stephens" shows a 2s, Qs.
+"Cole Stephens" collected 5624 from pot with Three of a Kind, Q's (combination: Qs, Qd, Qc, 10s, 9h)
+-- ending hand #283 --
+"Cole Ford" shows a 9s, Jd.
+-- starting hand #469  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (36058) | #6 "Cole Ste" (123942)
+Your hand is 7d, 7h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Js, Qs, 6d] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: Js, Qs, 6d [3d] <Pot: 3600.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: Js, Qs, 6d, 3d [6h] <Pot: 3600.0>
+"Cole Stephens" bets 1000
+"Cole Ford" raises to 6600
+"Cole Stephens" folds
+Uncalled bet of 5600 returned to "Cole Ford"
+"Cole Ford" collected 5600 from pot
+-- ending hand #469 --
+-- starting hand #60  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (19175) | #6 "Cole Ste" (20825)
+Your hand is 2h, Jh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [7d, 10c, 9h] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 7d, 10c, 9h [8d] <Pot: 750.0>
+"Cole Ford" checks
+"Cole Stephens" bets 425
+"Cole Ford" calls 425
+River: 7d, 10c, 9h, 8d [3s] <Pot: 1600.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1800
+"Cole Ford" calls 1800
+"Cole Stephens" shows a 2h, Jh.
+"Cole Stephens" collected 5200 from pot with Straight, J High (combination: Jh, 10c, 9h, 8d, 7d)
+-- ending hand #60 --
+"Cole Ford" shows a 10s, Qs.
+-- starting hand #98  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (44171) | #6 "Cole Ste" (35829)
+Your hand is Jh, 10h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [Jc, 6c, Jd] <Pot: 300.0>
+"Cole Ford" bets 200
+"Cole Stephens" calls 200
+Turn: Jc, 6c, Jd [7h] <Pot: 700.0>
+"Cole Ford" checks
+"Cole Stephens" bets 666
+"Cole Ford" calls 666
+River: Jc, 6c, Jd, 7h [7c] <Pot: 2032.0>
+"Cole Ford" bets 1524
+"Cole Stephens" raises to 5500
+"Cole Ford" folds
+Uncalled bet of 3976 returned to "Cole Stephens"
+"Cole Stephens" collected 5080 from pot
+-- ending hand #98 --
+-- starting hand #363  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (61058) | #6 "Cole Ste" (98942)
+Your hand is 7d, 8s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [6h, 6s, 10h] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 300
+"Cole Stephens" calls 300
+Turn: 6h, 6s, 10h [3d] <Pot: 900.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 6h, 6s, 10h, 3d [9d] <Pot: 900.0>
+"Cole Stephens" checks
+"Cole Ford" bets 675
+"Cole Stephens" raises to 2000
+"Cole Ford" calls 2000
+"Cole Stephens" shows a 7d, 8s.
+"Cole Stephens" collected 4900 from pot with Straight, 10 High (combination: 10h, 9d, 8s, 7d, 6h)
+-- ending hand #363 --
+"Cole Ford" shows a Jh, 10d.
+-- starting hand #7  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (9050) | #6 "Cole Ste" (10950)
+Your hand is 8d, Jc
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [Qh, 3s, Jd] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: Qh, 3s, Jd [2c] <Pot: 750.0>
+"Cole Ford" bets 475
+"Cole Stephens" calls 475
+River: Qh, 3s, Jd, 2c [9d] <Pot: 1700.0>
+"Cole Ford" bets 1525
+"Cole Stephens" calls 1525
+"Cole Stephens" shows a 8d, Jc.
+"Cole Stephens" collected 4750 from pot with Pair, J's (combination: Jc, Jd, Qh, 9d, 8d)
+"Cole Ford" shows a 3d, 6h.
+-- ending hand #7 --
+-- starting hand #228  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (69517) | #6 "Cole Ste" (90483)
+Your hand is 6s, 6d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [5c, 5h, 7d] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 5c, 5h, 7d [7c] <Pot: 750.0>
+"Cole Ford" bets 475
+"Cole Stephens" calls 475
+River: 5c, 5h, 7d, 7c [9c] <Pot: 1700.0>
+"Cole Ford" bets 1425
+"Cole Stephens" calls 1425
+"Cole Ford" shows a 7h, Ks.
+"Cole Ford" collected 4550 from pot with Full House, 7's over 5's (combination: 7h, 7d, 7c, 5c, 5h)
+-- ending hand #228 --
+-- starting hand #192  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (69017) | #6 "Cole Ste" (90983)
+Your hand is 2d, 5d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [Ad, Kc, Kd] <Pot: 300.0>
+"Cole Ford" checks
+"Cole Stephens" bets 150
+"Cole Ford" calls 150
+Turn: Ad, Kc, Kd [7d] <Pot: 600.0>
+"Cole Ford" checks
+"Cole Stephens" bets 450
+"Cole Ford" calls 450
+River: Ad, Kc, Kd, 7d [Qs] <Pot: 1500.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1500
+"Cole Ford" calls 1500
+"Cole Stephens" shows a 2d, 5d.
+"Cole Stephens" collected 4500 from pot with Flush, Ad High (combination: Ad, Kd, 7d, 5d, 2d)
+-- ending hand #192 --
+"Cole Ford" shows a Ac, 7s.
+-- starting hand #265  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (69615) | #6 "Cole Ste" (90385)
+Your hand is Ah, 8h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [Ad, Kc, 3c] <Pot: 1200.0>
+"Cole Stephens" bets 300
+"Cole Ford" calls 300
+Turn: Ad, Kc, 3c [8s] <Pot: 1800.0>
+"Cole Stephens" bets 1350
+"Cole Ford" calls 1350
+River: Ad, Kc, 3c, 8s [5h] <Pot: 4500.0>
+"Cole Stephens" bets 3175
+"Cole Ford" folds
+Uncalled bet of 3175 returned to "Cole Stephens"
+"Cole Stephens" collected 4500 from pot
+-- ending hand #265 --
+"Cole Ford" shows a 2c, 2d.
+-- starting hand #322  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (54266) | #6 "Cole Ste" (105734)
+Your hand is Ac, 10d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [Kc, 8h, As] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+Turn: Kc, 8h, As [4c] <Pot: 2250.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1125
+"Cole Ford" calls 1125
+River: Kc, 8h, As, 4c [9s] <Pot: 4500.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1200
+"Cole Ford" folds
+Uncalled bet of 1200 returned to "Cole Stephens"
+"Cole Stephens" collected 4500 from pot
+-- ending hand #322 --
+-- starting hand #332  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (51941) | #6 "Cole Ste" (108059)
+Your hand is 4h, 5h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [3s, 6d, 3h] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" calls 750
+Turn: 3s, 6d, 3h [Js] <Pot: 1800.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1333
+"Cole Ford" calls 1333
+River: 3s, 6d, 3h, Js [7h] <Pot: 4466.0>
+"Cole Ford" checks
+"Cole Stephens" bets 3330
+"Cole Ford" folds
+Uncalled bet of 3330 returned to "Cole Stephens"
+"Cole Stephens" collected 4466 from pot
+-- ending hand #332 --
+-- starting hand #245  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (72667) | #6 "Cole Ste" (87333)
+Your hand is Qh, Ks
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [9h, 6h, Js] <Pot: 1200.0>
+"Cole Stephens" bets 600
+"Cole Ford" calls 600
+Turn: 9h, 6h, Js [8c] <Pot: 2400.0>
+"Cole Stephens" bets 1000
+"Cole Ford" calls 1000
+River: 9h, 6h, Js, 8c [Jc] <Pot: 4400.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Ford" shows a Qd, Kh.
+"Cole Ford" collected 2200 from pot with Pair, J's (combination: Js, Jc, Kh, Qd, 9h)
+"Cole Stephens" shows a Qh, Ks.
+"Cole Stephens" collected 2200 from pot with Pair, J's (combination: Js, Jc, Ks, Qh, 9h)
+-- ending hand #245 --
+-- starting hand #349  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (50758) | #6 "Cole Ste" (109242)
+Your hand is 8h, 8d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 650
+"Cole Ford" raises to 1950
+"Cole Stephens" calls 1950
+Flop:  [4h, 9h, 10d] <Pot: 3900.0>
+"Cole Stephens" checks
+"Cole Ford" bets 2925
+"Cole Stephens" folds
+Uncalled bet of 2925 returned to "Cole Ford"
+"Cole Ford" collected 3900 from pot
+-- ending hand #349 --
+-- starting hand #49  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (14450) | #6 "Cole Ste" (5550)
+Your hand is 5h, 6h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [10c, Kh, 8h] <Pot: 300.0>
+"Cole Ford" bets 200
+"Cole Stephens" raises to 700
+"Cole Ford" calls 700
+Turn: 10c, Kh, 8h [7s] <Pot: 1700.0>
+"Cole Ford" bets 1000
+"Cole Stephens" calls 1000
+River: 10c, Kh, 8h, 7s [Jd] <Pot: 3700.0>
+"Cole Ford" bets 2825
+"Cole Stephens" folds
+Uncalled bet of 2825 returned to "Cole Ford"
+"Cole Ford" collected 3700 from pot
+-- ending hand #49 --
+-- starting hand #503  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (39958) | #6 "Cole Ste" (120042)
+Your hand is 6s, 7s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [10h, 5h, Ks] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 10h, 5h, Ks [Qh] <Pot: 3600.0>
+"Cole Stephens" checks
+"Cole Ford" bets 3600
+"Cole Stephens" folds
+Uncalled bet of 3600 returned to "Cole Ford"
+"Cole Ford" collected 3600 from pot
+-- ending hand #503 --
+-- starting hand #508  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (41808) | #6 "Cole Ste" (118192)
+Your hand is Js, Qh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [3s, 3c, 10h] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 3s, 3c, 10h [5c] <Pot: 3600.0>
+"Cole Ford" bets 3600
+"Cole Stephens" folds
+Uncalled bet of 3600 returned to "Cole Ford"
+"Cole Ford" collected 3600 from pot
+-- ending hand #508 --
+"Cole Ford" shows a 9h, 9d.
+-- starting hand #496  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (37583) | #6 "Cole Ste" (122417)
+Your hand is 8s, Ad
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [2d, Qh, 9d] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 2d, Qh, 9d [2c] <Pot: 3600.0>
+"Cole Ford" bets 3600
+"Cole Stephens" folds
+Uncalled bet of 3600 returned to "Cole Ford"
+"Cole Ford" collected 3600 from pot
+-- ending hand #496 --
+-- starting hand #482  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (34058) | #6 "Cole Ste" (125942)
+Your hand is 4c, Ah
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [4h, 10c, 5c] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" calls 1200
+Turn: 4h, 10c, 5c [Kc] <Pot: 3600.0>
+"Cole Ford" bets 2700
+"Cole Stephens" folds
+Uncalled bet of 2700 returned to "Cole Ford"
+"Cole Ford" collected 3600 from pot
+-- ending hand #482 --
+-- starting hand #301  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (69953) | #6 "Cole Ste" (90047)
+Your hand is Jd, 9d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 650
+"Cole Ford" calls 650
+Flop:  [2s, Qs, 2h] <Pot: 1300.0>
+"Cole Stephens" bets 975
+"Cole Ford" calls 975
+Turn: 2s, Qs, 2h [8c] <Pot: 3250.0>
+"Cole Stephens" checks
+"Cole Ford" bets 2437
+"Cole Stephens" folds
+Uncalled bet of 2437 returned to "Cole Ford"
+"Cole Ford" collected 3250 from pot
+-- ending hand #301 --
+-- starting hand #427  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (58083) | #6 "Cole Ste" (101917)
+Your hand is 9c, 9d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [7h, 8h, 5h] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: 7h, 8h, 5h [2c] <Pot: 1200.0>
+"Cole Stephens" bets 450
+"Cole Ford" calls 450
+River: 7h, 8h, 5h, 2c [Kh] <Pot: 2100.0>
+"Cole Stephens" bets 500
+"Cole Ford" calls 500
+"Cole Ford" shows a Kd, Jd.
+"Cole Ford" collected 3100 from pot with Pair, K's (combination: Kd, Kh, Jd, 8h, 7h)
+"Cole Stephens" shows a 9c, 9d.
+-- ending hand #427 --
+-- starting hand #357  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (55958) | #6 "Cole Ste" (104042)
+Your hand is Kc, 10d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [4s, Kd, Js] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: 4s, Kd, Js [5h] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 300
+"Cole Stephens" calls 300
+River: 4s, Kd, Js, 5h [6d] <Pot: 900.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1100
+"Cole Stephens" calls 1100
+"Cole Ford" shows a 5s, 4h.
+"Cole Ford" collected 3100 from pot with Two Pair, 5's & 4's (combination: 5s, 5h, 4h, 4s, Kd)
+-- ending hand #357 --
+-- starting hand #261  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (70340) | #6 "Cole Ste" (89660)
+Your hand is 4c, Ac
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [3s, Ah, 5d] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: 3s, Ah, 5d [3h] <Pot: 3000.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 3s, Ah, 5d, 3h [Kd] <Pot: 3000.0>
+"Cole Stephens" bets 1500
+"Cole Ford" folds
+Uncalled bet of 1500 returned to "Cole Stephens"
+"Cole Stephens" collected 3000 from pot
+-- ending hand #261 --
+-- starting hand #274  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (66640) | #6 "Cole Ste" (93360)
+Your hand is Ks, Js
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [10c, 6s, 6c] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" calls 900
+Turn: 10c, 6s, 6c [4c] <Pot: 3000.0>
+"Cole Ford" bets 2250
+"Cole Stephens" folds
+Uncalled bet of 2250 returned to "Cole Ford"
+"Cole Ford" collected 3000 from pot
+-- ending hand #274 --
+-- starting hand #5  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (10400) | #6 "Cole Ste" (9600)
+Your hand is Kd, Jd
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [8d, 6d, Jc] <Pot: 300.0>
+"Cole Ford" checks
+"Cole Stephens" bets 150
+"Cole Ford" calls 150
+Turn: 8d, 6d, Jc [Ks] <Pot: 600.0>
+"Cole Ford" bets 350
+"Cole Stephens" raises to 1100
+"Cole Ford" calls 1100
+River: 8d, 6d, Jc, Ks [3h] <Pot: 2800.0>
+"Cole Ford" checks
+"Cole Stephens" bets 2500
+"Cole Ford" folds
+Uncalled bet of 2500 returned to "Cole Stephens"
+"Cole Stephens" collected 2800 from pot
+-- ending hand #5 --
+"Cole Ford" shows a 10s, 9d.
+-- starting hand #231  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (72142) | #6 "Cole Ste" (87858)
+Your hand is Qh, Ad
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 650
+"Cole Ford" calls 650
+Flop:  [9d, 2c, Qc] <Pot: 1300.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: 9d, 2c, Qc [3c] <Pot: 1300.0>
+"Cole Stephens" bets 650
+"Cole Ford" calls 650
+River: 9d, 2c, Qc, 3c [10h] <Pot: 2600.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a Qh, Ad.
+"Cole Stephens" collected 2600 from pot with Pair, Q's (combination: Qh, Qc, Ad, 10h, 9d)
+-- ending hand #231 --
+"Cole Ford" shows a 3s, As.
+-- starting hand #288  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (67328) | #6 "Cole Ste" (92672)
+Your hand is Ah, 9s
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [7d, 2d, Ad] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 7d, 2d, Ad [7s] <Pot: 750.0>
+"Cole Ford" checks
+"Cole Stephens" bets 250
+"Cole Ford" calls 250
+River: 7d, 2d, Ad, 7s [3h] <Pot: 1250.0>
+"Cole Ford" bets 625
+"Cole Stephens" calls 625
+"Cole Stephens" shows a Ah, 9s.
+"Cole Stephens" collected 2500 from pot with Two Pair, A's & 7's (combination: Ah, Ad, 7d, 7s, 9s)
+"Cole Ford" shows a 3c, 2h.
+-- ending hand #288 --
+-- starting hand #115  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (43505) | #6 "Cole Ste" (36495)
+Your hand is Qc, 10h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [Kd, Ad, 8d] <Pot: 1200.0>
+"Cole Stephens" bets 600
+"Cole Ford" calls 600
+Turn: Kd, Ad, 8d [2c] <Pot: 2400.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: Kd, Ad, 8d, 2c [3d] <Pot: 2400.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Ford" shows a 7h, Ac.
+"Cole Ford" collected 2400 from pot with Pair, A's (combination: Ac, Ad, Kd, 8d, 7h)
+"Cole Stephens" shows a Qc, 10h.
+-- ending hand #115 --
+-- starting hand #464  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (36533) | #6 "Cole Ste" (123467)
+Your hand is 6c, 8c
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Jd, 5h, 8s] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" bets 600
+"Cole Ford" calls 600
+Turn: Jd, 5h, 8s [5s] <Pot: 2400.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+River: Jd, 5h, 8s, 5s [2h] <Pot: 2400.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a 6c, 8c.
+"Cole Stephens" collected 2400 from pot with Two Pair, 8's & 5's (combination: 8c, 8s, 5h, 5s, Jd)
+"Cole Ford" shows a 3s, 9s.
+-- ending hand #464 --
+-- starting hand #401  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (47258) | #6 "Cole Ste" (112742)
+Your hand is 6h, Qh
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [3h, 3s, 6c] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: 3h, 3s, 6c [7d] <Pot: 300.0>
+"Cole Stephens" bets 225
+"Cole Ford" calls 225
+River: 3h, 3s, 6c, 7d [Jh] <Pot: 750.0>
+"Cole Stephens" checks
+"Cole Ford" bets 750
+"Cole Stephens" calls 750
+"Cole Ford" shows a Jd, 10h.
+"Cole Ford" collected 2250 from pot with Two Pair, J's & 3's (combination: Jd, Jh, 3h, 3s, 10h)
+-- ending hand #401 --
+-- starting hand #106  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (42780) | #6 "Cole Ste" (37220)
+Your hand is 8h, Js
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [10h, 10c, 7d] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+Turn: 10h, 10c, 7d [5d] <Pot: 2250.0>
+"Cole Ford" bets 1737
+"Cole Stephens" folds
+Uncalled bet of 1737 returned to "Cole Ford"
+"Cole Ford" collected 2250 from pot
+-- ending hand #106 --
+-- starting hand #218  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (57092) | #6 "Cole Ste" (102908)
+Your hand is As, Js
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [4d, Qs, 8c] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+Turn: 4d, Qs, 8c [Qh] <Pot: 2250.0>
+"Cole Ford" bets 1687
+"Cole Stephens" folds
+Uncalled bet of 1687 returned to "Cole Ford"
+"Cole Ford" collected 2250 from pot
+-- ending hand #218 --
+-- starting hand #341  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (48883) | #6 "Cole Ste" (111117)
+Your hand is 7c, 5s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [10c, 7d, 10d] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 300
+"Cole Stephens" calls 300
+Turn: 10c, 7d, 10d [Ad] <Pot: 900.0>
+"Cole Stephens" checks
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+River: 10c, 7d, 10d, Ad [Kh] <Pot: 2250.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a 7c, 5s.
+"Cole Stephens" collected 2250 from pot with Two Pair, 10's & 7's (combination: 10c, 10d, 7c, 7d, Ad)
+-- ending hand #341 --
+"Cole Ford" shows a 9h, 8d.
+-- starting hand #438  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (50433) | #6 "Cole Ste" (109567)
+Your hand is Jd, Ac
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [2s, 4c, 9d] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+Turn: 2s, 4c, 9d [Qd] <Pot: 2250.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1125
+"Cole Ford" folds
+Uncalled bet of 1125 returned to "Cole Stephens"
+"Cole Stephens" collected 2250 from pot
+-- ending hand #438 --
+-- starting hand #140  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (74675) | #6 "Cole Ste" (85325)
+Your hand is Qc, 10d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [Jd, 2d, Ah] <Pot: 900.0>
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+Turn: Jd, 2d, Ah [Jh] <Pot: 2250.0>
+"Cole Ford" bets 1687
+"Cole Stephens" folds
+Uncalled bet of 1687 returned to "Cole Ford"
+"Cole Ford" collected 2250 from pot
+-- ending hand #140 --
+-- starting hand #373  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (62458) | #6 "Cole Ste" (97542)
+Your hand is 5d, 3d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [3c, 2s, Kc] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 300
+"Cole Stephens" calls 300
+Turn: 3c, 2s, Kc [2h] <Pot: 900.0>
+"Cole Stephens" checks
+"Cole Ford" bets 675
+"Cole Stephens" calls 675
+River: 3c, 2s, Kc, 2h [Kh] <Pot: 2250.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1937
+"Cole Stephens" folds
+Uncalled bet of 1937 returned to "Cole Ford"
+"Cole Ford" collected 2250 from pot
+-- ending hand #373 --
+-- starting hand #247  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (71717) | #6 "Cole Ste" (88283)
+Your hand is 5h, Kh
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [Ks, 7c, Kd] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: Ks, 7c, Kd [9c] <Pot: 300.0>
+"Cole Stephens" bets 150
+"Cole Ford" calls 150
+River: Ks, 7c, Kd, 9c [5d] <Pot: 600.0>
+"Cole Stephens" bets 777
+"Cole Ford" calls 777
+"Cole Stephens" shows a 5h, Kh.
+"Cole Stephens" collected 2154 from pot with Full House, K's over 5's (combination: Kh, Ks, Kd, 5h, 5d)
+-- ending hand #247 --
+"Cole Ford" shows a 9d, 4d.
+-- starting hand #75  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (29475) | #6 "Cole Ste" (50525)
+Your hand is 2d, 9h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [6h, 3c, Qh] <Pot: 1200.0>
+"Cole Stephens" bets 450
+"Cole Ford" raises to 2025
+"Cole Stephens" folds
+Uncalled bet of 1575 returned to "Cole Ford"
+"Cole Ford" collected 2100 from pot
+-- ending hand #75 --
+-- starting hand #246  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (72667) | #6 "Cole Ste" (87333)
+Your hand is Qs, 10c
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 450
+"Cole Stephens" calls 450
+Flop:  [8c, 5c, 9d] <Pot: 900.0>
+"Cole Ford" bets 500
+"Cole Stephens" calls 500
+Turn: 8c, 5c, 9d [Qd] <Pot: 1900.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1000
+"Cole Ford" folds
+Uncalled bet of 1000 returned to "Cole Stephens"
+"Cole Stephens" collected 1900 from pot
+-- ending hand #246 --
+"Cole Ford" shows a 3h, 3s.
+-- starting hand #268  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (67690) | #6 "Cole Ste" (92310)
+Your hand is 6h, 2h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [Ks, 3s, 8h] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 800
+"Cole Ford" calls 800
+Turn: Ks, 3s, 8h [Qs] <Pot: 1900.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1100
+"Cole Ford" folds
+Uncalled bet of 1100 returned to "Cole Stephens"
+"Cole Stephens" collected 1900 from pot
+-- ending hand #268 --
+-- starting hand #120  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (44905) | #6 "Cole Ste" (35095)
+Your hand is Ks, Qs
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [10c, Ac, 9d] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 10c, Ac, 9d [5c] <Pot: 750.0>
+"Cole Ford" checks
+"Cole Stephens" bets 562
+"Cole Ford" calls 562
+River: 10c, Ac, 9d, 5c [10s] <Pot: 1874.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a Ks, Qs.
+"Cole Stephens" collected 1874 from pot with Pair, 10's (combination: 10c, 10s, Ac, Ks, Qs)
+"Cole Ford" shows a 7h, 6c.
+-- ending hand #120 --
+-- starting hand #182  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (66943) | #6 "Cole Ste" (93057)
+Your hand is 8h, Kh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [Qh, 7d, Ac] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: Qh, 7d, Ac [Jd] <Pot: 750.0>
+"Cole Ford" checks
+"Cole Stephens" bets 562
+"Cole Ford" calls 562
+River: Qh, 7d, Ac, Jd [8s] <Pot: 1874.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Ford" shows a Qc, 5c.
+"Cole Ford" collected 1874 from pot with Pair, Q's (combination: Qc, Qh, Ac, Jd, 8s)
+-- ending hand #182 --
+-- starting hand #189  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (67805) | #6 "Cole Ste" (92195)
+Your hand is Ac, 7d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [2c, Jc, 10h] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 2c, Jc, 10h [Qs] <Pot: 750.0>
+"Cole Stephens" checks
+"Cole Ford" bets 562
+"Cole Stephens" calls 562
+River: 2c, Jc, 10h, Qs [6h] <Pot: 1874.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1505
+"Cole Stephens" folds
+Uncalled bet of 1505 returned to "Cole Ford"
+"Cole Ford" collected 1874 from pot
+-- ending hand #189 --
+-- starting hand #149  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (65555) | #6 "Cole Ste" (94445)
+Your hand is 7s, 4s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [Ks, 10s, Qd] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: Ks, 10s, Qd [2s] <Pot: 750.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: Ks, 10s, Qd, 2s [3d] <Pot: 750.0>
+"Cole Stephens" bets 562
+"Cole Ford" calls 562
+"Cole Stephens" shows a 7s, 4s.
+"Cole Stephens" collected 1874 from pot with Flush, Ks High (combination: Ks, 10s, 7s, 4s, 2s)
+-- ending hand #149 --
+-- starting hand #92  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (44921) | #6 "Cole Ste" (35079)
+Your hand is 5c, Ac
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [5s, 8s, Ah] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" calls 750
+Turn: 5s, 8s, Ah [Qs] <Pot: 1800.0>
+"Cole Ford" checks
+"Cole Stephens" bets 1350
+"Cole Ford" folds
+Uncalled bet of 1350 returned to "Cole Stephens"
+"Cole Stephens" collected 1800 from pot
+-- ending hand #92 --
+-- starting hand #57  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (20075) | #6 "Cole Ste" (19925)
+Your hand is 9d, 8s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [2s, 10c, Jd] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" raises to 750
+"Cole Ford" calls 750
+Turn: 2s, 10c, Jd [Kd] <Pot: 1800.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 2s, 10c, Jd, Kd [Qc] <Pot: 1800.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a 9d, 8s.
+"Cole Stephens" collected 1800 from pot with Straight, K High (combination: Kd, Qc, Jd, 10c, 9d)
+-- ending hand #57 --
+-- starting hand #133  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+The player "Cole Ford" joined the game with a stack of 80000.
+The player "Cole Stephens" joined the game with a stack of 80000.
+Player stacks: #1 "Cole Ford" (80000) | #6 "Cole Ste" (80000)
+Your hand is 8s, Qh
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [8d, 7d, 4c] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 8d, 7d, 4c [3s] <Pot: 750.0>
+"Cole Stephens" checks
+"Cole Ford" bets 475
+"Cole Stephens" calls 475
+River: 8d, 7d, 4c, 3s [10d] <Pot: 1700.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a 8s, Qh.
+"Cole Stephens" collected 1700 from pot with Pair, 8's (combination: 8s, 8d, Qh, 10d, 7d)
+-- ending hand #133 --
+-- starting hand #333  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (49708) | #6 "Cole Ste" (110292)
+Your hand is 8h, Ac
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [7c, 2s, 6h] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 300
+"Cole Stephens" calls 300
+Turn: 7c, 2s, 6h [7h] <Pot: 900.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 7c, 2s, 6h, 7h [Ah] <Pot: 900.0>
+"Cole Stephens" bets 400
+"Cole Ford" calls 400
+"Cole Stephens" shows a 8h, Ac.
+"Cole Stephens" collected 1700 from pot with Two Pair, A's & 7's (combination: Ac, Ah, 7c, 7h, 8h)
+-- ending hand #333 --
+-- starting hand #165  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (65643) | #6 "Cole Ste" (94357)
+Your hand is Jh, 10c
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [Ad, 7d, 9h] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: Ad, 7d, 9h [3h] <Pot: 750.0>
+"Cole Stephens" checks
+"Cole Ford" bets 475
+"Cole Stephens" calls 475
+River: Ad, 7d, 9h, 3h [9c] <Pot: 1700.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1425
+"Cole Stephens" folds
+Uncalled bet of 1425 returned to "Cole Ford"
+"Cole Ford" collected 1700 from pot
+-- ending hand #165 --
+-- starting hand #44  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (14000) | #6 "Cole Ste" (6000)
+Your hand is 7h, Qd
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [9d, 10s, 8s] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 9d, 10s, 8s [8d] <Pot: 750.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 9d, 10s, 8s, 8d [2c] <Pot: 750.0>
+"Cole Stephens" bets 400
+"Cole Ford" calls 400
+"Cole Ford" shows a 5c, 10c.
+"Cole Ford" collected 1550 from pot with Two Pair, 10's & 8's (combination: 10c, 10s, 8s, 8d, 9d)
+"Cole Stephens" shows a 7h, Qd.
+-- ending hand #44 --
+-- starting hand #215  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (56417) | #6 "Cole Ste" (103583)
+Your hand is 8s, Kc
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [4c, Kh, 7s] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 4c, Kh, 7s [Js] <Pot: 750.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 4c, Kh, 7s, Js [6s] <Pot: 750.0>
+"Cole Stephens" bets 375
+"Cole Ford" raises to 1875
+"Cole Stephens" folds
+Uncalled bet of 1500 returned to "Cole Ford"
+"Cole Ford" collected 1500 from pot
+-- ending hand #215 --
+"Cole Ford" shows a 8h, 5h.
+-- starting hand #275  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (68140) | #6 "Cole Ste" (91860)
+Your hand is 8c, 6h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" calls 150
+Flop:  [9s, 8h, Jd] <Pot: 300.0>
+"Cole Stephens" checks
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: 9s, 8h, Jd [Qh] <Pot: 750.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 9s, 8h, Jd, Qh [7h] <Pot: 750.0>
+"Cole Stephens" bets 350
+"Cole Ford" raises to 1075
+"Cole Stephens" folds
+Uncalled bet of 725 returned to "Cole Ford"
+"Cole Ford" collected 1450 from pot
+-- ending hand #275 --
+"Cole Ford" shows a 7c, 8d.
+-- starting hand #386  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (37133) | #6 "Cole Ste" (122867)
+Your hand is 4d, 4s
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 700
+"Cole Stephens" calls 700
+Flop:  [3h, Qh, 10h] <Pot: 1400.0>
+"Cole Ford" bets 1050
+"Cole Stephens" folds
+Uncalled bet of 1050 returned to "Cole Ford"
+"Cole Ford" collected 1400 from pot
+-- ending hand #386 --
+-- starting hand #343  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (47783) | #6 "Cole Ste" (112217)
+Your hand is 10s, 10h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 650
+"Cole Ford" calls 650
+Flop:  [6d, 9d, Jc] <Pot: 1300.0>
+"Cole Stephens" bets 650
+"Cole Ford" folds
+Uncalled bet of 650 returned to "Cole Stephens"
+"Cole Stephens" collected 1300 from pot
+-- ending hand #343 --
+-- starting hand #287  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (66678) | #6 "Cole Ste" (93322)
+Your hand is Jh, Ad
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 650
+"Cole Ford" raises to 1950
+"Cole Stephens" folds
+Uncalled bet of 1300 returned to "Cole Ford"
+"Cole Ford" collected 1300 from pot
+-- ending hand #287 --
+"Cole Ford" shows a Ks, Ah.
+"Cole Stephens" shows a Jh, Ad.
+-- starting hand #219  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (58217) | #6 "Cole Ste" (101783)
+Your hand is Kd, Jc
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 650
+"Cole Ford" calls 650
+Flop:  [6h, 8s, Qd] <Pot: 1300.0>
+"Cole Stephens" bets 700
+"Cole Ford" folds
+Uncalled bet of 700 returned to "Cole Stephens"
+"Cole Stephens" collected 1300 from pot
+-- ending hand #219 --
+-- starting hand #517  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (43908) | #6 "Cole Ste" (116092)
+Your hand is As, 9h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Js, 2h, Jc] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: Js, 2h, Jc [Ks] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: Js, 2h, Jc, Ks [3d] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+"Cole Stephens" shows a As, 9h.
+"Cole Stephens" collected 1200 from pot with Pair, J's (combination: Js, Jc, As, Ks, 9h)
+-- ending hand #517 --
+-- starting hand #380  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (46908) | #6 "Cole Ste" (113092)
+Your hand is 10c, 10s
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Jc, 7h, As] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+Turn: Jc, 7h, As [3s] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+River: Jc, 7h, As, 3s [2s] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a 10c, 10s.
+"Cole Stephens" collected 1200 from pot with Pair, 10's (combination: 10c, 10s, As, Jc, 7h)
+"Cole Ford" shows a 4h, 6d.
+-- ending hand #380 --
+-- starting hand #477  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (32883) | #6 "Cole Ste" (127117)
+Your hand is As, 5s
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [5d, Qd, Jh] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" folds
+Uncalled bet of 1200 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #477 --
+-- starting hand #362  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (61658) | #6 "Cole Ste" (98342)
+Your hand is 4h, Qh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [2h, As, 10c] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+Turn: 2h, As, 10c [Kh] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" bets 600
+"Cole Ford" folds
+Uncalled bet of 600 returned to "Cole Stephens"
+"Cole Stephens" collected 1200 from pot
+-- ending hand #362 --
+-- starting hand #185  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (67955) | #6 "Cole Ste" (92045)
+Your hand is Jh, Kd
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [10c, 4c, 3h] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: 10c, 4c, 3h [Ad] <Pot: 1200.0>
+"Cole Stephens" bets 900
+"Cole Ford" folds
+Uncalled bet of 900 returned to "Cole Stephens"
+"Cole Stephens" collected 1200 from pot
+-- ending hand #185 --
+-- starting hand #336  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (49958) | #6 "Cole Ste" (110042)
+Your hand is 5h, Ac
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Kd, 6d, 4s] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+Turn: Kd, 6d, 4s [8c] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" bets 600
+"Cole Ford" folds
+Uncalled bet of 600 returned to "Cole Stephens"
+"Cole Stephens" collected 1200 from pot
+-- ending hand #336 --
+-- starting hand #480  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (33483) | #6 "Cole Ste" (126517)
+Your hand is 4h, 6h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [10d, 5s, Ad] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #480 --
+-- starting hand #463  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (35933) | #6 "Cole Ste" (124067)
+Your hand is 5h, 6h
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Jd, 10h, 7c] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" folds
+Uncalled bet of 1200 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #463 --
+-- starting hand #141  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (75800) | #6 "Cole Ste" (84200)
+Your hand is Ad, 5d
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 600
+"Cole Ford" calls 600
+Flop:  [7d, 4s, 6c] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+Turn: 7d, 4s, 6c [6h] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" checks
+River: 7d, 4s, 6c, 6h [5h] <Pot: 1200.0>
+"Cole Stephens" checks
+"Cole Ford" bets 1200
+"Cole Stephens" folds
+Uncalled bet of 1200 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #141 --
+-- starting hand #448  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (49758) | #6 "Cole Ste" (110242)
+Your hand is 9d, Qs
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Ac, 8s, 2s] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #448 --
+-- starting hand #384  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (37683) | #6 "Cole Ste" (122317)
+Your hand is 8c, 10c
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [3s, 2h, 3c] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+Turn: 3s, 2h, 3c [Qs] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" bets 600
+"Cole Ford" folds
+Uncalled bet of 600 returned to "Cole Stephens"
+"Cole Stephens" collected 1200 from pot
+-- ending hand #384 --
+-- starting hand #232  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (70842) | #6 "Cole Ste" (89158)
+Your hand is Jh, 8d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [7c, 8s, Ac] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #232 --
+-- starting hand #240  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (71567) | #6 "Cole Ste" (88433)
+Your hand is Kd, Qh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [7s, 4d, 7h] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #240 --
+"Cole Ford" shows a 7d, 8d.
+-- starting hand #264  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (69015) | #6 "Cole Ste" (90985)
+Your hand is 7h, Kh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Js, 6h, Jd] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #264 --
+-- starting hand #382  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (46283) | #6 "Cole Ste" (113717)
+Your hand is Qd, 3d
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [4s, 2c, 10s] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #382 --
+-- starting hand #296  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (69278) | #6 "Cole Ste" (90722)
+Your hand is Jc, 7c
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [10h, Qh, 6h] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #296 --
+-- starting hand #418  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (57608) | #6 "Cole Ste" (102392)
+Your hand is Qs, 7s
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [8s, 2h, Jc] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #418 --
+-- starting hand #318  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (62616) | #6 "Cole Ste" (97384)
+Your hand is 10c, Kh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [7d, 6h, 2d] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #318 --
+-- starting hand #334  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (48858) | #6 "Cole Ste" (111142)
+Your hand is As, 7h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [8d, Kd, 9c] <Pot: 1200.0>
+"Cole Ford" bets 900
+"Cole Stephens" folds
+Uncalled bet of 900 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #334 --
+-- starting hand #426  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (58683) | #6 "Cole Ste" (101317)
+Your hand is Qc, 7c
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [4c, 3s, Kd] <Pot: 1200.0>
+"Cole Ford" checks
+"Cole Stephens" bets 450
+"Cole Ford" folds
+Uncalled bet of 450 returned to "Cole Stephens"
+"Cole Stephens" collected 1200 from pot
+-- ending hand #426 --
+-- starting hand #466  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (35383) | #6 "Cole Ste" (124617)
+Your hand is 3s, As
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [Qh, 9c, Jd] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" folds
+Uncalled bet of 1200 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #466 --
+-- starting hand #498  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (39358) | #6 "Cole Ste" (120642)
+Your hand is 9s, Qh
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" raises to 600
+"Cole Stephens" calls 600
+Flop:  [6h, 6s, 2h] <Pot: 1200.0>
+"Cole Ford" bets 1200
+"Cole Stephens" folds
+Uncalled bet of 1200 returned to "Cole Ford"
+"Cole Ford" collected 1200 from pot
+-- ending hand #498 --
+-- starting hand #72  (No Limit Texas Hold'em) (dealer: "Cole Stephens") [Heads up] --
+Player stacks: #1 "Cole Ford" (30325) | #6 "Cole Ste" (49675)
+Your hand is 8d, 7h
+"Cole Stephens" posts a small blind of 25
+"Cole Ford" posts a big blind of 50
+"Cole Stephens" raises to 150
+"Cole Ford" calls 150
+Flop:  [Jh, 7c, 6d] <Pot: 300.0>
+"Cole Ford" bets 225
+"Cole Stephens" calls 225
+Turn: Jh, 7c, 6d [Ac] <Pot: 750.0>
+"Cole Ford" bets 200
+"Cole Stephens" calls 200
+River: Jh, 7c, 6d, Ac [2c] <Pot: 1150.0>
+"Cole Ford" checks
+"Cole Stephens" checks
+"Cole Stephens" shows a 8d, 7h.
+"Cole Stephens" collected 1150 from pot with Pair, 7's (combination: 7h, 7c, Ac, Jh, 8d)
+"Cole Ford" shows a 5c, 9s.
+-- ending hand #72 --
+-- starting hand #40  (No Limit Texas Hold'em) (dealer: "Cole Ford") [Heads up] --
+Player stacks: #1 "Cole Ford" (13200) | #6 "Cole Ste" (6800)
+Your hand is Kd, Qh
+"Cole Ford" posts a small blind of 25
+"Cole Stephens" posts a big blind of 50
+"Cole Ford" raises to 150
+"Cole Stephens" raises to 550
+"Cole Ford" raises to 1200
+"Cole Stephens" folds
+Uncalled bet of 650 returned to "Cole Ford"
+"Cole Ford" collected 1100 from pot
+-- ending hand #40 --
+"Cole Ford" shows a Ac, Ah.
