@@ -23,7 +23,6 @@ public abstract class StatCalculator {
         return builder.toString();
     }
     
-    
     public void calculateStatsFromHandHistories(Collection<HandHistory> handHistories) {
         for(HandHistory handHistory : handHistories) {
             Actions actions = handHistory.getActions();
