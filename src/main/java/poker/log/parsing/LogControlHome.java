@@ -1,15 +1,15 @@
 package poker.log.parsing;
 
-import java.util.*;
-
 import poker.log.analysis.Analyzer;
-import util.*;
+import util.FileUtils;
+
+import java.util.*;
 
 public class LogControlHome {
     //Program / labelling
     private static final String PROGRAM_VERSION = "2.0.2";
     private static final String CLEAN_OUTPUT_FILE_PATTERN = "%s_clean_%sv%s.txt";
-    private static final String ALIASES_FILE = "resources\\Aliases.txt";
+    private static final String ALIASES_FILE = "inputs\\config\\Aliases.txt";
 
     public static String getAliasesFile() {
         return ALIASES_FILE;
@@ -40,8 +40,8 @@ public class LogControlHome {
 
 
     public static void run(Map<String, String> inputsMap) {        
-        final List<String> inputFileNames = new LinkedList<String>();
-        final List<String> cleanedOutputFiles = new LinkedList<String>();
+        final List<String> inputFileNames = new ArrayList<String>();
+        final List<String> cleanedOutputFiles = new ArrayList<String>();
 
         String command = inputsMap.get(PROGRAM_COMMAND);                
         //String inputFileLocation = command.equals(ANALYZE_LOG_COMMAND) ? FileUtils.CLEAN_LOGS_LOCATION : ""; 
@@ -55,12 +55,10 @@ public class LogControlHome {
         }
         String plural = inputFileNames.size() == 1 ? "" : "s";
         System.out.println(inputFileNames.size() + " file" + plural + " detected:");
-        inputFileNames.stream().forEach(fileName -> {
-            System.out.println(fileName);
-        });
         String message = "Program finished. ";
         if (command.equals(CLEAN_LOG_COMMAND) || command.equals(CLEAN_AND_ANALYZE_COMMAND)) {
-            for (final String inputFileName : inputFileNames) {
+            inputFileNames.addAll(FileUtils.getAllInputLogFilenamesContaining(""));
+            for(String inputFileName : inputFileNames) {
                 String cleanedOutputFileName = getCleanOutputFileName(inputFileName, hideStartingHand);
                 List<String> cleanLines = LogCleaner.cleanLog(inputFileName, cleanedOutputFileName, inputsMap);
                 final FileUtils outputFileUtils = new FileUtils();
@@ -102,7 +100,8 @@ public class LogControlHome {
         List<String> argList = new ArrayList<String>(Arrays.asList(args));        
         Map<String, String> responseMap = new HashMap<String, String>();
 
-        if(argList.size() == 0 || (argList.size() == 1 && !argList.get(0).equals(MENU_COMMAND))) {            
+        if(argList.size() == 0 || (argList.size() == 1 && !(argList.get(0).equals(MENU_COMMAND) ||
+                argList.get(0).equals(CLEAN_LOG_COMMAND)))) {
             responseMap.put(ARG_ERROR_KEY, "No arguments provided. " + MENU_PROMPT);
             return responseMap;
         }                 
@@ -125,7 +124,10 @@ public class LogControlHome {
                     }
                 }
             }
-        }        
+        } else if (argList.contains(CLEAN_LOG_COMMAND)) {
+            responseMap.put(PROGRAM_COMMAND, CLEAN_LOG_COMMAND);
+        }
+
         return responseMap;
      }
 

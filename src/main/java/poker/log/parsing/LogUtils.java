@@ -161,7 +161,7 @@ public class LogUtils extends LogControlHome {
             int ampersandStart = outputLine.indexOf("@");
             if(ampersandStart > 0) {
                 int hashFinish = ampersandStart + 3 + hashLength;
-                outputLine = outputLine.substring(0, ampersandStart - 1) + outputLine.substring(hashFinish, outputLine.length());
+                outputLine = outputLine.substring(0, ampersandStart - 1) + outputLine.substring(hashFinish);
             }
         }
 
@@ -228,11 +228,11 @@ public class LogUtils extends LogControlHome {
         int firstQuoteIndex = line.indexOf("\"");
         String first = line.substring(0, firstQuoteIndex + 1);
         int secondQuoteIndex = firstQuoteIndex + 1 + line.substring(firstQuoteIndex + 1, line.length()).indexOf("\"");
-        String second = line.substring(secondQuoteIndex, line.length()); 
+        String second = line.substring(secondQuoteIndex);
         String alias = line.substring(firstQuoteIndex + 1, secondQuoteIndex);
         String fullname = Player.getAliases().get(alias.toUpperCase());
         fullname = fullname == null ? alias : fullname;        
-        line = new String(first + fullname + second); 
+        line = first + fullname + second;
         return line;
     }
 
@@ -250,7 +250,7 @@ public class LogUtils extends LogControlHome {
             return 0.0;
         }
         int start = line.indexOf(stackModificationContents) + stackModificationContents.length() + 1;
-        return Double.valueOf(line.substring(start, line.length() - 1).replace(".", ""));
+        return Double.parseDouble(line.substring(start, line.length() - 1).replace(".", ""));
     }
 
     private static String addNumberOfPlayersToStartingHand(String startingHandLine, int numPlayers) {
