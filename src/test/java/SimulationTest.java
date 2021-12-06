@@ -1,9 +1,8 @@
-import poker.game.HoleCards;
-import poker.game.Simulation;
 import org.junit.jupiter.api.Test;
+import poker.game.basics.HoleCards;
+import poker.game.calculation.Simulation;
 
 import java.util.Arrays;
-import java.util.HashSet;
 
 public class SimulationTest {
 

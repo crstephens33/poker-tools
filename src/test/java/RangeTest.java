@@ -1,9 +1,12 @@
-import poker.game.HoleCards;
 import org.junit.jupiter.api.Test;
-import range.Range;
+import poker.game.basics.HoleCards;
+import poker.game.range.Range;
 import util.OutputVerifier;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
