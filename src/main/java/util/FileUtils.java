@@ -10,9 +10,10 @@ import java.nio.file.Paths;
 public class FileUtils {
 
     private FileWriter fileWriter;
-    public static final String CLEAN_LOGS_LOCATION = "outputs\\logs\\clean-logs\\";
-    public static final String ANALYSIS_LOCATION = "outputs\\analysis\\";
-    public static final String RAW_LOGS_LOCATION = "outpurs\\logs\\raw-logs\\";
+    public static final String INPUT_LOGS_LOCATION = "inputs/log-staging";
+    public static final String CLEAN_LOGS_LOCATION = "outputs/logs/clean-logs";
+    public static final String ANALYSIS_LOCATION = "outputs/analysis";
+    public static final String RAW_LOGS_LOCATION = "outputs/logs/raw-logs";
 
 
     public FileUtils(String fileName) { 
@@ -20,6 +21,10 @@ public class FileUtils {
     }
 
     public FileUtils() {      
+    }
+
+    public static List<String> getAllInputLogFilenamesContaining(String nameContains) {
+        return getFilePathsInDirectoryContainingString(INPUT_LOGS_LOCATION, nameContains);
     }
 
     public void setFileName(String fileName) {
@@ -47,13 +52,13 @@ public class FileUtils {
         }
     }
 
-    public boolean moveFromHomeToRaw(String fileName) {
-        return move(fileName, "", RAW_LOGS_LOCATION);
+    public boolean moveFromInputsToRaw(String fileName) {
+        return move(fileName, INPUT_LOGS_LOCATION, RAW_LOGS_LOCATION);
     }
 
     public boolean move(String fileName, String sourcePath, String destinationPath) {
         try {
-            Files.move(Paths.get(sourcePath + fileName), Paths.get(destinationPath + fileName), StandardCopyOption.REPLACE_EXISTING);
+            Files.move(Paths.get(sourcePath + "/" + fileName), Paths.get(destinationPath + "/" + fileName), StandardCopyOption.REPLACE_EXISTING);
         } catch (IOException e) {
             System.out.println("File movement failed");
             return false;
@@ -71,7 +76,7 @@ public class FileUtils {
     }
 
     public void writeToOutputFile(List<String> linesToWrite, String outputFileName, String outputPath) {
-        setFileName(outputPath + outputFileName);
+        setFileName(outputPath + "/" + outputFileName);
         for (final String outputFileLine : linesToWrite)
             fileWrite(outputFileLine);
         close();
@@ -122,7 +127,7 @@ public class FileUtils {
             String name = file.getName();
             System.out.println("Found file " + name);
             if(name.contains(contains))
-                fileNames.add(path + "/" + name);
+                fileNames.add(name);
         }
         System.out.println(fileNames);
         return fileNames;
