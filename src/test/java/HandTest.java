@@ -42,7 +42,7 @@ public class HandTest {
             Set<String> expectedTerms = new HashSet<>(handStringToExpectedHandDetails.get(handString));
             HandRankEncoding description = FiveCardHand.evaluateHandValue(cards);
             System.out.println(handString + ": " + description);
-            assert(expectedTerms.contains(description.handName));
+            assert(expectedTerms.contains(description.handName.label));
             assert(expectedTerms.contains(description.rank));
             String auxCardString = Card.getHandStringFromCards(description.auxiliaryCardsForTiebreaking);
             if(auxCardString.length() > 0)

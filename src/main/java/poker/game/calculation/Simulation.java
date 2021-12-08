@@ -102,7 +102,7 @@ public class Simulation {
                 hand.addAll(flop);
                 hand.addAll(holeCards.getCards());
                 handRankEncoding = FiveCardHand.evaluateHandValue(hand);
-                handName = handRankEncoding.handName;
+                handName = handRankEncoding.handName.label;
                 Double handCount = handCountMap.getOrDefault(handName, 0.0);
                 handCountMap.put(handName, handCount + 1.0);
             }

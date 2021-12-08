@@ -18,7 +18,7 @@ public class FlopSee {
 
     public static void updateFlopHitChartForFlop(HoleCards holeCards, Set<Card> flop, HandRankEncoding encoding, Map<String, Double> hitChart) {
         Set<String> floppedHands = getTypesOfHandForFlop(holeCards, flop); //unofficial hands
-        floppedHands.add(encoding.handName); //official hand
+        floppedHands.add(encoding.handName.label); //official hand
         for(String handName : floppedHands) { //iterate over all existing hand terms
             hitChart.put(handName, hitChart.getOrDefault(handName, 0.0) + 1.0);
         }

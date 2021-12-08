@@ -8,9 +8,14 @@ import java.util.List;
 public class HandRankEncoding implements Comparable<HandRankEncoding> {
 
     /**
+     * Enum value of the hand, i.e. "FULL_HOUSE".
+     */
+    public final HandName handName;
+
+    /**
      * The name of the hand, i.e. "Full house".
      */
-    public final String handName;
+    public final String handNameLabel;
 
     /**
      * Card values used in the hand ranking. I.e., "A" in AAA98 three of a kind.
@@ -23,7 +28,8 @@ public class HandRankEncoding implements Comparable<HandRankEncoding> {
     public final List<Card> auxiliaryCardsForTiebreaking;
 
     public HandRankEncoding(HandName handName, String rank, List<Card> auxiliaryCardsForTiebreaking) {
-        this.handName = handName.label;
+        this.handNameLabel = handName.label;
+        this.handName = handName;
         this.rank = rank;
         this.auxiliaryCardsForTiebreaking = auxiliaryCardsForTiebreaking;
         this.auxiliaryCardsForTiebreaking.sort(Comparator.reverseOrder()); //ensure it is in descending order.
@@ -46,17 +52,17 @@ public class HandRankEncoding implements Comparable<HandRankEncoding> {
     }
 
     public String getPrettyDescription() {
-        switch (HandName.valueOf(handName)) {
-            case ROYAL_FLUSH: return handName;
+        switch (handName) {
+            case ROYAL_FLUSH: return handName.label;
             case STRAIGHT_FLUSH:
                 case FLUSH:
-                case STRAIGHT: return handName + ", " + Card.getName(Card.getValue(rank), false) + " high.";
+                case STRAIGHT: return handName.label + ", " + Card.getName(Card.getValue(rank), false) + " high.";
             case FOUR_OF_A_KIND:
                 case THREE_OF_A_KIND:
-                case ONE_PAIR: return handName + ", " + Card.getName(Card.getValue(rank), true) + ".";
+                case ONE_PAIR: return handName.label + ", " + Card.getName(Card.getValue(rank), true) + ".";
             case FULL_HOUSE:
             case TWO_PAIR: {
-                String term = (HandName.valueOf(handName) == HandName.FULL_HOUSE) ? " over " : " and ";
+                String term = (handName == HandName.FULL_HOUSE) ? " over " : " and ";
                 return handName + ", " + Card.getName(Card.getValue(rank.split(FiveCardHand.TWO_RANK_DELIMITER)[0]), true) + term +
                         Card.getName(Card.getValue(rank.split(FiveCardHand.TWO_RANK_DELIMITER)[1]), true) + ".";
             }
@@ -68,12 +74,12 @@ public class HandRankEncoding implements Comparable<HandRankEncoding> {
         if(other == null) return 1;
         //first check if the hand names are not the same - pick the higher one if so
         if(!handName.equals(other.handName)) {
-            return FiveCardHand.HAND_RANKINGS_MAP.get(HandName.valueOf(handName)).compareTo(FiveCardHand.HAND_RANKINGS_MAP.get(HandName.valueOf(other.handName)));
+            return FiveCardHand.HAND_RANKINGS_MAP.get(handName).compareTo(FiveCardHand.HAND_RANKINGS_MAP.get(other.handName));
         }
         //hand names are the same - full house vs full house or pair vs pair etc.
         int rankComparison;
         //need special boat and two pair rank comparison. 77766 encoded as "7-6, []", 7766K encoded as "7-6, [K]".
-        if(handName.equals(HandName.FULL_HOUSE.label) || handName.equals(HandName.TWO_PAIR.label)) {
+        if(handName.equals(HandName.FULL_HOUSE) || handName.equals(HandName.TWO_PAIR)) {
             int twoRankComparison = twoRankCompareHelper(rank, other.rank);
             if(twoRankComparison != 0) //if a winner determined, return the winner
                 return twoRankComparison;
