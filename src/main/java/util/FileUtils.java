@@ -15,7 +15,6 @@ public class FileUtils {
     public static final String ANALYSIS_LOCATION = "outputs/analysis";
     public static final String RAW_LOGS_LOCATION = "outputs/logs/raw-logs";
 
-
     public FileUtils(String fileName) { 
         this.setFileName(fileName);       
     }
@@ -23,8 +22,8 @@ public class FileUtils {
     public FileUtils() {      
     }
 
-    public static List<String> getAllInputLogFilenamesContaining(String nameContains) {
-        return getFilePathsInDirectoryContainingString(INPUT_LOGS_LOCATION, nameContains);
+    public static List<String> getAllInputLogFilenamesContaining(String nameContains, boolean includePath) {
+        return getFilePathsInDirectoryContainingString(INPUT_LOGS_LOCATION, nameContains, includePath);
     }
 
     public void setFileName(String fileName) {
@@ -118,18 +117,20 @@ public class FileUtils {
           return fileLines;
     }
 
-    public static List<String> getFilePathsInDirectoryContainingString(String path, String contains) {
+    public static List<String> getFilePathsInDirectoryContainingString(String path, String contains, boolean includePath) {
         List<String> fileNames = new ArrayList<String>();
         File folder = new File(path);
-        System.out.println("Looking in folder " + folder.getName());
+//        System.out.println("Looking in folder " + folder.getName() + " in " + path);
         File[] listOfFiles = folder.listFiles();
         for(File file : listOfFiles) {
             String name = file.getName();
-            System.out.println("Found file " + name);
-            if(name.contains(contains))
-                fileNames.add(name);
+//            System.out.println("Found file " + name);
+            if(name.contains(contains)) {
+                String filenameToAdd = includePath ? path + "/" + name : name;
+                fileNames.add(filenameToAdd);
+            }
         }
-        System.out.println(fileNames);
+//        System.out.println(fileNames);
         return fileNames;
     }
     
