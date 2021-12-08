@@ -38,6 +38,15 @@ public class LogControlHome {
         run(parseArgs(args));
     }
 
+    /**
+     * Calls run with an inputs map as if the program was run with "clean" argument
+     */
+    public static void runSimpleClean() {
+        Map<String, String> inputsMap = new HashMap<>();
+        inputsMap = parseArgs(new String[]{"clean"});
+        run(inputsMap);
+    }
+
 
     public static void run(Map<String, String> inputsMap) {        
         final List<String> inputFileNames = new ArrayList<String>();
@@ -57,10 +66,10 @@ public class LogControlHome {
         System.out.println(inputFileNames.size() + " file" + plural + " detected:");
         String message = "Program finished. ";
         if (command.equals(CLEAN_LOG_COMMAND) || command.equals(CLEAN_AND_ANALYZE_COMMAND)) {
-            inputFileNames.addAll(FileUtils.getAllInputLogFilenamesContaining(""));
+            inputFileNames.addAll(FileUtils.getAllInputLogFilenamesContaining("", false));
             for(String inputFileName : inputFileNames) {
                 String cleanedOutputFileName = getCleanOutputFileName(inputFileName, hideStartingHand);
-                List<String> cleanLines = LogCleaner.cleanLog(inputFileName, cleanedOutputFileName, inputsMap);
+                List<String> cleanLines = LogCleaner.cleanLog(inputFileName, FileUtils.INPUT_LOGS_LOCATION, inputsMap);
                 final FileUtils outputFileUtils = new FileUtils();
                 outputFileUtils.writeToOutputFile(cleanLines, cleanedOutputFileName, FileUtils.CLEAN_LOGS_LOCATION);
                 cleanedOutputFiles.add(cleanedOutputFileName);

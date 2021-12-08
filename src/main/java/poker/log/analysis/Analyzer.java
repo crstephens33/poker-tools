@@ -23,7 +23,7 @@ public class Analyzer {
         String path = FileUtils.CLEAN_LOGS_LOCATION;
         String contains = args[0];
 
-        List<String> filenames = FileUtils.getFilePathsInDirectoryContainingString(path, contains);
+        List<String> filenames = FileUtils.getFilePathsInDirectoryContainingString(path, contains, true);
         Comparator<HandHistory> comparator = null;
         if(argSet.contains(SORT_OPTION)) {
             if(argSet.contains(SORT_POT)) {
