@@ -66,7 +66,9 @@ public class LogControlHome {
         }
         String message = "Program finished. ";
         if (command.equals(CLEAN_LOG_COMMAND) || command.equals(CLEAN_AND_ANALYZE_COMMAND)) {
-            inputFileNames.addAll(FileUtils.getAllInputLogFilenamesContaining("", false));
+            for(String acceptedExtension : ACCEPTED_FILE_EXTENSION) {
+                inputFileNames.addAll(FileUtils.getAllInputLogFilenamesContaining(acceptedExtension, false));
+            }
             for(String inputFileName : inputFileNames) {
                 String cleanedOutputFileName = getCleanOutputFileName(inputFileName, hideStartingHand);
                 List<String> cleanLines = LogCleaner.cleanLog(inputFileName, FileUtils.INPUT_LOGS_LOCATION, inputsMap);
