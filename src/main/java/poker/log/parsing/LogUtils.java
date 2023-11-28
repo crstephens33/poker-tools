@@ -28,6 +28,7 @@ public class LogUtils extends LogControlHome {
     private static final String requestsSeat = "requested a seat";
     private static final String stackModificationContents = "with a stack of";        
     private static final String showsIndicator = " shows a";
+    private static final String yourHandIsIndicator = " hand is ";
 
      /**
      * Requiring ArrayList here due to time complexity for accessing individual elements
@@ -327,7 +328,7 @@ public class LogUtils extends LogControlHome {
     }  
     
     public static boolean lineContainsShowsCards(String line) {
-        return line.contains(showsIndicator);
+        return line.contains(showsIndicator); // || line.contains(yourHandIsIndicator); TODO: include log owners perspective hands
     }
 
     public static String parseShownCardsFromLine(String line) {

@@ -60,10 +60,10 @@ public class LogControlHome {
         for(String inputKey : inputsMap.keySet()) {
             if(inputKey.contains(FILE_INDICATOR)) {
                 inputFileNames.add(inputsMap.get(inputKey));
+                String plural = inputFileNames.size() == 1 ? "" : "s";
+                System.out.println(inputFileNames.size() + " matching file" + plural + " detected:");
             }
         }
-        String plural = inputFileNames.size() == 1 ? "" : "s";
-        System.out.println(inputFileNames.size() + " file" + plural + " detected:");
         String message = "Program finished. ";
         if (command.equals(CLEAN_LOG_COMMAND) || command.equals(CLEAN_AND_ANALYZE_COMMAND)) {
             inputFileNames.addAll(FileUtils.getAllInputLogFilenamesContaining("", false));
@@ -86,7 +86,7 @@ public class LogControlHome {
         List<String> filteredFileNames = new ArrayList<String>();
         for(String s : fileNames) {
             //if((s.contains("CS_2021.04") || s.contains("CS_2021.05")) && !s.contains("Hidden")) {
-            if((s.contains("CS_2021.05") || s.contains("CS_2021.06") || s.contains("CS_2021.07")) && !s.contains("Hidden")) {
+            if((s.contains("CS_2021.09") || s.contains("CS_2021.10") || s.contains("CS_2021.11") || s.contains("CS_2021.12")) && !s.contains("Hidden")) {
                 filteredFileNames.add(s);
             }
         }

@@ -81,6 +81,10 @@ public class FileUtils {
         close();
     }
 
+    public void writeToOutputFile(String lineToWrite, String outputFileName, String outputPath) {
+        writeToOutputFile(List.of(lineToWrite), outputFileName, outputPath);
+    }
+
     public boolean closeWriter() {
         try {
             this.fileWriter.close();

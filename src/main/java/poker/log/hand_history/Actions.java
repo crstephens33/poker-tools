@@ -10,15 +10,17 @@ public class Actions {
     private final static String folds = LogUtils.foldsIndicator.trim();
     private final static String calls = LogUtils.callsIndicator.trim();
     private final static String bets = LogUtils.betsIndicator.trim();
+    private final static String checks = LogUtils.checksIndicator.trim();
     private final static String raises = LogUtils.raisesIndicator.trim();
     private final static String posts = LogUtils.postsIndicator.trim();
 
     //PREFLOP
-    private List<String> openFoldPlayers = new ArrayList<>();
+    private Set<String> openFoldPlayers = new HashSet<>();
     private String openLimpPlayer = null;
     private List<String> overLimpPlayers = new ArrayList<>();
     private String rfiPlayer = null;
-    private String rfiPosition = null;    
+    private String rfiPosition = null;
+    private Set<String> checkPreflopPlayers = new HashSet<>(); // can happen on auto-post, BB check after facing limps
     
     private List<String> coldCallRfiPlayers = new ArrayList<>();
     private List<String> coldCallRfiPositions = new ArrayList<>();
@@ -70,6 +72,7 @@ public class Actions {
         }
     }
 
+    // TODO: refactor pot types (SRP, 3BP, 4BP, 5BP..) into their own functions for modularity
     private void processPreflop(String currentAction, String currentPlayer){
         if (rfiPlayer == null) { //unopened pot so far
             if (isFold(currentAction)) {
@@ -82,9 +85,11 @@ public class Actions {
                 }
             } else if (isBetOrRaise(currentAction)) {
                 rfiPlayer = currentPlayer;
+            } else if (isCheck(currentAction)) {
+                checkPreflopPlayers.add(currentPlayer);
             }
-        } else {
-            if (threeBetPlayer == null) { //single raised pot so far
+        } else { //at least a single raised pot so far
+            if (threeBetPlayer == null) {
                 if (isFold(currentAction)) {
                     foldToRFIPlayers.add(currentPlayer);
                 } else if (isCall(currentAction)) {
@@ -92,7 +97,7 @@ public class Actions {
                 } else if (isBetOrRaise(currentAction)) {
                     threeBetPlayer = currentPlayer;
                 }
-            } else { //three bet pot
+            } else { //at least a three bet pot
                 if (fourBetAfterRfiPlayer == null && coldFourBetPlayer == null) { //not a four bet pot yet though
                     if (currentPlayer.equals(rfiPlayer)) { //if current player was the initial raiser
                         if (isFold(currentAction)) {
@@ -130,8 +135,21 @@ public class Actions {
     //player VPIPd if they did NOT open fold, AND 
     public boolean didPlayerVPIPPreFlop(String player) {
         player = Player.buildPlayerNameKey(player);
-        return !openFoldPlayers.contains(player) && (didPlayerEverLimp(player) || didPlayerRFI(player)
+        return (didPlayerEverLimp(player) || didPlayerRFI(player)
         || didPlayerCallRFI(player) || didPlayerThreeBet(player) || didPlayerFourBet(player)); 
+    }
+
+    public boolean couldPlayerRFI(String player) {
+        return didPlayerRFI(player) || openFoldPlayers.contains(player) || checkPreflopPlayers.contains(player) ||
+                player.equals(openLimpPlayer);
+    }
+
+    public boolean didPlayerCheckPreflop(String player) {
+        return checkPreflopPlayers.contains(player);
+    }
+
+    public boolean didPlayerOpenLimp(String player) {
+        return player.equals(openLimpPlayer);
     }
 
     public boolean didPlayerEverLimp(String player) {
@@ -168,6 +186,10 @@ public class Actions {
 
     public boolean didPlayerFoldToThreeBetAfterRFI(String player) {
         return player.equals(foldToThreeBetAfterRfiPlayer);
+    }
+
+    public boolean didPlayerOpenFold(String player) {
+        return openFoldPlayers.contains(player);
     }
 
     public boolean didPlayerFourBetAfterRFI(String player) {
@@ -208,6 +230,10 @@ public class Actions {
 
     private boolean isBetOrRaise(String action) {
         return action.equals(bets) || action.equals(raises);
+    }
+
+    private boolean isCheck(String action) {
+        return action.equals(checks);
     }
 
     private boolean isCall(String action) {

@@ -1,6 +1,12 @@
 package poker.log.analysis;
 
-import poker.log.hand_history.*;
+import poker.log.analysis.statistics.StatCounter;
+import poker.log.analysis.statistics.StatCountingEngine;
+import poker.log.analysis.statistics.statdefinitions.rfi.RFIStatCounter;
+import poker.log.hand_history.HandHistory;
+import poker.log.hand_history.HandHistoryComparators;
+import poker.log.hand_history.Player;
+import poker.log.hand_history.TableSize;
 import poker.log.parsing.LogUtils;
 import util.FileUtils;
 
@@ -8,14 +14,21 @@ import java.util.*;
 
 public class Analyzer {
 
+    private static String OUTPUT_FILE_NAME = "2023.Sam_sorted.txt";
+    
     private static final String SORT_OPTION = "--sort";
+    private static final String FILE_NAME_OPTION = "--output-filename";
     private static final String SORT_PREFLOP = "-preflop";
     private static final String SORT_POT = "-pot";
+    private static final String POT_SIZE_FILTER = "--filter-pot";
+
+    private static int potFilterThreshold = 0;
 
     private static final FileUtils fileUtils = new FileUtils();
 
     public static void main(String[] args) {
-        Set<String> argSet = new HashSet<>(Arrays.asList(args));
+        List<String> argList = Arrays.asList(args);
+        Set<String> argSet = new HashSet<>(argList);
         if (args.length < 1) {
             System.out.println("Requires at least 1 arg: string for filename to contain");
             System.exit(1);
@@ -25,6 +38,10 @@ public class Analyzer {
 
         List<String> filenames = FileUtils.getFilePathsInDirectoryContainingString(path, contains, true);
         Comparator<HandHistory> comparator = null;
+        if(argSet.contains(POT_SIZE_FILTER))
+            potFilterThreshold = Integer.parseInt(argList.get(argList.indexOf(POT_SIZE_FILTER) + 1));
+        if(argSet.contains(FILE_NAME_OPTION))
+            OUTPUT_FILE_NAME = argList.get(argList.indexOf(FILE_NAME_OPTION) + 1);
         if(argSet.contains(SORT_OPTION)) {
             if(argSet.contains(SORT_POT)) {
                 comparator = new HandHistoryComparators.PotSizeComparator().reversed();
@@ -33,7 +50,7 @@ public class Analyzer {
             } else { //default to sorting on pot size
                 comparator = new HandHistoryComparators.PotSizeComparator();
             }
-            outputSortedHistories(filenames, comparator, "SortedFileOutput.txt");
+            outputSortedHistories(filenames, comparator, OUTPUT_FILE_NAME);
         } else {
             analyzeHands(filenames);
         }
@@ -63,25 +80,25 @@ public class Analyzer {
     public static void analyzeHands(List<String> filenames) {
         List<HandHistory> historiesToProcess = getFilteredHistoriesFromFilenames(filenames);
         System.out.println("Number of unique hand histories detected: " + historiesToProcess.size());
-        String[] playerNames = new String[]{"Cole Stephens", "Cole Ford"};
+        String[] playerNames = new String[]{"Cole Stephens", "Cole Ford", "Jack Stephens"};
+        List<StatCounter> statCounters = List.of(new RFIStatCounter());
+        List<String> lineAnalysisLines = new ArrayList<String>();
         for(String player : playerNames) {
-            String formattedPlayer = Player.buildPlayerNameKey(player);
-            System.out.println(getStatistics(historiesToProcess, new VPIPCalculator(formattedPlayer)));
-            System.out.println(getStatistics(historiesToProcess, new RFIResponseCalculator(formattedPlayer)));
-            System.out.println(getStatistics(historiesToProcess, new ThreeBetResponseAfterRFICalculator(formattedPlayer)));
+            String formattedPlayerName = Player.buildPlayerNameKey(player);
             System.out.println();
+            StatCountingEngine engine = new StatCountingEngine(formattedPlayerName);
+            for(StatCounter statCounter : statCounters) {
+                lineAnalysisLines.add(engine.getStatLines(statCounter, historiesToProcess, TableSize.HEADS_UP));
+            }
         }
+        fileUtils.writeToOutputFile(lineAnalysisLines, OUTPUT_FILE_NAME, FileUtils.ANALYSIS_LOCATION);
+        fileUtils.close();
     }
-
-    private static String getStatistics(Collection<HandHistory> handHistories, StatCalculator calculator) {
-        calculator.calculateStatsFromHandHistories(handHistories);
-        return calculator.getResults();
-    }  
 
     private static List<HandHistory> processHandHistories(Collection<HandHistory> handHistories) {
         Set<HandHistory> uniqueHistories = new HashSet<>();
         for(HandHistory history : handHistories) {
-            if(history.getWinningPot() > 1000)
+            if(history.getWinningPot() > potFilterThreshold)
                 uniqueHistories.add(history);
         }
         return new ArrayList<>(uniqueHistories);
@@ -106,11 +123,14 @@ public class Analyzer {
     }
 
     private static Set<HandHistory> buildHandHistoriesFromFileNames(List<String> filenames) {
-        Set<HandHistory> allHandHistories = new HashSet<>();        
+        Set<HandHistory> allHandHistories = new HashSet<>();
+        double totalFiles = filenames.size();
         for(String fileName : filenames) {
             List<String> logLines = fileUtils.readFile(fileName);
             allHandHistories.addAll(buildHandHistoriesFromFileLines(logLines, fileName));
-        } 
+        }
+        double totalHands = allHandHistories.size();
+        System.out.printf("%f hands found in %f files, for %f hands per session%n", totalHands, totalFiles, totalHands/totalFiles );
         return allHandHistories;
     }
 
@@ -124,7 +144,6 @@ public class Analyzer {
                     handLines.add(lines.get(index));
                     index++;
                     if(lines.get(index).contains(poker.log.parsing.LogUtils.endingHandPrefix)) { //hand is over, now look to see if anyone showed
-                        handLines.add(lines.get(index));
                         for(int showsIndex = index + 1; showsIndex < lines.size(); showsIndex++) {
                             String showLine = lines.get(showsIndex);
                             if(!LogUtils.lineContainsShowsCards(showLine)) {
@@ -132,6 +151,7 @@ public class Analyzer {
                             }
                             handLines.add(showLine);
                         }
+                        handLines.add(lines.get(index));
                         break;
                     }
                 } 
