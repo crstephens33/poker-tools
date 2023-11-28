@@ -26,4 +26,6 @@ hs_err_pid*
 
 .idea
 
-inputs/log-staging/*
+inputs/log-staging/**
+
+outputs/*
